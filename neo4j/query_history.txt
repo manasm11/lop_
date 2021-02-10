@@ -1,0 +1,34 @@
+match (n) return n
+create (), ()
+match (n) return n
+create (:Student)
+match (n) return n
+create (:Student:Person)
+match (n) return n
+match (n) delete n
+match (n) return n
+create (n:Student) return n
+match (n) return n
+match (nodes) return nodes
+create ({name:"Manas"})
+match (n) return n
+create ({`first name`:"Lakshya"})
+create ({name:"Divya", age:21})
+match (n) return n
+
+match (n) return n
+create (:Student{name:"Manas"})
+match (n) return n
+create (:Student{name:"Lakshya"})
+match (n) return n
+create (divya{name:"Divya"})
+create (manas{name:"Manas Mishra"}) return manas
+create ({name:"Manas Mishra"})
+match (n) return n
+match (n) return n
+
+create (:Student)
+match (n) return n
+create ({name:"Manas"})
+match (n) return n
+match (n) return n
