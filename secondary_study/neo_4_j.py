@@ -1,8 +1,8 @@
-import py2neo
+from py2neo import Node, Relationship, Graph
 from config import URL
 from paper import Paper
 
-class Graph(py2neo.Graph):
+class Graph(Graph):
 
   author_set = set()
   year_set = set()
@@ -18,65 +18,38 @@ class Graph(py2neo.Graph):
 
   def add_paper(self, paper):
     assert isinstance(paper, Paper)
-    paper_dict = paper.to_dict()
-    paper_node = py2neo.Node('Paper', title=paper.title)
-    self.create(paper_node)
-    year = paper.year
-    year_node = self.add_year(year)
-    rel2 = py2neo.Relationship(paper_node, 'PUBLISHED_IN', year_node)
-    self.create(rel2)
-    # print(paper.author)
-    for author in paper.author.split(','):
-      author = author.strip()
-      author_node = self.add_author(author)
-      rel = py2neo.Relationship(author_node, 'PUBLISHED', paper_node)
+    title_node = Node('Title', title=paper.title)
+    self.create(title_node)
+    year_node = self.create_year_node(paper.year)
+    self.create(
+      Relationship(title_node, 'PUBLISHED_IN', year_node)
+    )
+
+    for author_node in self._author_nodes(paper.author):
+      rel = Relationship(author_node, 'PUBLISHED', title_node)
       self.create(rel)
 
-    conference_node = self.add_conference(paper.conference)
-    rel3 = py2neo.Relationship(paper_node, 'PRESENTED_IN', conference_node)
-    self.create(rel3)
+    conference_node = self.create_conference_node(paper.conference)
+    self.create(
+      Relationship(title_node, 'PRESENTED_IN', conference_node)
+    )
 
-    for keyword in paper.keywords.split(','):
-      keyword = keyword.strip()
-      keyword_node = self.add_keyword(keyword)
-      rel4 = py2neo.Relationship(paper_node, 'USES', keyword_node)
-      self.create(rel4)
+    for keyword_node in self._keyword_nodes(paper.keywords):
+      self.create(
+        Relationship(title_node, 'USES', keyword_node)
+      )
 
-  def add_conference(self, conference):
-    if conference not in self.conference_set:
-      conference_node = py2neo.Node('Conference', name=conference)
-      self.conference_set.add(conference)
-      self.create(conference_node)
-    else:  
-      conference_node = self.nodes.match('Conference', name=conference).first()
-    return conference_node
+  def create_conference_node(self, conference):
+    return self._create_node(self.conference_set, 'Conference', name=conference)
 
-  def add_keyword(self, keyword):
-    if keyword not in self.keyword_set:
-      keyword_node = py2neo.Node('Keyword', name=keyword)
-      self.keyword_set.add(keyword)
-      self.create(keyword_node)
-    else:
-      keyword_node = self.nodes.match('Keyword', name=keyword).first()
-    return keyword_node
+  def create_keyword_node(self, keyword):
+    return self._create_node(self.keyword_set, 'Keyword', name=keyword)
 
-  def add_author(self, author):
-    if author not in self.author_set:
-        author_node = py2neo.Node('Author', name=author)
-        self.author_set.add(author)
-        self.create(author_node)
-    else:
-      author_node = self.nodes.match('Author', name=author).first()
-    return author_node
+  def create_author_node(self, author):
+    return self._create_node(self.author_set, 'Author', name=author)
 
-  def add_year(self, year):
-    if year not in self.year_set:
-      year_node = py2neo.Node('Year', name=year)
-      self.year_set.add(year)
-      self.create(year_node)
-    else:
-      year_node = self.nodes.match('Year', name=year).first()
-    return year_node
+  def create_year_node(self, year):
+    return self._create_node(self.year_set, 'Year', name=year)
 
   def add_papers(self, papers):
     assert isinstance(papers, list), 'papers is not a list'
@@ -88,3 +61,23 @@ class Graph(py2neo.Graph):
     res = self.run('match (n) return n')
     for i in res:
       print(i.get('n'))
+
+  def _create_node(self, set_, label, **properties):
+    property_ = list(properties.values())[0]
+    if property_ not in set_:
+      node = Node(label, **properties)
+      set_.add(property_)
+      self.create(node)
+    else:
+      node = self.nodes.match(label, **properties).first()
+    return node
+
+  def _author_nodes(self, authors):
+    for author in authors.split(','):
+      author = author.strip()
+      yield self.create_author_node(author)
+
+  def _keyword_nodes(self, keywords):
+    for keyword in keywords.split(','):
+      keyword = keyword.strip()
+      yield self.create_keyword_node(keyword)

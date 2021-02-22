@@ -5,7 +5,7 @@ from neo_4_j import Graph
 
 
 if __name__ == '__main__':
-  filepath = './papers copy.xlsx'
+  filepath = './abcd.xlsx'
   papers = Paper.papers_from_excel(filepath)
   graph = Graph()
   graph.delete_all()
