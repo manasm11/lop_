@@ -18,8 +18,10 @@ class Graph(Graph):
 
   def add_paper(self, paper):
     assert isinstance(paper, Paper)
+    
     title_node = Node('Title', title=paper.title)
     self.create(title_node)
+
     year_node = self.create_year_node(paper.year)
     self.create(
       Relationship(title_node, 'PUBLISHED_IN', year_node)
