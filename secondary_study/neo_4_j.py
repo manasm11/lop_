@@ -4,10 +4,10 @@ from paper import Paper
 
 class Graph(Graph):
 
-  author_set = set()
-  year_set = set()
-  conference_set = set()
-  keyword_set = set()
+  _author_set = set()
+  _year_set = set()
+  _conference_set = set()
+  _keyword_set = set()
 
   def __init__(self, *args, **kwargs):
     '''Initializes graph from data from config (if arguments not specified)'''
@@ -42,20 +42,20 @@ class Graph(Graph):
       )
 
   def create_conference_node(self, conference):
-    return self._create_node(self.conference_set, 'Conference', name=conference)
+    return self._create_node(self._conference_set, 'Conference', name=conference)
 
   def create_keyword_node(self, keyword):
-    return self._create_node(self.keyword_set, 'Keyword', name=keyword)
+    return self._create_node(self._keyword_set, 'Keyword', name=keyword)
 
   def create_author_node(self, author):
-    return self._create_node(self.author_set, 'Author', name=author)
+    return self._create_node(self._author_set, 'Author', name=author)
 
   def create_year_node(self, year):
-    return self._create_node(self.year_set, 'Year', name=year)
+    return self._create_node(self._year_set, 'Year', name=year)
 
   def add_papers(self, papers):
     assert isinstance(papers, list), 'papers is not a list'
-    self.author_set = set()
+    self._author_set = set()
     for paper in papers:
       self.add_paper(paper)
 
