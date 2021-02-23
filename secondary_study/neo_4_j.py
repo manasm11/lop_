@@ -64,6 +64,10 @@ class Graph(Graph):
     for i in res:
       print(i.get('n'))
 
+  def nodes_count(self):
+    count = self.run('match (n) return count(n) as c').data()[0]['c']
+    return count
+
   def _create_node(self, set_, label, **properties):
     property_ = list(properties.values())[0]
     if property_ not in set_:

@@ -11,3 +11,4 @@ if __name__ == '__main__':
   graph.delete_all()
   graph.add_papers(papers)
   graph.print_all_nodes()
+  print('\n\tTotal nodes:', graph.nodes_count(), '\n')
