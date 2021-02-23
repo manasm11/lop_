@@ -1,0 +1,8 @@
+Steps to setup DialogFlow API:
+  - Create service account (as owner) and save the private in json format.
+  - Add environment variable as `export GOOGLE_APPLICATION_CREDENTIALS="/home/laozi/test/creds.json"`
+  - Install library `pip install google-cloud-dialogflow`
+  - Copy paste code from `https://cloud.google.com/dialogflow/es/docs/quick/api#detect-intent-text-python`
+
+Comments:
+  - If at some point you want to add intents programmatically, refer to venv/lib/python3.8/site-packages/google/cloud/dialogflow_v2/types/intent.py and search for createintent
