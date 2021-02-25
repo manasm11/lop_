@@ -1,0 +1,3 @@
+- [ ] Search node.
+- [ ] Locate the node on clicking the search result.
+- [ ] Export features.
