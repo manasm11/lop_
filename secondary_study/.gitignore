@@ -4,3 +4,4 @@ pui/
 bin/
 lib/
 __pychache__/
+nohup.out
