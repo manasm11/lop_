@@ -29,7 +29,8 @@ function generateQuery(paper) {
 }
 function typeQuery(query) {
   // $("div[data-testid='editor-wrapper']").focus()
-  $.get(url + 'execute/', {query: query}).fail(function(){
+  $.get(url + 'execute/', {query}).fail(function(){
+  // $.get(url + 'execute/', {query: query}).fail(function(){
     alert("Failed !!!")
   })
 }

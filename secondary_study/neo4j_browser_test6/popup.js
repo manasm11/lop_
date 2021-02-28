@@ -2,7 +2,7 @@ $(function(){
   $("#search").click(function(){
     paper = getPaperData()
     chrome.tabs.query({active:true, currentWindow: true}, function(tabs){
-      chrome.tabs.sendMessage(tabs[0].id, {todo: "search", paper:paper})
+      chrome.tabs.sendMessage(tabs[0].id, {todo: "search", paper})
     })
   })
 })
@@ -11,9 +11,11 @@ function getPaperData(){
   authors = parseCSV($("#author").val())
   keywords = parseCSV($("#keywords").val())
   return {
-    authors: authors,
+    authors,
+    // authors: authors,
     title: $("#title").val(),
-    keywords: keywords,
+    keywords,
+    // keywords: keywords,
     conference: $("#conference").val(),
     year_start: $("#year_start").val(),
     year_end: $("#year_end").val(),
