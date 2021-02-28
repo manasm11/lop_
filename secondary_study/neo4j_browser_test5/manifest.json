@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Research Paper Organizer",
+  "description": "Allows user to navigate through research papers added to neo4j database",
+  "version": "0.2.0",
+  "icons":{
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  },
+  "browser_action": {
+    "default_icon": "icon16.png",
+    "default_title": "Research Paper Organizer",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "tabs",
+    "http://localhost:*/browser/*"
+  ]
+}

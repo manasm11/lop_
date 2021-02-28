@@ -1,4 +1,6 @@
 neo/
+flask/
+pui/
 bin/
 lib/
 __pychache__/
