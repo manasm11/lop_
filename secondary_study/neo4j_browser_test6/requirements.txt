@@ -1,0 +1,4 @@
+pyautogui
+Flask
+flask-cors
+selenium
