@@ -14,10 +14,10 @@ class Paper(object):
   def from_row(cls, row):
     row = row[1].values
     year = row[0]
-    author = row[1].strip()
-    title = row[2].strip()
-    conference = row[3].strip()
-    keywords = row[4].strip()
+    author = str(row[1]).strip()
+    title = str(row[2]).strip()
+    conference = str(row[3]).strip()
+    keywords = str(row[4]).strip()
     return cls(year=year, title=title, author=author, conference=conference, keywords=keywords)
 
   def to_dict(self):
