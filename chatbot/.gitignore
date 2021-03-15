@@ -1,0 +1,4 @@
+bin/
+lib/
+dialogflow_django/
+rasa/

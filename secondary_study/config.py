@@ -1,5 +1,5 @@
 IP_ADDRESS = 'localhost'
-PORT = 7687
+PORT = 8002
 USERNAME = 'neo4j'
 PASSWORD = 'testing321'
 

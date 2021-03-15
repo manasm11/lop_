@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Graph Visualization</title>
+  </head>
+  <script src="https://visjs.github.io/vis-network/standalone/umd/vis-network.min.js"></script>
+  <body>
+    <div id="network"></div>
+  </body>
+  <script>
+    var nodes = new vis.DataSet([
+      { id: 1, label: 'Node 1' },
+      { id: 2, label: 'Node 2' },
+      { id: 3, label: 'Node 3' },
+      { id: 4, label: 'Node 4' },
+      { id: 5, label: 'Node 5' },
+    ]);
+
+    // create an array with edges
+    var edges = new vis.DataSet([
+      { from: 1, to: 3, label: 'HEALLO' },
+      { from: 1, to: 2 },
+      { from: 2, to: 4 },
+      { from: 2, to: 5 },
+    ]);
+
+    // create a network
+    var container = document.getElementById('network');
+    var data = {
+      nodes: nodes,
+      edges: edges,
+    };
+    var options = {
+      autoResize: true,
+      height: '500px',
+      width: '100%',
+      edges: {
+        arrows: 'to',
+        scaling: {
+          label: true,
+        },
+        shadow: true,
+        smooth: true,
+      },
+      nodes: {
+        shape: 'circle'
+      }
+    };
+
+    var network = new vis.Network(container, data, options);
+  </script>
+</html>
