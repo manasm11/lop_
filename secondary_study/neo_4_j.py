@@ -24,11 +24,11 @@ class Graph(Graph):
 
     year_node = self.create_year_node(paper.year)
     self.create(
-      Relationship(title_node, 'PUBLISHED_IN', year_node)
+      Relationship(title_node, 'PUBLISH_YEAR', year_node)
     )
 
     for author_node in self._author_nodes(paper.author):
-      rel = Relationship(author_node, 'PUBLISHED', title_node)
+      rel = Relationship(title_node, 'PUBLISHED_BY', author_node)
       self.create(rel)
 
     conference_node = self.create_conference_node(paper.conference)
