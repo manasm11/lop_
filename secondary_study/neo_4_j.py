@@ -42,7 +42,7 @@ class Graph(Graph):
 
     year_node = self.create_year_node(paper.year)
     self.create(
-      Relationship(title_node, 'PUBLISH_YEAR', year_node)
+      Relationship(title_node, 'PUBLISHED_YEAR', year_node)
     )
 
     for author_node in self._author_nodes(paper.author):
@@ -56,7 +56,7 @@ class Graph(Graph):
 
     for keyword_node in self._keyword_nodes(paper.keywords):
       self.create(
-        Relationship(title_node, 'USES', keyword_node)
+        Relationship(title_node, 'USED', keyword_node)
       )
 
   def create_conference_node(self, conference):
