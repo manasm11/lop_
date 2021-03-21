@@ -1,0 +1,15 @@
+.graphNode__title {
+    color: aqua !important;
+}
+.graphNode__author {
+    color: red imp !important;
+}
+.graphNode__year {
+    color: blue;
+}
+.graphNode__keyword {
+    color: green;
+}
+.graphNode__conference {
+    color: greenyellow;
+}
