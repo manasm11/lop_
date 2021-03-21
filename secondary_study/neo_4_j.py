@@ -1,6 +1,7 @@
-from py2neo import Node, Relationship, Graph
+from py2neo import *
 from config import URL
 from paper import Paper
+import json
 
 class Graph(Graph):
 
@@ -15,6 +16,23 @@ class Graph(Graph):
       super().__init__(URL)
     else:
       super().__init__(*args, **kwargs)
+
+  def get_titles(self):
+    nodes = NodeMatcher(self)
+    year_data = nodes.match('Year').all()
+    author_data = nodes.match('Author').all()
+    arr = []
+    for i in year_data:
+      arr.append({'labels': i.labels, 'properties': dict(i)})
+      # print(i.labels)
+      # print(dict(i))
+    return arr
+ 
+  def get_relationship(self):
+    nodes = RelationshipMatch(self, 'Title', 'Author')
+    # relationship_data = nodes.
+
+    
 
   def add_paper(self, paper):
     assert isinstance(paper, Paper)
