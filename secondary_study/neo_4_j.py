@@ -17,27 +17,117 @@ class Graph(Graph):
     else:
       super().__init__(*args, **kwargs)
 
-  def get_titles(self):
-    nodes = NodeMatcher(self)
-    year_data = nodes.match('Year').all()
-    author_data = nodes.match('Author').all()
-    arr = []
-    for i in year_data:
-      arr.append({'labels': i.labels, 'properties': dict(i)})
-      # print(i.labels)
-      # print(dict(i))
-    return arr
+  def get_query_results(self, title={}, author={}, year={}, conference={}, keyword={}):
+    # conference = {'value': '', 'checked': True};
+    # year = {'value': '', 'checked': False};
+    # author = {'value': '', 'checked': False};
+    # title = {'value': '', 'checked': False};
+    # keyword = {'value': '', 'checked': False};
+
+    query = 'match (conference:Conference),(title:Title),(year:Year),(author:Author),(keyword:Keyword)'
+
+    any_has_value = any([conference['value'], year['value'], author['value'], title['value'], keyword['value']])
+    add_and = False
+    if any_has_value:
+      query += ' where'
+    if conference['value']:
+      query += ' conference.name="'+conference['value']+'"'
+      add_and = True
+    if year['value']:
+      if add_and:
+        query += ' and'
+      query += ' year.name='+year['value']
+      add_and = True
+    if author['value']:
+      if add_and:
+        query += ' and'
+      query += ' author.name="'+author['value']+'"'
+      add_and = True
+    if title['value']:
+      if add_and:
+        query += ' and'
+      query += ' title.name="'+title['value']+'"'
+      add_and = True
+    if keyword['value']:
+      if add_and:
+        query += ' and'
+      query += ' keyword.name="'+keyword['value']+'"'
+    
+    query+= ' return distinct'
+    add_comma = False
+    if conference['checked']:
+      query += ' conference'
+      add_comma = True
+    if year['checked']:
+      if add_comma:
+        query += ','
+      query += ' year'
+      add_comma = True
+    if author['checked']:
+      if add_comma:
+        query += ','
+      query += ' author'
+      add_comma = True
+    if title['checked']:
+      if add_comma:
+        query += ','
+      query += ' title'
+      add_comma = True
+    if keyword['checked']:
+      if add_comma:
+        query+=','
+      query += ' keyword'
+      
+    res = self.run(query)
+    nodes = set()
+    for r in res:
+      # values = list(node.items())[0]
+      node = r.values()[0]
+      print(dir(node))
+      print(node.relationships)
+      nodes.add(json.dumps({
+        'id': node.identity,
+        'type': list(r.keys())[0],
+        'name': list(node.values())[0]
+      }))
+      # print(type)
+      # n = {
+      #   'type': values[0],
+      #   'name': values[1]['name'],
+      # }
+      # print(dir(values[1]))
+      # print(dir(values[1].nodes[0]))
+      # print(values[1].nodes[0].identity)
+      # print(values[1].keys())
+      # print(node.items()[0])
+    nodes_final = []
+    for node in nodes:
+      nodes_final.append(json.loads(node))
+    return {'nodes': nodes_final}
+    # print(result)
+
+
+  # def get_titles(self):
+  #   nodes = NodeMatcher(self)
+  #   year_data = nodes.match('Year').all()
+  #   author_data = nodes.match('Author').all()
+  #   arr = []
+  #   for i in year_data:
+  #     arr.append({'labels': i.labels, 'properties': dict(i)})
+  #     # print(i.labels)
+  #     # print(dict(i))
+  #   return arr
  
-  def get_relationship(self):
-    nodes = RelationshipMatch(self, 'Title', 'Author')
-    # relationship_data = nodes.
+  # def get_relationship(self):
+  #   nodes = RelationshipMatch(self, 'Title', 'Author')
+  #   # relationship_data = nodes.
 
     
 
   def add_paper(self, paper):
     assert isinstance(paper, Paper)
     
-    title_node = Node('Title', title=paper.title)
+    title_node = Node('Title', name=paper.title)
     self.create(title_node)
 
     year_node = self.create_year_node(paper.year)
