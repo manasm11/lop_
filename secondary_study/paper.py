@@ -13,7 +13,7 @@ class Paper(object):
   @classmethod
   def from_row(cls, row):
     row = row[1].values
-    year = row[0]
+    year = str(row[0])
     author = str(row[1]).strip()
     title = str(row[2]).strip()
     conference = str(row[3]).strip()

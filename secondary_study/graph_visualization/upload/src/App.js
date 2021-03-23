@@ -6,6 +6,9 @@ import nodes from './data/node.json';
 import edges from './data/edge.json';
 import InputField from './components/InputField'
 import UploadFile from './components/UploadFile'
+import './App.css'
+const axios = require('axios')
+const api_url = 'http://143.198.72.178:7000/'
 
 function App() {
 
@@ -15,6 +18,7 @@ function App() {
   const [keyword, setKeyword] = useState({});
   const [conference, setConference] = useState({});
   const [path, setPath] = useState("");
+  // const [graph, setGraph] = useState({nodes:[], edges:[]})
 
   const edges_new = edges.map(({ to, from, id }) => {
     const toNode = nodes.find(n => n.id == to)
@@ -63,7 +67,7 @@ function App() {
       <h2>Please upload Excel File</h2>
       <UploadFile setPath={setPath} />
       < h2 > Enter Query Details</h2>
-      <div style={{ display: "flex", justifyContent: "space-around", margin: " 0 0 1em 0" }}>
+      <div className='input-fields'>
         <InputField type="title" state={title} setState={setTitle} />
         <InputField type="authors" state={author} setState={setAuthor} />
         <InputField type="year" state={year} setState={setYear} />
@@ -71,7 +75,7 @@ function App() {
         <InputField type="conference" state={conference} setState={setConference} />
         {/* <button style={{ background: "#F05555" }}>Submit</button> */}
       </div>
-      <center><button style={{ width: '6em', height: "2.5em", background: "#2D6FF7", color: "white", fontSize: "1em", margin: "0 0 0em 0" }}>Submit</button></center>
+      <center><button className='btn-submit' onClick={handleSubmit}>Submit</button></center>
       <hr /> <br />
       <Graph
         graph={graph}
@@ -84,6 +88,16 @@ function App() {
 
     </div >
   );
+  async function handleSubmit(){
+    // const res = await axios.get(api_url, {params: {
+    //   year,
+    //   author,
+    //   conference,
+    //   keyword,
+    //   title
+    // }})
+    // console.log(res)
+  }
 }
 
 export default App;

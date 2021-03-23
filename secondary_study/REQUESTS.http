@@ -1,0 +1,7 @@
+GET http://143.198.72.178:7000/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "value": "IEEEComp",
+    "checked": true
+}

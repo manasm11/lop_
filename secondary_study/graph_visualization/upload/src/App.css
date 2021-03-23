@@ -1,0 +1,14 @@
+.input-fields {
+    display: flex;
+    justify-content: space-around;
+    margin:0 0 1em 0;
+}
+
+.btn-submit {
+    width: 6em;
+    height: 2.5em;
+    background: #2D6FF7;
+    color: white;
+    font-size: 1em;
+    margin: 0 0 0em 0;
+}

@@ -84,7 +84,7 @@ class Graph(Graph):
       # values = list(node.items())[0]
       node = r.values()[0]
       print(dir(node))
-      print(node.relationships)
+      # print(node.relationships)
       nodes.add(json.dumps({
         'id': node.identity,
         'type': list(r.keys())[0],
@@ -130,7 +130,9 @@ class Graph(Graph):
     title_node = Node('Title', name=paper.title)
     self.create(title_node)
 
+
     year_node = self.create_year_node(paper.year)
+    # print(title_node, year_node)
     self.create(
       Relationship(title_node, 'PUBLISHED_YEAR', year_node)
     )
@@ -159,6 +161,7 @@ class Graph(Graph):
     return self._create_node(self._author_set, 'Author', name=author)
 
   def create_year_node(self, year):
+    print('*********year', year)
     return self._create_node(self._year_set, 'Year', name=year)
 
   def add_papers(self, papers):
