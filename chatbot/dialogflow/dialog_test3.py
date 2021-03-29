@@ -1,5 +1,9 @@
-
+import yaml
 from google.cloud import dialogflow
+
+data = yaml.full_load(open('data.yaml'))
+courses = []
+
 class Dialogflow:
 
     def __init__(self, project_id, session_id=123456789):
@@ -33,10 +37,30 @@ class Dialogflow:
     #     parent = f'projects/{self.__project_id}/agent'
     #     intent = dialogflow.Intent(display_name=name, )
 
+def get_course_entities(result):
+    parameters = result.query_result.parameters
+    for parameter in parameters:
+        if str(parameter) == 'course_entity':
+            return parameters[parameter]
+    return []
+
+def get_modified_reponse(courses):
+    for course in courses:
+        course_data = data[course]
+        response_from_dialogflow = df.get_response_text()
+        response = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
+        return response
+
+
+
 if __name__ == "__main__":
     df = Dialogflow('bot-test-303915')
     while True:
+        print('\n\n\n\n\n\n')
         question = input('Question: ')
-        df.get_response(question)
-        print(df.get_response_text())
-        # print(df.get_response_confidence())
+        result = df.get_response(question)
+        courses = get_course_entities(result) or courses
+        if courses == []:
+            print(df.get_response_text())
+        else:
+            print(get_modified_reponse(courses))
