@@ -1,8 +1,41 @@
-Computer Networks:
-  units: 4
-  ic: Virendra Shekhawat
+Image Processing: 
+  code: BITS F311
+  ic: Raj Kumar Gupta
+  units: 3
+  day: 
+  time: 
+ 
+Design & Analysis of Algorithms: 
+  code: CS F364
+  ic: Abhishek Mishra
+  units: 3
+  day: 
+  time: 
+ 
+Computer Networks: 
   code: CS F303
-Image Processing:
+  ic: Virendra Singh Shekhawat
   units: 4
-  ic: Virendra Pekhawat
-  code: CS F302
+  day: 
+  time: 
+ 
+'Public Finance: Theory and Policy': 
+  code: ECON F341
+  ic: A. K. Giri
+  units: 3
+  day: 
+  time: 
+ 
+Financial Management: 
+  code: ECON F315 / FIN F315
+  ic: Rajan Pandey
+  units: 3
+  day: 
+  time: 
+ 
+Economics of Growth & Development: 
+  code: ECON F244
+  ic: Rahul Arora
+  units: 3
+  day: 
+  time:  

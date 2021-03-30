@@ -45,11 +45,14 @@ def get_course_entities(result):
     return []
 
 def get_modified_reponse(courses):
+    response = ''
     for course in courses:
         course_data = data[course]
         response_from_dialogflow = df.get_response_text()
-        response = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
-        return response
+        temp_res = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
+        if not temp_res in response:
+            response += '\n'+temp_res
+    return response
 
 
 
