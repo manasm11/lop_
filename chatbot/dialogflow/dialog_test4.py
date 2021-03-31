@@ -1,7 +1,7 @@
 import yaml
 from google.cloud import dialogflow
 
-data = yaml.full_load(open('data.yaml'))
+data = yaml.full_load(open('courses3.yaml'))
 courses = []
 attributes = []
 
@@ -14,7 +14,7 @@ class Dialogflow:
         self.__session = self.__session_client.session_path(project_id, session_id)
         self.__courses = []
         self.__attributes = []
-        self.__data = yaml.full_load(open('data.yaml'))
+        self.__data = yaml.full_load(open('courses3.yaml'))
 
     def get_response(self, text, language_code='en'):
         '''Returns response object using session_client object'''
@@ -70,7 +70,10 @@ class Dialogflow:
                     response_from_dialogflow = self.get_response_text()
                     r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course).replace('__attribute__', attribute).replace('__attribute_value__', str(attribute_data))
                     if not r in response:
+                        if course in response:
+                            r = r.replace(course + '\n', '')
                         response += '\n' + r
+
             else:
                 course_data = self.__data[course]
                 # attribute_data = course_data[attribute.lower()]
@@ -78,6 +81,9 @@ class Dialogflow:
                 r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
                 if not r in response:
                     response += '\n' + r
+
+            response += '\n'
+
         return response
 
     def get_reply(self, query):
@@ -89,7 +95,7 @@ class Dialogflow:
                 response = self.get_response_text()
         else:
                 response = self.get_modified_reponse()
-        return response
+        return response + '\nThank you.'
 
 
 if __name__ == "__main__":
