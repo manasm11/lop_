@@ -1,0 +1,5 @@
+#!/usr/bin/python3
+
+import os
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = "/home/tao/lop_/chatbot/dialogflow/creds.json"
+os.system('chat/bin/python telegram_bot.py')

@@ -7,11 +7,14 @@ attributes = []
 
 class Dialogflow:
 
-    def __init__(self, project_id, session_id=123456789):
+    def __init__(self, project_id='bot-test-303915', session_id=123456789):
         self.__project_id = project_id
         self.__session_id = session_id
         self.__session_client = dialogflow.SessionsClient()
         self.__session = self.__session_client.session_path(project_id, session_id)
+        self.__courses = []
+        self.__attributes = []
+        self.__data = yaml.full_load(open('data.yaml'))
 
     def get_response(self, text, language_code='en'):
         '''Returns response object using session_client object'''
@@ -38,41 +41,55 @@ class Dialogflow:
     #     parent = f'projects/{self.__project_id}/agent'
     #     intent = dialogflow.Intent(display_name=name, )
 
-def get_course_entities(result):
-    parameters = result.query_result.parameters
-    for parameter in parameters:
-        if str(parameter) == 'course_entity':
-            return parameters[parameter]
-    return []
+    def get_course_entities(self):
+        parameters = self.__response.query_result.parameters
+        for parameter in parameters:
+            if str(parameter) == 'course_entity':
+                self.__courses = parameters[parameter]
+                return self.__courses
+        self.__courses = []
+        return self.__courses
+    
+    def get_attribute_entities(self):
+        parameters = self.__response.query_result.parameters
+        for parameter in parameters:
+            if str(parameter) == 'attribute_entity':
+                self.__attributes = parameters[parameter]
+                return self.__attributes
+        self.__attributes = []
+        return self.__attributes
 
-def get_attribute_entities(result):
-    parameters = result.query_result.parameters
-    for parameter in parameters:
-        if str(parameter) == 'attribute_entity':
-            return parameters[parameter]
-    return []
-
-def get_modified_reponse():
-    # print(courses)
-    response = ''
-    for course in courses:
-        if attributes != []:
-            for attribute in attributes:
-                course_data = data[course]
-                attribute_data = course_data[attribute.lower()]
-                response_from_dialogflow = df.get_response_text()
-                r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course).replace('__attribute__', attribute).replace('__attribute_value__', str(attribute_data))
+    def get_modified_reponse(self):
+        # print(courses)
+        response = ''
+        for course in self.__courses:
+            if self.__attributes != []:
+                for attribute in self.__attributes:
+                    course_data = self.__data[course]
+                    attribute_data = course_data[attribute.lower()]
+                    response_from_dialogflow = self.get_response_text()
+                    r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course).replace('__attribute__', attribute).replace('__attribute_value__', str(attribute_data))
+                    if not r in response:
+                        response += '\n' + r
+            else:
+                course_data = self.__data[course]
+                # attribute_data = course_data[attribute.lower()]
+                response_from_dialogflow = self.get_response_text()
+                r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
                 if not r in response:
                     response += '\n' + r
-        else:
-            course_data = data[course]
-            # attribute_data = course_data[attribute.lower()]
-            response_from_dialogflow = df.get_response_text()
-            r = response_from_dialogflow.replace('__ic__', course_data['ic']).replace('__units__', str(course_data['units'])).replace('__code__', course_data['code']).replace('__course__', course)
-            if not r in response:
-                response += '\n' + r
-    return response
+        return response
 
+    def get_reply(self, query):
+        question = query
+        self.get_response(question)
+        self.get_course_entities()
+        self.get_attribute_entities()
+        if self.__courses == []:
+                response = self.get_response_text()
+        else:
+                response = self.get_modified_reponse()
+        return response
 
 
 if __name__ == "__main__":
@@ -88,4 +105,3 @@ if __name__ == "__main__":
         else:
                 print(get_modified_reponse())
 
-        
