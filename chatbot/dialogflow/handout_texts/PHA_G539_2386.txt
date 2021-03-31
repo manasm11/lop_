@@ -1,0 +1,336 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 3.04.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHA G539
+Course Title : Principles of Drug Discovery
+Instructor-in-C harge : Richa Shrivastava
+
+1. Course Description: Concepts of cellular mechanisms and processes involving cell surface receptors,
+membrane-bound enzymes, protein kinases, proteases, integrins, transporters and channels that facilitate
+drug discovery, with special emphasis on non-communicable diseases such as neurological, neuropsychiatric
+diseases and disorders, metabolic disorders, cancer. siRNA, anti-sense oligonucleotides, transgenic animals
+in drug discovery, long non-coding RNA, emerging trends in receptor - drug trafficking
+
+2. Scope and Objective of the Course: Upon completion of the course, the student will have an in-depth
+understanding of various targets of drug discovery like receptors, enzymes, kinases transporters etc. They
+will also learn the use of siRNA, oligonucleotides, miRNAs, plasmids, sequencing techniques and
+transgenic animals in the process of drug development.
+
+3. Text Books:
+1. Ramarao Poduri “Drug Discovery and Development: From Targets and Molecules to Medicines”
+
+Springer Singapore; 1° edition 2021
+4, Reference Books:
+
+1. Terry P. Kenakin “Pharmacology in Drug Discovery: Understanding Drug Response” Elsevier; 1 edition
+2012
+
+2. Benjamin E. Blass “Basic Principles of Drug Discovery and Development” Elsevier; 1 edition 2015
+3. Additional reading:
+
+Emerging trends and updates have to be obtained from joumals in the area of pharmacology and drug
+discovery. Some recommended journals are:
+
+1. Nature Drug Discovery
+
+2. Trends in Pharmacological Sciences
+
+3. Pharmacological reviews
+
+4. Frontiers in Pharmacology
+
+5. Acta Pharmacologica Sinica
+
+6. British Journal of Pharmacology
+
+7. Expert Opinion on Therapeutic Targets
+
+6. Course Plan:
+
+Process of drug discovery and Basics of drug discovery
+
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Introduction
+2)
+
+Target Discovery- Target type and
+
+2. Drug
+Targets
+
+3. Enzymes as
+Drug Targets
+
+4, Ion
+Channels as
+drug Targets
+
+9». GPCRs as
+Drug targets
+
+6. Enzyme
+linked
+receptors as
+drug targets
+
+7. Nuclear
+receptors as
+drug targets
+
+development. [dentificationof | of
+target and lead optimization (L: 1
+Os notes
+Druggability. Therapeutic Targets:
+Progress of Their Exploration and
+Investigation of Their
+Characteristics.
+
+Role of Enzymes, Ion channels,
+Transporters, integrins and
+Receptors as drug targets.
+Signaling mechanisms associated
+with receptors and their
+deregulations in various diseases
+(L: 3-5)
+
+Common therapeutic approach to
+enzyme regulation.
+
+Mechanistic basis of enzyme
+inhibitor drugs
+
+New Enzyme targets in different
+diseases.
+
+(L: 5-7)
+
+Regulation of ligand gated and
+voltage gated ion channels.
+Identification and validation of ion
+channels as targets
+
+Role of ion channels in different
+diseases. (L: 7-9)
+
+Trends in GPCR drug discovery
+Biased signaling as a novel
+mechanism of functional
+Selectivity
+
+Role of GPCR signaling in
+different diseases
+
+(L: 10-15)
+
+Receptor Tyrosine kinase as drug
+targets in different diseases.
+Receptor serine/threonine kinase
+as drug targets in different diseases
+Receptor tyrosine phosphatases as
+drug target in different diseases
+(L: 16-20)
+
+Nuclear receptors as drug targets:
+A historical perspective of modern
+drug discovery
+
+Targeting the nuclear receptor—
+cofactor interaction
+
+3. Nuclear receptors as drug
+
+RB rP
+
+Class notes
+
+“TB _~«d‘~proces process sandchanged changed
+RB-1,2 perceptions of targets
+
+Characteristics of targets and
+concept of druggability. Role
+of enzymes and receptors
+along with their signaling
+pathways in diseases and
+disorders.
+
+ 
+
+Understanding of enzyme
+kinetics and its inhibition.
+Approaches to identify new
+enzyme targets.
+
+Targeting of ion channels
+against different diseases.
+
+Development of GPCRs as
+most successful drug targets.
+Hamessing its selective
+signaling for targeting various
+diseases.
+
+Development of Receptor
+tyrosine kinases (RTKs), as
+drug targets for different
+diseases
+
+Drug discovery from nuclear
+receptor perspective.
+Modulating nuclear receptor
+signaling in different
+diseases.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Discovery of various
+proteases inhibitors to target
+different diseases.
+
+8. Proteases as
+drug targets
+
+Emerging principles in proteasebased drug discovery
+Development of proteases as drug
+targets in different diseases
+
+(L: 25-28)
+
+Physiological role of integrins and
+its signaling
+
+2. Intregrins and diseases
+
+3. Therapeutic strategies to target
+integrins in different diseases
+
+(L: 29-32)
+
+10. Drug transport and targeting
+Transporters | SLC transporters as therapeutic
+as drug targets | targets in various diseases
+Emerging opportunities in
+channelizing transporters as drug
+targets
+
+(L: 33-36)
+
+Basic principles of miRNA
+targeting
+
+9, Integrins as
+drug targets
+
+Understanding of integrin
+signaling cascades and its
+exploitation as drug targets
+different diseases
+
+Emergence of role of
+membrane transporter as drug
+targets. Development of
+Solute carrier transporters as
+drug targets for various
+diseases
+
+11. Long noncoding RNA as
+
+Understanding of role of long
+non-coding RNAs in
+
+drug targets
+
+Intronic RNA and Repetitive RNA
+as novel targets for different
+disease.
+
+regulation of gene expression
+in physiology and pathology.
+Use of siRNAs and antisense
+
+Using RNAi to identify and
+
+validate novel drug targets in
+
+various diseases
+
+Use of antisense oligonucleotides
+
+in functional genomics and target
+
+validation
+
+(L: 37-39)
+
+Moving targets, immuno- Class notes
+conjugates, resealed erythrocytes RB
+
+(L: 40)
+
+nucleotides as tools to alter
+gene expression.
+
+New trends in
+pharmacological research.
+
+9, Emerging
+trends in
+receptor - drug
+trafficking
+
+ 
+
+7. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester Test <TEST 1> Closed Book
+
+Examination
+and quizzes
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Assignment topics will be announced during the class. Regularity in attendance will be one of the criteria in
+deciding the borderline cases at the time of final grading as well as make-up's.
+
+8. Chamber C onsultation Hour: As discussed in the class [Email: richa.shrivastava@ pilani.bitspilani.ac.in]
+
+9, Notices: Notices pertaining to this course will be posted on Nalanda or send via emails.
+
+10. Make-up Policy: Make-Ups are not given as a routine. It is solely dependent upon the genuineness of
+the circumstances under which a student fails to appear in a scheduled evaluation component. In such
+circumstances, prior permission should be obtained from the Instructor-in-Charge. The decision of the
+Instructor-in-Charge in the above matter will be final.
+
+11. Note (if any):
+
+Instructor-in-charge
+Course No. PHA G539
+

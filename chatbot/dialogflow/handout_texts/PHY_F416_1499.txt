@@ -1,0 +1,148 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Timetable) this portion gives further specific
+details regarding the course.
+
+Course No : PHY F416
+
+Course Title : SOFT CONDENSED MATTER PHYSICS
+Instructor-in-C harge : NAVIN SINGH
+
+Instructor(s) :
+
+Tutorial/Practical Instructors:
+
+1. Course Description:
+
+Soft matter or soft condensed matter is a subfield of condensed matter comprising a variety of physical systems that are
+deformed or structurally altered by thermal or mechanical stress of the magnitude of thermal fluctuations. They include
+liquids, colloids, polymers, foams, gels, granular materials, liquid crystals, and biomolecules. These materials share an
+essential characteristic feature in that predominant physical behaviors occur at an energy scale comparable with room
+temperature thermal energy. At these temperatures, quantum aspects are less significant.
+
+In this course, our aim would be to understand the structure, properties, and dynamics of the soft matter. What is the
+order of forces and times scales that affect the overall behaviour of this class of matter?
+
+2. Scope and Objective of the C ourse:
+e Develop familiarity with the basics of soft condensed matter.
+e To develop an understanding about the forces and order of thermal fluctuations in soft matter.
+e Why some part of matter is classified as soft matter?
+
+3. Textbooks:
+1. Soft Matter Physics, Masao Doi, Oxford University Press, I edition (2013)
+2. Soft Condensed Matter, R.A.L. Jones, Oxford University Press, I edition (2002)
+
+4, Reference Books:
+1. Essentials of Soft Matter Science, Linda S. Hirst, CRC Press (Taylor & Francis), II edition (2020).
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module Number Lecture session/T utorial Session. Learning Outcome
+
+Soft Matter: Introduction | e Why itis called as soft matter? TB1:1.1-1.5 | The students shall be able to
+
+(Number of lectures: 1) e Concept of thermal energies. identify the concept of soft
+matter (or soft condensed
+
+L:1 e How it is different than condensed
+matter).
+
+matter?
+e Three states of matter: solid, liquid
+& gas
+e Inter-molecular forces
+Phase transitions in soft e Thermodynamics of solutions TB: 2.1-3.6 Students will be able to
+matter e Concept of phase transition. understand the concept of
+(Number of lectures: 6) e Phase separation. phase transition.
+
+L: 2-7 e Kinetics of the transition.
+Theory of Polymers e Elasticity of Polymers TB1: 3.1-3.5 | Students will develop an
+(Number of lectures: 9) e Random Walk model of polymers | TB2: 5.1-5.5 understanding of the
+L: 8-16 e Rubber elasticity polymers and their elastic
+response.
+Theory of Colloids e What are Colloids? TB2: 4.1-4.4 | Student will be able to know
+
+(Number of lectures: 7) e Flow of colloids: Stokes’ law about this class of matter.
+They will learn about the
+forces and motions in
+colloids.
+
+L: 17-23 e Brownian motion & Einstein
+
+equation
+e Forces between colloids
+Theory of Liquid crystals | e Phases in liquid crystals TB1:5.1-5.3 | Students will develop an
+(Number of lectures: 7) e The nematic to isotropic transition | TB2:7.1-7.7 | understanding about the
+L: 24-30 e Topological defects in liquid liquid crystals. During
+crystals discussion student will be
+e Polymer liquid crystals able to understand the
+defects in liquid crystals
+and their importance.
+Theory of Gels e Introduction of Gels TB2: 6.1-6.3 | Students will develop an
+(Number of lectures: 4) e Classes of gels understanding about the
+L: 31-34 e Theory of gelation different class of gels.
+Brownian Motion and e Brownian motion of a free particle | TB1: 7.1-7.5 | Students will develop an
+thermal fluctuations e Brownian motion in a potential understanding about the
+(Number of lectures: 6) field diffusion of soft matter in
+L: 35-40 e Fluctuation-Dissipation theorem solutions.
+
+ 
+cM
+
+YS BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+= Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+(° (Close Book/ Open Book)
+
+0 )
+Mid-Semester Test To be announced latter | Open book.
+Comprehensive 120 Min. AQ) 05/05/2020 (FN)
+Examinati Open book
+Xamination
+class
+10
+
+ 
+
+Assignments To be announced in the
+class vpen source
+
+7. Chamber Consultation Hour: Saturday (10:00-11:00 AM)
+8. Notices: To be announced on NALANDA or by email.
+
+9, Make-up Policy: No make-up for Tutorial tests. For other components, depending on the merit of the
+reason for missing the evaluative component.
+
+10. Note (if any): It is a four units’ course. The discussion related to the mentioned topics won’t be confined
+to the books only. More readings from research papers and review articles will be expected from the students.
+
+NAVIN SINGH
+(Instructor-in-charge)
+Course No.: PHY F416
+

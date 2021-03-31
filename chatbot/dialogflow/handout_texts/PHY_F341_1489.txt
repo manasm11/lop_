@@ -1,0 +1,408 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+Second Semester 2020-2021
+AUGS Division
+C ourse Handout (Part II)
+
+ 
+
+Date: 15/01/2020
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives
+further specific details regarding the course.
+
+Course No. : PHY F341
+
+Course Title : Solid State Physics
+Instructor In-charge : Subhashis G angopadhyay
+Instructor(s) :
+
+1. Course Description
+
+The course covers the physical aspects of the matter in condensed state from an atomistic view point. It is
+an introduction to the solid state physics, begins with the basic concepts of crystallography along with
+lattice vibrations and related thermal properties, energy states and electronic band theory, free electron
+models and related electrical properties and magnetism. This course also dealt with various important class
+of materials such as semiconductors, insulators and superconductors. Thus overall topics covered here
+includes the structural, thermal and electrical properties of matter.
+
+2. Scope and Objectives
+
+To provide physical as well as mathematical understanding of various phenomena in solid state physics
+associated mainly with crystalline solids
+
+Lay the foundation for a working and understanding of solids through fundamental theoretical
+concepts.
+
+3. Prescribed T ext Book
+e 11: Introduction to Solid State Physics, C. Kittel, 8" ed., Wiley (2005)
+
+4, Reference Book
+
+e Rt: Solid State Physics, N W Ashcroft and N D Mermin, ist ed., Thomson (1976) (for theoretical
+understanding)
+
+e R2: Elementary Solid State Physics: Principles and Applications by M Ali Omar Pearson Publications
+(for materials aspect and theory )
+
+e 3: Materials Science and Engineering: An introduction by W D Callister (Materials aspect)
+
+e RA: Solid State Electronic Devices Ben G Streetman Pearson seventh edition (Device aspect of SSP)
+
+    
+  
+
+Save Paper.
+aes Save Trees.
+Ce f° SSave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+ 
+
+5. Course Plan
+
+Module Lecture session/T utorial session Learning Outcome
+Number
+
+1. Crystal L1.1-2. Concept of lattice, Periodic array of | T 1: Kittel | To understand the basic
+structure atoms, fundamental types of crystal structures. Chapter 1 crystallography and atomic
+L 1.3-4. Planes and Directions in crystals, Miller | andR1,R4 | arrangement in solids,
+indices, Planar and linear densities, family of extending this knowledge
+planes and directions to the structures. in
+L1.5 Primitive cells, unit cell, Wigner-Seitz cell semiconductor technology
+and translation operations, crystal symmetry (silicon) and crystalline
+L1. 6-7 Some ceramic structures NaCl, CsCl, solids in other fields.
+ZnS, Carbon based materials etc, their planar,
+linear densities, packing fraction sero
+
+ 
+
+2. Wave
+diffraction
+and the
+reciprocal
+lattice
+
+3. Crystal
+binding
+
+A. Crystal
+
+Vibrations:
+
+Phonons |
+
+9. Crystal
+
+Vibrations:
+
+Phonons II
+
+6.Free
+electron
+Fermi Gas
+
+T. Exercise problems
+L2.1 Bragg Diffraction, Structural factor
+calculation
+
+L2.2 Reciprocal space, reciprocal
+examples (BCC, FCC), Brillouin Zones
+L2.3 Zone plane and zone axis
+
+L3.1 Crystals of inert gases, Van der Waals
+interaction, repulsive interaction, cohesive energy
+L3.2. Ionic crystals, covalent crystals and metals,
+hydrogen bonds. Chapter excludes elastic
+constants.
+
+T: On problems from chapter 3
+
+4.1 Monatomic Crystals, wave propagation and
+dispersion relation
+
+4.2 Diatomic Crystals wave propagation and
+dispersion relation
+
+T: Problems of Chapter 4
+
+L5.1: Thermal properties, Einstein and Debye
+Models of Heat Capacity-I thermal expansion,
+thermal conductivity
+
+L5.2: Thermal properties Einstein and Debye
+Models, T° law of Heat Capacity-II
+
+L5.3: Thermal expansion, thermal conductivity,
+thermal resistivity of phonon gas
+
+T. Problems on Chapter 5
+
+L6.1: Drude's model, electrical and thermal
+conductivity of metals
+L6.1: Somerfield's
+
+ 
+
+lattice,
+
+model, Fermi Dirac
+
+Distribution, Free electron gas in 3D, Fermi
+energy
+
+T 1: Kittel
+Chapter 2
+and R1
+
+T1: Kittel
+chapter
+3, R3
+
+T1: Kittel
+Chapter 4
+
+T1: Kittel
+Chapter 5
+
+T1: Kittel
+Chapter 6
+and R1
+
+Understanding of reciprocal
+lattice, Bragg diffraction
+applicable in electron,
+neutron and X-ray
+diffraction.
+
+To understand the crystal
+bonds in various types of
+solids, which will further
+help to know the advanced
+materials for technology.
+
+Basics understanding of
+lattice vibrations
+
+Lattice vibrations and their
+effect on thermal properties
+
+In depth understanding of
+electrical transport § in
+metals. Identification of
+charge carriers, sign and
+concentration using Hall
+
+Save Papert.
+as) Save Trees.
+Save the World.
+
+  
+
+ 
+
+innovate g
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+7. Energy
+Bands and
+Nearly free
+electron
+model
+
+8.
+Semiconduct
+
+or crystals
+
+9,
+Fundamentals
+of
+Superconduct
+
+ivity
+
+10.
+Diamagnetis
+m and
+Paramagnetis
+m
+
+innovate
+
+Pilani Campus
+
+L6.3: Density of States in 1 , 2 and 3 dimensions
+L6.4-5 Hall Effect, Heat capacity
+
+T Problems on chapter 6
+
+L7.1 Energy Bands, Bloch Functions,
+
+Penney Model-I
+
+L7.2 Energy Bands, Bloch Functions,
+
+Penney Model-II
+
+L7.3 Energy Bands, Bloch Functions,
+
+Penney Model-III
+
+L7.4 Energy Bands, Bloch Functions,
+
+Penney Model-IV
+
+T Problems on chapter 7
+
+L8.1 Intrinsic Carrier Concentration, Mobility,
+Donor and Acceptor States
+
+L8.2 p-n junctions and bands
+
+L8.3: Electrical conductivity in semiconductors
+T Problems on chapter 8
+
+L9.1 Occurrence of superconductivity and its
+destruction by magnetic fields.
+
+L9.2.Meissner Effect, Type I and II
+superconductors
+
+L9.3. Elementary BCS theory, cooper pairs
+
+L9.4 High Tc superconductors and properties
+
+T Problems on Chapter 10
+
+L10.1 Langevin’ diamagnetism equation,
+paramagnetism, and quantum theories — I
+
+L10.2 Langevin diamagnetism to explain the
+Same. equation, paramagnetism, and quantum
+theories — I]
+
+L10.3-5 Langevin diamagnetism equation,
+paramagnetism, and quantum theories — III
+
+T problems on chapter 11
+
+ 
+
+T1: Kittel
+Chapter 7,
+R4 Chap. 3
+
+T1: Kittel
+Chapter 8,
+R4 Chap. 3
+
+T1: Kittel
+Chapter 10
+
+T1: Kittel
+Chapter 11
+
+  
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+effect. Vast applications in
+semiconductors industry.
+
+Clear understanding of the
+energy band formation in
+solids. Behavior of
+materials in low
+dimensions, mesoscopic
+systems
+
+Bands in semiconductors,
+p-n Junctions, formation
+and bands, charge carrier
+concentration and electrical
+transport and doping in
+semiconductors.
+
+To get an_ idea of
+superconductivity and some
+theories that can explain
+this phenomenon. Also to
+know some _ interesting
+properties of
+Superconductors.
+
+To understand magnetic
+nature of materials and
+theories to explain the
+same.
+
+ 
+
+ee Save Trees.
+
+  
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 4Save the World.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+ 
+
+6. Evaluation Scheme:
+
+C omponents
+
+| __Mid-semestertest__|
+
+| Comprehensive _| Ah isnseont en FN) -Onlinemode is
+
+Tutorials and 30 TBA in lecture class Quline mee _ mode
+assignments
+
+After completing this course the students will be able to
+
+ 
+
+1) Understand basics of the crystallography.
+
+2) Understand the lattice vibrations and their consequences on electrical and structural properties
+3) Energy Band formation in solids, basic theories
+
+4) Compare the electrical properties of metals, semiconductors, insulators and superconductors.
+
+Open Book Exam: Use of the textbook (T1) and reference book (R1) will be allowed. Photocopy of these
+books will also be allowed. Besides, only hand-written class notes are permitted. Use of calculators will
+be allowed in all exams. No exchange of any material will be allowed during exams.
+
+Note:
+
+Class will be conducted in online mode through Google meet link. All study related materials will be
+uploaded and the exams will be conducted through a specified Google class room. It shall be the
+responsibility of the individual student to be regular in maintaining the self study schedule as given in the
+course handout, attend lectures. Mid Semester Test and Comprehensive Examination are according to the
+Evaluation Scheme given in the respective Course Handout. If the student is unable to appear for the
+Regular Test/Examination due to genuine exigencies, the student must refer to the procedure for applying
+for Make-up Test/Examination. No make up for the tutorials or assignments.
+
+(Subhashis G angopadhyay)
+Instructor In charge
+PHY F341.
+
+     
+
+Save Paper.
+ee), Save Trees.
+Ce f° SSave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+

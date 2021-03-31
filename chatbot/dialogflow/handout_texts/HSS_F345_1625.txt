@@ -1,0 +1,135 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+15.01.2021
+
+In addition to Part | (General Handout for all courses appended to the time table) this portion further
+gives specific details regarding the course.
+
+Course No. >: ME F472
+Course Title : Precision Engineering
+Instructor-in-Charge : Tribeni Roy
+
+1. Course Description:
+
+Precision Engineering deals with accurate and precise measurements of manufactured products. The
+present course covers various aspects of Precision Engineering such as concept of accuracy, accuracy of
+numerical control systems, tolerances and fits, acceptance tests for machine tools, static stiffness and its
+influence on machining accuracy, inaccuracies due to thermal effects, influence of forced vibrations on
+accuracy, dimensional wear of cutting tools and its influences on accuracy, clamping and setting errors,
+location principles and errors due to location, surface roughness and microfinishing processes,
+dimensioning and dimensional chains, methods of improving accuracy and surface finish, thread and gear
+measuring instruments, coordinate measuring machines, introduction to computer aided tolerancing.
+
+2. Scope and Objective of the Course:
+This course is designed to equip students with the fundamental theories in precision engineering. The
+students will be introduced to various errors that affects precision in manufacturing.
+
+3. Text Books:
+
+i) R.L. Murty, “Precision Engineering in Manufacturing”, New Age International Publications, Delhi, 2010
+(71).
+
+li) R.K. Jain, “Engineering Metrology”, Khanna Publishers, Delhi, 2013 (72).
+
+iii) Lecture Notes (73)
+
+4. Reference books
+i) V.C. Venkatesh and S. Izman, "Precision Engineering", Tata McGraw-Hill Publishers (R12)
+
+ 
+
+A Save Paper.
+ge. Save Trees.
+£°* Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+machine tools and numerical
+control systems
+
+M1 (L8-9) Acceptance tests for | To learn about basic type of tests and
+machine tools measuring instruments for testing machine
+tools
+
+etc.
+(L21-25) Surface roughness and | To lern about basics of surface roughness of
+.
+dimensional chains
+(L30-33) Methods for improving To learn methods for improving accuracies in
+
+(L34-37) Measuring instruments To learn basics of thread and gear measuring
+for various components instruments and coordinate measuring
+M3 machines
+
+6. Evaluation Scheme:
+Duration | Weightage
+Components . Date
+(minutes) (%)
+; Will be announced by
+Mid-semester test 25
+AUGSD-AGSRD
+
+Assignments/Projects/Seminars/Quiz pf To be announced in the class
+
+. ae Will be announced by
+Comprehensive Examination. 120 CB/OB
+AUGSD-AGSRD
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+ 
+
+ 
+
+ 
+
+ 
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+7. Chamber Consultation Hours:
+
+To be announced in the first class.
+
+8. Notices:
+All notices related to this course will be put on the Nalanda/Google Classroom/email.
+
+9. Make-up Policy:
+
+Make-up will be granted ONLY in genuine cases with prior permission as per the institute rules.
+
+Instructor- in-Charge
+ME F472
+
+ 
+
+ 
+
+Save Paper. > .
+ge) Save Trees. |
+ot ~" “Save the World. innovate achieve
+
+Please Do Not Print Unless Necessary
+

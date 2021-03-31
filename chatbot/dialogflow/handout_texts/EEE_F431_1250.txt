@@ -1,0 +1,351 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 04.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F431
+
+Course Title : Mobile Telecommunication Networks
+Instructor-in-C harge : Dr. Syed Mohammad Zafaruddin
+Instructor(s) : NA
+
+Tutorial/Practical Instructors: NA
+
+1. Course Description: Fundamentals of mobile telecommunications, with an overview of first generation
+(analog) systems and more detailed coverage of second generation (digital) technologies; technology basics
+including descriptions of wireless network elements, spectrum allocation, frequency re-use, characteristics of
+the transmission medium; over the-air (OTA) interface characteristics; capacity, coverage, speech coding,
+channel coding and modulation techniques of TDMA and CDMA technologies; network characteristics;
+architecture, signaling, element management of IS-41 and GSM networks; call processing; call setup and
+release, handoff, roaming, advanced services; mobile data communications; circuit and packet switched data
+services, third generation (wideband data) mobile communications system requirements/ architecture.
+
+2. Scope and Objective of the Course: This course is an introduction to the field of mobile
+telecommunication systems and networks. The signal propagation, modulation and coding, multiplexing and
+link improvement techniques used in mobility management in wireless networks will be emphasized. At
+the physical layer, mitigation techniques for deep fading in narrowband as well as wideband mobile systems
+will also be discussed. At the MAC layer, the course covers multiple access and various standard protocols
+employed in mobile telecommunication networks. The second and third generation wireless systems will be
+studied thoroughly to impart the basic concepts involved in cellular operation. Different traffic routing
+techniques will also be discussed. Architectural and functional discussion of different wireless networks
+like GSM, CDMA, UMTS, WLAN, and LTE will also be introduced. Further concepts like multi-carrier
+modulation, Multi-user MIMO will be introduced to apprise the students of the latest trends in mobile
+networks. After completion of the course students will be able to understand and analyze mobile
+communication systems and networks. Students will also be exposed to simulate different modules of
+mobile networks, and analyze the impact of fading on the system performance.
+
+3. Text Books:
+T1: Wireless Communication Principles and Practice” by Theodore. S. Rappaport Second Edition.
+Pearson education, 2010.
+
+4, Reference Books:
+[R1]: “‘Wireless communication”, Andrea Goldsmith, second edition, Cambridge press, 2010.
+
+[R2] Wireless and cellular telecommunications” by William C.Y. Lee, third Ed. McGrawHill, 2006.
+
+[R3]: “Wireless and Mobile Network Architectures” by Yi-Bing Lin and Imrich Chaltamac, Wiley,
+2001.
+
+[R4]: “Principles of mobile communication” by Stuber Gordon L., third edition, Springer 2013.
+
+[R5]: LTE -the UMTS Long Term Evolution from Theory to Practice, Second edition, Wiley 2011.
+1
+ 
+
+5. Course Plan:
+
+Module No.
+
+(0) :
+Introduction to
+Mobile
+
+C ommunications
+and Networks
+
+(I):
+Wireless C hannel
+Modelling
+
+(II):
+Mitigation of
+Fading Effects
+
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Lecture Session
+
+1-2: Overview of the course, general
+introduction, OSI Model, Summary of Linear
+Systems and Single- User Communication
+under AWGN
+
+3-5: Motivation to channel modeling, largescale propagation effects, two-ray models,
+path-loss, Shadowing, Log-Normal fading,
+Empirical models for 2G/3G/4G/5G channels
+(Okumura, Hata, ETSI, ITU-T), Cell Coverage
+and planning.
+
+6-10: Small-scale propagation effects,
+multipath fading, Doppler spread, delay
+spread, Clarke’s model, level crossing, fading
+types, Narrowband, Wideband, statistical
+wireless models (Rayleigh, Rician, Nakagami
+etc), ITU-T 5G fading model.
+
+11-14: Flat fading, diversity techniques,
+diversity combining methods (MRC, SC,
+EGC), Macroscopic diversity, Spatial
+diversity, MIMO Systems: Capacity, Singleuser, multiple user, water-filling algorithm.
+
+15-20: Frequency selective channel,
+Multicarrier, OFDM.
+
+21-21: Duplexing: Half Duplex, Full duplex,
+FDD, TDD
+
+ 
+
+Reference
+
+T1: chapter 1
+R1: chapter 1
+
+T1: chapter 4
+R1: chapter 2
+
+T1: chapter 5
+
+R1: chapter 3
+
+T1: chapter 7
+R1: chapter
+7,10
+
+T1: chapter 7
+R1: chapter
+11,12
+
+T1: chapter 9
+R1: chapter
+14
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning Objectives
+
+Motivation to study and
+fundamental basis required
+for the course.
+
+Study on physical behavior
+of signal propagation in
+mobile environments. This
+will help in developing
+PHY layer algorithms.
+
+Exploitation of
+independent multipath
+Signal propagation to deal
+with deep fading in
+narrowband systems.
+
+Mitigation of ISI with
+signal processing
+techniques and using
+multicarrier modulation in
+wideband systems.
+
+Interference avoidance in
+uplink and downlink
+transmission for a single
+user.
+
+ 
+ 
+
+(III):
+
+Duplexing and
+Multiple Access
+Systems (MAC
+Layer)
+
+(IV):
+
+Cellular Systems
+
+(V):
+Wireless
+Networking
+Protocols
+
+(VI):
+
+Mobile Wireless
+Systems and
+Standards
+
+Pilani Campus
+AUGS/ AGSR Division
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+ 
+
+22-24: Multiple Access: FOMA, TDMA,
+CDMA, Random Access Protocols (ALOHA,
+CSMA)
+
+29-29: Cellular Concept, frequency reuse,
+Hand-off, Interference (CCI, ACI), System
+capacity and Coverage (cell-splitting, sectoring
+etc.), Traffic capacity and Trucking.
+
+30-31: Introduction to wireless networks,
+Protocol layers, Cross-Layer Design (MAC
+and PHY ), Traffic routing (circuit switching,
+packet switching, X.25), Channel Signaling
+(CCS, SS7), ISDN.
+
+32-34: 1G & 2G: AMPS &ETACS, FM, GSM
+Standard, Architecture, Radio Subsystem, Call
+processing and setup, Roaming, GMSK,
+Frame Structure, Speech and Channel Coding,
+IS-41, IS-95 CDMA Standard: PN sequence,
+OQPSK, Convolution Codes, Multiuser
+interference.
+
+35-35: 3G: CDMA 2000, QPSK,
+IMT2000/UMTS, Specifications
+
+36-37: 4G: LTE-Advanced, 3GPP, OFDMA,
+QAM, Multiuser-MIMO, Resource Block.
+
+38-39: 5G, Radio interface, Milli-meter waves,
+Energy Efficiency, Full Duplex, M2M, D2D,
+Massive MIMO.
+
+40-41: Wireless Networks: WLAN (IEEE
+802.11 PHY ), Wireless Sensor Network, Ad
+hoc network, GPS, ISM Bands.
+
+42: Emerging Trends: 6G Wireless
+Communications
+
+ 
+
+T1: chapter 9
+R1: chapter
+
+14
+
+T1: chapter 3
+R1: chapter
+
+15
+
+T1:chapter 10
+R1: chapter
+
+16
+
+T1: chapters
+
+6,8 &ll
+
+R1:chapter 1
+
+T1: chapters
+
+6& 11
+
+3G PP
+Technical
+Document
+
+3G PP and
+Research
+Papers
+
+T1: Chapter 2
+
+Research
+Papers
+
+Research
+Papers
+
+Multiuser transmission
+methods and notion of
+interference.
+
+Coverage and capacity
+enhancement for multiuser
+communications.
+
+Different protocols for
+data packet transmission in
+wireless networks.
+
+Technical evaluation of
+various cellular and
+wireless systems. PHY
+and MAC layer
+specifications (spectrum
+allocation, modulation,
+channel coding, speech
+coding, data rate, multiple
+access and duplexing
+techniques, over-the air
+interface, services,
+signaling and switching,
+etc.).
+
+ 
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+Mid-Semester Test <TEST 1> Open Book
+
+Comprehensive 2h 39 <TEST C> Close/Open Book
+Examination
+
+Quizzes | | 20 | Spread Across Semester Close Book
+
+7. Chamber Consultation Hour: 5PM on lecture hour
+8. Notices: All notices will be displayed on the Learning Management System (LMS-NALANDA)
+
+9, Make-up Policy: No make-up will be given for Assignments and Quizzes. However, for other components,
+make-up will be allowed ONLY in genuine cases. In such cases students must produce enough proof or must
+have taken the prior permission from the IC.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE F431
+
+iN
+

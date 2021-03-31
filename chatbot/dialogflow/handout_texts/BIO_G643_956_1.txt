@@ -1,0 +1,275 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 10.03.2021
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No : BIO G643
+
+Course Title : Plant Biotechnology
+Instructor-in-C harge : JITENDRA PANWAR
+
+Instructor : Mukul J oshi
+
+Practical Instructors : Mukul J oshi, Swarnima, Shobham
+
+1. Course Description: Plant genetic systems and their implications for plant transformation and protein
+targeting, Cell and tissue culture, techniques for plant transformation; Agrobacterium mediated and biolistic
+methods, vectors for plant transformation, genetic manipulation of herbicide tolerance, pest resistance, disease
+resistance, stress tolerance, improvement of crop yield and quality, Public concerns of GM crops.
+
+2. Scope and Objective of the C ourse:
+This course will enable students to increase their knowledge in recent advances in plant cell and tissue culture
+techniques both theoretically and practically. It will provide an insight to the theory and practice of plant
+biotechnology with emphasis on the genetic engineering of plants to produce new products for medicine,
+industry and agriculture.
+3. Text Books:
+1. Narayanaswamy, S. Plant Cell and Tissue Culture, Tata McGraw Hill Publishing Company Limited,
+1994 (Ninth Reprint 2008).
+2. Adrian Slater, Nigel W. Scott, and Mark R. Fowler: Plant Biotechnology: The Genetic manipulation
+of plants (Second edition). Oxford University Press (2008).
+
+4, Reference Books:
+1. Bhojwani, $.S. and Razdan, M.K. Plant Tissue Culture: Theory and Practices, A Revised Edition,
+Elsevier, Reprint 2004.
+2. Hammond, J. Mc Garvey, P. and Y usibov, Plant Biotechnology. Springer Verlag, Berlin, NY (1999),
+2"¢ Printing 2000.
+3. Recent research articles and reviews will be recommended regularly.
+
+5. Course Plan:
+
+1. Objective and L 1-2. Historical introduction to plant | Chap 1, TB-1 | Familiarization with
+scope of plant tissue culture Chap 1, RB-1 | plant tissue culture
+
+tissue culture
+
+2. Plant tissue L 3-4. Lab organization (Lay out, | Chap2,TB-1 | Understanding basics of
+culture laboratory | requirements and general techniques) | Chap 2,RB-1_ | plant tissue culture
+laboratory
+
+3. Requirements to | L 5-6. Culture media constituents, | Chap 3,TB-1 | Knowledge about
+grow plants in media selection and preparation Chap 3, RB-1 | macro- & microvitro
+
+nutrients and PGRs
+
+ 
+ 
+
+4, In vitro
+techniques of
+clonal propagation
+
+5. Production of
+haploids
+
+6. Producing L 11-12. Meristem culture and virus | Chap 6, TB-1
+disease free plants | free plants Chap 15, RB-1
+
+7. Creating
+variations in vitro
+
+ 
+
+8. Somatic
+hybridization
+
+L 15-16. Protoplast isolation and | Chap 11, TB-1
+culture, somatic hybrids production Chap 12 & 13,
+RB-1
+9. Storing plant L 17-18. Cryopreservation
+genetic resources
+
+10. Introduction to
+plant genetic
+system and
+transformation
+
+11. Techniques for
+plant
+transformation
+
+12. Vectors for
+plant
+transformation
+
+13. Case studies
+
+14. Molecular
+farming
+
+L 7-8. Micro propagation stages,
+
+factors affecting micropropagation, | Chap 16, RB-1
+
+applications and limitations
+
+L9-10. Haploid production through | Chap 10, TB-1
+
+anther culture and microspore culture,
+applications and limitations
+
+L 13-14. Somaclonal variations
+
+L 19-20. Plant genetic systems and
+their implications for plant
+transformation and protein targeting,
+heterologous promoters, Arabidopsis
+and new technologies
+
+L 21-24. Agrobacterium mediated
+transfer and the Ti plasmid technology.
+Direct gene transfer methods: Particle
+bombardment.
+
+L 25-27. Desirable features of a vector,
+development of plant transformation
+vectors and optimization
+
+L 28-33. Genetic manipulation of pest
+resistance, Plant disease resistance,
+strategies for engineering _ stress
+tolerance, Strategies for improvement
+of crop yield and quality.
+L 34-37. — Starch,
+bioplastics, The
+custom made
+vaccines
+
+polyfructans,
+oleosin system,
+antibodies, edible
+
+Chap 7, TB-1
+
+Chap 7, RB-1
+
+Chap 9, RB-1
+
+Chap 15, TB-1
+Chap 18, RB-1
+
+Chap 1, TB-2
+Chap 1, RB-2
+
+Chap 3, TB-2;
+Chap 2 & 3,
+RB-2
+
+Chap 4, TB-2;
+Chap 2 & 3,
+RB-2
+
+Chap 11, TB2;
+
+Chap 5, 6 and
+8, RB-2
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Learning methods of
+micropropagation, its
+applications and
+limitations
+
+Learming androgenesis
+and gynogenesis
+technique
+
+ 
+
+Learning various
+methods for production
+of virus free plants
+Understanding
+mechanisms &
+assessment of in-vitro
+variations
+
+Learning techniques for
+protoplast isolation and
+somatic hybridization
+Knowledge about longterm storage of plant
+tissues
+
+Understanding
+eukaryotic gene
+structure, its expression,
+regulation and promoter
+designing
+
+ 
+
+Learning production of
+genetically modified
+plant.
+
+Leaming vector
+designing in order to
+produce high quality
+crops and plants.
+
+Understanding
+transgenic plant
+production and their
+improvement
+
+Knowledge on using
+plant systems for large
+scale production of
+pharmaceuticals and
+other important proteins
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+15. Science and L 38-40. Public concerns over GM | Chap 12, TB-2 | Scientific awareness on
+society crops and government regulations Chap 1, RB-2 | the merits and demerits
+of transgenic plants
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+Mid-SemesterTest | 90M [| 30 | ~~—~—~—~—~—~)~S—«Close Book
+0
+
+Comprehensive 3h 4 22/06 A/N Partly Open Book
+Examination
+
+Lab assignment/ Quiz Close Book
+
+ 
+
+ 
+
+Seminar
+
+7. Chamber C onsultation Hour: To be announced in the class.
+
+8. Notices: Notices, if any regarding the course will be displayed on the Notice Board of Department of
+Biological Sciences.
+
+9, Make-up Policy: Make-up decisions will be made on a case-by-case basis. Only genuine case as certified
+by Chief Medical Officer and/ or determined by the Departmental team will be considered. No make-up will
+be granted for Quizzes and Practical's.
+
+Instructor-in-charge
+BIO G643
+

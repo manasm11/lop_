@@ -1,0 +1,173 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 31.12.2020
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F436
+
+Course Title : Electromagnetic C ompatibility
+Instructor-in-C harge : Dr. Praveen Kumar A.V.
+Instructor(s) : None
+
+Tutorial/Practical Instructors: None
+
+1. Course Description: Basic concepts of EMI/EMC — sources, units, coupling, issues and regulation,
+Electrical signals and spectral properties, Time and frequency relations, Measurement, Behavior of electrical
+circuits, Self and mutual impedances, Transmission lines and signal integrity, Non-ideal behavior of wires and
+lumped components, Emission and Susceptibility -conducted and radiated, Emission models — common mode
+and differential, Measurement of emissions, System design for EMI, High speed circuit boards, Electrostatic
+discharge, Cross-talk, Three conductor transmission lines, Grounding, Shielding, Cabling, Filtering,
+Decoupling, Other EMI related issues.
+
+2. Scope and Objective of the Course: Electromagnetic compatibility (EMC) is the engineering of electrical
+systems to ensure the overall functioning in a complex electromagnetic environment. With the advancements in high
+speed communication, switching techniques, and integrated circuit technologies, devices affect one another through the
+phenomenon called the electromagnetic interference (EMI). A system that 1s designed for EMC doesn’t interfere with
+the operation of other systems, is immune from the emissions of other systems and doesn’t interfere with its own
+operation. An electronic product that is not compliant with the respective EMC standards doesn’t qualify to be marketed.
+It is recommended to take the EMC into account starting from the design stage of a system, as discovering it at a later
+stage, especially during the products’ compliance testing will cost both time and money. The course which is industry
+relevant, addresses the issues, reasons, regulatory obligations, and solutions to EMC issues faced by electrical systems.
+A good knowledge of undergraduate level electromagnetic theory and circuit analysis are required to fully appreciate
+the course.
+
+3. Text Books: Paul, C.R., “Introduction to Electromagnetic Compatibility”, 2" ed., Wiley (2010)
+4, Reference Books:
+
+R1. David K. Cheng, “Field and Wave Electromagnetics”, 2" ed. Pearson Education, 2009
+
+R2. Course notes on Electromagnetic compatibility, Michigan State University. Available online at:
+https://www.egr.msu.edu/emrg/electromagnetic-compatibility-emc-course-notes
+
+5. Course Plan:
+
+Module No. Lecture Session Reference Learning outcomes
+(Topics)
+
+EMI sources — external/
+1-4: Introduction to EMI/EMC Ch.1-2 (TB), internal, unintentional /
+
+and its components Supplementary | intentional, EMC, Aspects,
+material decomposition of EMC
+
+problem, History, Typical
+
+scenarios, Regulations
+
+(brief), EMC in product
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+| design — compliance vs
+pre-compliance testing
+
+ 
+
+ 
+
+3-9: Theoretical foundation Electrical dimensions,
+EMI/EMC Ch.2, Ch.3 Units of EMC, Review of
+Ch.4(TB), R2 | Maxwell’s equations, TEM
+
+Appendix A-B, | mode, Transmission lines
+
+(TB), R1 and signal _integrity
+
+(concept), PCB lands and
+
+microstrip line, Electrical
+
+length and line delay,
+Signals and _ spectral
+content, Digital
+waveforms,  Trapezoidal
+signals — characteristics
+
+ 
+
+10-14 : Non-ideal behavior of | Ch5(TB),R2 | Wires — resistance and
+
+Components internal inductance,
+External inductance and
+Capacitance, Lumped
+equivalent circuit of
+parallel wires, PCB lands,
+Effect of component leads,
+Non-deal models _ of
+Resistor, Capacitor and
+Inductor, Use of R, C and
+L in EMI reduction —
+tradeoffs
+
+ 
+
+15-22 : Emission and susceptibility Ch. 6 & 8, ch. 7 | Emissions / susceptibility (brief), R2 Conducted / radiated,
+Simple emission models,
+differential and common
+mode currents,
+Measurement of EMI
+
+23-30: Coupling and cross-talk . 9- Near-field and far-field
+coupling, Cross-talk —
+Capacitive coupling,
+Inductive coupling, LC
+coupling, Common
+impedance coupling,
+Coupling to — shielded
+cables, Electromagnetic
+coupling
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+31-40: Solutions to EMI/EMC problems | Ch.11 (TB), R2 | Grounding, Cable
+shielding, Electromagnetic
+Shielding, Filtering, Surge
+
+protection, Decoupling,
+Lightning protection,
+Printed circuit boards —
+design considerations,
+EMC simulators
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Open and /or Close book
+Examination
+Min. Surprise
+10
+
+7. Chamber Consultation Hour: TBA
+8. Notices: Will be displayed only in Nalanda
+
+9, Make-up Policy: Make-up will be allowed only in genuine cases, according to the latest institutional
+policies.
+
+10. Note (if any): TBA
+
+Instructor-in-charge
+Course No. EEE F436
+

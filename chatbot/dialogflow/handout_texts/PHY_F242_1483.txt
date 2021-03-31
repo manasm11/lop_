@@ -1,0 +1,169 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+Course Handout Part-I]
+18" January 2021
+
+Course Number : PHY F242
+Course Title : QUANTUM MECHANICS - I
+Instructor-in-charge: Niladri Sarkar
+
+Objective and Scope of the C ourse:
+
+Quantum Mechanics-I is an introduction to the mechanics of atomic and sub-atomic systems. The course is
+roughly divided into two parts. The first part (module 1 to 5) deal with the rudiments of wave mechanics and
+apply the same to some simple systems that will help clarify the novelty of quantum mechanical concepts.
+The second part (module 6 and 7) will then elaborate on the formal structure of quantum mechanics that will
+lay strong foundations for the advanced courses.
+
+Text and reference books :
+1. Quantum Mechanics by B H Bransden and C J Joachain (BJ) 2" Edition Pearson Education
+2. Introductory Quantum Mechanics by Richard L Liboff (RL) 4“ Edition Pearson Education
+3. Introduction to Quantum Mechanics by David J Griffiths (DG) 2" Edition Pearson Education
+4, Principles of Quantum Mechanics by R. Shankar Second Edition Springer
+
+Note : The organization of the course are mainly followed from BJ, however the students are highly
+
+suggested to consult RL, DG and RS as well.
+Learning Outcome
+
+1. The Wave L1-L4 : Wave-particle
+
+Function
+
+Duality, Interpretation of Realization the meaning of Wavefunction
+the W avefunction
+
+Understanding the Application of Fourier
+L5-L7 : Real and Analysis which permits to express an
+2. Wave packets |/Momentum Space 4 llarbitrary wavefunction as a superposition of
+W avefunctions
+Harmonic W aves.
+
+3. The L8-L10: Uncertainty 2.5 Understanding of the Mathematical
+Heisenberg Relation for Momentum Properties of the Waves that Describe
+
+ 
+
+ 
+
+Save Paper.
+me) Save Trees.
+> -ASave the World. hte achieve
+
+Please Do Not Print Unless Necessary
+ 
+  
+ 
+
+Pilani Campus
+Instruction Division
+
+and Energy and time,
+Expectation Values,
+Momentum and Position as
+Operators, Measurements
+in Quantum Mechanics
+
+L10 - L20: The timedependent Schrodinger
+equation, The Ehrenfest
+Theorem, Stationary States,
+
+L20 - L30 : Free Particle,
+The Potential Step, The
+Potential Barrier, Infinite
+Square Well, Linear
+Harmonic Oscillator, The
+Periodic Potential
+
+L30 - L38: Axiomatic
+Formulations , Schrodinger 5.1 — 5.8.
+and Heisenberg Pictures
+
+Class
+
+notes
+
+from
+various
+sources
+
+L38 - L42 : The Harmonic
+Oscillator, Eigenvectors
+and Eigenvalue of a
+General Hamiltonian.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Quantum- Mechanical Particles.
+
+Understanding the Time-dependent and
+Time-Independent Schrodinger Equation
+
+Understanding of the Applications of TimeIndependent Schrodinger Equation
+
+Students should be enough
+prepared/motivated to understand abstract
+language/ advanced topics of quantum
+mechanics
+
+Students will be learning to solve eigenvalue
+equations by means of a general and elegant
+operator method.
+
+Duration eightage |/Date, Time & _ |\Nature of
+(%)
+
+Mid Term Test 90 mins.
+0
+
+ef —_
+
+ 
+
+Save Paper.
+Save Trees.
+
+f° Agave the World.
+
+Closed Book
+
+ 
+
+innovate
+
+Please Do Not Print Unless Necessary
+ 
+ 
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+Open/Closed
+Book
+
+Notices: Notices/assignements/solutions etc. will be displayed only on Nalanda.
+
+Make-up Policy: No Make-up for tutorial tests. Make up for regular tests will be given only to genuine cases
+(obviously), i.e.(i) Serious Sickness (ii) out-of-station with prior intimation to / permission from the IC.
+
+Instructor-in-Charge
+
+PHY F242
+
+ 
+
+Save Paper. > am
+ge) Save Trees. i
+£ > ASave the World. Pe
+
+innovate |
+Please Do Not Print Unless Necessary
+

@@ -1,0 +1,167 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MATH F353
+Course Title : Statistical Inference and A pplications
+Instructor-in-C harge : Rakhee
+
+1. Course Description: R eview of elements of probability and statistical methods, Classical Decision theory including
+parametric and non-parametric methods for testing of hypotheses, Analysis of Variance: One way and two way
+classifications, Design of experiments: Analysis of Completely randomized design, Randomized block design and Latin
+Square design with one or more missing values, Statistical Quality control for variables and measurements.
+
+2. Scope and Objective of the C ourse:
+The course deals with some of the statistical techniques of decision-making. Test of hypotheses, both parametric
+
+and nonparametric methods will be discussed. Comparison of two treatments will be discussed. Comparison of
+several treatments using analysis of variance will be dealt with. Control charts for measurements and attributes
+will also be discussed.
+
+3. Text Books:
+1. Venkateswaran, S., & B. Singh, Operations Research, Notes-EDD, Vol.1 and 2, 1997
+
+4, Reference Books:
+1. Devore JL, Probability and Statistics for Engineering and the Sciences, 5" ed., Thomson, 2000.
+3. Course Plan:
+
+No.
+M.1 L1-6 Review of Elements of Probability Theory Chapter 1 Revise the fundamentals
+of Probability theo
+
+M.2 Classical decision theory (Tests of Parametric Chapter 2 To understand the
+hypotheses). classical theory for
+L 6: Classification of hypotheses, Distributional 2.1 to 2.4 Parametric Hypothesis
+and parametric hypotheses.
+
+L 7-8: Hypothesis testing in General Terminology
+
+L9-10: Neymann Pearson's lemma, BCR (Simple 2.9, 20-1
+vs. Simple hypotheses)
+
+L11-15: UMPCR (Simple vs composite,| 759.953
+composite vs composite). Monotone likelihood
+
+ratio and its application.
+
+L.16-18: GLRT (No derivation of GLRT need to 2.6, 2.7
+
+be discussed. One example of derivation of
+
+GLRT, given in the book may be explained.) Use
+of vanous tests based on GLRI without
+derivation.
+
+ 
+ 
+ 
+   
+   
+   
+ 
+ 
+    
+ 
+
+Pilani Campus
+AUGS/ AGSR Division
+
+L19: Approximate tests, paired t-test (Omit the
+derivations of GLRT, but the results to be applied
+
+to numerical problems)
+
+L20 Testing of hypotheses about multinomial
+probabilities.
+
+Classical Decision Theory (Non- parametric
+hypotheses)
+
+L17-18: Applications of the test in lect.1 (above)
+
+to distributional hypotheses and the resulting
+
+Chi-Square test of goodness of fit.
+
+L19: Kolmogorov-Smimov one sample test
+L20-21: Chi-Square test for independence and
+homogeneity
+
+L22: Wilcoxon's test
+
+L23-24: Sign test, Signed rank-sum test
+Analysis of Variance and Design of Experiments
+L25-26: Introduction and one-way
+classification (Fixed Effects Model)
+
+3.7, 3.8, 3.8.2
+3.9, 3.9.1, 3.9.2
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Chapter 3 To understand the nonparametric hypothesis
+3.2, 3.3
+
+3.4
+3.9, 3.6
+
+    
+
+Chapter 4 Students can understand
+4.1, 4.2 ANOVA and other DoE
+concepts
+
+L27-30: Randomized Block Design for one-way | 4.3,4.3.1-4.3.3
+
+classification, two-way classification (one
+
+observation per cell-interaction absent.)
+L31-32 Latin Square Design and missing values
+L 33-34: Test for testing the equality of variances
+
+Lecture 35-40: Statistical Quality Control a 5 Motivate to apply the
+concept learned in
+Statistical Quality Control.
+
+ 
+
+6. Evaluation Scheme:
+
+and 4.4
+
+moe
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+
+Mid-Semester Test <TEST 1> Open Book
+
+Quiz Pf BR To be announced in the Open Book
+class
+class
+
+Examination
+
+7. Chamber Consultation Hour: will be announced in the class.
+
+8. Notices: Notices concerning the course will be displayed on the NALANDA only.
+9, Make-up Policy: Make-up for any component of evaluation will be given only in genuine cases of absence.
+10. Note (if any): Students are strongly advised to work out all the relevant problems in the text-book and do
+
+similar problems from the reference books.
+
+Rakhee
+Instructor-in-charge
+Course No. MATH F353
+

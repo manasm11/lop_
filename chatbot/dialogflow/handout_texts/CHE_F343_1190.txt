@@ -1,0 +1,196 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F343
+
+Course Title : Process Design Principle II
+
+Instructor-in-C harge : DR. PRADIPTA CHATTOPADHYAY
+Instructor(s) : Dr. Pradipta C hattopadhyay, Linisha Biswal
+
+Tutorial/Practical Instructors: Dr. Pradipta Chattopadhyay, Linisha Biswal
+
+1. Course Description: Review of process synthesis, Design and sizing of equipment of heat exchangers,
+separation towers, pumps etc. Cost accounting and capital cost estimation, Annual costs, earings and
+profitability analysis, optimization of process flow sheets. Steps involved in designing configured industrial
+systems like solar desalinators, fuel cells, hand warmers, etc.
+
+2. Scope and Objective of the Course: The aim of the course is to provide fundamental knowledge of design
+aspects and economic analysis as applicable to Chemical Engineering processes. The main focus is on the
+concepts of process design with emphasis on cost estimation, profitability analysis, actual design of important
+equipments for Chemical Engineers.
+
+3. Text Books:
+
+T1W.D. Seider, J.D. Seader & D.R. Lewin, “Product & Process Design Principles’, John Wiley & Sons, Inc.,
+2™ ed., 2004.
+
+4, Reference Books:
+
+R1 M.S. Peters, K.D. Timmerhaus & R.E. West, Plant Design and Economics for Chemical Engineers,
+McGraw- Hill, 5th Edition, 2011.
+
+R2 Coulson & Richardson, Chemical Engineering Design, Pergamon Press, Volume 6, 2nd edition, 1993.
+R3 Aspentech online portal
+
+R4 Chafik E., Design of plants for solar desalination using the multi-stage heating/humidifying technique,
+Desalination 168 (2004) 55-71.
+
+R5 Luna-Sandoval G., et al., Hydrogen Fuel Cell Design And Manufacturing Process used for Public
+Transportation in Mexico City, Proceedings of WCE 2011, July 6-8, 2011, London, U.K.
+
+R6 S.B. Thakore & B.I. Bhatt, Introduction to Process Engineering and Design, Mcgraw Hill Education (India)
+Pvt. Ltd., ISBN: 978-0-07-063415-2.
+ 
+
+5. Course Plan:
+
+1-Overview/Case
+Studies on Latest
+Developments
+
+2- Concepts
+related to
+Economics
+
+3-Detailed Design
+
+1.1-1.6 Introduction, Important
+aspects of process design, Basic
+Process Equipment, Materials of
+Construction, Corrosion and its
+prevention, Review of process flow
+Sheets, Optimization of process flow
+sheets-principles, Case studies
+pertaining to design of configured
+industrial systems like solar
+desalinators, fuel cells, Discussion on
+air coolers, fired heaters
+
+2.1-2.2 Fixed capital, working capital,
+equipment cost, estimation of
+equipment cost by scaling, total
+product cost
+
+2.3-2.4 Types of interest, compound
+interest, present worth and discount,
+annuities, perpetuities and capitalized
+costs
+
+2.9-2.7 Depreciation, types of
+depreciation, salvage value, present
+value, methods for determining
+depreciation
+
+2.8-2.13 Methods for profitability
+evaluation, alternative investments
+
+3.1- 3.21 Heat exchanger types, basic
+design procedure, shell and tube
+exchangers, tubes and tube
+arrangements, LMTD, methodology
+for design of pumps and piping, power
+required for blower and adiabatic
+compressor, process design of orifice
+meter, rotameter, Study of a sieve tray
+tower desig
+
+Ch. 1, Ch. 3T1, R3, R4, Ro
+
+Ch. 12, R2, Ch.
+0-6-R6, Ch. 8
+R6, Ch. 13-15
+T1
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Reference | Learning outcomes
+
+Understanding the
+general design
+procedure, Case studies
+on important
+developments in process
+design
+
+Understanding the
+important concepts of
+cost estimation
+
+Learning the various
+concepts of interest,
+investment cost
+
+Learning the important
+concepts of depreciation
+
+Understanding the
+various aspects of
+profitability, alternative
+investments
+
+Learning the important
+concepts of basic heat
+exchanger design,
+process design of
+piping, pumps, orifice
+meter, rotameter,
+separation tower
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+Mid-Semester Test To be announced later OB
+
+Comprehensive 120 mins AQ To be announced later OB
+Examination
+
+Tutorial Tests * During Tutorial Session OB
+each
+
+* Fight Tutorial Tests will be conducted (best 6 will be considered).
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+8. Notices: Notice will be displayed in Google Classroom/BITS email of student as necessary.
+9, Make-up Policy:
+
+A. Make up exam for Mid-sem and Comprehensive exam will be granted for genuine cases only.
+Prior permission of IC is compulsory.
+B. No Make up will be granted for any Tutorial Test missed.
+
+10. Note (if any): None
+
+Instructor-in-charge
+Course No. CHE F343
+

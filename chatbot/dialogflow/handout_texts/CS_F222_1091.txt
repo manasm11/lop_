@@ -1,0 +1,270 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+AUGSD
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT (PART-II
+Date: 10/02/2021
+
+In addition to Part-I (General Handout for all courses appended to the Timetable) this portion gives
+further specific details regarding the course.
+
+Course No. : CS F222
+Course Title : Discrete Structures for Computer Science
+Instructor In Charge : Dr. Jagat Sesh Challa (jagatsesh@pilani.bits-pilani.ac.in)
+
+2. SCOPE & OBJECTIVE:
+
+To develop logical and mathematical concepts necessary to appreciate computational systems. And
+study of concepts, techniques, and skills necessary to comprehend the structure of problems
+encountered in design and analysis of algorithms. To provide mathematical foundations for courses in
+computer science that rely upon the comprehension of formal abstract concepts. To study recursion
+and to write recursive definitions for certain sequences and collections of objects. Graphs, directed
+graphs, planar graphs & their relevance to circuit design & map colouring problems. Trees and their
+applications. Basic algebraic structures and their applications.
+
+3. TEXT BOOK:
+
+Mott, Kandel, & Baker: Discrete Mathematics for Computer Scientists & Mathematicians,
+PHI, 2e, 2002.
+
+4. REFERENCE BOOKS:
+
+R1. K H Rosen: Discrete Mathematics & its Applications, TMH, 7e, 2011.
+R2. Douglas West: Introduction to Graph Theory, Pearson, 2e, 2001.
+R3. J. A. Bondy and U. S. R. Murty: GRAPH THEORY WITH APPLICATIONS
+
+5. COURSE PLAN:
+
+|Module | eure Session Reference Learning Outcomes
+
+Module 0: Lecture Slides | Course Introduction and Motivation,
+Course course Introduction Importance of studying Discrete structures
+Introduction | and Importance of in computer science
+
+and Discrete Structures
+
+Background
+
+Module 1: L1-L2 Lecture Slides | To learn various methods of writing formal
+
+Proof Brief study of R1: Ch. 1.6 proofs such as direct proof, contrapositive,
+
+Methods various Proof proof by contradiction, and proof by cases
+Methods
+
+ 
+Module2:
+Algorithms
+and
+Complexity
+Module 3:
+Induction
+and
+Recursion
+
+Module 4:
+Recurrence
+Relations
+and
+Generating
+Functions
+
+Module 5:
+Countability
+of Sets &
+Pigeon-hole
+
+principle
+Module 6:
+Relations
+
+Module 7:
+Graph
+Theory
+
+L3 Lecture Slides
+Introduction to R1: Ch. 3.1-3.3
+Algorithms and
+complexity analysis
+L4-L8
+
+Mathematical
+Induction, Strong
+Induction, Well
+Ordering Principle,
+Recursive
+Definitions,
+Structural Induction,
+Recursive Functions.
+L9-L11
+
+Formulating and
+Solving Recurrence
+Relations, Divide &
+Conquer Algorithms
+with recurrence
+relations,
+generating functions
+L12-L13
+Countability of Sets,
+diagonalization and
+pigeon-hole
+principle
+
+L14-18
+
+Properties of
+relations,
+representing
+relations,
+
+closure of relations,
+Equivalence Classes,
+Partial Ordering,
+Lattices
+
+L19-30
+
+Introduction to
+Graph Theory,
+Graph Isomorphism
+and Connectivity,
+Euler and
+Hamiltonian Graphs
+Planar Graphs and
+Graph Coloring,
+Matching, Graph
+Algorithms
+
+Lecture Slides
+R1: Ch. 4.1-4.4
+
+Lecture Slides
+R1: Ch. 6.1-6.4
+
+Lecture Slides
+R1: Ch. 5.2
+
+Lecture Slides
+R1: Ch. 7.1-7.6
+
+Lecture Slides
+R1: Ch. 8.1-8.8
+
+ 
+
+To understand what algorithms are and
+how their performance is measured in
+terms of time complexity analysis
+
+Mathematical Induction, Using
+mathematical induction to prove
+theorems or statements, Strong induction
+and well ordering principles, Recursive or
+Inductive definitions of functions, sets,
+and structures, Structural induction,
+proofs using structural induction, Problem
+solving using Recursion, Recursive
+Algorithms, Recursion vs Iteration
+
+To learn about recurrence relations and
+how to formulate them, methods to solve
+particular types of recurrence relations,
+deriving theorems about divide and
+conquer algorithms using recurrence
+relations, learn about generating functions
+and their applications to real world
+examples
+
+To understand countability of finite and
+infinite sets, finding whether a set is
+countable or not, proving uncountability
+of a set using diagonalization, pigeon-hole
+principle and its applications
+Mathematical definitions of relations, nary relations, Properties: reflexive,
+symmetric, transitive, antisymmetric, and
+asymmetric, Operations on Relations,
+Matrices, Diagraphs, Reflexive, Symmetric,
+and Transitive closures, Warshall’s
+Algorithm, Equivalence Relations and
+Classes, Partial Ordering Relations, lattices,
+Hasse Diagram
+
+Basic Concepts, Special Graphs,
+Elementary Theorems on Graphs, Graph
+Representation: Adjacency & Incidence
+Matrices Problem modeling, Path and
+Cycles, Isomorphism in Graphs, Connected
+graphs, connected components, cutvertices, and cut-edges, Applications,
+Definitions, Conditions (necessary and
+sufficient) for existence of Euler path and
+Hamiltonian cycles Planar Graphs, Euler
+formula for planer graphs,
+characterization of planar graphs, Graph
+Coloring: Vertex and Edge coloring,
+Chromatic graphs chromatic number.
+Basic bounds on chromatic number. Five
+color theorem, Applications of Graph
+planarity, Applications of graph coloring,
+Matching and Covering in Bi-partite graph,
+Perfect Matching, Maximal Matching and
+Augmented Paths, Applications, Graph
+Traversal: BFS, DFS, Spanning Tree: Prim,
+Kruskal, Shortest Path: Dijkstra, Bellman
+Ford
+Module 8: L31-L33 Lecture Slides | Introduction to trees and its real-world
+Trees Intro to Trees, Tree | R1: Ch. 9.1-9.5 | applications, tree traversal algorithms,
+Traversals, Spanning Spanning trees, minimum spanning trees,
+Trees MST algorithms and their applications
+Module 9: L34-L38 Lecture Slides | To give an introduction to number theory,
+Number Intro to number R1: Ch. 3.3-3.8 | modular arithmetic and their applications
+Theory & theory, modular to various domains of computer science
+
+ 
+
+Modular arithmetic, including cryptography
+
+Arithmetic cryptography basics
+
+Module 10: | L39-L42 Lecture Slides | The structure of algebra, Types of
+Algebraic Introduction to R1: Ch. 11.1- algebraic systems: Semi-group, monoid,
+Structures Algebraic Structures | 11.5 group, generator of a group, Rings, Fields,
+& Vector Spaces
+
+6. EVALUATION SCHEME:
+
+Component Duration Weightage (%) Date & Time
+
+/Component = ~—~—_| Duration | Marks and Weightage Date & Time
+
+60M (30%) 6-Mar-21- 2 PM
+24-Mar-2021 ~ 8 AM
+14-Apr-2021 ~ 8 AM
+15-May-2021 FN
+
+*The mode of conduction and the syllabus for each evaluative component will be announced
+well before the date of the examination.
+
+ 
+
+7. CHAMBER CONSULTATION HOUR:
+
+Prior appointment by email.
+
+8. MAKE-UP POLICY:
+
+Mid Sem Test: Make-up shall be granted on genuine basis.
+
+Quizzes: No make-up for quizzes.
+
+Compre: Make up for compre exam will be given as per institute rules.
+
+Prior permission from I/C is a must for makeup of any evaluation component.
+
+9. NOTICES:
+
+All the announcements will be made by sending broadcast or personal mails. Announcements will also
+be made on Nalanda.
+
+Instructor—in-charge
+

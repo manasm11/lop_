@@ -1,0 +1,265 @@
+BIRLA INSTITUTE OF TECHONOLOGY AND SCIENCE, PILANI
+Pilani Campus
+
+ 
+
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-21
+Course Handout Part II
+Date: 18/01/2021
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further
+specific details regarding the course.
+
+Course No. : MBA G559
+Course Title : Corporate Finance
+Instructor-in-charge : Dr. SAURABH CHADHA
+
+1. Brief Course Description:
+
+The course introduces students to the concepts of corporate finance, markets, financial securities,
+time value of money, risk and return, cost of capital, investment decisions, capital management,
+capital structure, shareholder rewarding policy and impact of corporate taxes on several key
+decisions. It does not assume students to have any prior knowledge in any sub-domain of Finance
+like investments, valuations or banking etc. However, a preliminary exposure to basic financial
+accounting and familiarity with financial statements is expected.
+
+2. Scope and Objectives of the Course:
+
+This course aims at introducing students to the fundamentals of corporate finance, theories,
+concepts and the process of financial decision making. The structure of the course will enable
+students to appreciate the integration between financial markets, business environment and the role
+of finance manager in maximizing firm and shareholders' wealth. Refer to detailed content wise
+discussion appended below in section five.
+
+3. Text book:
+
+Eugene F. Brigham, and Joel F. Houston, Fundamentals of Financial Management, 11" edition, Cengage
+Learning or Later.
+
+4. Reference books:
+
+A. Richard A. Brealey and Stewart C. Myers, Principles of Corporate Finance, 6/e, 2003, Tata
+McGraw-Hill Publishing Company Ltd.
+
+B. Lawrence J. Gitman, Principles of Managerial Finance, 6/e, 1991, Harper Collins
+Publishers.
+
+C. LM. Pandey, Financial Management, 11/e, 2015, Vikas Publishing House, Pvt. Ltd.
+
+D. Damodaran Aswath, Corporate Finance: Theory and Practice, 2/e, John Wiley & Sons,
+Inc.2001.
+
+E. Prasanna Chandra, Financial Management: Theory and Practice, 6/e, 2005, Tata McGraw
+Hill,
+
+F. Arthur J. Keown, John D. Martin, J. William Petty, David F. Scott, Jr.. Financial
+Management, 9/e. (2002) Prentice Hall
+
+   
+
+; Save Paper.
+em Save Trees.
+innovate achieve & ae Asave the World.
+
+ 
+
+Please C onsider Y our Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+ 
+
+Pilani Campus
+
+5. Course Plan:
+
+10-11
+
+12-14
+15-18
+
+Learning Objectives
+
+Introduction to
+Finance, Markets,
+Instruments and
+Financial
+Management
+Time Value
+Money, Risk and
+Return, Bond
+Valuation and Stock
+Valuation
+
+of
+
+Portfolio theory and
+asset pricing models,
+Beta estimation
+
+Basics of derivatives.
+Determination of
+Forwards and
+Futures prices.
+Learning about
+arbitrage and __ its
+conditions.
+
+Analysis and Impact
+of Leverage
+
+Cost of Capital
+
+Capital
+Decisions
+
+Budgeting
+
+ 
+
+Topics to be covered
+
+Introduction to financial Management, Introduction to
+financial players and markets and instruments and related
+conventions
+
+Concept of interest rates & term-structure. Bonds basics
+and dynamics of bond price, Duration & Modified
+Duration, yield-maturity-price relationship. Valuation of
+shares, Two stage growth, equity capitalization rate,
+linkage between share price, earnings and dividends,
+Introduction to concept of risk, return on a single asset,
+risk of rates of return: variance and standard deviation,
+historical capital market returns, expected return and risk
+Portfolio return, portfolio risk, risk diversification, Capital
+asset pricing model, the arbitrage pricing theory, Beta
+Estimation and the cost of equity
+
+Basics of Futures, forwards, options & swaps and their
+pay-off. Arbitrage, rationale of arbitrage assumptions
+and various examples and situations of arbitrage.
+
+Distinguish among the concepts of operating leverage,
+financial leverage, and combined leverage; Calculate the
+firm's degree of operating leverage, financial leverage,
+and combined leverage
+
+Understanding the application of cost of capital in
+business decisions, Describe the concepts underlying the
+firm's cost of capital (technically, its weighted average
+cost of capital) and the purpose for its calculation.
+Calculate the after-tax cost of debt, preferred stock, and
+common equity
+
+Discuss different types and importance of capital
+expenditure decisions on _ business _ sustainability,
+Understanding various non-discounted and discounted
+cash flow methods and their application in capital
+
+ 
+
+Please C onsider Y our Environmental Responsibilities
+
+ 
+
+Do Not Print Unless Necessary
+
+ 
+
+BIRLA INSTITUTE OF TECHONOLOGY AND SCIENCE, PILANI
+
+Reference
+(Chapter
+number)
+
+Text BookCh.1 and 4,
+Class notes
+
+Text BookCh. 5, 6, 7,
+and 8; Class
+notes
+
+Reference
+Book: IM.
+Pandey
+
+Ch. 5, 6;
+Class notes
+Text BookCh. 18; Class
+
+notes
+
+Text Book:
+Ch. 14; Class
+
+notes
+
+Text Book:
+Ch. 10; Class
+
+notes
+
+Text Book:
+Ch. 10, 11
+and 12; Class
+notes
+
+Save Paper.
+~. Save Trees.
+* Agave the World.
+BIRLA INSTITUTE OF TECHONOLOGY AND SCIENCE, PILANI
+Pilani Campus
+
+ 
+
+expenditure decisions, Understanding limitations of
+discounted and non-discounted cash flow evaluation
+methods and exploring best possible option, Analyzing
+various risk involved in capital expenditure - Scenarios
+Analysis, Sensitivity Analysis
+Working Capital | Background on Working Capital, Current Asset | Text Book:
+Management Investment Policies, Current asset financing policies, Cash | Ch. 16 and
+(WCM) conversion cycle, Cash budget, Cash and Marketable | 17; Class
+securities, Inventories, Account Receivable, Trade-Credit, | notes
+Bank loans, Commercial Paper, Accrued Liabilities, Use of
+security in Short-term financing
+Capital Structure | Understanding Theories of Capital Structure, Asymmetric | Text Book:
+and Dividend Policy | Information Theory - Pecking Order Theory; | Ch. 14 and
+Understanding financial distress and agency cost; | 15; Class
+Understanding the factors affecting capital structure; An | notes
+approach to setting the target capital structure;
+Understanding dividend versus capital gains: What do
+investors prefer?; Appreciating rationale behind stable
+dividend policy; Understanding other means of rewarding
+to the shareholders - Bonus Share, Stock Options, Stock
+Split, Share Buyback, etc
+
+ 
+
+6. Evaluation C omponent
+
+1 Mid-Semester 20
+Examination
+2 [QuizandProject | |B
+3 Comprehensive 40 10/5/2021 AN CB
+Examination
+
+7. Chamber Consultation Hour: TBA
+
+ 
+
+8. Notice: All notices will be displayed through G oogle Meet.
+
+Instructor-In-Charge
+
+ 
+
+; Save Paper.
+em Save Trees.
+innovate achieve & ae Asave the World.
+
+Please C onsider Y our Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+

@@ -78,7 +78,7 @@ def get_modified_reponse():
 if __name__ == "__main__":
     df = Dialogflow('bot-test-303915')
     while True:
-        print('\n\n\n\n\n\n')
+        print('\n')
         question = input('Question: ')
         result = df.get_response(question)
         courses = get_course_entities(result) or courses

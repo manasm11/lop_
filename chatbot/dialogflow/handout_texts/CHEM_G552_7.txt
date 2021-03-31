@@ -1,0 +1,337 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHEM G552
+Course Title : Advanced Inorganic C hemistry
+Instructor-in-C harge : BHARTI KHUNGAR
+
+1. Course Description: Bonding: ionic, metallic and covalent bonding; The concepts of symmetry and theory
+involved in group theory; Coordination chemistry: properties of d block elements, bonding in coordination chemistry,
+Spectroscopy and magnetic properties of the coordination compounds, reaction, mechanism and kinetics involved in
+coordination chemistry; Organometallic chemistry: synthesis, structure and bonding; Inorganic chains and cages.
+
+2. Scope and Objective of the C ourse: The course aims at covering topics in advanced areas of inorganic chemistry,
+with the broad classification of the entire subject into the domains viz., bonding, structure, coordination chemistry and
+organometallic chemistry. Starting with the fundamental principles and their applications, the ultimate purpose of this
+course is to provide a comprehensive survey involved in the different areas of inorganic chemistry before starting formal
+research in any of the chemistry areas.
+
+3. Text Books: ‘Inorganic Chemistry - Structure and Reactivity’, James E. Huheey, Elien A. Keiter, Richard L.
+Keiter, Okhil K.Medhi, 4" Edition, Pearson Education.
+
+4, Reference Books:
+1. ‘Chemical Applications of Group Theory’ F. A Cotton, 3™ edition,
+2. ‘Inorganic chemistry’, Albert Cotton, Geoffrey Wilkinson, 3% Edition, Willey Eastern Limited.
+3. ‘Concise Inorganic Chemistry’, J.D. Lee, 5" Edition,
+4. ‘Inorganic Chemistry’, D.F. Shriver, P.W. Atkins, C.H. Langford, 1* edition, ELBS
+
+5. Course Plan:
+
+Module Number Lecture session/T utorial Learning Outcome
+Session.
+
+1. Molecular symmetry L1-L2 Symmetry elements and | T1: Chapter 3 Analyzing the molecular
+Operations, Point group and R1: Chapter 1 symmetry, assigning
+molecular symmetry point groups
+
+2. Group Theory L3-L7 Reducible and Irreducible | T1: Pages 52-65 Application of character
+Representations and Character | pj, Pages 17-29: tae Ven!cation or ue
+Tables, Optical Activity, Dipole | 4459. 54.61: 304- caer rR a Raman
+
+activity of compounds
+
+using group theory
+
+3. Ionic Bonding L8-L9 Ionic bond, theoretical | T1: Chapter 4 Understanding the ionic
+estimations of lattice energy; size effects on lattice
+covalent character in ionic bonds, energy, metallic bonding
+covalency polarization relations and charge conduction
+solids held together by covalent
+bonding
+
+Moments, Intrared and Raman 317: 328-337
+Spectroscopy, Bonding
+
+ 
+ 
+
+4. Valence Shell Electron | L10 Structures of molecules using | T1: Chapter 6
+
+Pair Repulsion ( VSEPR)
+theory
+
+5. Coordination Chemistry:
+Valence Bond Theory (V BT)
+
+6. Coordination Chemistry:
+Crystal Field Theory (CFT)
+
+7. Molecular Orbital Theory
+
+8. Electronic spectra of | L19-L22 Term symbols;
+
+complexes
+
+9.  Octahedral distortion;
+
+charge transfer
+
+10. Magnetic Properties of | L25
+
+Complexes
+
+11. Coordination Chemistry:
+Reactions
+
+12. Introduction to
+organometallic chemistry,
+Metal carbonyl Complexes
+
+13. Metal nitrosyl and L32 Terminal and Bridging | T1: pages 601-606
+dinitrogen complexes ligands; Geometry of complexes
+
+L11-L12 concept of Valence
+Bond Theory and their application
+in coordination chemistry
+
+L13-L15 Crystal field splitting of
+d orbitals, applications of CFT in
+predicting the stability of
+complexes/spinels
+
+L16-L18 Quantum mechanical
+approach of o and x MOs,
+Construction of MO diagrams for
+
+different molecules
+d-d
+transitions; Tanabe-Sugano
+
+diagrams,
+
+L23-24 Stability
+distortions; Allowed
+transfer transitions
+
+through
+charge
+
+and
+spin
+
+Para, ferro
+antiferromagnetisms;
+transitions
+
+L.26-28 Substitution reactions in
+square planar complexes, Trans
+Effect, Mechanism;
+Thermodynamic and_ Kinetic
+Stability, Kinetics of Octahedral
+Substitution, Mechanism of
+Redox reactions
+
+L29-31 The 18 electron rule,
+Preparation & _ properties of
+carbonyl complexes; Polynuclear
+Carbonyl Complexes;
+Carbonylate ions; Carbonyl
+hydride complexes; Parallels with
+non-metal chemistry
+
+T1: pages 118-129;
+A24-428
+
+T1: pages 428-444
+
+T1: pages 444-459
+R1: pages 209-230
+
+T1: pages 461-475
+R1: pages 253-281
+
+T1: pages 475-485
+
+T1: pages 485-492
+
+R4: pages 544-546
+
+T1: pages 542-569
+
+T1: pages 572-600
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Basic structure prediction
+of molecules _ using
+VSEPR
+
+Understanding the
+coordination compounds
+by VBT
+
+Structure prediction of
+complexes using CFT
+
+Structure elucidation
+
+using MOT
+
+Predicting the electronic
+transitions in a complex;
+Investigate the origins of
+color and transitions in
+inorganic complexes
+
+Identify the magnetic
+properties of inorganic
+compounds
+
+Understanding the
+fundamentals of
+coordination chemistry.
+Predicting the reaction
+mechanisms
+
+Understanding the
+concept of terminal and
+bridging ligands,
+organometallic chemistry
+of — metal carbonyl
+complexes
+
+ 
+
+Understanding the
+structure and bonding of,
+ 
+
+14. Metal Alkyls, Carbenes,
+
+Carbynes and Carbides
+
+15. Metallocenes
+
+16. Reactions of
+organometallic complexes
+
+17. Catalysis by
+organometallic compounds
+
+18. Inorganic chains, Rings
+
+and Cages
+
+L33 Synthesis; Structure of
+ligands in complexes; Orbital
+representations of Fischer and
+Schrock Carbenes; _ structural
+examples of carbido complexes
+
+L34 Molecular Orbitals of
+Metallocenes; Structures and
+Synthesis of Cyclopentadieny]
+compounds; Covalent versus ionic
+bonding; Arene complexes;
+Cycloheptatriene and tropylium
+complexes; Cyclooctatetraene and
+Cyclobutadiene complexes
+
+L35-36 Substitution reactions in
+carbonyl complexes; Ligand Cone
+Angles; Oxidative Addition and
+Reductive Elimination; Insertion
+and Elimination; Nucleophilic and
+electrophilic attack of coordinated
+ligands; Carbonylate anions as
+nucleophiles
+
+L37-38 Alkene hydrogenation;
+Tolman Catalytic Loops;
+Synthesis Gas; Hydroformylation;
+Monsanto Acetic acid process;
+The Wacker Process; Synthetic
+Gasoline; Ziegler-Natta Catalysis
+
+L39-40 Chain catenation,
+Heterocatenation, Silicate
+minerals, Intercalation Chemistry,
+Borazines, Boranes,
+Phosphazenes
+
+T1: pages 606-615
+
+T1: pages 615-627
+
+T1: pages 634-649
+
+T1: pages 649-661
+
+T1: pages 292-313
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+nitrosyl, dinitrogen
+complexes, metal Alkyls,
+carbenes, carbynes,
+carbides and metallocenes
+
+Learning the catalytic
+mechanism using
+organometallic complexes
+
+Exploring the catalytic
+potential of
+organometallic complexes
+
+Understanding the
+chemistry of main group
+elements
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+az
+
+Comprehensive Examination 120 Minutes a
+
+7. Chamber Consultation Hour: Tuesday 11.00 am to 12.00 noon
+
+8. Notices: Notices, if any, concerning the course will be displayed on Nalanda.
+
+ 
+
+9, Make-up Policy: Make up will be allowed for genuine cases as per institute rule.
+10. Note (if any): 
+Instructor-in-charge
+Course No. CHEM G552
+

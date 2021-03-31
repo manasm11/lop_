@@ -1,0 +1,291 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 10/03/2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further specific
+details regarding the course.
+
+Course No : PHA G 535
+
+Course Title : Biomaterials
+Instructor-in-C harge : Dr. Deepak Chitkara
+Instructor(s) :
+
+Tutorial/Practical Instructors : NA
+1. Course Description:
+
+Introduction to biomaterials for pharmaceutical applications; polymeric biomaterials; Natural and synthetic polymers
+for drug delivery, regenerative medicine and nanomedicines; Polymer properties including crystallinity, glass transition,
+polymer degradation influencing pharmaceutical formulations; biocompatibility; biodegradation; in-vitro and in-vivo
+assessment of polymer toxicity.
+
+2. Scope and Objective of the C ourse:
+
+The objective of this course is to impart knowledge on various aspects of materials used in biomedical and
+pharmaceutical applications. The primary focus would be on the natural and synthetic polymers, their design,
+characterization, properties, assessment and applications in pharmaceuticals.
+
+3. Text Books:
+1. Abraham J. Domb, Neeraj Kumar and Aviva Ezra, Biodegradable Polymers in Clinical Use and Clinical
+
+Development, Published by John Wiley and Sons, Inc
+2. Buddy D. Ratner, Allan S. Hoffman, Frederick J. Schoen, Jack E. Lemons, Biomaterials Science An
+Introduction to Materials in Medicine, 2nd Edition, Elsevier Academic Press.
+
+4, Reference Books:
+1. Sangamesh G. Kum-bar, Cato Laurencin, Meng Deng, Natural and Synthetic Biomedical Polymer (1st edition),
+published by Elsevier Science.
+2. JohnnaS.Temenoff, Antonios G. Mikos, Biomaterials: The Intersection of Biology and Materials Science, 1st
+edition, Published by Pearson (January 2nd 2008)
+3. Deepak Chitkara, Anupama Mittal, Ram I. Mahato, Molecular Medicines for Cancer: Concepts and
+
+Applications of Nanotechnology, CRC Press; 1 edition, 2018
+
+5. Course Plan:
+
+Module Number Lecture session/T utorial Session. Reference Learning
+Outcome
+1. Biomaterials for | L1.1. Introduction to biomaterials and | T2. Section II.5 Understanding
+
+Pharmaceutical its applications R2 Ch. 1 of biomaterials,
+
+applications L 1.2. Different types of polymers for | Journal articles their uses in
+drug, gene and protein delivery pharmaceutical
+L1.3. Polymers for regenerative formulations
+medicine
+
+ 
+ 
+
+2. Polymers
+biomedical
+applications
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+for
+
+3. Polymer properties
+
+influencing
+pharmaceutical
+formulations
+
+4, Biodegradation
+
+5. Polymers
+
+emerging
+applications
+
+for
+
+clinical
+
+6. In vitro and in vivo
+
+assessment
+polymer toxicity
+
+of
+
+L2.1 Polymers of natural origin in
+pharmaceuticals- Gelatin, collagen,
+chitosan, alginate, Dextrans
+
+L2.2. Synthetic polymers in
+pharmaceuticals-Polyesters,
+polyanhydrides, polycarbonates, etc
+
+L3.1. Polymer bulk and surface
+characterization. Thermal/mechanical
+properties of polymers, surface and
+morphological characterization.
+
+L3.2. Characterization techniques such
+as gel permeation chromatography,
+NMR, viscometry
+
+L3.2. Crystallinity, glass transition,
+polymer degradation
+
+L4.1. Degradation of materials in
+biological environment
+
+L5.1. Polymeric systems for nucleic
+acid delivery
+
+L5.2 Polymers for tissue engineering
+and regenerative medicine
+
+L5.3. Polymers for nanomedicines
+L5.4. Polymers for diagnostic
+applications
+
+L5.1. Biological response to
+biomaterials, immune response to
+foreign materials, Blood-material
+interactions
+
+L5.2. Biological Testing of
+biomaterials, concept and assessment of
+biocompatibility, in vitro and in vivo
+assessment, Evaluation of blood
+
+material interactions
+
+T1. CH. 2, 3, 4, 5 and 6
+R1.Ch4, 5
+
+Journal articles
+
+T1. CH. 9, 10 and 11
+R1. Ch. 6, 8, 10 and 11
+Journal articles
+
+Ri Ch. 2, 20
+R2 Ch. 3 and 4
+Journal articles
+
+T2. Section II.4
+
+R3. Ch 10, 11, 16
+Journal articles, class
+notes
+
+T2 Section II.2.1, 112.3,
+11.2.6
+
+R2 Ch. 9, 12
+
+Journal articles
+
+T2 Section II.3
+
+Journal articles, class
+notes
+
+Understanding
+polymers of
+different
+origins,
+Structures,
+synthesis
+properties
+Understanding
+properties of the
+polymers,
+different
+characterization
+techniques
+
+their
+
+and
+
+Understanding
+properties of the
+biodegradation
+of polymers
+Understanding
+different
+application of
+biomaterials in
+emerging areas
+
+Understanding
+the biological
+response
+towards
+polymers and
+their assessment
+
+ 
+
+6. Evaluation Scheme:
+
+  
+
+(% ) (Close Book/ O pen Book)
+Mid-Semester Test <TEST 1> CB/OB
+CB/OB
+
+Comprehensive 3h 40 <TEST C>
+Examination
+2
+
+Seminars/ Research
+Summaries/A ssignments
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Students are strongly advised to prepare their own notes based on class lectures and relevant information from
+textbook and reference material, as only these notes would only be allowed for consultation during assessments of
+open book evaluation components. Photocopies of any material, written or printed will not be permitted. Stapled
+sheets, loose sheets of information written or printed will not be allowed.
+
+* Slides used during class hours provide key information for which additional supportive information is expected
+to be collected from sources aforementioned. Recent developments in the area/topic will be discussed in class
+based on their significance to healthcare delivery and hence some information on therapeutic benefits and toxicity
+effects, besides others, may differ from the information in text, reference material and hence students are expected
+to take note of such key discussions during contact hours. Such discussions held in class will be considered as
+primary source of information in assessments.
+
+Quiz(zes) may/will be conducted as a part of evaluation component, at random, during contact hours including
+lecture, tutorial hours, as convenient, with/without prior intimation and sometimes outside class contact hours and
+hence it is expected that the students come prepared to every class on topics covered in earlier contact hours.
+Regular classes will be held in designated tutorial hour to maintain continuity.
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+8. Notices: Pharmacy Notice Board.
+
+9. Make-up Policy: Make-ups are not given as a routine. It is solely dependent on the “genuineness” of the
+circumstances under which a student fails to appear in a scheduled evaluation component. Prior permission should be
+sought from the instructor-in-charge in advance.
+
+10. Note (if any): Grading Procedure: As specified in Handout — Part I, appended to the timetable, the
+
+instructor in-charge reserves the right to award a NC report in case the student does not make himself/ herself
+available for any of the evaluation component mentioned above. Also it is not imperative on part of the
+instructor in-charge to award all the grades. Borderline cases during grading will be judged on the basis of
+regularity to classes and consistency or progress in the performance in evaluation components. The maximum
+pull-up to be exercised by the instructor in-charge will be announced in the class and shall be based on the
+subjective judgment of the evaluator.
+
+All evaluation components are equally important, irrespective of weightage. Hence, students failing to attend
+scheduled classes, or absenting themselves in one or many of the evaluation components, may become
+ineligible for obtaining a valid grade at the end of the semester. Attendance in lectures are all equally
+important as they are all integral components of learning, irrespective of weightage and may be taken into
+consideration, during grading.
+
+Hence, students are strongly advised to keep away from absenting themselves from all aforementioned
+contact sessions. Clearing the course would require adequate performance (i.e. procuring low marks
+in evaluation components, aforementioned would not suffice, to clear the course).
+
+Instructor-in-charge
+Course No. PHA G 535
+

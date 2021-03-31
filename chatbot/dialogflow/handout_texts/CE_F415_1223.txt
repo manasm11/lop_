@@ -1,0 +1,273 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : CE F415
+Course Title : DESIGN OF PRESTRESSED CONCRETE STRUCTURES
+Instructor-in-charge :MANOJ KUMAR
+
+1. Course Description:
+
+This course deals with the study of various pre-stressing techniques, pre-stressing systems, analysis of pre-stressed
+concrete members, various losses in pre-stress, load balancing concept, determination of cable profiles in simply
+supported prestressed girders, limit state design of simply supported prestressed concrete girders for flexure, shear
+and serviceability, and the design of anchorage zone.
+
+2. Scope and Objective of the C ourse
+
+Prestressed concrete design is an advance design technique of structural systems. The clear understanding of solid
+mechanics and design of reinforced concrete is prerequisite for this course. The primary objective of the course is to
+make students grasp the concepts of prestressed concrete and to enable them for designing the structural elements
+using steel stands. At end of the course, students will have the basic concepts of analysis and design of prestressed
+
+concrete structural elements required for supporting heavy loads and sustaining higher level of deformations.
+
+3. Text Book
+
+(i) Praveen Nagarajan, Prestressed concrete Design, Pearson Ed., New Delhi, 2013.
+
+4, Reference Book
+
+(i) IS 1343: 2012 Indian Standard Code of Practice for Prestressed concrete, BIS New Delhi.
+(ii) IS 14268: 2017 Indian Standard, Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for
+Prestressed Concrete, BIS, New Delhi.
+
+5. Course Plan:
+
+outcomes
+
+1. Basic Principles
+of Prestressing
+
+Materials for
+Prestressed
+Concrete
+
+Losses in
+Prestress
+
+Lectures 1-5
+
+Need for Prestressed Concrete, Structural
+Behaviour of Prestressed Concrete Members,
+Methods of Prestressing; Post-tensioning
+systems; Classifications of Prestressed
+Concrete Members; Comparison with
+Reinforced Concrete
+
+Lectures 6-7
+
+High tensile strength steel for Prestressing,
+Properties of High Tensile steel, High
+compressive strength concrete for Prestressing,
+properties of High compressive strength
+concrete
+
+Lectures 8-T2
+
+Short-term Losses in Prestress
+
+Loss Due to Elastic Shortening of Concrete;
+Loss Due to Friction; Loss Due to Slip in
+Anchorage
+
+ 
+
+To understand basic
+principle of
+Prestressing and
+advantages of
+prestressed members
+over reinforced
+members
+
+To understand the
+necessity of high
+strength materials
+and their properties
+
+To determine various
+losses in Prestress
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Long-term Losses in Prestress
+
+Loss Due to Shrinkage of Concrete; Loss Due
+
+to Creep of Concrete; Loss Due to Relaxation
+
+of Steel;
+
+Total Loss in Prestress
+
+Lectures 13-20
+
+Analysis of Section at Elastic Stage:
+
+Methods of Elastic Analysis of prestressed
+
+sections: Combined Load A pproach; Internal
+
+Couple Approach; Equivalent Load approach
+
+Load Balancing
+
+Decompression Moment; Cracking Moment
+
+Additional Stress in Tendon; Due to Bending
+
+Flexural Behaviour of Prestressed Concrete
+
+Members; Modes of Failure in Flexure;
+
+Types of Section;
+
+Analysis of section at Ultimate stage:
+
+Analysis of Rectangular Sections with Bonded
+
+Tendons; Analysis of Post-tensioned
+
+Rectangular; Analysis of post-tensioned
+
+beams having Unbonded Tendons; Analysis of
+
+Flanged Sections
+
+Lectures 21-26
+
+Governing Inequalities; Minimum Section
+
+Modulus; Design of Prestressing Force; Magnel
+
+Diagram; Cable Zone; Selection of Cross
+sectional dimensions; Requirements for
+
+Flexural Reinforcement: Concrete Cover;
+
+Spacing of Tendons, Minimum Longitudinal
+
+Steel, Minimum Side Face Reinforcement,
+
+Steps for Flexural design of Prestressed
+
+Concrete Members
+
+Lectures 27-33
+
+Effect of Prestress on Shear Strength
+
+6. Design of Of concrete; Identification of Zones for Shear To design the
+section for Design; Ultimate Shear Resistance of concrete; , prestressed sections
+Shear Design of Shear Reinforcement; Minimum Shear for Shear
+
+Reinforcement; Maximum Ultimate Shear Force
+
+Steps for Shear Design of Prestressed members
+
+Lectures 34-37
+
+Design of Anchorage Zones in Pre-Tensioned
+
+Members:
+
+Bond Mechanisms; Transmission Length;
+
+Flexural Bond Length; Development Length;
+
+End Zone Reinforcement
+
+Anchorage Zones in Post-Tensioned Members:
+
+Bearing Stresses Behind Anchorage; Bursting
+
+Forces in Anchorage Zones; End Zone
+
+Reinforcement
+
+8 Deflections in Lectures 38-40 To check the design
+Bresineecod Deflections in Un-cracked Beams; Short-term | Ch. 8 the prestressed
+Deflection at Transfer; Long Term Deflection at sections for
+
+To grasp
+understanding about
+the flexural response
+of prestressed
+sections at Service
+and ultimate stage
+
+4. Analysis of
+Prestressed
+Concrete
+Sections
+
+9. Design of
+Prestressed
+Concrete
+Sections for
+Flexure
+
+To design the
+prestressed sections
+for flexure
+
+7. Design of
+Anchorage
+Zone
+
+To design the
+anchorage zone of
+prestressed sections
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Concrete Service Condition; Deflection Limits in serviceability
+girders prestressed girders requirement
+
+6. Evaluation Scheme
+
+Weichtace Nature of
+S.N. | Evaluation Component | Duration (6) J Date & Time component
+(OB/CB)
+
+ 
+
+ 
+
+Mid-Sem Test [S0Minuis| 35 TBAbyAUGSD| OB
+3 | Clas test Quizes Sg a
+
+2 | Compre. Exam. 3 Hours A() 07/05 FN
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+8. Notice: Notice if any, concerning this course will be uploaded at Nalanda or communicated through institute
+e-mail.
+9, Make-up Policy: Make-up will be granted only to genuine cases. For cases related to illness, proper
+documentary evidence is essential. Prior permission is necessary if student is out of station on the test date.
+
+Instructor-in-charge
+CE F415
+

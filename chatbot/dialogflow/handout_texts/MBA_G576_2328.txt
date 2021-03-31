@@ -1,0 +1,736 @@
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+ 
+
+Date: 17 January 2021
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion
+gives further specific details regarding the course.
+
+Course Title: Digital Marketing
+
+Course No.: MBA G576 / BITS F427
+Credit Units: 3
+
+Instructor in Charge: Dr. Achint Nigam
+
+Google Meet Link: meet.google.com/skc-aohu-mwz
+
+1. Course Description:
+
+Technological advances, rapid globalization, economic shifts and cultural and environmental
+developments are causing profound changes in the marketplace. As the marketplace changes, so
+must the marketers who serve it. These new developments signify a brand new world of
+opportunities for forward-thinking marketers. The course on E-Business and Internet Marketing is
+designed for the next-generation marketers.
+
+2. Focus:
+
+The course aims at introducing students to various concepts of E-Business and Internet Marketing
+and imparting practical experience as a part of the course curriculum. From the perspective of a
+marketer, students are encouraged to listen to conversations in different digital media, explore
+ways to analyze the conversations, relate to the audience and act accordingly to increase reputation
+of a brand. The objective of this course is to provide students with required knowledge, skills and
+expertise to help them build their career in E-Business and Internet Marketing.
+
+3. Scope and Objectives
+
+The course covers various theories related to e-Business and Internet Marketing, and enhances the
+effectiveness of the learning through development of skills by participating in experiential
+activities. It aims to provide students the necessary knowledge and skills to start their career as a
+digital marketer in different organizations. Students undertaking this course should be able to
+appreciate the complexities involved in e-Business and be prepared to solve the issues faced by a
+digital marketer. Students are encouraged to earn certification during the course of the program,
+so that they can get their skills recognized by independent agencies.
+
+4, Text Books:
+e T1. Ian Dodson, “The Art of Digital Marketing” (2016). Wiley (ISBN: 8126564407)
+3. Reference Books:
+
+e R1. Dave Chaffey & PR Smith, “Digital Marketing Excellence: Planning, Optimizing and
+Integrating Online Marketing” (2017) 5" Ed. Routledge. (ISBN: 1138191701)
+
+e R2. Damian Ryan. “Understanding Digital Marketing: Marketing Strategies for Engaging
+the Digital Generation”. (2016) 4 Ed. Kogan Page Publishers (ISBN: 0749478438)
+
+e R3. Ira Kaufman & Chris Horton. “Digital Marketing: Integrating Strategy and Tactics
+with Values: A Guidebook for Executives, Managers, and Students” (2014). Routledge
+(ISBN: 0415716756)
+
+e R4. Ward Hanson, “Internet Marketing and e-Commerce” (2012). Cengage (ISBN:
+8131517128)
+
+Save Paper. P =
+me) Save Trees.
+
+Please do not print, unless necessary
+
+ 
+
+ 
+
+ 
+
+ 
+    
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+ 
+
+ 
+
+6. Course Plan:
+
+Module Number | Lecture Session / Tutorial Reference Learning
+Session Outcome
+
+1.Fundamentals
+of
+
+Engaging with New | Relevant parts
+e-Business | Customer Generation; | from T1 (Ch 1),
+Internet | Digital Natives and Digital | R1 (Ch 1.1-1.2)
+Immigrants; 3i Principle and two research
+papers (to be
+
+distributed)
+Introduction to Digital | Relevant parts
+Customers; Motivations and | from T1 (Ch 1)
+
+and
+Marketing
+
+Expectations; Fears and/ and R1 (Ch 4.1Phobias 4.4)
+
+Customer Profiles; | Relevant part
+Researching the Online| from R1 (Ch
+Customer 4.9-4.10)
+
+Case study / Class-room | To be provided
+prior to or during
+the class
+
+   
+ 
+     
+   
+  
+ 
+
+Relevant part
+from R1 @.13.9)
+
+Online Revenue Models;
+Intermediary Models;
+Attribution Models;
+Communication Models
+Customer Information | Relevant part
+Processing Models; | from R1 (3.6Customer Buying Models; | 3.8)
+Loyalty Models
+
+Buyer Data Management | Additional
+Platform (DMP) Model; Paid | content to be
+Owned Eamed Media | distributed
+(POEM) Marketing
+An Introduction;
+Marketplace
+Macro and
+Environment;
+
+2.e-Business
+Models
+Frameworks
+
+and
+
+3.Digital
+Marketing
+Strategy
+
+Online |} Relevant __ part
+Analysis: | from T1 (Ch 10)
+Micro | and R1 (Ch 2.1,
+Digital | 2.5-2.12);
+Marketing Remix; | Additional
+A pproach, Audience, | content to be
+Activities, Analysis distributed
+
+Course No.: MBA G576/ BITS F427
+
+Save Paper.
+pn im Tress Course Title: Digital Marketing
+g>* ASave the World. Page 2 of 8
+
+Please do not print, unless necessary
+
+Students should be
+able to
+
+1. identify the
+various generations
+of consumers based
+on their
+characteristics
+
+2. understand the
+different factors
+that motivate or
+discourage
+consumers to be a
+part of digital world
+3. acquire basic
+knowledge about
+ways to find out
+different types of
+consumers online.
+Students should
+have
+
+1. basic idea about
+different models
+and frameworks
+that are employed ni
+e-Business
+
+2. knowledge to
+identify the best
+framework at any
+given situation.
+
+ 
+
+ 
+  
+   
+ 
+   
+ 
+ 
+ 
+
+Students should be
+able to
+
+1. appreciate
+various factors that
+impact the online
+marketplace
+
+2. identify ways to
+effectively deal
+with consumers and
+
+    
+     
+
+a
+ 
+
+df
+
+ 
+   
+
+ 
+
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+Module Number | Lecture Session / Tutorial Reference Learning
+Session Outcome
+
+4 Online Public
+
+Relations
+
+o.search Engine
+Optimization
+and Marketing
+
+ge, Save Trees.
+“AS ave the World.
+
+Please do not print, unless necessary
+
+ 
+
+Budgeting for Digital | Relevant
+
+Marketing, Selecting Right|from Rl1 Ch
+
+Suppliers for Digital | 9.5, 9.7-9.8)
+Marketing Capabilities,
+
+Change Management for
+
+Digital Transformation
+
+Measuring and Optimization | Relevant
+with Digital Analytics,
+Automation, Implementing | 9.9-9.13)
+New Systems, Managing
+
+Data Quality, eBusiness
+
+secur
+
+Digital Marketing Plan: | Relevant
+Situation Analysis, | from R1
+10.1-10.8)
+
+Objectives, Strategy, Tactics,
+Actions, Control, 3M (Men,
+Money, Minutes)
+
+Relationship Marketing | Relevant __ part
+Using Digital Platform from R1 (Ch
+8.1-8.2)
+
+Database
+Marketing
+Profiling; Personalization; | 8.3, 8.5-8.6, 8.8)
+Control Issues
+
+Marketing and | Relevant
+
+Case study / Class-room | To be provided
+activity prior to or during
+the class
+
+parts
+SEO | from R1 (Ch
+Search | 7.1) and T1 (Ch
+
+Introduction to Traffic | Relevant
+Building;
+Fundamentals;
+Engine _— Result
+Positioning
+Search Behaviour;
+
+Pages:
+SEO | Relevant
+
+A dvertising;
+Advertising; Opt-in e-Mail
+Goals, On-Page | Relevant
+Optimization, Off-Page | from T1 (Ch 2)
+
+Optimization, Analyze
+
+(Ch 7.5-7.6)
+
+ 
+
+Course No.: MBA G576/ BITS F427
+Course Title: Digital Marketing
+Page 3 of 8
+
+part
+Automation; |from R1 (Ch
+
+parts
+Keyword Strategy; Display | from T1 (Ch 2,
+Native | Ch 4) and R1
+
+parts
+
+art | suppliers in the
+online marketplace
+3. measure the
+effectiveness of
+digital marketing
+effort
+
+Students should
+appreciate:
+
+1, use of
+relationship
+marketing in digital
+platforms
+
+2. importance of
+database for better
+understanding of
+target customers
+Students — should
+know various
+aspects of
+
+1. search engine
+optimization and
+marketing
+
+2. e-Mail marketing
+3. analyze the
+marketing efforts in
+these kinds of
+marketing activities
+and optimize the
+same
+
+ 
+
+ 
+
+a
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+Session Outcome
+6.Content Content Marketing | Additional Students should be
+Marketing Fundamentals material to be | aware of
+distributed 1. ways to engage
+
+ 
+
+Staying Relevant material to be} 2. use of blogs and
+distributed newsletters for
+material to be | the consumers
+distributed
+
+Marketing Marketing Process fromT1(Ch5) | 1. have enhanced
+
+Design and Content of E- knowledge about e
+Mail; Delivery; Discove from T1(Ch5) | Mail marketing
+
+Case study / Class-room | To be provided | techniques
+prior to or during | 2. be able to design
+
+content of e-Mail
+marketing
+3. be able to
+discover new
+prospects and
+analyze the result of
+e-Mail marketing
+campaigns
+8.social Media| Brief Introduction to Web | Additional Students should
+Marketing 2.0 and UGC; Social Media | material to be} 1. know _ the
+
+Models; Using Social Media | distributed; R1j| fundamentals of
+for Brand Value social media
+
+Social Media Marketing | Relevant parts | marketing
+Goals; Channels of Social | from T1(Ch6) | 2. appreciate
+Media different models,
+
+Implementation and | Relevant parts | goals and objectives
+Managing Online | fromT1(Ch7) | of social media
+Communities; Analyzing marketing
+
+social Media Marketing
+
+Performance
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+f= Asave the World. Page 4 of 8
+Please do not print, unless necessary
+
+achieve
+
+Course No.: MBA G576/ BITS F427
+Save Paper.
+Te save Trees Course Title: Digital Marketing  y |
+innovate
+
+ 
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+ 
+
+ 
+
+ 
+
+Module Number | Lecture Session / Tutorial Reference Learning
+Session Outcome
+
+Social Business Models and | Additional 3. be aware of ways
+the Ladder of Engagement; | material to be|to manage online
+Methods for Measuring True | distributed communities
+
+Impact of Social Networks 4, know methods to
+and Word-of-Mouth; Social analyze the
+Listening and Text performance of
+Analytics; sentiment social media
+Analysis and Opinion marketing activities
+Mining 5. be able to prepare
+
+Laws and Guidelines from T1 (Ch 7), | marketing strategy
+R1(Ch5.8) on their own
+9.Mobile Students should be
+Marketing from T1 (Ch 8) | able to
+from T1 (Ch 8) | opportunities for
+
+Class-room activity / Case | To be provided | best use of mobile
+Study prior to or during | marketing
+the class 2. find out
+advertising options
+in mobile marketing
+3. analyze the
+performance of
+mobile marketing
+activities
+10. Optimizing Omni-Channel Marketing: A | Additional Students should
+Customer and | Holistic View; Online Value | material to be/|1. be able to
+User Proposition distributed; appreciate the
+Experience Relevant parts | importance of
+from R1 (Ch omni-channel
+6.3) marketing in the age
+Customer Orientation; | Relevant of e-Business
+Dynamic Design and/from RI 2. learn ways to
+Personalization; Aesthetics; | 6.4-6.7) integrate online
+Page Design marketing with
+Content Strategy and | Relevant offline business
+Copywriting; Navigation and | from R1 3. understand the
+Structure; Interaction; | 6.8-6.11) content strategy and
+Mobile Site Design design techniques
+for effective omnichannel marketing
+
+Course No.: MBA G576/ BITS F427
+Save Paper.
+Te save Trees Course Title: Digital Marketing  y |
+innovate
+
+ 
+
+  
+ 
+
+£°* “Save the World. Page 5 of 8
+Please do not print, unless necessary
+
+FFelal a)
+
+ 
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+ 
+
+ 
+
+ 
+
+Module Number | Lecture Session / Tutorial Reference Learning
+Session Outcome
+
+Web Analytics and User | Additional Students will learn
+Analytics Behaviour Online; Using | material to be) 1. Basics of web
+
+Customer Data to Drive | distributed analytics
+
+Results 2. ways to use
+
+Evaluation and Improvement | Additional consumer data for
+
+of Digital Channel | material to be| better marketing
+
+Performance; Conversion | distributed performance
+
+Rate Optimization 3. evaluate
+
+Fundamentals effectiveness of
+
+Analyze from T1(Ch9) | respect to the goals
+Class-room activity / Case|To be provided| set for digital
+Study prior to or during | marketing
+the class campaigns
+Digital Future of Advertising from R2 1. visualize the
+Marketing Class-room activity / Case | To be provided | future direction of
+prior to or during | internet marketing
+the class 2. be better
+prepared aS a
+marketer of the
+
+future generation
+
+ 
+
+7. Pedagogy:
+
+e Read
+o Books
+o Research Papers
+o News Articles
+
+e Interact
+o Case studies
+o Guest Lecture by Industry Experts
+
+e Practice
+o Digital Marketing Project
+o Google Online Marketing Competition (Optional)
+
+e Earn (Optional)
+o Hootsuite Certification (Lifetime validity; US $199; Unlimited attempts)
+o Google Adwords Certification (Valid for one year; Free)
+o HubSpot Certification (Free)
+
+ 
+
+ 
+
+ 
+
+a
+
+£ > “Save the World. Page 6 of 8
+Please do not print, unless necessary
+
+achieve
+
+Course No.: MBA G576/ BITS F427
+Save Paper.
+A caetins Course Title: Digital Marketing  y |
+innovate
+
+ 
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+Component Weightage Tentative dates Nature of
+Component
+CP
+
+ 
+
+ 
+
+ 
+
+ 
+
+a
+T
+BA
+
+Assignment / Project/ | 20% To be completed 10 days BA
+Comprehensive A0% As per AUGSD T
+semen
+
+After completing the course, the students will be able to
+e Appreciate the complexities involved in various forms of e-Business and Internet
+Marketing
+e Choose an appropriate platform for internet marketing activities
+e Find out ways to reach target customers and engage them for better business outcome
+e Design an online campaign on their chosen platform, analyze the result and optimize the
+marketing activities.
+
+ 
+
+Closed Book Test: No reference material of any kind will be permitted inside the exam hall.
+
+Open Book Exam: Use of any printed / written reference material (books. Notebooks,
+photocopies) will be permitted inside the exam hall. However, the materials should be properly
+bound in some form (hard, soft or spiral). Loose sheets of paper or stapled bunch of papers will
+not be permitted. Computers of any kind will not be allowed inside the exam hall. Use of
+calculators will be allowed in all exams. No exchange of any material will be allowed.
+
+10. Chamber Consultation: Saturday’s 11 AM to 12 PM
+
+11. Notices: All notices concerning this course will be displayed on the notice board of the
+Management Department only. Soft copy of the notice or any other emergency update may
+be shared through Nalanda / E-mail.
+
+ 
+
+ 
+
+ 
+
+  
+ 
+
+f= Asave the World. Page 7 of 8
+Please do not print, unless necessary
+
+achieve
+
+Course No.: MBA G576/ BITS F427
+Save Paper.
+Te save Trees Course Title: Digital Marketing  y |
+innovate
+
+ 
+Birla Institute of Technology & Science, Pilani
+Instruction Division
+Second Semester 2020-21
+C ourse Handout
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note:
+
+e Highest level of intellectual integrity is expected of students while they work on term papers /
+projects in terms of giving proper acknowledgement and avoiding plagiarism. Students are also
+expected to submit their assignments on time failing which these may not be evaluated.
+
+e This course is highly dynamic in its nature and content. As a result, one book may not suffice
+for achieving the learning objectives properly. However, the text book prescribed in this handout
+Should provide the fundamental for most of the modules to be discussed in this course. The
+reference books, as specifically mentioned, should be consulted simultaneously along with the
+text book. A lot of additional material (hard copy or soft copy) or reference to those materials
+will be provided in the class.
+
+e It shall be the responsibility of the individual student to be regular in maintaining the self-study
+schedule as given in the course handout, attend lectures and participate in the class-room
+activities / case studies as well as execute projects as announced in the class and / or in Nalanda.
+
+e Mid Semester Test and Comprehensive Examination are according to the Evaluation Scheme
+given in the respective Course Handout, as decided by the Instruction Division.
+
+e If the student is unable to appear for the Regular Test/Examination due to genuine exigencies,
+the student must refer to the procedure for applying for Make-up Test / Examination.
+
+Instructor-in-C harge
+
+ 
+
+ 
+
+ 
+
+Course No.: MBA G576/ BITS F427
+Save Paper.
+A soa tiees Course Title: Digital Marketing Pm
+# mASave the World. Page 8 of 8 innovate achieve lead
+
+Please do not print, unless necessary
+
+ 
+

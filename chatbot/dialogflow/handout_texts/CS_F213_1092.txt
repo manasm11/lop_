@@ -1,0 +1,336 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 14.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CS F213
+
+Course Title : Object Oriented Programming
+
+Instructor-in-C harge : Dr. J. Jennifer Ranjani (jennifer.ranjani@ pilani.bits-pilani.ac.in)
+Instructor (s) : Dr. Avinash Gautam (avinash@ pilani.bits-pilani.ac.in)
+
+Lab Instructors ; Shail Saharan (p20170404@ pilani.bits-pilani.ac.in)
+
+Prateek Verma (p20200019@ pilani.bits-pilani.ac.in)
+1. Course Description:
+
+This course provides a student with an in-depth understanding of object-oriented programming, object oriented
+analysis and design, and design patterns. Java programming language is chosen as a vehicle to teach the concept
+of object orientation. The course is taught with live demonstrations, running and debugging several examples, on
+tools like Eclipse. The later part of the course focuses on analysis and design of object oriented software system.
+After the completion of this course a student should be able to effectively realize and implement real world
+problems using object oriented principles and techniques.
+
+2. Scope and Objective of the C ourse:
+
+a) Gives in-depth understandings of object-oriented programming using the java programming language, object
+oriented analysis and design, and design patterns.
+
+b) In the classroom the course will be taught with live demonstrations, running and debugging several examples
+on tools like Eclipse.
+
+c) The later part of the course focuses on designing object-oriented software.
+
+3. Text Books:
+T1. Java: The Complete Reference, Herbert Schildt, McGraw Hill Education, Tenth Edition, 2017
+T2. Object Oriented Design & Patterns, Cay Horstmann, John Wiley & Sons, 2004
+
+4, Reference Books:
+R1. Java’ Design Patterns — A Tutorial, James W. Cooper, Addison-Wesley, 2000
+
+4, Course Plan
+
+Module Number Lecture session Reference Learning Outcome
+
+Object and Class Basics
+Basic Pillars of Object-Oriented
+Programming
+L1.1. Object-Oriented Basics | T1, Ch. 2 o Abstraction
+o Encapsulation
+1, Object-Oriented o Inheritance
+and Java Basics o Polymorphism
+Java Program Structure
+(06 Lectures) - Compiling and Executing a Simple
+Java A pplication
+Types of Variables in Java
+Primitive Types in Java
+Type Promotion and Type Casting
+Rules
+
+L1.2. Java Programming Syntax T1, Ch. 2-5
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Tee
+- Control statements
+
+- Defining Classes and Access Modifiers
+Creating Objects
+Role of Constructors
+Accessing Instance Fields and
+Methods
+Local Variables vs. Instance V ariables
+Mutable and Immutable Objects
+Command-Line Arguments (lab)
+
+ 
+
+ 
+
+L1.3 — 1.4 Defining Classes
+and Object Creation
+
+T1, Ch. 6
+
+Reading Input from console using
+Scanner class (lab)
+
+Wrapper classes and A utoboxing
+UML representation of a Class
+
+L1.5 Use of static final - Use of static and final keywords
+keywords in Java, Method Tl. Ch.7 - Method Overloading
+Overloading, Objects as - Constructor Overloading
+
+ 
+
+Parameters Objects as Parameters to Methods
+
+; T1,Ch.3, Ch. |- Implementing 1-D and 2-D Arrays
+; Lat dniays in java - _ Role of Arrays class
+2. Arrays and String
+
+; - String and StringBuffer class
+in Jawa (2 Lectures) L2.2. Strings in Java T1, Ch. 17 - String and StringBuffer methods (lab)
+-  S$tringTokennizer
+
+- Extending classes and role of super
+keyword
+, , - Method Overriding [Super Type vs.
+L3.1. Inheritance in Java T1, Ch. 8 Sub-Type Relationships]
+- UML representation of Inheritance
+relationship
+
+Abstract methods and classes
+Interfaces in Java [Class vs Interface]
+Comparable and Comparator
+L3.2.— 3.7 Abstract Classes, TL Ch.8 Interfaces
+Abstract Methods and Cla 7 Nested and Inner Classes
+ass notes ;
+Interfaces - Anonymous class and objects
+Lamda expressions
+UML representation of A bstract
+classes and methods
+Introduction to Collection Framework
+Important Collection Interfaces and
+their methods
+T1, Ch. 19, - ArrayList and LinkedList classes
+Class notes -  Iterators and Listlterators
+Sets and Hash-Maps in Java
+UML representation of Collection
+Classes
+
+L4.4 — 4.6 Generic T1, Ch. 14, - Generic Form of a class
+Programmino Class Notes - Generic Interfaces and Bounded Types
+
+3. Polymorphism and
+Inheritance in Java
+
+    
+
+(08 Lectures)
+
+4, Collections
+Framework of Java
+
+L4.1 — 4.3 Collections in Java
+
+(07 Lectures)
+
+ 
+
+o. Exception
+Handling Mechanism
+
+Exception basics and types
+
+L5.1— 5.2 Exceptions in Java | T1, Ch. 10 - Catching Exceptions
+Writing your own Exceptions
+
+  
+
+(02 Lectures)
+ 
+
+6. Input/ Output in
+Java (01 Lectures)
+
+7. Multithreading
+(05 Lectures)
+
+8. Object Model
+(01 Lectures)
+
+9, Software Design
+Patterns (08
+Lectures)
+
+5. Lab Plan
+
+L6.1 File handling in Java
+
+L7.1—7.5
+Multithreaded Programming
+in Java
+
+L8.1 Java Object Model
+
+L10.1 — 10.8
+Object-Oriented Design
+Patterns
+
+Topics to be C overed
+
+Introduction to Eclipse IDE 25-Jan-2021
+Reading user input, Designing Simple Classes 01-Feb-2021
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Create a file in java
+Read a file in java using
+BufferedInputStream
+Read a file in using BufferedReader
+- Write to a file in using
+T1, Ch. 21 FileOutputStream
+<<class - Write to file in using BufferedW riter
+notes>> - Append to a file in java using
+BufferedW riter, PrintW riter,
+FileW riter
+Delete file in using delete() method.
+Rename file in Java using renameT o()
+method
+Multithreading vs. Multitasking
+Thread Class and methods
+Creating your own Threads and
+Runnable Interface
+Thread Synchronization
+Inter Thread Communication
+- The Java Type System
+- Type Inquiry
+TA eh - Object Class
+
+T1, Ch. 11
+
+- Shallow and Deep Copy
+(a) Creational Patterns [01 Lecture]
+Singleton
+Builder
+Abstract Factory and Factory
+Method
+(b) Structural Patterns [03 Lectures]
+Adapter
+Composite
+Decorator
+Bridge
+(c) Behavioral Patterns [04 Lectures]
+- Iterator
+State
+strategy
+Observer
+Command
+Chain of Responsibility
+
+*'W eek
+starting from
+
+Class notes
+Derived from
+reference book
+R1 and other
+online
+resources
+
+ 
+
+Static variables, methods, and blocks, Object as Parameter, Wrapper Classes 08-Feb-2021
+
+Arrays, Passing arrays, Multi-dimensional arrays, Strings, StringBuffer, 15-Feb-2021
+StringT okenizer
+
+Inheritance, Polymorphism, Abstract Classes 08-Mar-2021
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Interfaces [Comparable, Comparator], Inner classes and static inner classes, Lamda | 15-Mar-2021
+expressions, Anonymous inner classes
+Collections [List, ArrayList, Iterator, ListIterator, LinkedList], Generics 22-Mar-2021
+
+ 
+
+Exception Handling and Text File I/O 29-Mar-2021
+
+Multi-threaded Programming in Java 05-A pr-2021
+Design Patterns (creational, structural and behavioral patterns) 26-Mar-2021
+
+*T entative schedule. Prior notice will be sent if there is a change in the schedule.
+
+ 
+
+6. Evaluation Scheme:
+
+Nature of component
+Component Duration | Weightage(%) | Date& Time (Close Book/ Open
+Book)
+Quiz-t * (Feb 08 — Feb 12) “TBA
+= )
+
+, , Will be announced b
+Mid Semester Exam 90 mins AUGSD y ATBA
+, , As announced in the
+0
+Comprehensive Exam 120 Min Timetable Open Book
+
+*During scheduled class hour, “To be announced later
+
+ 
+
+7. Important C ourse Policies
+
+a) Labs falling on holidays will not be cancelled or rescheduled. They will be conducted on the
+very same date and time.
+
+8. Chamber Consultation Hour — : The instructors can be contacted through email
+9. Notices : Notices will be posted on Nalanda
+10. Make-up Policy ; Make-up will be granted only in case of hospitalization. One
+
+combined make-up quiz will be conducted in April 2021. Hence, the students must make sure that
+they don’t skip both the quizzes.
+
+Dr. Jennifer Ranjani
+Instructor-in-charge
+Course No. CS F213
+

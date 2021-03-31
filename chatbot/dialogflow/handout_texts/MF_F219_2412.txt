@@ -1,0 +1,165 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 17.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MF F219
+Course Title : OPERATIONS MANAGEMENT
+Instructor-in-C harge : ABHIJ EET K. DIGALWAR
+
+1. Course Description:
+
+Introduction to operations management, product planning, forecasting, facilities location and layout, process planning
+and design, performance measures and capacity planning, scheduling and controlling, material requirements planning
+and Just-in-time systems, inventory control, human resource management, advances in operations management, case
+studies and software application.
+
+2. Scope and Objective of the C ourse:
+To provide a good fundamental concept in operations management
+To promote the importance of decision making in operations management
+To study the decision making in design, planning and control of conversion process / manufacturing systems
+To develop decision making skills in conversion process / manufacturing systems
+To make proficient in manufacturing / operations management
+At the end of this course, the students will be able to understand the importance of decision making process in
+design, planning and control of manufacturing systems
+e Atthe end of this course, the student will be able to apply the analytical skills for decision making in operations
+management
+3. Text Books:
+T Russell R. S. & Taylor B. W., “Operations Management”, International Student Version, 7/e, John Wiley and
+
+Sons (Asia) Pte. Ltd., 2011.
+
+eVVVV V
+
+4, Reference Books:
+
+Ri. Chase R.B., Aquilano N.J., and Jacobs F.R., “Operation Management for Competitive Advantage”, 9th Edition,
+Tata McGraw-Hill, Delhi, 2002.
+
+R2. Krajewski L. J., and Ritzman L.P., “Operations Management: Strategy and Analysis”, 6th Edition, Pearson
+Education Asia, India, 2003.
+
+R3. Wild R., Operations Management, 6th Ed., Thomson Learning, 2003.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module No. Lecture Session
+
+Introduction to 1-3
+Operations
+Management
+
+Product planning 4-7
+Process planning 8-10
+
+Capacity and layout | 11-13
+
+planning
+
+Forecasting 14-19 Role of forecasting, components of forecasting
+demand, forecasting methods, forecasting
+accuracy
+
+Inventory 20-23 Role of inventory, elements of inventory, EOQ,
+Management EBQ models, Inventory classification methods,
+
+inventory control systems
+
+Aggregate planning
+
+Resource planning | 27-30 T15 Material requirements planning, master
+production schedule
+
+Scheduling 31-36 Loading, sequencing, monitoring, advanced
+planning and scheduling systems, theory of
+constraints
+
+Advances in 37-40 Class Recent advances in operations management and
+Operations Notes/Research | impact of Industry 4.0 on _ operations
+Management articles management
+
+Reference Learning outcomes
+
+T1 Role and importance of operations management
+in a plant. The evolution of manufacturing
+management.
+
+The product design process, concurrent design,
+technology in design, QFD
+
+Process planning, analysis and innovation,
+technology decisions
+
+Capacity planning, facility layout, basic layouts,
+design of layouts, recent trends in layout
+
+4] 4
+
+T14 14S Operations planning process, quantitative
+techniques for aggregate planning
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester T est <TEST 1> CB/OB
+
+Examination
+
+Tutorials/Case 30% TBA CB/OB
+Discussions/ Group
+
+Projects/ Surprised
+
+Class Tests
+
+2
+
+ 
+Ry
+czy
+Y,
+
+A BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+= Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+7. Chamber Consultation Hour: Thursday after 3rd hour
+
+8. Notices: All notices regarding the course will be communicated through Nalanda/ERP/e-mail
+9, Make-up Policy: No make-up for class tests and non-appearance in class tests may lead to NC.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. MF F219
+

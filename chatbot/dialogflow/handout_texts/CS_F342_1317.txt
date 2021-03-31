@@ -1,0 +1,120 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+Course No : CS F342
+Course Title : Computer Architecture
+Instructors incharge : S Gurunarayanan
+
+Instructor (Lab) : K Ravi Teja
+1. Scope and Objective:
+
+This course aims at introducing the concept of computer architecture and organization. It involves design aspects, and
+deals with the current trends in computing architecture. System resources such as memory technology and |/O
+subsystems needed to achieve proportional increase in performance will also be discussed.
+
+2. Learning outcomes:
+
+Understand various architectural techniques used in implementation of complex logic functions
+Apply these techniques in building different computing architectures
+
+Analyze different performance metrics of different computing architectures
+
+Design associated systems resources to achieve proportional increase in performance.
+
+VVV V
+
+3. Text Book:
+(T1) Patterson, David A & J L Hennessy, Computer Organization& Design, Elsevier, 5* Ed., 2017.
+
+(T2) Samir Palnitkar, Verilog HDL: A Guide to Digital Design and Synthesis, Pearson Education Asia, 2" Ed. 2006.
+
+4. Reference Books:
+(i) J.L. Hennessy & D.A. Patterson, Computer Architecture: A Quantitative Approach, Morgan Kauffmann, 6" Ed,
+2019.
+
+5. Course Plan:
+
+as
+a
+
+Introduction to Performance metrics of Ch. 1.5-1.10
+
+computing architectures
+
+03, 04 MIPS Architecture & Instruction Set
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Overview of different classes and formats
+of MIPS instruction set
+
+Computer Arithmetic: Building hardware Ch. 3.1-3.5
+structures
+
+06,07,08 Data path Design: Building using Ch. 4.1 —- 4.4
+functional blocks
+
+09,10 Control Hardware: FSM based Design Appendix — D
+11,12,13 Exceptions & Microprogramming Ch. 4.9
+
+14,15 Floating Point Arithmetic: Hardware Ch 3.6 — 3.10
+Architectures
+16,17 Role of Performance Ch. 1.4
+18 Memory organization- Introduction Ch5.1
+
+19, 20 Cache Memory Organization: Mapping Ch.5.2
+Schemes
+
+21, 22, 23 Cache Performance
+24,25 Pipelining — Design Issues
+
+mn
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Evaluation
+
+Component Remarks
+
+Open Book
+
+Open Book
+
+Comprehensive Open Book/Closed Book
+
+examination
+
+ 
+
+** Details will be announced in the class & on course web page.
+
+Text book T2 will be used for Lab Assignments.
+
+7. Chamber Consultation Hours: Mon: 4PM to 5 PM
+
+8. Notices: Notices regarding the course will be put up on the LMS.
+
+Instructor - in - charge
+
+CS F342
+

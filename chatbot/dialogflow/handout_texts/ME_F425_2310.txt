@@ -1,0 +1,209 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+January 15, 2020
+SECOND SEMESTER 2020-2021
+Course Handout (Part IT)
+
+In addition to the part I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No.: ME F425
+Course Title: Additive Manufacturing
+Instructor-in-C harge: Radha Raman Mishra
+
+1. Course Description
+
+Additive manufacturing is an emerging manufacturing technology that can create a paradigm shift in complex
+parts production. In this course, the basic principles of Additive Manufacturing (AM), generalized AM
+process and process chain, modelling of AM processes, transport phenomena models, molten pool formation,
+and use of different materials in AM will be discussed. Various AM processes such as vat polymerization
+processes, powder-based AM processes, extrusion-based AM processes, sheet lamination processes and
+micro- and nano-additive manufacturing processes will be covered with their mechanics of operation.
+Moreover, selected case studies for modelling of AM processes will be analysed, and applications of AM in
+industries such as Aerospace, Automotive, Electronics and Biomedical applications will be discussed.
+
+2. Scope and Objective of the C ourse
+
+The present course introduces theoretical and analytical knowledge about common additive manufacturing
+processes. Moreover, it enables learners to understand the process and material selection, design of AM
+processes and industrial applications of AM technologies.
+
+3. Text Books
+
+e lan Gibson, David W. Rosen, Brent Stucker, Additive manufacturing technologies: rapid prototyping
+to direct digital manufacturing Springer, 2010. (T1)
+
+e Andreas Gebhardt, Understanding additive manufacturing: rapid prototyping, rapid tooling, rapid
+manufacturing, Hanser Publishers, 2011. (T2)
+
+4. Reference Books
+
+1. C. K. Chua, K. F. Leong and C. S. Lim, Rapid Prototyping: Principles and Applications, World
+Scientific Publishing Company, 3rd Edition, 2010. (R1)
+
+e J.O.Milewski, Additive Manufacturing of Metals, Springer Series in Materials Science, ISBN 978-3319-58205-4 (eBook), 2017. (R2)
+
+e S.M. Thompson, L. Bian, N. Shamsaei, & A. Y adollahi, An overview of Direct Laser Deposition for
+additive manufacturing; Part I & II. Additive Manufacturing, 2015. (R3)
+
+ 
+
+Zs. Save Trees.
+{or Asave the World. innovate Cre
+
+Please do not print unless necessary
+
+HM sera yo
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+39. Course Plan
+No.
+
+M1 L (1-2): Introduction to AM, concepts of reverse T1 and T2 e To understand the basic
+engineering, traditional manufacturing, concepts of AM
+computer-aided design (CAD) and computeraided manufacturing (CAM) and AM e To leam principles of
+
+: _ different AM processes
+L (3): AM process chain and application levels: T1 and T2
+direct and indirect processes
+L (4): Different AM processes and relevant | T1, Rl and R2
+process physics
+
+M2
+
+M3
+
+M4
+
+L (7): Role of solidification rate and evolution of | T1,R2andR3/e To analyse
+non-equilibrium structure solidification rate vis-a
+vis microstructure of
+
+L (8): Structure-property relationship: grain | T1, R2 and R3 additively manufactured
+structure and microstructure products
+
+L (9-20): Various AM processes and their| Tland R2 e To lean process
+mechanics of operation: Vat fundamentals, systems
+Photopolymerization Processes, Powder Bed used and working of
+Fusion Processes, Extrusion-Based Systems, various AM processes
+Material Jetting, Binder Jetting, Sheet
+
+Lamination Processes, Directed Energy ¢ To know the basics of
+
+micro and nano-AM
+processes
+
+Deposition Processes, Direct Write Technologies
+
+L (5-6): Different materials used in AM, use of | T1,T2andR2 |e To understand the uses
+multiple materials, multifunctional and graded of various materials in
+materials in AM AM processes
+
+L (21): Micro- and nano-additive manufacturing | Lecture notes
+ann eee
+L (22-25): Modelling in Additive Manufacturing, | TlandR3 |e To understand various
+Transport phenomena models: temperature and fundamentals of
+fluid flow, molten pool formation modelling of AM
+processes and apply
+
+L (26-31): Various case studies - modelling of T1 and R3 them to analyze the
+fusion-based AM process, powder bed melting different AM processes
+based process, droplet-based printing process
+
+Save Paper. gl
+
+t-\ Save Trees.
+= Asave the World. innovate Srl ST
+Please do not print unless necessary
+
+ 
+
+    
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+M5 L (32): Selection of AM Process Ti and T2 e To understand the
+Process selection,
+L (33-34) Post-processing and software issues | T1, R1 and R2 planning, control for
+for AM
+AM
+
+ 
+
+L (35-36): Design for Additive Manufacturing To leam different
+
+applications and parts
+manufactured by AM
+technologies in various
+industries
+
+L (37-40): Applications of Additive} T1,T2,R1
+Manufacturing in Aerospace, Automotive, and R2
+Electronics industries and Biomedical
+
+applications.
+
+ 
+
+6. Evaluation Scheme
+
+Components Duration | Weightage Date Remarks
+(minutes) (%)
+
+Mid Semester Test
+
+Assignments/Projects/Seminars/
+Quiz
+Comprehensive Examination 120 A0 Will be announced by AUGSD- | CB/OB
+AGSRD
+7.
+
+Chamber C onsultation Hour
+To be announced in the first class.
+
+  
+
+29 Will be announced by AUGSDAGSRD
+35
+
+To be announced in the class
+
+ 
+
+8. Notices
+All notices regarding the course will be sent through the email/Nalanda/Google classroom.
+
+9. Make-up Policy
+Make-up will be granted ONLY in genuine cases with PRIOR permission as per the institute rules.
+
+Instructor-in-C harge
+ME F425
+
+me Save Trees.
+for Asave the World. innovate Cre
+
+Please do not print unless necessary
+
+HM sera yo
+
+ 
+

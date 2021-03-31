@@ -1,0 +1,211 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 04.01.2020
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F477
+Course Title : Modeling of Field-Effect Nano Devices
+Instructor-in-C harge : Dr. Satyendra Kumar Mourya
+
+1. Course Description: Physical principles and MOS transistor phenomena, developing models including
+effective mobility, temperatures effects, and source/drain resistances. small-dimensional effects, impact
+ionization, velocity saturation drain-induced barrier lowering (DIBL), ballistic operation, polysilicon
+depletion, quantum effects, gate-tunneling currents, gate-induced drain leakage (GIDL) , fundamentals of lowpower (low-voltage) CMOS design issues; the threshold voltage shift (due to SCE) , increased leakage power,
+sources of power , SOI MOS, (PDSOI, FDSOJ) , multigate (MG) MOSFET, electrostatic integrity and short
+channel control, quantum mechanical origin, basics of BSIM CMG, compact models for multigate MOSFETs
+, mobility in multiple gate devices, improvement of the mobility ,crystallographic orientations, strained Si
+channels.
+
+2. Scope and Objective of the C ourse:
+
+This course is designed specifically for undergraduate students who have done an ‘Electronic Devices’ course earlier.
+This course will enable them to pursue modelling techniques of MOS structures, beginning with MOSFETs. This will
+be very helpful for those who would like to do further studies or want to work in the area of semiconductor devices and
+VLSI. As added perks, practical research-oriented case studies shall be taken up with special emphasis on article writing
+forjournals and conferences. This course is organized in five modules which covers various aspects of device modelling
+of long channel and short channel MOSFETs and advanced field effect devices. First module includes basics of fieldeffect devices: physics and technology and is followed by the second module i.e. metal-insulator semiconductor
+capacitor. The third module is about MOSFET models and short channel effects while the fourth module addresses SOI
+and multigate devices. The fifth and final module consist of basic physics and applications of TFETs and memristors.
+
+3. Text Books:
+(1) Yuan Taur & Tak H. Ning, Fundamentals of Modern VLSI Devices, 2™ ed., Cambridge University Press.
+
+4, Reference Books:
+R1. Jean-Pierre Colinge ,FinFETs and other multi-gate transistors, Springer.
+
+R2. James D. Plummer, Silicon VLSI Technology, Pearson Education India, 2009
+R3. R. S. Muller and T. I. Kamins, Device Electronics for Integrated Circuits, 3rd ed.,Wiley, New Y ork.
+
+R4. Paolo Antognetti and Giuseppe Massobrio, Semiconductor device modelling with SPICE, McGraw
+— Hill
+
+R5. Yannis Tsividis & Colin McAndrew, Operation and Modeling of the MOS Transistors, 3rd ed,
+Oxford University Press.
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module No. of Topic References Learning Outcome
+lectures
+
+- Introduction to the Field Effect] T.B.1.1-1.3, | Technology process
+Basics of Field- Nano Devices, Evolution and} (R22.1-2.4) |flow and foundry
+effect devices: Projections, Fabrication, CMOS status, quick recap of
+Physics and Processes, Isolation techniques: semiconductors
+
+     
+
+Technology STI, LOCOS, Tip or extension basic (to provide a
+
+(Lightly Doped Drain) Formation, connect with
+
+Interconnects prerequisite course),
+Expertise in MetalSemiconductor
+
+Metal — semiconductor Junction, contacts
+
+Schottky and Ohmic contacts,
+Band Diagrams, Schottky Barrier
+Diodes with surface _ states,
+Thermionic emission
+
+Metal-Insulator MOS capacitors: Surface .B.2.3.1- | Understanding of
+Semiconductor potential, Accumulation, oO. MOS systems in flat
+Depletion and Inversion, Band band, threshold
+
+Diagram, Modelling of surface voltage and
+
+potential and charge distribution subthreshold _ slope.
+
+in Silicon Effect of interface
+
+state density, mobile
+
+ions and interface
+
+Capacitances in MOS Structure: .B.2.3.3- | charges on _ the
+
+Accumulation, Depletion and 3. performance of
+Inversion; LF, HF, Deep MOS Devices.
+Depletion mode. Polysilicon-Gate
+
+Work Function and Depletion
+
+Effects. MOS under non
+equilibrium and Gated Diodes
+
+Oxide charges, C-V characteristic
+of the MOS Capacitor, Interface
+states and trap density.
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+MOSFET Models} 14-19 |Long Channel MOSFETs, T.B. 3.1, Effect of scaling on
+
+and Short channel gradual channel approximation, MOSFET
+
+effects MOSFET Level-1 model, Bulk| (R4 4.2-4.5) | performance,
+Charge Models (Level-2), Importance of high-k
+source/drain resistances dielectrics, Physical
+
+ 
+
+and Empirical device
+
+models and __ its
+20-23 |SCE (Short Channel Effects),} T.B.3.2.1 applications
+
+Drain Induced Barrier Lowering
+(DBE), Constant Voltage and
+
+Constant Field scaling
+24-27 | High-k dielectrics, High Field | T.B. 2.5, 3.2
+effects: Velocity Saturation,
+Impact Ionization and Avalanche R.P. [3]
+breakdown, Tunneling: band to
+band tunneling, FowlerNordheim Tunneling, Direct
+Tunneling, Trap assisted
+Tunneling, CMOS _ leakage
+current, leakage power
+SOI and} 28-30 | Partially depleted and _ fully Students will learn
+Multigate Devices depleted SOI CMOS. Strained about device physics
+Silicon Channel, source drain of, State of art MOS
+engineered MOSFET Devices including
+SOI, Fin-FET,
+CNTFET and TFT
+31-36 | Introduction to Electrostatic and also will be able
+Integrity, FinFETs and _ other to use SPICE
+Multi Gate Transistors, empirical models for
+Introduction to BSIM CMG circuit simulations
+model
+
+   
+
+Device Physics of} 37-40 | Tunnel Field Effect Transistors, Research
+TFETs, SET, and Memnristors Papers*
+Memristors
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+(% ) (Close Book/ O pen Book)
+Open Book
+Examination Open Book
+
+: ssignments/Seminar Open Book
+
+Oulaues 15 Surprised quizzes Closed Book and/or
+Open Book
+
+7. Chamber Consultation Hour: Will be announced in the class.
+8. Notices: Notices will be put up on the EEE Department Notice Board and/or Nalanda.
+
+9, Make-up Policy: Make-up will be allowed for genuine cases. Prior application should be sent for seeking
+the same. For surprise quizzes and assignments, make up will not be permitted.
+
+10. Note (if any):
+
+ 
+
+Instructor-in-charge
+Course No. EEE F477
+

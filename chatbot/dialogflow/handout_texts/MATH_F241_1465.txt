@@ -1,0 +1,273 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course Number : MATH F241
+
+Course Title : Mathematical Methods
+Instructor-In-charge :BHUPENDRA K SHARMA
+Instructor(s) ;
+
+T utorial/Practical Instructors:
+1. Course Description:
+
+Integral equations: Classification of integral equations, Voltera equations, Fredholm equations, Greens
+functions. Integral Transforms: Fourier, Fourier sine/cosine and their inverse transforms (properties,
+convolution theorem and application to solve differential equation), Discrete Fourier Series, Fast Fourier
+transform, Calculus of Variation: Introduction, Variational problem with functionals containing first order
+derivatives and Euler equations, Variational problem with moving boundaries.
+
+2. Scope and Objective of the C ourse:
+
+Course introduces the concept of different mathematical methods and their applications to engineering or real
+life problems. Students will be able to apply basic mathematical methods to modeling and solving real-world
+problems.
+
+3. Text Books:
+T1: Francis B. Hildebrand, Methods of Applied Mathematics, Dover Publications; 2nd edition, 1992.
+
+T2: Sudhakar Nair, Advanced Topics in Applied Mathematics: For Engineering and the Physical
+Sciences, Cambridge University Press; 2011.
+
+4, Reference Books:
+
+R1. G. B. Arfken and H. J. Weber, Mathematical Methods for Physicist, Academic Press; 2002.
+
+R2. Anadi S. Gupta, Calculus of Variations with Applications, Prentice-Hall of India Pvt.
+Limited; 2004.
+
+R3. LokenathDebnath and D. Bhatta, Integral Transforms and their Applications, Taylor & Francis Group;
+2002.
+
+RA, Ivar Stakgold, Michael Holst, Green's Functions and Boundary Value Problems, Wiley;
+
+3rd Edition, 2011.
+
+R5. Ram P. Kanwal, Linear Integral Equations, Birkhauser Boston; 1996.
+
+R6. A. Jerri, Introduction to Integral Equations with A pplications, Wiley- Interscience; 2? Edition, 1999.
+
+5. Course Plan:
+
+Module Number. Learning Outcome Lecture Session/ Tutorial Session Reference
+
+ 
+
+1. Introduction How the differential L1: Introduction T1 (3.1-3.2)
+equations converted to L2:Relation between integral and
+differential equations
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+rr integral equations and vice | T1.1 Related Exercise Problems.
+versa
+
+T2 (1.1-1.10),
+T1 (3.3)
+
+2. Solution of To find the solution of L3: Dirac delta function, Green’s
+BVP boundary value problems | operator
+with the help of Green’s L4: Green’s function, Adjoint
+
+function operator
+L5: Sturm-Liouville operator
+T2.1 Related Exercise Problems.
+
+3. Solutions of the | To find the solutions of L6-L7:Fredholm integral equations /| T1 (3.6-3.7)
+integral equations | the integral equations with | T3.1 Related Exercise Problems.
+separable kernels
+
+  
+
+     
+    
+  
+ 
+
+4, Characteristic Properties of characteristic | L8-L9: Hilbert-Schmidt theory T1 (3.8)
+numbers and numbers and characteristic | [4.1 Related Exercise Problems.
+
+characteristic functions
+
+functions
+
+9. Integral To find the solution L10: Iterative methods for solving T1 (3.9-3.11)
+
+equations techniques for integral equations of the second kind,
+equations L11: The Neumann series
+L12: Fredholmtheory
+T5.1 Related Exercise Problems.
+6. Approximate L13: Approximation of Fredholm T1 (3.15-3.19)
+Methods for equations by sets of algebraic
+Integral equations equations,
+L14: Approximate methods
+ofundetermined coefficients,
+L15: The method of collocation,
+L16: The method of weighting
+functions, The method of least
+squares
+T6.1 Related Exercise Problems.
+7.Integral To find the solution of L17: Fourier series, Riemann- T2 (3.1-3.4)
+transform differential equations with | Lebesgue lemma, Localization
+the help of integral lemma,
+transform L18: Fourier integral theorem,
+Fourier cosine and sine transforms
+T7.1 Related Exercise Problems.
+
+8. Fourier L19: Properties of Fourier T2 (3.5-3.7)
+
+ 
+
+Transform transforms,
+L20: Properties of trigonometric
+transforms,
+L21: Transforms of elementary
+functions
+T8.1: Related Exercise Problems.
+
+9. Applications of L22: Convolution integral, T2 (3.8-3.9,
+Fourier Transform 3.11, 3.19)
+2
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+What is calculus of
+variation? How it is used
+to maximizing or
+minimizing
+definiteintegrals involving
+functions
+andtheirderivatives of one
+and two independent
+
+10. Maxima/
+Minima
+
+11. Introduction to
+Calculus of
+V ariation
+
+12. Functions and
+their derivatives of
+one and two
+independent
+
+13. Lagrange
+
+multipliers
+
+Liouville
+problems
+15. Applications
+of Calculus of
+V ariations
+16. Approximate | Approximate solutions of
+solutions of BVP | the differential equations
+with the help of RayleighRitz method
+
+6. Evaluation Scheme:
+
+(% )
+
+Mid-Semester Test
+
+295
+
+Surprise Quizzes
+/Assignments
+
+Comprehensive
+Examination
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+L23: Mixed trigonometric transform,
+L24-25: Applications of Fourier
+transform,
+
+L26: Discrete Fourier transforms,
+T9.1: Related Exercise Problems.
+L27-28: Maxima and minima, the
+simplest case, illustrative examples
+T10.1 Related Exercise Problems.
+
+T1 (2.1-2.3)
+
+L29: Natural boundary conditions,
+transition conditions,
+
+L30:The variational notation
+T11.1 Related Exercise Problems.
+
+L31:General case of two independent | T1 (2.6)
+variables
+
+L32-33: Constraints and Lagrange T1 (2.7)
+multipliers
+T13.1 Related Exercise Problems.
+T1 (2.8-2.9)
+T1 (2.10-2.11)
+
+L34: Variable end points,
+T1 (2.19)
+
+T1 (2.4-2.5)
+
+L35: Strum-Liouvilleproblems
+T14.1 Related Exercise Problems.
+L36: Hamilton's principle
+
+L37-38: Lagrange's equations
+T15.1 Related Exercise Problems.
+L39-40: The Rayleigh-Ritz method
+
+Nature of component
+(Close Book/ O pen Book)
+ee CB/OB
+pe CB/OB (details will be
+announced in class)
+
+ee announces
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+8. Notices:A|l notices regarding the course MATH F241 will be put on Mathematics department notice
+board/NALANDA.
+
+9, Make-up Policy: Make up will be given only for genuine cases and for that prior permission has to be
+obtained
+
+Instructor-in-charge
+Course No. MATH F241
+

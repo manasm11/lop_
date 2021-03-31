@@ -1,0 +1,101 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020 - 2021
+COURSE HANDOUT (PART II
+Date: 11/03 / 2021
+
+In addition to Part I (General Handout for all courses appended to the timetable) this portion gives
+further specific details regarding the course.
+
+Course No :-CS G524
+Course Title :Advanced Computer Architecture
+Instructor-in-charge :S Mohan
+
+1. Scope and Objective:
+
+The course aims at familiarizing students with advanced computer architectures suitable
+for high-performance computing. The advanced concepts in uniprocessor and the issues in
+designing & using high performance parallel computers will also be covered. System resources
+such as memory technology and I/O subsystems needed to achieve proportional increase in
+performance will be discussed along with the software support required for these systems.
+
+2. Text Book:
+Computer Architecture: A Quantitative Approach, by J.L. Hennessy & D.A. Patterson,
+Morgan Kaufmann., 5“ Ed, 2012.
+3. Reference Books:
+(R1) Modern Processor Design, John P Shen & Mikko H. Lipasti., Tata McGraw Hill, 2006.
+(R2) Advanced Computer Architecture, Kai Hwang, McGraw Hill, 1993.
+(R3) Computer Organisation & Design Patterson, David A & J L Hennenssy, Elsevier, 4" Ed.
+2009.
+
+4, Course Plan:
+
+Topics to be covered
+01 Introduction
+
+Ol
+02, 03 CISC & RISC, Performance
+(04,05 ini
+
+04, 05
+Dynamic Scheduling
+A300] Case Study
+
+Ch. 3
+
+     
+  
+
+  
+
+ 
+
+3
+14, 15, 16 Exploiting ILP: SMT Approach
+
+ 
+
+28 | CCasestudy |S Appeendix-D
+29 _i|_Parallel Processing — Introduction
+30,31 Shared Memory Multiprocessors
+
+22, 23,24 | Virtual Memory & Virtual Machines, |
+28
+29 i
+Multiprocessor
+34, 35 Cache Coherency, Memory Consistency Ch.
+Models
+
+D
+
+36, 37 Multithreading & Multithreded Processors
+38, 39 VLIW & EPIC A ppendix-H
+40, 41 | RecentTrends fe
+
+ 
+
+6. Evaluation Scheme:
+
+No. | Component (min) (% ) Component
+Mid Sem Test 35 Be Closed Book
+
+2 Assignments/ 25 Open Book
+Quiz/ Term
+
+Papers
+
+22/06/2021(AN) | Partly Open
+
+ 
+
+8. Chamber C onsultation Hours: Tuesday 3PM to 4PM
+
+9, Make-up Policy:
+Make Up for any component will be given only in genuine cases. In all cases prior
+intimation must be given to IC.
+
+10. Notices: Notices regarding the course will be put up on the course web page on nalanda
+
+Instructor - in - charge
+CS G524
+

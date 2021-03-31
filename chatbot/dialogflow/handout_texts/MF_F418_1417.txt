@@ -1,0 +1,167 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MF F418
+Course Title : LEAN MANUFACTURING
+Instructor-in-C harge : ABHIJ EET K. DIGALWAR
+
+1. Course Description:
+
+Fundamentals of continuous improvement, value added and waste elimination, elements of lean production: small lot
+production, setup time reduction, maintaining and improving equipment, pull production systems, focused factories
+and group technologies, work cells and cellular manufacturing, standard operations, quality of design, systems for
+eliminating defects, simplified production planning and control systems: scheduling for smooth flow, synchronizing
+and balancing process, planning and control in pull production, beyond the production systems: managing the supply
+chain, activity based costing, performance measurement.
+
+2. Scope and Objective of the C ourse:
+
+In factories around the globe, Toyota consistently raises the bar for manufacturing, product development and process
+excellence. The result is an amazing business success story: steadily taking market share from price-cutting
+competitors, earning far more profit than any other automaker, and wining the praise of business leaders worldwide.
+With a market capitalization greater than the value of General Motors, Ford and Chrysler combined; Toyota is the
+world’s most profitable automaker. Toyota’s well known “secret weapon” is lean manufacturing — the revolutionary
+approach to business processes that it invented in the 1950’s and has spent decades for perfecting. Today business
+around the world is attempting to implement Toyota system to maintain competitive advantage. But are they?
+
+The course explains Toyota’s unique approach to Lean manufacturing, that drive Toyota’s quality and efficiency
+obsessed culture. You will valuable insights that can be applied to any organization and any business process, whether
+in services or manufacturing. You will discover how the right combination of long term philosophy, processes, people
+and problem solving can transform your organization into a lean, learning enterprise — the Toyota way.
+
+At the end of this course, the students will be able to understand the importance of lean manufacturing / The Toyota
+Way as a strategic weapon, the students will be able to understand the World —Class power of the Toyota way
+
+3. Text Books:
+
+T1. Pascal Dennis, "Lean Production Simplified", 2nd Edition, Productivity Press, 2007.
+
+T2. Jeffrey K. Liker, “The Toyota Way”, MaGraw-Hill Edition, New Delhi, 2004.
+
+4, Reference Books:
+
+R1 James P. Womack and Daniel T. Jones, “Lean Thinking: Banish Waste & Create Wealth in Your Corporation, Revised
+Edition, Simon & Shuster, 2001.
+
+R2 Nicholas, John M., “Competitive Manufacturing Management”, Tata McGraw Hill Education Pvt. Ltd. New Delhi,
+2012
+ 
+
+5. Course Plan:
+
+Module No.
+
+Birth of lean
+production
+
+Lean production
+system
+
+Stability and
+Standardized work
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Lecture Session eference | Learning outcomes
+1-2
+
+ee T1 Chi, | Types of production systems, growing dysfunction,
+
+R2 Chi birth of lean production, virtue of necessity, lean
+revolution at Toyota
+
+T1Ch2_ | Whylean production? Systems and systems thinking,
+R2 Ch3 basic image of lean production, customer focus,
+Muda, Mura and Muri, Toyota’s Seven Wastes
+
+Standards in lean system, Continuous Improvement,
+5S system, total productive maintenance
+
+Just-In-Time and
+Jidoka
+
+Why JIT, principles of JIT, JIT system, pull systems,
+R2 Ch 5, 6 | kanban, kanban rules, Small lot production, setup
+time reduction, SMED methodology, development of
+
+Jidoka concept, why jidoka, expanded role of
+conveyance, production levelling, Poka Yoke,
+VSM Process, TAKT time, analysis of data, symbols,
+benefits, Visual Management, Kaizen, Case Studies
+
+T1Ch5
+and Class
+Notes
+T1Ch7, 8
+and 9
+T2 Ch 15,
+16 and 17
+
+Value Stream
+Mapping
+
+Involvement and
+Customer Focus
+
+Why involvement? The terrible waste of humanity,
+activities supporting involvement, Leadership
+development, people development, supplier
+development, kaizen circle activity, practical kaizen
+training, suggestion programs, what is planning? Why
+plan? problems with planning, hoshin planning,
+hoshin planning system, four phases of hoshin
+planning, what is lean culture? How does lean culture
+feel?
+
+T2 The world-class power of the Toyota way, Toyota way
+in action
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ O pen Book)
+CB/OB
+Examination
+CB/OB
+
+Assignments/Class 35% TBA
+Test/Group Project
+
+7. Chamber C onsultation Hour: Friday 3.00 PM
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+8. Notices: All notices regarding the course will be communicated through Nalanda/ERP/email.
+9, Make-up Policy: No Make-up for class tests and non-appearance in class tests may lead to NC.
+10. Note (if any):
+
+Instructor-in-charge
+Course No. MF F418
+

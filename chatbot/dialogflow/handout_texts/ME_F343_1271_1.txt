@@ -1,0 +1,184 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date:16/01/2021
+In addition to Part-I (General Handout for all courses appended to the time table) this
+portion gives further specific details regarding the course.
+
+Course No : ME F343
+
+Course Title : Mechanical Vibration
+Tnstructor-in-charge : Arun Kumar Jalan
+
+‘Tutorial Instructor : Arun Jalan, S S Y adav, G Watts
+
+1. Course Description:
+
+Small oscillations of linear dynamical systems, free and forced vibrations of single and multi
+degree-of-freedom systems, normal modes and orthogonality relations, generalized co-ordinates and
+Lagrange's equations, matrix formulation, eigen-value problem and numerical solutions, transient
+response of one-dimensional systems, approximate energy methods, continuous system, vibration of
+string, rods, bars and beams. Introduction to control systems.
+
+2. Course Objectives:
+
+Course Objectives
+
+CO1 | Provide an introduction to analytical dynamics and present Lagrange’s equations of motion
+which is an efficient way of deriving equations of motion.
+
+Present a matrix approach to the vibration of SDOF and MDOF systems, placing emphasis
+on modal analysis. To cover methods suited for automatic computation for obtaining the
+system response.
+
+CO3 | Response of aSDOF system under harmonic forces and transient forces.
+
+CO4 | Setting-up initial-boundary value problems for some important and fundamental structural
+members viz. Bars, strings, rods and beams. Analytical and approximate solutions to these
+problems for various loading and boundary conditions are discussed and analyzed.
+
+ 
+
+3. Learning Outcomes
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+ 
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+“ Learning Outcomes
+
+An ability to apply mathematical knowledge to an engineering problem by developing the
+equations of motion for vibratory systems and solving them.
+
+ 
+
+Understanding importance of how structural vibrations may affect safety and reliability of
+engineering systems.
+
+Relation between Vibration and Control
+
+4, Course Material
+
+Text Book:
+
+T1: "Theory of Vibration with Application", Thomson W. T., Dahleh M. D., Pearson Education,
+54 Ed.
+
+Reference Books:
+
+Ri: "Mechanical Vibration", SS Rao, Pearson Education, 4th Ed
+
+R2: "Elements of Vibration analysis", Leonard Meirovitch, McGraw-Hill, Singapore, 1986.
+
+ 
+
+5. Course Plan:
+Lect. Topics to be covered Learning Objective Reference
+No Chap./Sec
+Introduction to Oscillatory . . T1-CH1
+0-4 Free Vibrations of single degree | Concept of natural frequency and system damping
+of freedom system properties T1-CH2
+
+Responses due to harmonic forces and_ their
+practical application such as vibration isolation,
+vibration measuring instruments
+
+Harmonic Forced Vibration of
+SDO System
+
+ 
+
+ 
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+excitations.
+motion for a discrete system
+15-16 Modal analysis, Coupling co-ordinates, Vibration
+freedom (2 DOF) absorber
+Computational methods for | Orthogonality principle, Modal analysis for MDOF | T1-CH7
+17-20 | MDOF system system: Matrix iteration method (Iteration, &
+Deflation)
+21-24 | Approximation methods: | Approximate natural frequencies for discrete | T1-CH 10
+eee ee
+equation, Holzer method
+25-28 .
+String, Rods, Beams mechanical systems
+
+5Continuous system: , ; .
+29-31 Rayleigh's method, Rayleigh-Ritz method, T1- CH10
+9
+
+ 
+
+Approximate solution
+
+Introduction to Control system Basic Introduction of control system
+
+6. Evaluation Scheme:
+
+Evaluation Duration Weightage Marks Date and | Remarks
+Components (min.) (% ) time
+
+ 
+
+7
+TOTAL
+
+7. a. Tutorial : There will be four evaluative tutorials, each of 10 marks. All are surprise in nature.
+b.Quiz =: Two Quiz will be there. Dates will be announced.
+
+ 
+
+8. Chamber Consultation Hour: Through Google meet link : The link will be shared in CANVAS
+
+9, Notices: Notice, will be givenin CANVAS
+
+Instructor-In-C harge
+ME F343
+
+ 
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+

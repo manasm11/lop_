@@ -1,0 +1,189 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+
+COURSE HANDOUT
+Date: 18-01-2021
+
+In addition to part | (General Handout for all courses appended to the Time table) this portion gives further
+Specific details regarding the course.
+
+Course No > EEE F243 /INSTR F243
+
+Course Title > SIGNALS AND SYSTEMS
+
+Instructor-in-C harge : Dr. Anantha Krishna Chintanpalli
+
+Instructor(s) : Dr. Anantha Krishna Chintanpalli, Dr. Pawan K. Ajmera
+
+Tutorial/Practical Instructors : Dr. Anantha Krishna Chintanpalli, Dr. Pawan K. Ajmera, Dr. Praveen
+Kumar A V, Dr. Sainath Bitragunta, Dr. Sujan Yenuganti, Dr. Shishir
+Maheshwari
+
+1. Course Description: This course is intended to provide a comprehensive coverage of Signals and
+Systems, a fundamental subject of Electrical Engineering. The topics covered are: Continuous-time and
+discrete-time signals and systems, convolution, properties of linear time-invariant (LTI) systems, Fourier
+series, Fourier transform, Laplace transform, z-transform, system analysis, frequency response, analog
+filters, Sampling and reconstruction.
+
+2. Scope and Objective of the Course: This course is a fundamental course in which the basics of signals
+and systems are covered. It deals with the basic transforms, that are essential for signal processing related
+applications. Apart from the regular lecture series, the weekly tutorial session will assist the students for a
+better understanding of the concepts. The evaluation components include quizzes (conducted during the
+tutorial hours) and exams. The students are required to review the following mathematical topics: Calculus,
+vector analysis, coordinate systems, arithmetic and geometric progression, probability and complex
+variables.
+
+3. Text Books:
+T1: B. P. Lathi, “Signal Processing & Linear Systems”, Oxford University Press, 2" edition, 2009.
+T2: |. J. Nagrath and S. N. Sharan, “Signals and Systems,” TMH, 2" edition, 2009.
+
+4. Reference Books:
+
+R1: A. V. Oppenheim, A. S. Willsky with S. H. Nawab, Signals and Systems, Pearson India Education
+Services, Second Edition, 2015.
+
+R2: M.]. Roberts, Signals and Systems: Analysis using Transform Methods and MATLAB, Tata McGrawHill Publishing Company Limited, Second Edition, 2003.
+
+5. Course Plan:
+
+Module No. | Lecture Session Reference | Learning outcomes
+
+2. (2-5) Classifications; Mathematical Representation; | T1-1.1to1.5 | Understand the
+
+Elementary signals: Unit Impulse, Unit Step, | 2 8+! 84 | fundamental signals
+Unit Ramp, and Exponential; Transformations of Ri-t.T'0 14 | used in continuous-time
+
+(CT) and discrete-time
+
+(DT) representations.
+
+. (6-8) Basic System Properties (Causality, Stability, | 11-1.0to1.8 / Understand the various
+
+Time-Invariance, Linearity, Invertibility, systems | + 8-> properties associated
+
+with and without memory); Interconnections of Ri-t9 f0 1.8 | with CT and DT
+
+systems. systems.
+
+the Independent Variable.
+3
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Unit Impulse Response; Convolution Sum and | T1-2.1 to 2.4
+
+Convolution Integral Representation; Properties
+of LTI systems.
+Fourier Series Representation for periodic
+Signals and its convergence; Properties of
+Fourier Series.
+
+CT Fourier Transform and its Properties;
+continuous-time LT| System characterizations
+using the differential equations.
+
+Laplace Transform and it properties, Region of
+Convergence; LTI System characterizations.
+
+ch2, ch9
+
+- ch3, ch10
+- 3.1 to 3.8
+
+Understand the
+concepts of convolution
+in CT and DT domains.
+
+Understand the
+concepts of Fourier
+series for periodic
+Signals in CT and DT
+domains.
+Understand the
+concepts of Fourier
+Transform for CT
+Signals.
+
+Understand the
+concepts of stability with
+
+respect to ROC for CT
+LT|l systems.
+Understand the concept
+of Sampling.
+
+Conversion from CT signals to DT signals using - chs
+
+the sampling theorem; Aliasing, Reconstruction a lee
+of Signals; Effect of Under Sampling.
+
+DT Fourier Transform and its Properties;
+discrete-time LTI System characterization using
+
+the difference equations.
+
+Understand the
+concepts of Fourier
+Transform for DT
+Signals.
+
+Understand the
+concepts of stability with
+respect to ROC for DT
+LT|I systems.
+
+10. (34-37) | z-transform and it properties, Region of
+Convergence; LTI System characterization;
+
+Hardware implementations (Direct form-| and II)
+
+11. (38-40) | Random Signals and Systems
+
+ 
+
+6. Evaluation Scheme:
+
+Component Weightage Date & Time | Nature of component
+(200 marks) (Close Book/ Open
+Book)
+
+Mid-Semester Test Open Book
+
+Comprehensive Examination = FN Open/closed Book
+
+Quizzes (Total = 3) ,
+Best of 2 Quizzes 20 Mins 20% TBA
+
+MATLAB Assignment 0% TBA Open Book
+
+7. Chamber Consultation Hour:
+
+Open Book
+
+ 
+
+8. Notices: Notices regarding the course will be displayed only on NALANDA.
+
+9, Make-up Policy: No make-up will be given for Quizzes, however for other components; make-up will be
+given ONLY in extremely genuine cases. In such cases, the student must produce the sufficient proof or
+must have taken the prior permission from the IC.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE/INSTR F243
+

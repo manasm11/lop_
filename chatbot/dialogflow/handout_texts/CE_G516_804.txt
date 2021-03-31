@@ -1,0 +1,327 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 11.03.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE G516
+
+Course Title : Multi-Criteria A nalysis in Engineering
+Instructor-in-C harge : AJIT PRATAP SINGH
+
+Instructor(s) :
+
+T utorial/Practical Instructors:
+1. Course Description:
+
+Introduction, Conventional optimization, Multi-objective Optimization, Fuzzy logic and its extensions, in
+multi-objective optimization, Multicriterion Decision Making, Deterministic analysis, Stochastic analysis,
+Fuzzy analysis, Classification problems, Hybrid approaches in Decision Making, Genetic Algorithms,
+Artificial Intelligence, Artificial Neural networks, Practical applications in Engineering.
+
+2. Scope and Objective of the C ourse:
+
+Multi-criteria analysis (MCA) is a valuable and increasingly widely-used tool to aid decision making where
+there is a choice to be made between competing options. It is particularly useful as a tool for evaluating various
+options in context to infrastructure systems engineering and management where a complex and interconnected range of environmental, social and economic issues must be taken into consideration and where
+objectives are often competing, making trade-offs unavoidable. It provides a robust and transparent decisionmaking structure, making explicit the key considerations and the values attributed to them, and providing
+opportunities for stakeholder and community participation. MCA can be applied at all levels of decisionmaking, from the consideration of project alternatives to broad-reaching policy decisions guiding a transition
+towards sustainability and the green economy. This course is an introduction to the field of multi-criterion
+decision making and allied fields so that student can learn where and how to search for the best solutions of
+real-life multi-criteria problems. Various advanced mathematical programming techniques (multi-objective
+optimization, artificial neural networks, fuzzy logic etc.) will also be covered along with practical applications
+and case studies. The unified approach will enable students to tackle the real-life problems in more
+comprehensive manner and provide a broader view on the subject.
+
+3. Text Books:
+
+T1.Saaty, T.L. and Luis G. Vargas Models, Methods, Concepts & Applications of the Analytic Hierarchy
+Process, Kluwer Academic, 2001.
+
+T2. Rajasekharan S. and G. A. Vijaylakshmi Pai, Neural Networks, Fuzzy Logic, and Genetic Algorithms,
+Prentice-Hall of India, New Delhi, Eighth Edition 2007.
+
+4, Reference Books:
+
+R1. Kartalopoulos, $.V., Understanding Neural Networks and Fuzzy Logic, Prentice-Hall of India, New Delhi,
+2002.
+
+R2. Deb, K., Multi-Objective Optimization using Evolutionary Algorithms, John Wiley and Sons, Ltd,
+Singapore, 2001.
+
+R3. Ross, T.J., Fuzzy Logic with Engineering Applications, John Wiley and Sons, Inc., New Delhi, 2005.
+ 
+
+5. Course Plan:
+
+Module No
+
+1
+3,4
+6,
+
+9,10, 11
+
+12, 13, 14, 15
+16, 17, 18, 19
+
+20, 21, 22, 23, 24
+
+2
+,O
+7,8
+
+25, 26, 27, 28
+
+Lecture Session
+
+Conceptual framework and scope of
+
+the course in decision making process,
+
+Classification of MCDA Problems:
+Discrete and Continuous Cases.
+
+Introduction, Criteria, Social criteria,
+Economic critena, environmental
+
+criteria, Constructing the Hierarchy of
+
+the Criteria
+
+Dominance method, Sequential
+Optimization(SO), Simple Additive
+Weighting (SAW), Distance Based
+Methods (DBM), Analytic Hierarchy
+Process (AHP), Case studies and
+Discussions
+
+Dominance Method, Sequential
+Optimization, Simple Additive
+Weighting, Distance Based Methods,
+Case Studies Discussions
+
+Necessity of optimization, Linear
+Programming and other conventional
+methods, Numerical problems, Goal
+programming, Weighting and
+Constraint methods, Numerical
+problems
+
+Multi-attribute utility theory and
+Outranking methods:
+
+PROMETHEE method, Compromise
+Programming, EX PROM
+
+Introduction, Probabilistic methods,
+Certain equivalents, Fuzzy methods:
+Fuzzy arithmetic, Membership
+functions, Fuzzy relations, Fuzzy
+decision making Probabilistic- Fuzzy
+MCDA Models, Case studies, LongTerm watershed, management,
+Conservation or new water transfers
+Fuzzy Linear Programming: Single
+and multiple objective
+
+CH-2, 3 (T-1)
+
+CH-3, 6 (T-1),
+Supplementary
+Notes
+
+CH-3, 6 (T-1),
+Supplementary
+Notes
+
+CH-4, 6, 12 (T
+2),
+Supplementary
+Notes
+
+CH-10, 11 (T2),
+Supplementary
+Notes
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Introduction to Multicriteria Decision
+Analysis: Its Role in
+Planning and
+Management
+
+Study of hierarchy of
+the Criteria
+
+Study of solution
+techniques for Discrete
+MCDA Problems
+
+Study of solution
+techniques for
+Continuous MCDA
+Problems
+
+Study of Conventional
+optimization and MultiObjective Optimization
+
+Study of solution
+techniques for MultiCriterion Decision
+Making analysis under
+different environments
+Study of MCDA
+Problems Under
+Uncertainty: Fuzzy
+logic and Decision
+making
+
+Fuzzy multi-objective
+optimization
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+29, 30, 31 Social choice methods, Plurality CH-8, 12, 13 Study of Sociovoting, Borda count, Hare system (T-1), economic Choice
+(Successive Deletion), Dictatorship, Supplementary | Methods
+Pairwise comparisons, Case studies, Notes
+Forest Treatment problem, Ranking
+water resources Projects, Consensus
+on the Results, Discussions
+
+32, 33, 34, 35, 36 | Basics of Artificial Neural Networks, | CH-2,8(T2&_ | Introduction to
+genetic algorithms and their R1) Artificial Neural
+relationship to decision making Networks and Genetic
+
+Algorithms
+
+37, 38, 39 Measures of association — Correlation, | Supplementary | Analysis of more than
+Chi-square distance, Jaccard index, Notes one response variables
+Euclidean distance, Principal through Multivariate
+Components Analysis, Redundancy techniques
+
+analysis etc.
+
+AQ to 42 Application to various aspects of civil | Supplementary / Practical case studies
+engineering Notes and
+Journals of
+International
+Repute
+
+6. Evaluation Scheme:
+(% ) (Close Book/ Open Book)
+class from time to time.
+°
+Examination
+Project*/ Assignment | To be announced in the class from time to time. Two
+evaluative assignments will also be conducted).
+*Project/Assignment: During the semester, each student will work in a team (of maximum two students) on
+a project dealing with a decision problem relevant to civil engineering and infrastructure systems planning
+and management. This project will be devoted to any the broad topics covered in the course such as analytic
+hierarchy process, analytic network process, fuzzy decision making, multi-objective optimization, artificial
+neural networks, genetic algorithms etc. Each group of students will work on the project related to his area of
+
+interest/work/research. This project may or may not involve software like MATLAB, expert choice and other
+software available on internet etc.
+
+ 
+
+ 
+
+The projects typically may be of interdisciplinary in nature and may consider various aspects of civil
+engineering. There will be two presentations in a semester by each group to discuss the progress of their
+project work among all registered students and the I/C and submit a final project report.
+
+The purposes of the project are:
+1. To enable you to explore in-depth aspects of the subject of multi-criteria analysis.
+2. To provide experience in the formulation, execution and presentation of an engineering investigation
+in the area of multi-criteria decision making methods.
+
+3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+3. To provide a teamwork experience dealing with the interdisciplinary nature of the project.
+
+Steps in Carrying out the Project
+The steps in carrying out the project are:
+1. Prepare a proposal outline in MS Word and email it to the instructor specifying the objective of your
+project and outlining how you plan to go about executing it by 31 January 2021.
+2. Present an oral report in class on the date posted on the class assignment web page.
+3. Send a written report (in MS Word) to the instructor on the date posted on the class assignment web
+page.
+Before beginning your project, you need to prepare a project proposal and submit it to the instructor for
+approval and feedback. This proposal should be about one page in length. The instructor will review the
+proposals and provide comments for the student to revise the proposal for final submittal and approval. The
+proposal should contain:
+e A minimum of 5 bibliographic citations relevant to your proposed project.
+Definition of the problem including relevant background.
+Discussion (preliminary) of the proposed methods of solution of the problem.
+Anticipated data needs.
+Anticipated problems in carrying out the project.
+Team members with ID. No. and Name
+Assignment of tasks to team members.
+
+7. Chamber Consultation Hour: Tuesday 9" Hour at 2112
+
+8. Notices: All notices concerning the course will be displayed on Civil Engineering Department Notice
+Board/Google Class Room.
+
+9, Make-up Policy:
+1. Make-up will be granted only on genuine reasons. However, prior permission is must.
+2. Formedical cases, a certificate from the concerned physician of the Medical Centre must be produced.
+3. Please also refer item no. 6 on page 2 of Part I of course handout mentioned in the Timetable for
+Second Semester 2020-21 for more details.
+
+10. Note (if any): Academic honesty and academic integrity are to be maintained by all of the students
+throughout the Semester and no type of academic dishonesty is acceptable.
+
+Instructor-in-charge
+CE G516
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER, 2020-2021
+(Outline of the course: To be filled in consultation with the I/C)
+
+Course No.: CE G516
+Course Title: Multi-Criteria Analysis in Engineering
+Date of Submission of Outline:
+Name of the student: ID No:
+
+Topic of the course work:
+
+Aim and Scope of the Study:
+
+Plan of Work:
+
+References:
+
+Student’s Signature A pproved/Disapproved
+Date: Signature of the instructor
+
+*The registered student must submit duly filled above outline after verification from the Instructor-in-charge of
+the course, Prof. A. P. Singh latest by 31.01.2021.
+

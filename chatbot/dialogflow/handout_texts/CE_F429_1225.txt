@@ -1,0 +1,319 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.1.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F429
+Course Title : Design of Foundation System
+Instructor-in-C harge : Ravi Kant Mittal
+
+1. Course Description: Evaluation and interpretation of soil properties, dynamic properties of soil,
+geophysical and seismic methods, Stress in soil mass due to applied load, various methods of settlement
+analysis, static and dynamic bearing capacity of footings, bearing capacity of footings resting on layered soils
+and footing on or near slopes, tilt, rotation and horizontal displacement of foundations subjected to eccentricinclined loads, seismic design of shallow foundations, analysis of raft foundations, circular and annular rafts,
+structural design of shallow foundations, pile foundations load capacity and settlements, various methods of
+analysis of laterally loaded Pile Foundations, piles subjected to dynamic loads, seismic design of pile
+foundations, structural design of pile foundations, static and dynamic earth pressure theories, stability analysis
+of retaining walls, reinforced earth wall design, machine foundations for reciprocating machines, impact type,
+rotary machines, IS code provisions on foundations, codal provisions on structural and earthquake resistant
+design of foundations.
+
+2. Scope and Objective of the Course: The main goal of this course is to provide an in-depth understanding
+regarding analysis and design of foundations systems for buildings, bridges substructure, industrial complexes,
+ports, harbors, water tanks, storage tanks of industrial structure, transmission line towers etc. Complete design
+of foundation systems considering geotechnical as well structural (R.C.C.) design of foundation systems will
+be covered. Emphasis will be given on complete coverage of Indian code of practice for various type of
+foundation. Latest advancement and practices followed in design office as per International code and standards
+will be covered.
+
+3. Text Books:
+
+T1. Coduto, D.P., Kitch, W.A. and Yeung, M.Y. (2016) Foundation design: Principles and practices, 3%
+edition, Pearson.
+
+T2. Das B M and Luo Z (2017) Principles of Soil Dynamics, Cengage 3rd edition.
+4, Reference Books:
+R1. McCarthy (2015), Essentials of Soil Mech. And Foundation Engg. Pearson, 2015
+
+R2. Saran, S. (2012), “Analysis and design of foundations and retaining structures subjected to seismic
+loads” I K Lee Publishers.
+
+R3. Das B M (2016), “Principles of Foundation Engineering”, Cengage 8th edition.
+R4.Saran, S. (2006) “Analysis and design of sub-structures” 2nd ed., Oxford & IBH Publishing. New Delhi
+
+Rd. Relevant BIS codes and International code of practice
+ 
+
+5. Course Plan:
+
+:
+
+Static and
+dynamic
+
+properties of soil
+
+Stress in soil mass
+due to applied
+load, various
+methods of
+settlement
+analysis.
+
+Bearing capacity
+of Shallow
+foundations
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Ref. to Ch.
+
+= _
+
+2,3,4T1, 4,5 R1 Interpretation and
+
+application of index
+and engineering
+: Ch4 T2,
+- 6,7T1
+
+Index properties, shear strength
+and other engineering properties
+of soil, using laboratory and
+field tests. Evaluation and
+interpretation of various tests,
+selecting foundation design
+parameters from laboratory and
+field tests
+
+Dynamic properties of soil,
+using laboratory and field tests.
+Selecting foundation design
+parameters from laboratory and
+field tests. Liquefaction of soil
+using field testing.
+
+Understanding and
+application of
+dynamic properties
+of soil
+
+Stress in soil mass
+due to external loads
+
+Stresses due to different type of
+applied loading, Boussinesg
+equations, Newmark chart, &
+Westergaard’s equation.
+
+settlement of
+Shallow foundations
+and remedial
+measure
+
+2-D and 3-D_ consolidation,
+PVD, precompression,
+settlement calculations using lab
+and field tests
+
+properties of soil
+7, T1, IS8009,
+
+6 T1, 1S6403, 6,7,R3 | Computation of
+SAFE bearing
+
+capacity
+
+Failure mechanism, generalized
+bearing capacity eqn, bearing
+capacity from lab and field tests,
+special cases for bearing
+capacity of footings resting
+on layered soils and footing
+on or near slopes
+
+Ch14, R1, Cho T2,
+Class notes
+
+Methods to compute
+seismic bearing
+capacity
+
+Seismic bearing capacity,
+settlement and displacement of
+shallow foundation during
+earthquake.
+
+ 
+
+Analysis of | Effect of load eccentricity and 6,7,8 7R3, | Computing
+Shallow inclination due to wind, displacements under
+ 
+
+Foundations
+subjected to lateral
+loads and
+moments
+
+Design of RCC
+foundation
+
+Raft foundations
+
+Static and
+dynamic analysis
+of Pile
+Foundations
+
+Analysis and
+design of
+foundations for
+different type of
+machines.
+
+Earth pressure and
+retaining walls
+
+earthquake , pressure
+distribution, bearing capacity, tilt
+and settlement, Proportioning of
+footings subjected to combined
+vertical loads, biaxial moments
+and horizontal loads.
+
+Load combination, critical
+sections for shear and B.M.,
+development length, detailing
+requirements, structural design
+of isolated footings
+
+Coefficient of subgrade
+reaction, Winkler model for
+footings and mat on elastic
+foundations. Optimum
+dimension, in annular rafts
+
+Types of Piles and _ their
+applications - Load capacity Settlements - Group action
+
+Different methods for
+estimating Lateral load capacity
+of piles, seismic design
+consideration
+
+RCC design of piles, detailing
+for driven and bored piles.
+
+Types - General requirements
+and design criteria - General
+analysis of machinefoundations-soil system
+Stiffness and
+
+parameters - Tests for design
+parameters 
+Analysis and design of block
+and frame foundations for
+reciprocating engines, impact
+type machines
+
+static and dynamic earth
+
+pressure theories, stability
+analysis of retaining walls,
+
+9 T1,2, 3R3, 15456
+
+10,11,12,13 | Raft
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+combined loads and
+proportioning
+foundation
+
+Structural design of
+shallow foundation
+
+foundation
+analysis methods
+
+Laterally loaded Pile
+Foundations and
+seismic analysis
+
+Machine
+Foundations-Design
+parameters
+
+Learning design of
+foundations for
+different type of
+machines.
+
+of different retaining
+walls
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Geosynthetics and reinforced
+earth wall design,
+
+Earthquake Liquefaction screening criteria, | 2 Chi0T2, Chi5 R1, | Evaluating
+
+resistant design | various methods to evaluate 1S1893-part1-2016, | Liquefaction
+
+of foundations liquefaction potential, Anti- 10, T1 potential, antiliquefaction measures, In-situ liquefaction
+densification. measures
+
+ 
+
+EQ resistant Foundation Chi2 Ri, IS codes | Learning seismic
+guidelines, Seismic soil and notes design of foundation
+structure interaction, codal and SSI analysis
+provisions
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) ——* lose Book/ O pen Book)
+
+Mid Sem. Test OB
+
+Class (or take home) 0
+
+Examiaon Pin [ewe | o8
+xamination
+
+7. Chamber C onsultation Hour: To be announced in the class.
+
+ 
+
+8. Notices: Notices will be sent to your BITS email id only.
+
+9, Make-up Policy: Make will be given for genuine cases only.
+10. Note (if any): Reading assignments will be given as and when necessary.
+
+Instructor-in-charge
+Course No. CE F429
+

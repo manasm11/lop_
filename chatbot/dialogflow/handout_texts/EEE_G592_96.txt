@@ -1,0 +1,259 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE G592
+
+Course Title : Mobile & Personal C ommunication
+Instructor-in-C harge : Dr. Sandeep J oshi
+
+Instructor(s) :
+
+Tutorial/Practical Instructors: Dr. Sandeep J oshi
+1. Course Description:
+
+History of mobile radio; the mobile radio signal environment; review of statistical techniques; pathover flat
+as well as hilly terrain; effects of RF system design on propagation; received signal envelope and phase
+characteristics; modulation schemes employed; functional design of mobile radio systems, diversity schemesSpace; frequency and polarization diversity; mobile radio system functional design; signal error analysis versus
+performance criteria; multiple access schemes; classification of the concepts of sensitive topics; new concepts
+data transmission via cellular; spectrum and technology of WLL.
+
+2. Scope and Objective of the C ourse:
+
+a) To equip the students with a comprehensive knowledge of the fundamentals and latest developments
+in the cellular, mobile, and personal communication technologies along with an overview of the
+emerging personal communication technologies.
+
+To develop foundations of research in the field of wireless communications.
+
+To understand the theory of different wireless propagation environments, fading phenomenon, and
+design of wireless communication systems.
+
+To be able to design and simulate the wireless communication systems.
+
+The latest topics in the wireless communications will be introduced with a research focus.
+
+QO oO
+—_—TwJ
+
+22
+
+3. Text Books:
+
+1. “Wireless Communications”, A. Goldsmith, Cambridge Univ. Press, 2005.
+2. “Wireless Communications: Principles and Practice”, by T.S. Rappaport, 2nd ed., Prentice Hall, 2002.
+
+4, Reference Books:
+
+‘Fundamentals of Wireless Communication”, D. Tse and P. Viswanath, Cambridge Univ. Press, 2005.
+“Wireless Communications & Networks”, William Stallings, Pearson Education, Asia, 2002.
+“Modern Wireless Communications”, S. Haykin and M. Moher, Pearson Education, 2005.
+
+“Mobile Cellular Telecommunications Systems”, WCY Lee, McGraw Hill International Ed., 1990.
+‘Digital Communications over Fading Channels”, M.K. Simon and M.-S. Alouini, 2™ Ed., Wiley:
+2005.
+
+“Principles of Mobile Communication “, G.L. Stuber, Springer. 4" Ed., 2017.
+
+1 be I
+
+Si
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+ 
+
+Module Lecture Coverage Learning outcomes
+Session
+
+Introduction
+
+Cellular
+Concept
+
+Mobile Radio
+Propagation
+
+Modulation and
+Coding
+Techniques for
+Mobile
+
+Communications
+
+Wireless
+Networks and
+standards
+
+New trends in
+wireless
+networks
+
+Introduction to wireless and _ mobile
+communications: history and evolution, future
+trends-5G and beyond 5G
+
+Overview of basic communications system:
+block diagram, functionality, and introduction
+to wireless networks
+
+Spectrum: frequency bands, frequency
+allocation, new bands-mm Wave, THz
+
+Multiple access schemes-OMA, NOMAduplexing, and switching
+
+Frequency reuse, cell splitting, handoff,
+channel assignment, interference
+characterization, performance metrics:
+capacity, SNR and SINR, coverage, outage
+
+Comparison of old and new cellular
+architectures, cross layer adaptations
+
+Mobile radio environment: indoor and
+outdoor, channel characteristics: coherence
+time/frequency, Doppler spread, Jake’s model
+
+Propagation models: reflection, scattering,
+diffraction, large-scale fading, multipath
+fading, statistical models, Poisson point
+processes
+
+Digital modulation schemes, spread spectrum,
+and performance analysis in fading channels
+
+Equalization and diversity techniques
+
+Coding techniques: STBC, Turbo
+
+Wireless networks, MAC layer scheduling,
+queueing theory analysis, DECT and CDMA
+WLL, UMTS, GSM, CDMA (IS-95), CDMA
+2000, PCS, ISM band communication, WLAN,
+WPAN, Bluetooth,WiMAX, LTE
+
+Introduction to: OFDM, MIMO, Cooperative
+communications, D2D communications, and
+AI in wireless communications
+
+Ch-1 (T1,
+T2, R1) and
+class notes
+
+Ch-3 (T2)
+and class
+notes
+
+Ch-2, 3 (T1)
+Ch-4, 5 (T2)
+and class
+notes
+
+Ch-5, 6, 7, 8
+(T1), Ch -6,
+
+7, 8 (T2) and
+class notes
+
+Ch-10 (T1)
+and class
+notes
+
+Class notes
+and
+Research
+papers
+
+ 
+
+Students will learn the
+overview and the
+classification of various
+generations of mobile
+communications,
+technology, and future
+trends
+
+Concepts which form
+the basis of mobile
+communications will be
+discussed along with
+the architectural
+changes in the network
+
+Wireless channel
+characterization and
+aspects of fading which
+defines the wireless
+channel will be covered
+in detail
+
+Students will learn the
+modulation and coding
+schemes used in the
+mobile communications
+along with diversity
+concepts
+
+Students will learn the
+basics of — wireless
+networks and _ their
+design/architecture
+aspects
+
+Students will be
+introduced to the new
+trends in the mobile
+networks which will
+open research areas to
+explore
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) ———* lose Book/ O pen Book)
+Mid-Semester Test Closed Book
+
+Lab evaluation a To “To be announce in ess announced in class Open Book
+‘Termpaper To be announced in class Open Book
+
+Comprehensive aE Min. 39 Closed Book
+Examination
+
+7. Chamber Consultation Hour: To be announced in the class
+8. Notices: All notices will be put up in the classroom link
+
+9, Make-up Policy: No make-up will be given for surprise quizzes, however for other components; make-up
+will be given ONLY in cases of sickness (hospitalization). In such cases, students must produce sufficient
+proof or must have taken the prior permission from the Instructor.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE G592
+

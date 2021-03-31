@@ -1,0 +1,415 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+COURSE HANDOUT
+FIRST/SECOND SEMESTER
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion
+gives further specific details regarding the course.
+
+Course No : BITS G540
+
+Course Title : Research Practice
+Instructor-in-C harge : Associate Dean, AGSRD
+Instructor(s) : Supervisor(s)/M entor(s)
+
+1. Aims and Objectives
+
+This course is designed to train the students towards acquiring competence in research
+methodologies. The course will be conducted in terms of actual participation in Research and
+Development Work. Each student will be assigned to a faculty member to work on specified
+projects. The student will be required to present a number of seminars in his research area in a
+structured manner
+
+2. Scope of the C ourse
+
+The course broadly covers following aspects:
+
+(i) Research proposal
+
+(ii) Development related activities
+
+(iii) Research related activities
+The 25% weightage would be for the project proposal, which the student would be required to
+write, based on the skills acquired. For developmental activities, which carry 25% weightage,
+the supervisor would assign to the student working with him an appropriate developmental work,
+which can be related to Centers/ Laboratories/ Assistance in course development or in the R&D
+activities of the supervisor. The student would have the teaching/research skills by assisting the
+Supervisor in teaching, evaluation and research activities of the supervisor. Under the research
+related activities, which carries 50% weightage, a broad topic of research will be assigned to the
+higher degree student by the Supervisor and the student would conduct literature search in the
+specified area, learn various research methodologies/techniques for data collection and data
+analysis, testing techniques/methods etc. and deliver seminars in his/her research area to the
+supervisor. The student should also write research reports that along with the seminar/viva would
+form part of evaluation component related to research related activities.
+
+3. Operational Details
+
+1. Within 2 weeks of registration, the student should prepare the work plan (research proposal)
+for his research project and also for the developmental activities in consultation with the
+supervisor.
+
+2. Mid semester grading will be done by the supervisor based on the work done and progress
+made towards planned objectives by the student in the assigned research area. The student is
+required to submit mid semester report describing the work done and progress made by him. He
+should also deliver a seminar to highlight these activities. Supervisors will grade the student for
+mid semester on the basis of the mid semester report described above and the Seminar presented
+by the student.
+
+3. The student should submit mid-semester report in the 9"" week of the semester to the
+
+[Type here]
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Supervisor and this should be followed by seminar/presentation by the student. The supervisor in
+tum is required to send mid-semester grades of all the students working with him to Head of
+Department by the end of 9" week of the semester.
+
+4. End semester report would provide details of work done by the student. End semester report
+should be submitted to the supervisor and should be followed by seminar/presentation. Every
+student would write a research proposal. This research proposal would form a part of the final
+(end semester) report. The research proposal carries 25% weightage and should be written in the
+proper format i.e. (i) Topic of Research (ii) Background and current status of research work in
+the area as evident from the literature search/review, (iii) scope of the proposed research work,
+(iv) methodology (v) work plan and time schedule (vi) references and bibliography. The
+references and bibliography should be written in standard format and should be cited within the
+text of the research proposal.
+
+4. Evaluation Scheme
+
+Component [Indicators —=—S~S~S~S«w igang
+
+ 
+ 
+
+1. Research Proposal Format 05
+PRRETPOS —Contntsand Presntaion | 20
+fctvites ‘Walenta
+A ctivities V iva/presentation (5+5) 10
+3. Research related activities |Reports (10 for mid and 20 for end semester) 30
+Seminar/presentation/viva (5 for
+Mid and 15 for end semester) 20
+Tota 100
+
+The concermed supervisor will announce mid-semester grade to the student and should submit
+the mid-semester evaluation form to HoD by the end of 9" week of the semester.
+
+ 
+
+ 
+
+5. Course Notices
+Notices pertaining to this course will be displayed on Department/AGSRD Notice Board.
+
+6. General
+Part — 1 of the Handout should also be consulted.
+Check List of Items for Final Report of Research practice
+1. Is the Report’s ‘Cover/Title page’ in proper format?
+
+Is ‘Supervisor’s Certificate’ in proper format? Has it been signed?
+Is ‘Abstract’ included in the Report? Is itin properly written?
+Does the ‘Table of Contents’ page include chapter page numbers?
+Does the Report contain a summary of the literature survey?
+(a) Are the Pages numbered properly?
+
+(b) Are the Figures numbered properly?
+
+(c) Are the Tables numbered properly?
+
+(d) Are the Figures and tables titled properly?
+
+(e) Are the A ppendices numbered?
+Does the Report have ‘Conclusion’ of the work?
+Are References/Bibliography given in the Report?
+Have the ‘References’ been cited in the Report?
+10. Is the citation of ‘References and Bibliography’ in the standard format?
+11. Is “Turnitin Originality Report" and "Digital Receipt" of the tumitin report included at
+
+os
+
+an a
+
+[Type here]
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+the end?
+Attention should be paid on the above items while preparing the FINAL REPORT.
+
+Supervisors are also requested to ensure that their candidate(s) have prepared the FINAL
+REPORT properly.
+
+Illustrative Examples of Citation of References:
+
+Book:
+
+Taiz, L. and Zeiger, E., Plant Physiology, 5“ Ed., 2010, Sinauer Associate, Sunderland, USA. pp. 778.
+
+J ournal Paper:
+
+Jain, N., Bhargava, A., and Panwar, J. 2014. Enhanced photocatalytic degradation of methylene blue using
+biologically synthesized “protein-capped” ZnO nanoparticles. Chemical Engineering J ournal, 243: 549550.
+
+Conference/ Symposium Paper published in proceeding/abstract book:
+
+Pradhan, $.K., Mangesh N.S., Panwar, J. and Gupta, S$. 2018. Synthesis of cobalt oxide nanoparticles for
+the removal of Cu(II) from aqueous solution. In: 23" International Congress of Chemical and Process
+Engineering (CHISA 2018), August 25-29, 2018, Prague, Czech Republic.
+
+Ph.D. thesis or Dissertation:
+Bhargava, A. Mycosynthesis of inorganic nanoparticles and their evaluation in catalysis and nanofertilization, Ph.D. Thesis, BITS Pilani, Pilani Campus, India, August, 2016.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+[Type here]
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+CALENDAR OF EVENTS
+
+Item From To
+
+AUG 28 |JAN29 | Detailed outline of work Supervisor
+
+written report (Include “Turnitin
+Originality Report" at the end).
+
+NOV 15 |APR15 | Viva-I Student Supervisor
+
+NOV 28 |APR 30 _ | Final presentation Student Supervisor
+
+May 38 Student | Department
+
+Dec1-8 | May 3-8 | Final Report in soft and hard | Supervisor | Head of
+copy (Include “Turnitin Department
+Originality Report" at the end)
+
+Note:
+
+1. If any of the above date happens to be a Sunday or a holiday, the immediate next date
+will be the calendar date. FINAL RESEARCH PRACTICE REPORT should invariably
+be submitted on or before the above mentioned date.
+
+2. Student should ensure with his supervisor that the Mid-semester grade and the Final
+Evaluation form are sent to the Head of Department by the due date
+
+3. The time and venue of Seminars is to be fixed by the Supervisor
+
+4. The final viva-voce examination is to be held as per the Calendar of Events above.
+Students should invariably submit final report on or before the above mentioned dates
+
+5. Specified formats of the Cover/Title page and certificate from the supervisor should be
+adhered to in the preparation of final report. Attention should be given to the items in the
+checklist for preparation of the report.
+
+  
+ 
+  
+
+4|Page
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Particulars of Research Practice
+
+The student should correctly fill in this preform and submit it to Head of Department
+within two weeks of registration along with a copy of the work plan duly approved by
+supervisor
+
+Name of the Student_
+ID No. _ Discipline
+
+Topic of Research Practice: _
+
+E-mail ID: 1. BITS email ID
+
+2.Non-BITS email ID_
+
+Phone Number: _
+
+Contact details of the Supervisor:
+Name | E
+mail id: _Phone Number:
+
+Research area (consult Bulletin)
+
+Date: ----------------------- (Signature of Student)
+
+(Signature of Supervisor)
+
+5|Page
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Format of the Cover/Title page of report:
+(Title)
+
+Submitted in partial fulfillment of the
+requirements of BITS G540 Research Practice
+
+By
+(Author)
+ID No. ( )
+
+Under the supervision of
+
+(Name and Designation of Supervisor)
+Institute emblem
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE PILANI, PILANICAMPUS
+
+(Date)
+
+Format of ‘Certificate from the Supervisor’
+CERTIFICATE
+
+This is to certify that the report entitled,
+
+a and
+submitted by _ ID No. _ in partial fulfillment of the
+requirement of BITS G540 Research Practice embodies the work done by him/her
+under my supervision.
+
+Signature of the Supervisor
+Date:
+Name
+
+Designation
+
+6|Page
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+FIRST/SECOND SEMESTER 20-20
+BITS G540: RESEARCH PRACTICE
+MID SEMESTER EVALUATION FORM
+
+ID No. Name of Student
+Name of Supervisor _
+
+Evaluation:
+
+Evaluation component
+Research proposal
+—
+Development related
+
+Mid. Semester Grade Recommended (A/A -/B/B-/C/C -/D/E):
+“Turnitin Originality Report" and "Digital Receipt" of the turnitin report included
+: Yes/No Reports, if any (NC/I, See Academic Regulation 4.12) (Give reasons)
+
+ 
+
+Ce
+Bo
+Bo
+Presentation [9
+a
+Bo
+eo
+
+Date: ------------ (Signature of Supervisor)
+
+NB: Student should fill his particular in this copy and submit it to the supervisor for
+evaluation
+
+* Possible break up of marks for grades:
+
+90 <A< 100; 80 < - A< 90; 70 <B< 80; 60 <- B< 70; 50 < C< 60; 40 <-C < 50; 30 < D< 40;
+E<30
+
+7|Page
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST/SECOND SEMESTER 20 -20
+BITS G540: RESEARCH PRACTICE
+END SEMESTER EVALUATION FORM
+ID No. Name of Student
+
+Name of Supervisor _
+
+Evaluation:
+
+S.No.| Evaluation Activity Mid Semester End Semester Total
+component Max Marks |Max | Marks’ | Mark
+marks | awarded | marks | awarded | s
+100
+eo
+
+)1. | Research Contents
+
+oT
+reve fr 1s —-—-—}—} —
+
+a
+
+Mid Semester Grade Recommended (A/A -/B/B-/C/C -/D/E):
+“Turnitin Originality Report" and "Digital Receipt" of the turnitin report included
+: Yes/No Total marks out of 100 (i.e. Total of mid and end semester marks -------
+ 
+
+End Semester Grade Recommended (A/A -/B/B-/C/C -/D/E):
+Reports, if any (NC/I)
+(Give reasons)
+
+Date: ------------ (Signature of Supervisor)
+
+NB: Student should fill his particulars in this copy and submit it to the supervisor for
+evaluation.
+
+* Possible break up of marks for grades:
+90 <A< 100; 80 < - A< 90; 70 <B< 80; 60 <- B< 70; 50 < C < 60; 40 <-C < 50; 30 < D< 40;
+E<30
+
+8| Page
+

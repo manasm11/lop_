@@ -1,0 +1,200 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.08.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE/INSTR F244
+
+Course Title : Microelectronic Circuits
+
+Instructor-in-C harge : ANU GUPTA
+
+Instructor(s) : Samtha Benedict
+
+Tutorial/Practical Instructors: Nitin C haturvedi, Pankaj Arora, Sharda Tripathi, K .Babu Ravi Teja,
+Samtha Benedict
+
+1. Course Description: Basic microelectronic circuit analysis and design, biasing in discrete and integrated
+circuit amplifiers, an overview of modeling of microelectronic devices single and two transistor amplifier
+configurations with passive and active loads; current mirrors & current sources; single-ended and differential
+linear amplifiers , differential and multistage amplifiers; 2 stage CMOS OPAMP, frequency response of
+amplifiers; negative feedback in amplifiers, R-C frequency compensation.
+
+2. Scope and Objective of the C ourse:
+
+The objective of this course is to develop an ability to analyze and design integrated electronic circuits.
+The course aims at thorough understanding of electronic circuits & building blocks necessary for
+effective realizations of integrated circuits. The course also includes the usage of SPICE as a circuit
+design aid.
+Objectives of the Course:
+
+e Understand device modelling, two port network models, amplifier characterization parameters
+
+e Understand the necessity of and techniques to set DC bias, Quiescent point location for different types
+of amplifiers.
+
+e Understand analysis and synthesis of different single/ multi stage amplifiers and their characterization.
+
+e Practice EDA tools in design of amplifiers.
+
+3. Text Book: Adel. S. Sedra, Kenneth C Smith, “Microelectronic Circuits”, Oxford University Press,
+Seventh Edition.
+
+4, Reference Books:
+
+Prime Reference Book/s: Behzad Razavi, “Design of Analog CMOS Integrated Circuits”, TATA McGRAW
+Hill, 2001.
+
+Other reference books :
+
+a. Richard. C. Jaeger, “Microelectronic Circuit Design”, Tata McGraw-Hill Companies Inc.,
+International Edition.
+b. R.Jacob.Baker, Harry.W.Li, David.Boyce, “CMOS circuit Design Layout and simulation. "IEEE Press
+series on Microelectronic Systems, PHI.
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Approx. | Module Lecture Session Reference Learning
+No. of From the Text Book Outcomes
+Lecture (Article) Student will be able to -
+Introduction Review of circuit analysis | Revision from Strengthening of concepts
+Review of circuit techniques previous courses of previous courses
+analysis techniques:
+Superposition,
+Thevenin and
+Norton Theorems.
+Two Port Theory of two port | Reference Book ( c) Understanding/
+Networks: network models configuration of two port
+Z,Y ,H,G,ABCD, network models of any
+Cascaded networks. circuit.
+Introduction to Basic performance | Text chapter-1 1.4, | Characterize an
+Amplifiers measures of Amplifiers, ) | 1.5, 1.6 Amplifier performance
+Amplifiers: Terminology, | Text Ch 6
+Topologies, concept of
+Stability and negative
+feedback (qualitative
+treatment only)
+Basic building Models of MOSFET, Text Ch- 4, 5 Understand MOS/ BJT
+blocks: BJT , Overview-physics of | Prime Ref -chapter 2 | device characteristics,
+MOSFET , MOSFET, BJT models
+operation region
+and small signal
+models.
+Revision of
+MOSFET/ BJT
+devices operation
+Voltage biasing and/| PrimeRef—ch. 3,5 | Design basic IC
+DC Biasing and current _biasing--Passive | ch. 7, MOSFET Amplifier
+Bias point stability: | and active current mirrors. | Text Ch.6 Ch 7—
+Biasing using 7.1—7.3
+
+resistors, current Integrated circuit BJT | TextCho6 Differentiate between
+mirrors (basic, Amplifiers, frequency | Ch. 6 Discrete and IC BJT
+cascode, low response and BJT models Amplifier Design
+
+voltage cascode) Integrated circuit | Prime Ref Ch. 3, 6 Designing of DC bias
+MOSFET Amplifier | Text Ch. 6, 7,9 circuits
+
+Single stage circuits, and Frequency
+
+amplifier design response
+
+Frequency response
+of amplifiers
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Differential Differential amplifiers Prime Ref -Ch. 4 Designing differential
+Amplifier Text --Ch.7 amplifiers
+
+Multistage high Operational Amplifiers | Prime Ref ch-9 Design and
+gain Operational design Text Ch.9 characterization of an
+Amplifiers integrated OP-A MP
+
+ 
+
+Feedback Impact of negative | Prime Ref ch-8 Apply Concept of
+Amplifiers feedback on performance | Text Ch. 10 feedback in feedback
+of amplifiers amplifier-design, analysis
+
+Stability & frequency | Prime Ref ch.-10, 7 Apply Techniques for
+Feedback compensation in OP AMP, | Text Ch-10 Stability of opamp in
+topologies Noise (only qualitative) feedback mode.
+
+Configuration of Feedback
+amplifiers Text Ch-12
+Example/s of integrated Filter, oscillator, Building of electronic
+electronic systems— An _ | signal generator, systems
+overview wave shaping
+circuits, tuned
+amplifiers
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Marks/ Date & Time Nature of component
+Weightage (Close Book/ Open Book)
+(% )
+Mid-Semester Test 90 Min. <TEST 1> OB
+(30%)
+Regular Quiz 50 Spread throughout the OB
+(Weekly Tutorial Regular (16.6%) semester
+hour)
+5
+
+SPICE Assignments Spread
+and/ or quiz,
+
+ 
+
+5 To be announced and OB
+throughout (18.3%) conducted/ evaluated
+
+the
+
+semester
+
+Comprehensive 2 Hr. 105 <TEST C> OB/CB
+Examination (35%)
+
+during the semester
+
+  
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+7. Chamber C onsultation Hour: To be announced in the class. May Contact IC to fix a time.
+
+Email--anug@ pilani.bits-pilani.ac.in
+8. Notices: A ll notices related to the course will be put on the EEE Notice board/ NALANDA (online portal).
+
+9, Make-up Policy: Makeup will be given only on genuine basis. Prior permission from instructor is necessary
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE/INSTR F244
+

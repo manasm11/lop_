@@ -1,0 +1,544 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F 243
+
+Course Title: Materials Science and Engineering
+
+Instructor-in-C harge: Krishna Etika
+
+Tutorial Instructor(s) ; Priya C. Sande/S. Anil Kumar
+
+Lecture TTh 4" Hour (11:00 A.M.) W 10" Hour (5:00 P.M)
+Tutorial : F 1% Hour (08:00 A.M.)
+
+1. Course Description:
+
+Introduction on materials for engineering, structures of metals, ceramics and polymers; crystalline
+structure imperfections; amorphous and semi crystalline materials (includes glasses, introduction to
+polymers); Correlation of structure to properties and engineering functions (mechanical, chemical,
+electrical, magnetic and optical); phase diagrams; Improving properties by controlled solidification,
+diffusion or heat treatment; Failure analysis and non-destructive testing; Types of materials (includes
+synthesis, fabrication and processing of materials): Polymers and composites, Environmental
+degradation of materials (corrosion); Evolution of materials (functional materials, Biomimetic materials,
+energy saving materials etc); Criteria for material selection
+
+2. Scope and Objective of the C ourse:
+
+This course will be focused on the necessity of the chemical engineering students to know and understand
+about the materials used in industrial applications and develop a background in the general area of materials.
+systematic review of the basic structures of inorganic solids (metallic, ceramics, and polymers) and
+techniques to determine basic microstructures and phases will be done. Emphasis will be given on
+structures-properties correlations, and applications in chemical industries. Advance materials and their
+applications will be covered.
+
+3. Text Book(s):
+T1. Callister's Materials Sc & Engg, W.D. Callister & R. Balasubramaniam (Adapted), Wiley, 2nd.
+ed., 2014.
+
+4, Reference Books:
+R1. Materials science and engineering by V. Raghavan, 5" edition, Prentice Hall of India, ISBN:
+978-81-203-2455-8
+
+R2. Materials science and engineering by Smith, Hashemi, and Prakash, 4" edition (2008), Tata
+McGraw Hill education pvt. Limited, ISBN 10: 0-07-066717-9 or ISBN 13: 978-0-07-066717-4.
+
+R3. The Science and Engineering of Materials by Askeland and Fulay, 6th Ed. Cengage Learning,
+Indian reprint 2012, ISBN 9788131516416.
+
+RA. Essentials to Materials Science and Engineering by Askeland and Phule, 2nd Ed. Cengage
+Engineering, Indian reprint 2013, ISBN: 9788131520703
+
+5. Course Plan:
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+.__ | Topics details to be C overed in Reference
+At the end of the module,
+the student will be able to
+e Summarize the scope,
+L1:; Why Study Materials Science objectives, and structure
+and Engineering? Classification of of course
+Materials Recognize the
+Importance of materials
+in chemical engineering
+and related applications
+
+ 
+
+ 
+
+M1:
+Introduction to
+Engineering
+Materials,
+properties,
+application
+
+L2: Unit cell, Crystallographic
+M2: directions and planes. Point 4:9 4.-910 At the end of a as
+Crystal Structures, | Coordinates, Crystallographic nt the student will be able to
+Crystallographic | Directions, Crystallographic Planes e Distinguish between
+
+Points, Directi crystalline and
+omts, Vireculons, | 1,3: Single Crystals, Polycrystalline amorphous materials.
+
+and Planes, Materials, Anisotropy, Crystal T1:3.1-3.10 jf Identify crystal
+
+Crystalline and Structures, Noncrystalline Solids rr
+Noncrystalline "y “lanes. direction and
+
+Materials
+
+   
+
+T1. Exercise problems Iie 3
+
+L4; FCC, BCC, HCP, Density
+Computation, Closed pack crystal T1 4.1-4.9
+structure, Polymorphosm &
+
+At the end of the module,
+the student will be able to
+e Draw unit cells for SC,
+
+Allotropy,
+L5: Radius ratio rules, AX-Type, i aeedeneniaal
+AmXp-Type, and AvByXp-Type T14.10- |, Com denser ai
+Crystal Structures, Ceramic Density | 4.17 ti d ue
+Computations, Silicate Ceramics and Meta’s ahd’ ceralllics
+M3: Carbon. given their unit cell
+Structures of dimensions
+materials (Metals, e Predict the crystal
+Ceramics and L 6: Polymer molecules, Molecular structure of namics
+Polymers) Weight, Shape, Structure, and T1 13.1- Describe basic vol
+y Configurations, Thermoplastic and 13.10 pee ees et
+Thermosetting Polymers, T1 14.10- molecule structure
+Copolymers, Crystallization, Melting, | 14.13 * Calculate number
+and glass transition in polymers. average molecular
+
+weights and degree of
+
+T1413 polymerization for a
+T 2: Exercise Problems 1A i specified polymer.
+e Describe the working
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+principle of XRD &
+Microscopic techniques
+L7: Polymer crystallinity, Polymer work for Materials
+crystals, polymer types T1 4.20, T1 Characterization
+9.11-5.13 +
+
+L8-9. : Determination of crystal notes
+
+structure, Bragg’s Law, diffraction
+technique, Optical and electron
+microscopy, grain size determination
+
+T3. Exercise problems T1: 4,5
+
+L10: Vacancies and Self- At the end of the module,
+
+Interstitials, Impurities in Solids, T1:5.1-5.10 | the student will be able to
+Specification of Composition e Describe defects in crystal
+structures of metals and
+ceramics.
+4. e Identify edge,screw and
+Dipotno.20 dislocation type of defects
+e Name various ionic point
+
+defects in ceramics
+T4. Exercise problems T1: 5
+
+At the end of the module,
+
+M5: Imperfections
+in Solids,
+
+Point Defects, L11-12: Dislocations—Linear
+Miscellaneous Defects, Interfacial Defects, Bulk or
+Imperfections Volume Defects, Atomic Vibrations
+
+L12: Diffusion Mechanisms, Steady- the student will be able to
+State Diffusion, e Describe the atomic
+mechanism of diffusion in
+M6: metallic, ionic and
+Diffusion T1: 6.1-6.8 | polymeric materials
+Steady and non- L 13-14: Nonsteady-State Diffusion, e Calculate the diffusion
+
+coefficient for some
+materials at a specified
+temperature.
+
+e Write Fick’s First and
+
+T5. Exercise problems T1:5 Second Law for diffusion
+
+L15: Concept of stress and strain, At the end of the module,
+
+elastic deformation, plastic the student will be able to
+; T1: 9.5-9.10
+
+deformation, hardness, Viscoelastic TI.
+
+deformation, Factors influencing e State Hooke’s
+
+properties and mechanical properties e Perform basic
+calculations on
+
+Failure of L 16-17: Ductile and Brittle fracture, engineering stress strain
+materials fracture mechanics, Impact facture diagram
+testing, Fatigue and Creep Fracture. e Describe the mechanism
+of fracture in engineering
+
+T6. Exercise problems T1: 9, 11 materials and perform
+
+steady diffusion Factors That Influence Diffusion,
+
+Other Diffusion Paths
+
+M7: Mechanical
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+basic calculations.
+L 18: Fracture of polymers, Factors e Define creep and fatigue
+that influence mechanical properties and the conditions under
+of semi crystalline polymers, which they occur.
+Deformation of Elastomers e Listthe factors
+influencing mechanical
+properties of materials.
+
+L19: Characteristics of Dislocations , At the end of the module,
+Slip Systems , Slip in Single Crystals the student will be able to
+, Plastic Deformation of
+
+Polycrystalline Materials ,
+
+e Describe edge and scre
+Deformation by Twinning a ge and screw
+
+dislocation motion from
+
+. oa: an atomic perspective
+L 20-21; Strengthening by Grain Size ° Define slip system and
+
+Reduction, Solid-Solution cite one example
+Strengthening, Strain Hardening, 10.8-10.14 | @ Define and explain the
+Recovery, Recrystallization, Grain phenomenon of strain
+
+growth and Precipitation Hardening hardening in terms of
+dislocations and strain
+
+field interactions.
+
+M 8: Dislocations
+and Strengthening
+Mechanisms
+
+T7. Exercise problems T1: 10,14
+
+L 22: Solubility Limit, Phases, At the end of the module,
+Microstructure, Phase Equilibria, the student will be able to
+One-Component (or Unary) Phase
+Diagrams. Binary Isomorphous T1: 7.1-7.10
+systems, Development of and locate various phase
+Microstructure in Isomorphous regions in the diagram.
+Alloys, Binary Eutectic Systems, e Identify phases present in
+a binary phase diagrams
+
+L. 23-24: Development of e Locate temperatures and
+compositions of all
+
+eutectic, eutectoid,
+
+e Schematically sketch
+simple phase diagrams
+
+Microstructure in Eutectic Alloys,
+Equilibrium Diagrams Having
+
+M9:
+
+peritectic and congruent
+Intermediate Phases or Compounds, phase transformations
+
+Eutectic and Peritectic Reactions, e Write reactions for all
+The Gibbs Phase Rule, The Iron—Iron these transformations for
+Carbide (Fe-Fe3C) Phase Diagram, either heating or cooling
+Development of Microstructure in e Given the composition of
+
+Phase Diagrams
+
+an iron-carbon alloy,
+identify whether the
+alloy is hypo or hyper
+eutectoid and compute
+
+mass fraction of the
+T8. Exercise problems : phases.
+4
+
+Iron—Carbon Alloys, The Influence of
+Other Alloying Elements.
+
+ 
+ 
+
+M 10:
+Phase
+
+Transformations
+
+ 
+
+M11:
+Composite
+Materials
+
+M12:
+Electrical
+properties
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+L25: Kinetics of phase
+transformations, Metastable Vs
+equilibrium states, Isothermal
+Transformation Diagrams.
+
+T1: 8.1-8.5
+
+L 26-28: Continuous Cooling
+transformations,
+Mechanical behavior of Fe-C alloys,
+
+tempered Martensite.
+
+T1: 8.6-8.9
+
+ 
+
+T9. Exercise problems
+
+L 29: Particle Reinforced
+Composites: Large-particle
+composites, concrete, Portland
+cement concrete, reinforced concrete,
+Dispersion strengthened composites.
+
+L 30-31: Fiber reinforced
+composites: Influence of fiber length,
+fiber orientation and fiber
+concentration,
+
+L32: Polymer Matrix Composites,
+Metal Matrix Composites, Ceramic
+Matrix Composites,
+
+L33: Carbon-carbon composites
+Hybrid Composites and Structural
+composites: Laminar composites,
+sandwich panels, nanocomposites.
+
+T9. Exercise problems
+
+L 34: Electrical conduction, ohms
+law, energy band structure in solids
+Dielectric behavior
+
+L35: Semiconductivity, Electrical
+conduction in ionic ceramics and in
+polymers, 17
+
+T1:17.10:17
+
+At the end of the module,
+the student will be able to
+
+e Make a schematic
+fraction transformation
+Vs logarithm of time plot
+for a typical solid-solid
+transformation and cite
+the equation that
+describes this behavior
+
+e Design a heat treatment
+that will produce a
+Specified microstructure
+for a given isothermal
+transformation diagram.
+
+ 
+
+At the end of the module,
+the student will be able to
+
+e Name the three main
+divisions of composite
+materials, and cite the
+distinguishing feature of
+each.
+
+e Calculate longitudinal
+modulus and longitudinal
+strength for an aligned
+and continuous fibrous
+composites.
+
+e Cite the desirable
+features of metal matrix
+and ceramic matrix
+composites.
+
+e Name and briefly
+describe the two sub
+classifications of
+structural composites.
+
+At the end of the module,
+the student will be able to
+
+e Describe band structure
+of solid materials
+
+e Calculate electrical
+conductivity of metals,
+seminconductors and
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L36: Dielectric behavior of materials | T1: 17:18- insulators
+17.23 e Define dielectric constant
+T10. Exercise problems T1: 17 in terms of permittivities.
+
+At the end of the module,
+the student will be able to
+
+ 
+
+L37: Basic Concepts, Origin of
+magnetism in materials, Dia and
+M13: Paramagnetic materials,
+Magnetic Ferromagnetic materials.
+Properties of
+Materials
+
+e Explain the nature and
+source of magnetism in
+materials
+
+138-39: A ntiferromagnetic materials, ° hoa = |
+Ferrimagnetic materials, Domains : nn ee
+and hysteresis, soft and hard way some matenais may
+magnetic materials, become permanent
+
+magnets.
+T11. Exercise problems T1: 18
+At the end of the module,
+the student will be able to
+
+M14: L40: Heat capacity, thermal
+Thermal expansion, thermal conductivity,
+Properties of thermal stresses,
+
+Materials
+
+e Explain the nature of
+optical interactions of
+materials.
+
+e Define heat capcity and
+thermal conductivity of
+
+T 12. Exercise problems T1: 19 materials
+
+At the end of the module,
+HOME . , , the student will be able to
+Automotive Valve Spring, Materials os
+Vatortale Gelection Selection for a Torsionally Stressed ene the oe i ne
+nes Cylindrical Shaft, Artificial Total Hip se Roa. ae ovo
+Consi a oerfame Replacement, Materials for Integrated | CD 22,T1 | custal applications
+Circuit Packages, Corrosion of 16 using materials
+
+vor oson ane Metals, Corrosion of Ceramics, peromance MnGex. ae
+grat Degradation of Polymers Se an
+Materials the corrosion aspects of
+materials
+
+ 
+
+6. Evaluation Scheme:
+
+(min) (Marks) (Close Book/ Open Book)
+/Mid-SemesterTest =| — 90 | 90S ||_—S<TEST 11>
+1
+
+Assignment?
+
+ 
+
+3
+3
+Total (Marks)
+
+#A ssignment will be take home and details of it will be announced in the class.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+7. Online Consultation Hour: Friday 3-4 p.m.
+
+8. Notices: The notices will be displayed on the Chemical Engineering Group notice board and/or Nalanda
+and/or emailed to your official BITS e-mail account only.
+
+9. Make-up Policy: Make-up will be granted for genuine cases only. In the case of medical issues,
+certificate from authenticated doctor of the Birla Medical Center must accompany make-up application (only
+prescription or vouchers for medicines will not be sufficient). Prior permission of IC is compulsory for nonemergency cases.
+
+e Due to the surprise nature of the Quizzes, no make-up will be granted for these.
+
+10. Note (if any): The material/lecture slides (if any) provided to the students registered in this course is
+for academic purpose only and is considered intellectual property of BITS Pilani. These materials should
+not be uploaded to any external websites/forums without the permission of the Instructor.
+
+Krishna Etika
+Instructor-in-charge
+Course No. CHE F243
+

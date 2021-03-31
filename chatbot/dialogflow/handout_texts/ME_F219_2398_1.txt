@@ -1,0 +1,267 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No >: ME F219
+
+Course Title : MANUFACTURING PROCESSES
+
+Instructor-in-C harge : TUFAN CHANDRA BERA
+
+Tutorial Instructors : Divyansh Patel, Tufan Chandra Bera, Faizan Mohammad Rashid
+
+Practical Instructors : Rishi Kumar, Anish Kumar, Rishi Parvanda, Pawar Shrikant
+Shankarrao
+
+1. Course Description:
+
+Metal casting, different types of casting processes, casting analysis and defects. Metal forming processes, analysis
+and defects. Welding, brazing and soldering, process and defects. Machining processes and analysis, machine tools
+and cutting tool geometry. Polymer processing, metrology and instrumentation. Limits, fits and tolerances. Related
+laboratory experiments.
+
+2. Scope and Objective of the C ourse:
+
+An in-depth comprehension of various manufacturing processes is mandatory for a mechanical or manufacturing
+engineer, as physical component or product is obtained through proper transformations according to design
+requirement. Therefore, an attempt has been made to nurture the fresh talents for converting them into an efficient
+manufacturing engineer by studying various manufacturing processes in details. This course is designed to enrich
+theoretical, analytical as well as practical knowledge about conventional manufacturing processes such as casting,
+forming, welding and machining used in product fabrication and development. In addition to it, this course also
+aims to introduce polymer processing and powder metallurgy techniques along with brief introduction of
+metrology.
+
+3. Text Books:
+T1. S. Kalpakjian and S. R. Schmid, “Manufactuirng Processes for Engineering Materials,” Pearson
+Education, New Delhi, Fifth Edition, 2011.
+
+4, Reference Books:
+
+R1. Amitabha Ghosh and Asok Kumar Mallik, “Manufacturing Science”, Affiliated East-West Press, New Delhi,
+1985.
+
+R2. P. N. Rao, “Manufacturing Technology: Foundry, Forming & Welding,” Tata McGraw-Hill, New Delhi, 2000.
+
+R3. P. N. Rao, “Manufacturing Technology: Metal Cutting & Machine Tools,” Tata McGraw-Hill, New Delhi,
+2000.
+
+RA. Serope Kalpakjian and Steven R. Schmid, “Manufactuirng Engineering and Technology,” Pearson Education,
+Fourth Edition, New Delhi, 2001.
+
+R5. A. Bhattacharyya, “Metal Cutting Theory and Practice", New Central Book Agency, 2000.
+
+R6. R. K. Jain, "Engineering Metrology" Khanna Publishers, New Delhi, 2007.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Module Number Lecture session Reference | Learning Outcome
+
+ 
+
+1.Introduction — to | L1.1.Introduction of casting, forming, (T1) Ch-1 | Realization and selection of
+manufacturing machining & welding and their importance in suitable = manufacturing
+processes part and product manufacturing. processes in part and
+product manufacturing.
+2. Metal casting L2.1 Various elements in mold making (T1) Ch-5 | Understanding and analysis
+process and their attributes. of metal casting processes,
+
+identification of casting
+L2.2 Molding materials, various standard (T1) Ch-5 | gefects and their remedies
+testing of molding materials. to obtain sound casting.
+L2.3 Various elements of gating system for (T1) Ch-5
+
+Casting, design of pouring basin, sprue and
+sprue base well in gating system.
+
+L2.4 Design of runner and runner extensionin | (T1) Ch-5
+gating system
+
+L2.5 Design of in-gates and calculation of (T1) Ch-5
+pouring time. Design of riser and importance
+of chill in castings
+
+L2.6 Mechanism of solidification, Freezing of | (T1) Ch-5
+pure metals and alloys.
+
+L2.7 Analysis of casting defects & remedies (T1) Ch-5
+and inspection of casting defects.
+
+ 
+
+ 
+
+L2.8 Various casting process such as shell (T1) Ch-5
+molding, precision investment, permanent
+
+mold. die casting, vacuum die casting, low
+pressure die-casting, centrifugal casting.
+
+3. Metal forming L3.1 Plastic deformation and yield criteria, (T1) Ch-6 | In-depth comprehension and
+upper bound and lower bound theory. analysis of metal forming
+processes, identification of
+
+ 
+
+L3.2 Various forming processes, Types of (T1) Ch-6 forming defects and their
+forging processes. remedies to obtain sound
+
+|
+|
+
+L3.7 Extrusion process and its analysis.
+
+(
+(T1) Ch-6
+
+Ch-6
+
+T1)
+T1)
+T1) Ch-6
+T1)
+1)
+
+(T1) Ch-6
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+. ry
+
+AUGS/ AGSR Division
+Ch-12 | To know various
+
+L3.8 Types and analysis of sheet metal 1)C
+forming.
+welding processes and
+
+4. Welding and | L4.1 Introduction to welding process, its
+joining processes importance in product manufacturing. Gas
+welding, gas cutting and their attributes Suitability and analysis of
+the process for obtaining
+12 | defect free product.
+
+ 
+
+ 
+
+ 
+ 
+
+(T1) Ch
+L4.2. Fundamentals of shield arc welding, Arc
+structure and power characteristics.
+
+L4.3 Study of electrode, flux and operation. (T1) Ch-12
+
+L4.4 Welding symbols and Design of weld (T1) Ch-12
+joints.
+
+L4.5 Study of SAW, TIG, MIG, electroslag 1) Ch-12
+and electrogas welding.
+
+L4.6 L14.2 Study of various resistance 1) Ch-12
+welding processes
+
+L4.7 Brazing and soldering 1) Ch-12
+
+L4.8 Weld Defects, inspection and welding 1) Ch-12
+metallurgy.
+
+9. Machining L5.1 Introduction to machining and Various 1) Ch-9
+machining processes.
+L5.2. Materials and geometry of cutting tools. 1) Ch-9
+
+L 5.3 Introduction to machine tool drives and 1) Ch-9
+mechanisms
+
+L 5.10 Grinding and other abrasive machining 1) Ch-9
+processes
+
+L5.11 Surface finish and surface integrity 1) Ch-9
+
+Understanding about
+various components of
+cutting forces and_ its
+importance in metal cutting.
+Determination and
+estimation of cutting forces.
+Comprehension about
+mechanics of common
+machining operations such
+as tuming, shaping, milling
+and drilling and grinding.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+6.Polymer L6.1. Manufacturing of non-metallic parts (T1) Ch-10 | Get to know about various
+processing techniques of
+
+processing
+L6.2. Powder metallurgy, forming and shaping polymer and composite
+of plastics, composite materials and ceramics materials.
+and glass.
+
+7. Metrology L7.1. Introduction of metrology and (T1) Ch-4 | Understating about basics of
+instruments for part inspection. metrology and limits, fits,
+and tolerances.
+
+ 
+
+L7.2. Limits, 172 Lins fsantenaees and tolerances
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(Mark) ————-—* lose Book/ O pen Book)
+
+Mid-Semester Test 20% sf Open book
+
+Examination re
+‘Tutorial | | 20% (40)
+Pcie [eta [pent
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+ 
+
+8. Notices: All notices related to the course will be displayed either on Notice Board of Mechanical Engineering
+Department or NALANDA only.
+
+9, Make-up Policy: Make-up will be granted ONLY in genuine cases with prior permission. The request
+application for make-up test MUST be reached to the Instructor-in-Charge before commencement of the scheduled
+test along with DOCUMENTARY PROOF. No make-up will be allowed for the Surprise Quiz Tests.
+
+10. Note:
+It will be the responsibility of the individual student to be regular in maintaining the self-study schedule as given in
+the course handout, attend lectures and the lab demonstration as per the schedule announced in Nalanda. Mid
+Semester Test and Comprehensive Examination are according to the Evaluation Scheme given in the respective
+Course Handout. If the student is unable to appear for the Regular Test/Examination due to genuine exigencies, the
+student must refer to the procedure for applying for Make-up Test/Examination.
+
+Instructor-in-C harge
+ME F219
+

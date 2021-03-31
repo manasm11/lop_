@@ -1,0 +1,329 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+ 
+
+ 
+
+18/01/2021
+In addition to part-| (General Handout for all courses appended to the timetable) this portion gives further specific details
+regarding the course
+
+Course No. : ECON F342
+
+Course Title : APPLIED ECONOMETRICS
+Instructor-in-Charge : N.V. MURALIDHAR RAO
+Instructor(s)
+
+Tutorial/Practical Instructors : NVM Rao
+
+1. Course Description:
+
+This course provides an introduction to advanced estimation and econometric techniques of analysis, with particular emphasis on how
+these techniques can be used for the empirical testing of economic theories and/or policy prescriptions. Topics to be studied include
+specification, estimation, and inference in the context of models that include then extend beyond the standard linear multiple
+regression frameworks.
+
+Multiple regression analysis; analysis of generalized linear and nonlinear models; instrumental variables; maximum likelihood,
+generalized method of moments (GMM), and two step estimation methods; simultaneous equation models; time series processes;
+identification and estimation of time series models; techniques for assessing model fit; forecasting; time series analysis and models of
+expectations; univariate time series analysis, stationary vs. non-stationary series; ARIMA, GARCH, VAR, co-integration, granger
+causality, error correction and limited dependent variable models; auto regressive distributed lagged variable models multivariate time
+series analysis; dynamic models; analysis of panel data, balanced and unbalanced panel data, mixed, fixed and random effect
+models.
+
+2. Scope and objective of the course:
+
+This is a course in applied econometrics, emphasizing the implementation of econometric techniques to analyze concrete economic
+
+problems, using data and econometric software. Though not a theoretical course, we will introduce some basic theory and concepts to
+
+motivate an appropriate use of econometric methods.
+
+Specific Objectives:
+
+e To explain the theory behind estimating econometric methods and provide an analytical and quantitative
+background in the fundamentals of econometric analysis.
+
+e To give students opportunities to use econometric models and methods in analysis and problem solving. Students
+will learn how to choose the adequate method, discuss its identifying assumptions, correctly interpret its results
+and to translate them into economically meaningful answers
+
+The course uses the fundamental concepts of econometric methods and applies them to data to build, estimate and interpret their own
+
+econometric models for concrete economic and financial problems.
+
+3. Text Book (TB):
+Introductory Econometrics- A Modern Approach by J Wooldridge, 5" Edition (ISBN No. 9788131516737), South Western Cengage
+Learning
+
+4. References
+
+R1. Ramu Ramanathan, Introductory Econometrics with Applications, Fifth Edition, S-W Cengage Learning, Indian Edition 2008
+
+R2. James H. Stock and Mark W. Watson, Introduction to Econometrics, Second Edition, Pearson Addison-Wesley, 2007
+
+R3. Greene, W., Econometric Analysis, 7th Edition, Prentice Hall, 2041
+
+R4. Jack Johnston and John Dinardo, Econometric Methods, Fourth Edition, McGraw-Hill, 1997.
+
+R5. — Intriligator, Bodkin and Hsiao, Econometric Models, Techniques, and Applications, Second Edition, Prentice Hall, 1996.
+
+R6. G.S. Maddala, Introduction to Econometrics, Second Edition, MacMillan, 1992
+
+R7. Judge etal., The Theory and Practice of Econometrics, Second Edition, Wiley, 1994
+
+R8. Damodar. N. Gujarati and Sangeetha, Basic Econometrics, Fourth Edition, Tata McGraw-Hill Publishing Company Limited, 2007
+
+R9. R.S. Pindyck and D.L. Rubinfeld , Econometric Models and Economic Forecasts, Third Edition, McGraw-Hill: New York, 1991
+
+R10. H. Baltagi Badi, Econometrics, Springer, Delhi, Second Edition, 1999
+
+R11. H. Theil, Econometrics, Wiley, New York, 1968.
+
+R12. A.S. Goldberger, Econometric Theory, Wiley, New York, 1964.
+
+R13. “Econometric Applications in India”, Edited by K L Krishna, Oxford, New Delhi, 1997.
+
+Save Paper.
+gy. Save Trees.
+£ © Agave the World.
+
+ 
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+ 
+
+ 
+
+5. Course Plan:
+
+Mod Reference Learning Outcome (s)
+
+Learning Objectives Lecture Session (Book) (on successful completion of
+this part, student will be able to:
+
+Review of important Simple and multiple regressions: Chapters . Understands and expresses the
+Concepts 1, 2, and 3 (skim) core underlying econometric model
+
+rincipals
+Dummy variables; Heteroskedasticity ue
+
+Other Important Concepts will be
+reviewed from time to time.
+
+Analysis with Cross Section Data
+Demonstrate an understanding of
+
+Functional form Misspecification, modeling nonlinear mareesione
+Specification and Data Problems g non gres
+misspecification and data issues
+
+. . . Class
+Class Exercises & Discussion
+Notes
+
+Regression Analysis with Time Series Data
+
+Specification and Data
+Issues
+
+Basic Time Series Time series Data and Time Series Perform basic econometric
+Regression Models Regression Models; analysis for time series data;
+0.11 Finite Sample Properties of OLS
+Functional Form, Dummy Variables and
+Index Numbers , ,
+Serial Correlation and
+
+Trends and Seasonality Heteroscedasticity in Time Series
+
+Further Issues in Using Stationarity and Weakly Dependent Time
+OLS Series
+945 Highly Persistent Time Series Identify and estimate
+Dynamically Complete Model autoregressive integrated moving
+; average (ARIMA) models and
+Homoskedasticity Assumption for Time ebtain forecasts ef economic
+
+Series Models variables.
+
+Serial Correlation and
+| nae Serial Correlation and Heteroscedasticity in
+Heteroscedasticity in .
+16-17 Time Series Time Series; Testing and Corrections; OLS
+
+and FGLS
+
+Time Series Models Stationary vs. Non-stationary Series,
+18-21 ARIMA, GARCH, VAR, Co-integration,
+
+Granger causality; Error Correction Models
+
+ 
+
+ 
+
+B Save Paper.
+Save Trees.
+\Save the World.
+
+innovate Flot al (oat cl
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+eae nn nc ll EE Te
+. . . Class
+Class Exercise & Discussion
+Notes
+
+Advanced Time Series Infinite Distributed Lag Models, Testing Unit Understands the distributed lag
+Concepts Roots, Spurious Regressions, VAR, Co- Ch. 18 models; VAR and cointegration,
+
+ 
+
+integration, Granger causality; Error error correction models
+Correction Models, Forecasting
+
+27 Class Exercise & Discussion Class
+Notes
+
+Other Topics:
+
+Pooling Cross Section Panel Data Methods Difference-in- Construct, estimate and
+and Time Series Data Differences estimator; First Difference understands econometric models
+58-30 Estimator; Fixed effects and random effects a 13 and | with panel data methods
+estimators; Individual Effects and Fixed
+Effects Models; Balanced and Unbalance
+ie Data;
+
+Class Exercise & Discussion
+Notes
+. _— and test models using
+Instrumental Variables Endogenous regressors, simultaneity, and instrumental variables and two
+32-34 (IV) Estimation and Two | Instrumental Variables; Two Stage Least Ch.15
+oe least squares;
+Stage Least Squares Squares
+35 Class Exercise & Discussion
+Notes
+
+Simultaneous Equations | Simultaneous Equations Models, Problems Confidently discuss the problem of
+Models of identification and estimation, identification, simultaneity _ bias;
+
+36-38 Ch .16
+Simultaneity Bias, Simultaneous Equations and simultaneous equation models
+
+Models with Time Series and Panel Data related time series and panel data
+
+Limited Dependent Binary dependent and Linear Probability Construct, estimate and test
+Variable Models Model: Probit and Logit Models: Count and | Ch. 17 econometric models with limited
+dependent variables; logit and
+
+Censor Data probit models
+|_| conclusion | Overall Review ofthe Course - |
+
+oe Evaluation Scheme:
+
+ECNo, No. | Evaluation Component ee Date & Time Nature OF
+rrr Beck
+
+1 Mid Semester Test Ft Closed Book
+
+Tutorial/
+
+Class Tests /Quizzes/Class 15 min each 25 Tutorial: THURSDAY “9 hr Closed Book/ Open
+ae To be announced in the class Book
+
+Participation
+
+| 3 | Course Empirical Project /- | 10s] To be announced in the class _| Closed Book
+Comprehensive Examination 10/5 FN Partly Open Book
+
+7. Chamber Consultation hours: Wednesday 4.00-5.00 pm
+
+ 
+
+ 
+
+ 
+
+B Save Paper.
+Save Trees.
+\Save the World.
+
+innovate Flot al (oat cl
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+— dd
+Notices: Notices would be sent to students through course mail id. It will be also communicated through
+Student group coordinator.
+
+Make-up: Make-up may be given only on genuine grounds. Prior permission has to be obtained.
+
+. Other Course Policy Issues:
+
+E-mail address for this course related information: nvmappliedeconometrics@gmail.com.
+
+Course Class Coverage and details of specific topics from the chapter will be announced in the class from time to time.
+Assignment/Problem Sheets and Reading Assignments will be assigned periodically. For Reading Assignments, students are expected to
+consult the books or specific course handout notes as advised in the classroom.
+
+The Empirical Project is a group project in which students form teams of three (3) members and work on a practical empirical topic using
+modern econometric techniques. Further information and material on the empirical project will be made available as the course proceeds.
+You are expected to collect and analyze a data set using the econometric methods.
+
+No makeup examination will be given for class tests and quizzes. Class Participation is a must.
+
+Students are expected to attend class and to arrive on time and prepared. You should read the sections in the textbook we are going
+to cover in class prior to following the lecture.
+
+If there are problems of any nature that concern the class of which | am unaware of and which need to be addressed, please feel free
+to discuss this with me at any time. The main objective is to foster an environment where people who are interested in the subject
+matter have the opportunity to discuss their questions in a positive learning environment.
+
+ 
+
+The instructor in charge reserves the right to make adjustments to this syllabus. Any change will be notified at least
+one week in advance. But itis your responsibility to stay informed if you do not attend all the classes.
+
+ 
+
+INSTRUCTOR-IN-CHARGE
+ECON F342
+
+ 
+
+Save Paper.
+P As Trees.
+> ASave the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+

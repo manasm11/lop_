@@ -1,0 +1,514 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives
+further specific details regarding the course.
+
+Course No. : MF F343
+
+Course Title : Casting and Welding
+
+Instructor-in-Charge : TUFAN CHANDRA BERA
+
+Practical Instructors : Ashish Kumar Srivastava, Amresh Kumar
+
+ 
+
+Save Paper.
+ee) Save Trees.
+£ >= Asave the World. 4
+
+Course Description:
+
+Casting processes, pattern and mould design, metal melting and handling, metallurgical aspects of
+casting, metal flow and heat transfer, analysis of casting defects. Injection moulding of plastics. Gas
+cutting and welding processes including its physics, chemistry and metallurgy, power source
+characteristics, different welding techniques, selection of welding processes, destructive and nondestructive testing of weldments, welding standards and codes, analysis of welded joints, brazing and
+soldering.
+
+Scope and Objective of the C ourse:
+
+In-depth comprehension about casting and welding processes which are the basic pillar of manufacturing
+
+is mandatory for a mechanical or manufacturing engineer. The casting and welding processes are common,
+
+broad and versatile operation in part manufacturing and their importance are indispensible in modem
+
+product manufacturing. This course aims
+
+e To nurture fresh talents and transform them to competent manufacturing engineers by studying
+various casting and welding processes in detail.
+
+e To develop the theoretical and practical knowledge base about the fundamentals of casting and
+welding processes and their role in product manufacturing.
+
+e To analyze each and every manufacturing process to improve overall productivity.
+
+e To analyze the process for obtaining desired dimensional as well as geometrical accuracy of the part
+as per design requirement and evaluate the product performance.
+
+Text Books:
+
+T1. R. W. Heine, C. R. Loper and P. C. Rosenthal, “Principles of Metal casting”, Tata McGraw-Hill
+Publication, II Edition, 2004.
+
+T2. P. N. Rao, “Manufacturing Technology Vol-1”, Tata McGraw-Hill Publications, III Edition, New
+Delhi.
+
+T3. R. L. Little, “Welding and Welding Technology”, Tata McGraw-Hill Publications, I Edition,
+New Delhi.
+
+ 
+
+achieve |
+
+Please Do Not Print Unless Necessary
+ 
+
+3.
+
+g
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Reference books:
+
+R1.A. Ghosh and A. K. Mallik, “Manufacturing Science”, East-West Press Private Limited, New
+Delhi, 2008.
+
+R2.S. Kalpakjian and S. R. Schmid, “Manufactuirng Processes for Engineering Materials,”
+Pearson Education, New Delhi, Fifth Edition, 2011.
+
+R3. E. R. Bohnart, "Welding Principles and Practices", Tata McGraw-Hill Publication, Fourth
+
+Edition, 2014, New Delhi.
+R4. J. F. Lancaster. “Metallurgy of Welding, Woodhead Publications, VI Edition, 1993.
+
+Course Plan:
+
+1. Introduction
+to casting and
+welding
+
+2. Mold
+making process
+
+3. Design of
+gating system
+for Casting
+
+Save Paper.
+a Save Trees.
+Save the World.
+
+L1.1 Introduction to casting
+& welding and its importance
+in part & product
+manufacturing.
+
+L1.2 Controlling of
+manufacturing properties
+during casting and welding.
+
+L2.1 Various elements in
+mold making process and
+their attributes.
+
+L2.2 Pattern classification,
+pattern allowances and
+coding systems for pattern.
+
+L2.3 Importance of core and
+core making process.
+
+L2.4 Molding materials,
+various standard testing of
+molding materials
+
+L3.1 Various elements of
+gating system for Casting
+
+L3.2 Design of pouring
+basin, sprue and sprue base
+well in gating system
+
+L3.3 Design of runner and
+runner extension in gating
+system
+
+L3.4 Design of in-gates and
+calculation of pouring time.
+
+L3.5 Design of riser and
+importance of chill in
+castings
+
+Get to know about importance
+of casting and welding in
+product manufacturing and
+controlling of manufacturing
+properties of materials during
+casting and welding.
+
+Understanding about pattern,
+core and mold materials, their
+importance in molding making
+process and eventually sound
+casting.
+
+Comprehension about various
+elements of gating system and
+design of gating system for
+sound casting.
+
+ 
+
+ 
+
+innovate Flot al (oaic}
+
+Please Do Not Print Unless Necessary
+ 
+
+g
+
+4, Cooling and
+solidification
+during casting
+
+9. Melting and
+casting quality
+
+6. Foundry
+practices of
+different
+materials
+
+7. Product
+design for sand
+casting
+
+8. Special
+Casting
+Processes
+
+9, Rapid tooling
+and rapid
+casting
+
+10. Introduction
+to welding
+process
+
+ 
+
+Save Paper.
+as Save Trees.
+Save the World.
+
+L4.1 Mechanism of
+solidification, Freezing of
+pure metals.
+
+L4.2 Mechanism of
+
+solidification for alloys.
+
+L5.1 Procedure of melting
+casting materials and
+Identification of casting
+defects and remedies
+
+L5.2 Analysis of casting
+defects & remedies and
+inspection of casting defects
+
+L7.1 Various aspect in
+product design for sand
+casting
+
+L8.1 Various casting process
+such as shell moulding,
+precision investment,
+permanent mould.
+
+L8.2 Various casting process
+such as Die Casting, Vacuum
+die casting, Low pressure
+Die-casting, Centrifugal
+Casting
+
+L 9.1 Introduction to rapid
+tooling and rapid casting.
+
+L10.1 Introduction to
+welding process, its
+importance in product
+manufacturing.
+
+L10.2 Gas welding and its
+attributes
+
+L10.3 Gas cutting and its
+attributes
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Familianization of the
+mechanism of solidification,
+freezing of pure metals and
+alloys.
+
+Comprehension about melting
+practice, casting cleaning,
+casting defects & inspection
+techniques.
+
+Understanding about casting of
+magnesium, copper & its alloys,
+Steel alloys.
+
+Understanding of design aspect
+in sand casting.
+
+Familiarization of shell
+moulding, Precision
+Investment, Permanent Mould,
+Die Casting, Vacuum die
+casting, Low pressure Diecasting, Centrifugal Casting.
+
+Use of rapid tooling in casting
+and rapid casting process.
+
+Understanding about principles
+of solid/liquid state joining.
+
+Familiarization of equipments,
+operations, joining processes,
+ferrous welding, nonferrous
+metals, gas cutting.
+
+ 
+
+ 
+
+innovate
+
+achieve |
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Get to know about electrodes,
+welding arc welding - equipments, operations, weld
+symbols, submerged arc
+
+14.2 Ave structure and welding, carbon arc welding.
+power characteristics
+L11.3 Study of electrode,
+flux and operation.
+12. Welding L12.1 Welding symbols and Understanding about Welding
+symbols and joints symbols and design
+
+design L12.2 | L12.2 Design of weld joints — of weld joints
+
+13. Gas shield | L13.1 eo of SAW and - Get to know about equipments,
+arc welding TIG -5. TIG & MIG operation.
+L13.2 Study of MIG welding
+
+L13.3 Study of electroslag
+
+and electrogas welding
+14. Solid state | L14.1 Principle of solid state | T2-9 Get to know about solid state
+welding welding and resistance T3-4 welding and various resistance
+
+welding welding.
+
+L14.2 Study of various
+resistance welding processes
+L14.3 Study of cold,
+ultrasonic, friction, explosion
+
+and diffusion welding
+
+15, Other L15.1 Other Welding - Comprehension about plasma
+
+Welding Processes and modern -5, Arc, Resistance, Electroslag &
+
+welding processes, - Electrogas welding, Solid state
+bonding, Electron Beam, Laser,
+Thermit & Explosive welding
+
+16. Brazing L16.1 Brazing and soldering | R2-12, Get to know about applications
+and soldering. R1-5 and limitations of brazing and
+soldering.
+
+Processes
+
+ 
+
+17. Welding L17.1 Weld Defects and T3-5, Understanding about weld
+defects and Inspection R1-5.6, defects, destructive and NDT
+welding R2-12 methods for identification of
+metallurgy welding defects and
+
+    
+
+hensi Idi
+L17.2 Study of welding eis a about welding
+metallurgy
+
+ 
+
+Save Paper.
+\ Save Trees.
+£2= Save the Wort. oe
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Lab experiments and open ended part manufacturing:
+
+i) Investigation on Input Current in Arc Welding.
+
+ii) Investigation on weld bead quality of various materials in carburizing flame.
+iii) Welding Design.
+
+iv) TIG and MIG Welding Process.
+
+v) Determination of Compressive and Shear Strength of Green Sand.
+
+vi) Determination of deformation & toughness of Green Sand.
+
+vii) Determination of permeability number of Green Sand.
+
+viii) Determination of Grain Fineness Number of sand.
+
+6. Evaluation Scheme:
+
+; Weightage ;
+
+Mid Semester Test 30% (30) pe Open book
+
+Class A ssignments & 10% (10) Open book
+Surprise Quiz
+
+Comprehensive 0 12/05/2021
+semester 0 Lab Experiments and
+eee xo “ oe Hab Jest
+
+After completing this course the students will be able to
+
+ 
+
+1) Select suitable casting process for common part manufacturing.
+
+ii) Control process parameters to obtain desired surface quality of a part in casting process.
+
+iii) Improve overall process productivity in various casting processes.
+
+iv) Selection of proper welding process for product fabrication.
+
+v) Control process parameters to obtain desired part quality in welding process
+
+vi) Select the most suitable manufacturing process for product manufacturing by considering workpiece
+material, quality and cost of the part etc.
+
+Closed Book Test: No reference material of any kind will be permitted inside the exam hall.
+
+Open Book Exam: Use of any printed / written reference material (books and notebooks) will be
+permitted inside the exam hall. Loose sheets of paper will not be permitted. Computers of any kind
+will not be allowed inside the exam hall. Use of calculators will be allowed in all exams. No
+exchange of any material will be allowed.
+
+ 
+
+A Save Paper.
+es Save Trees.
+£* Save the World.
+
+innovate Flot al (oaic}
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+7. Chamber C onsultation Hours:
+
+To be announced in the class.
+
+8. Notices:
+
+All notices related to the course will be displayed on Notice Board of Mechanical Engineering
+Department only.
+
+9, Make-up Policy:
+
+Make-up will be granted ONLY in genuine cases with prior permission. The request application for
+make-up test MUST be reached to the Instructor-in-charge before commencement of the scheduled test
+along with DOCUMENTARY PROOE. No make-up will be allowed for the Surprise Quiz Tests.
+
+ 
+
+10. Note:
+
+It will be the responsibility of the individual student to be regular in maintaining the self study schedule
+as given in the course handout, attend lectures and the lab demonstration as per the schedule announced in
+Nalanda. Mid Semester Test and Comprehensive Examination are according to the Evaluation Scheme
+given in the respective Course Handout. If the student is unable to appear for the Regular Test/Examination
+due to genuine exigencies, the student must refer to the procedure for applying for Make-up
+Test/Examination.
+
+Instructor-in-C harge
+MF F343
+
+ 
+
+Save Paper.
+mee) Save Trees.
+£ >= Agave the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+

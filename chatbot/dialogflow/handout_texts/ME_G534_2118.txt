@@ -1,0 +1,150 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+SECOND SEMESTER 2020-2021
+Course Handout Part IT
+Date: 06/01/2021
+
+In addition to Part-I"(General Handout for all courses appended to the time table), this portion gives further
+specific details regarding the course.
+
+Course No. : ME G534
+
+Course Title : CONVECTIVE HEAT AND MASS TRANSFER
+Course Instructor : Chennu Ranganayakulu
+
+Course Coordinator : Chennu Ranganayakulu
+
+1. Scope and Objective of the C ourse:
+
+This course has been designed to discuss various modes of convective heat transfers possible in real time
+applications coupled with relevant theories. It covers possible combinations of laminar and turbulent flows,
+internal and external flows, and natural and forced convection with mass transfer aspects. The course primarily
+useful for persons who want to pursue research in Heat Transfer area and covers the following topics: Boundary
+Layer Concepts; Laminar extemal flow, similarity solutions; Laminar duct flow, developing and fully
+developed flow; Extemal natural convection, mixed convection; Natural convection in enclosures; Turbulent
+boundary layer flow, Mixing-Length model, external flows; Turbulent duct flow, friction factor and pressure
+drop, heat transfer coefficient; Convection during condensation and boiling; Mass transfer.
+
+2. Text Book (TB):
+
+1. A. Bejan, Convective Heat Transfer, John Wiley and Sons, Fourth Edition, 2013.
+
+2. F. P Incropera, D.P Dewitt, T.L Bergman, A.S Lavine, K.N Seetahramu & T.R Seetharam, Fundamentals of
+Heat and Mass Transfer, Wiley India Pvt. Ltd, 2013.
+
+3. Reference Book (RB):
+
+1. C. Ranganayakulu and K.N Seetharamu, Compact Heat Exchangers — Analysis, Design and Optimization
+using FEM and CFD Approach, John Wiley and Sons, ASME Press, 2018.
+
+2. RB2:J.G. Collier, and J. R. Thome, Convective Boiling and Condensation, Oxford University Press, Third
+Edition, 1996.
+
+Course Plan:
+
+Basic Heat Transfer, Conservation equations, Rules of
+scale analysis, and Heat lines for visualization of
+Convection.
+
+Fundamental
+
+Principles
+
+ 
+Concepts of boundary layer — Velocity, thermal and
+Concentration boundary layers, Scale analysis, Integral
+solutions and Similarity solutions.
+
+Laminar Duct Hydrodynamic entrance length, Fully developed flow,
+9-14 Flow Hydraulic Diameter & Pressure drop, Heat transfer in
+developing and fully developed duct flows.
+
+Introduction to Natural convection, Laminar boundary
+Extemal Natural layer equations, Scale analysis, Integral and Similarity
+Convection solution, Uniform wall heat flux, Mixed convection, and
+Heat transfer with turbulence effects.
+
+00-23 Internal Natural Transient heating from the side and Enclosures heated
+
+Laminar Boundary
+Layer Flows
+
+15-19 4.1-4.6;
+
+& 4.10—-4.11
+
+Convection from below.
+
+Turbulent Large-scale structure, Time-averaged equations, Mixing
+
+Boundary Layer length model, Wall friction and Heat transfer in boundary
+Flow layer flow, and Other external flows.
+
+Combined
+Convection and
+Radiation
+(Multimode Heat
+transfer)
+
+Convection with ; 1: TB1
+33-36 Change of Phase Condensation and Boiling 10.1 10.2
+
+Properties of mixtures, Mass concentration, Mass
+
+diffusivities, Conservation of Species, Mass Diffusion
+37-40 | Mass Transfer . ;
+
+equation and Laminar forced convection.
+
+5. Evaluation Scheme:
+
+Duration | Weightage .
+semester
+
+Seminars/case
+studies/projects ; Continuous throughout the Open Book
+semester
+
+Introduction to Radiation Heat transfer and Multimode
+Heat transfer
+
+ 
+
+March 2021 (DateTBA) | Mostly Open book. Closed
+
+book can be considered
+Comprehensive As per the announced time | depends on availability of
+Exam table students in campus at later
+date.
+
+6. Chamber Consultation Hour: To be announced in the class.
+
+Page 2
+7. Notices: All notices and updates concerning the course will be uploaded on the Nalanda.
+
+8. Make-up Policy: Make-up request for tests shall be granted only for the genuine case with sufficient
+evidence. Request letter duly signed by the student must reach the undersigned at least two days before the
+scheduled test.
+
+9. Academic Integrity Policy: It is expected that in compliance with institute rules and regulations, academic
+integrity should be adhered to in all the evaluation components. No type of academic dishonesty is
+acceptable and malpractice in any form will have serious implications.
+
+C. Ranganayakulu
+
+INSTRUCTOR-IN-C HARGE
+(ME G534)
+
+Part I: ME G534 Convective Heat and Mass Transfer 5*
+
+Conservation equations, boundary layers, free convection, forced convection. Heat transfer in laminar and
+turbulent, internal as well as external flows, mixed convection. Combined convection and radiation. Boiling and
+Condensation. Molecular diffusion in fluids, mass transfer coefficient. Simultaneous heat and mass transfer;
+Applications.
+
+Page 3
+

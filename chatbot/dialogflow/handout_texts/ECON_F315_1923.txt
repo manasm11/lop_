@@ -1,0 +1,270 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : ECON F 315/ FIN F 315
+Course Title : Financial Management
+Instructor-in-C harge : Rajan Pandey
+Instructor : Byomakesh Debata
+
+1. Course Description: FIN F315 (ECON F315) - Financial Management - is a foundation course on Corporate
+Finance. The course provides an in-depth coverage of array of decisions undertaken by the Financial Manager of
+
+an organization for achieving the objectives of shareholder's wealth maximization principle.
+
+In an increasingly competitive and globally integrated world, the roles and responsibilities of financial manager have
+widened manifold in the past two decades. The fast-paced rise in a number of Indian companies in the new
+millennium indicates the tremendous investments infused by profit-seeking investors amidst growth of the Indian
+corporate sector. The wide-range of investment avenues available to investors explains the extent of innovations
+happening in financial markets worldwide. This explosive growth is much attributable to the integration of world
+markets, modern computational sophistication, and an ever-increasing role played by communications and
+information technology. However, with uncontrolled growth comes the risk of an uncontrolled collapse and the
+
+financial crisis of 2008 is a classic case of presence of fault lines in the financial markets.
+
+To retain the confidence and faith of investors and forge robust and sustainable growth, the firms must impress
+suppliers of capital (investors) with adequate rewards to compensate them for the risks they undertake. In this
+pursuit of shareholder's wealth maximization, it is imperative that decisions taken by firms related to investment in
+projects (capital budgeting), raising finances for undertaking investment decisions (financing) and rewarding
+shareholders (dividend policy) deomonstrate management's competence and goodwill. However, this pursuit of
+shareholder’s wealth maximization must ensure protecting the rights of stakeholders such as employees, suppliers,
+
+customers and the environment etc.
+
+The role of the financial manager - which is central to the decision-making concerning finances (money, capital,
+investment etc.) — plays a critical role in ensuring seamless day-to-day operations, maintaining profitability and
+
+sustaining reliable long-term performance along with its adherence to corporate social responsibility.
+
+2. Scope and Objective of the C ourse: This course aims at introducing students to the fundamental Corporate
+Finance concepts, theories, and the process of financial decision-making. The structure of the course enables
+
+students to:
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+III EEE
+a. Appreciate the existence of a variety of financial instruments and their valuations,
+b. Learn globally adopted corporate investment and risk management practices, and
+c. Obtain knowledge of the strategic financial management approaches followed globally for gaining deeper insights
+into the principles and practices of modern corporate finance.
+Primarily the course objectives hover around key decisions made by financial managers, which include financing
+decisions, investing decisions, capital structure decisions, and shareholder rewarding policies. The contents of this
+
+course enable the participants to appreciate the interdependencies between these decisions and their impact on the
+
+sutvivability of the firm.
+
+Important: The course assumes that students have done a basic course on accounting (prerequisite), have strong
+foundation on financial statements, and have elementary familiarity with financial markets, financial securities,
+
+statistics, and MS-Excel.
+
+3. Text Book: Any single textbook is not sufficient for the course.
+
+4, Reference Books (R#): In decreasing order of priority:
+
+1.
+
+Eugene F. Brigham and Michael C. Ehrhardt, Financial Management: Theory and
+Practice, 14/e, 2014, (South-Western) Cengage Learning.
+
+Richard A. Brealey, Stewart C. Myers, Franklin Allen, and Pitabas Mohanty,
+Principles of Corporate Finance, 8/e, 2010, Tata McGraw-Hill Publishing
+Company Ltd.
+
+Stephen A. Ross, Randolph W. Westerfield, Jeffrey Jaffe, Bradford D. Jordan, and
+Ram Kumar Kakani, Corporate Finance, 11/e, 2016, McGraw Hill Education.
+Lawrence J. Gitman, Principles of Managerial Finance, 11/e edition, 2008, Pearson
+Education Publication (erstwhile textbook).
+
+Aswath Damodaran, Corporate Finance: Theory and Practice, 2/e, 2001, John
+Wiley & Sons, Inc.
+
+. Thomas E. Copeland, J. Fred Weston, Kuldeep Shastri, and Joseph M. Katz,
+
+Financial Theory and Corporate Policy, 4/e, 2011, Pearson Education, Inc.
+Robert A Haugen, Modern Investment Theory, 5/e, 2018, Pearson India Education
+Services Pvt. Ltd.
+
+5. Course Plan:
+
+Contents: Imp Note — Refer to the relevant sections of the first reference book as mentioned below
+(class notes to be clubbed with book chapters). Supplementing the first reference book (Brigham &
+Ehrhardt) with lecture notes should suffice. Refer to the next section for information on the relevant
+topics from the first reference book.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Detailed syllabus and lecture plan follows.
+The course syllabus is divided into 5 Modules:
+1. Introduction to corporate finance and corporate governance
+2. Risk, return, security valuation, and cost of capital
+3. Capital budgeting
+4, Financing, capital structure, and dividend policy
+
+5. Special topics in corporate finance
+
+1. Introduction to | L1 Introduction to C orporate Understanding of:
+Corporate Finance A. Key decisions taken
+Finance, L2 Modern corporate structure by the financial
+Corporate L2 Roles of a financial manager manager.
+Governance, and | L3 Goals of a corporation B. Do's and Don'ts of
+Financial L3 First principles of corporate managerial finance
+Environment finance R1: Ch 1, Ch | practices.
+L4 Information asymmetry 13+Class_ | C. Relevance of
+L4 Principle agent conflict notes shareholder's wealth
+L4 Agency costs maximization
+L5 Financial markets and principle.
+Financial instruments D. Important types of
+financial markets and
+popular financial
+
+ 
+
+securities.
+2. Modern L6 Types of financial securities R1: Ch 18, Ch | Understanding of:
+Portfolio Theory | L7 How are securities issued 9 & 7+Class | A. Different types of
+and C ost of L8 Security valuation principle notes financial instruments
+Capital L9 Measuring risk and return R1: Ch 6, Ch | and how they are
+L10-11 Capital Asset Pricing Model 25+Class | issued by the
+notes companies.
+
+L12 Weighted-average C ost of R1: Ch9+_ | B. Dividend discount
+Capital Class notes | models and free cash
+flow models for stock
+valuation.
+
+C. Quantification of
+investment return and
+risk.
+
+D. Markowitz's
+efficient frontier and
+capital market theory.
+E. Elements of capital
+structure and
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+a ,
+estimation of financing
+cost.
+
+3. Capital L13 Cash flow evaluation tools and Ri: Ch 10+ | Understanding of:
+Budgeting techniques such as NPV, IRR, Class notes | A. Practical
+
+Profitability Index etc. approaches followed
+
+L14 Issues with NPV-IRR approach by the firms for
+
+L 15 Identifying relevant cash flows analyzing and ranking
+
+L16 Case study on cash flow Class notes | long-term investments.
+
+estimation B. Strengths and
+
+L17 Sensitivity and scenario R1: Ch 11, Ch | weakness of the tools
+
+analysis 26+Class | and techniques of cash
+
+L18 Monte-C arlo simulation notes flow evaluation.
+
+L 19-20 Real Options C. Common risk
+analysis approaches
+followed by
+practitioners for
+forecasting cash flows.
+
+ 
+
+  
+
+4, Financing, L 21-22 Financing and overview of Ri: Ch18& | Understanding of:
+Capital Structure | capital structure 20, Ch 15, Ch | A. The relevance and
+and Dividend L 23-24 Capital structure theories 21+Class | irrelevance of capital
+L 25-26 Dynamic capital structure notes structure.
+L 27-28 Dividend payment to Ri: Ch14+ | B. The process of
+shareholders: Theories and Class notes | dividend payment.
+implications C. Different corporate
+actions that may
+potentially impact the
+capital structure of a
+firm.
+D. Advantages and
+disadvantages of
+project financing
+through use of debt.
+
+Policy
+
+9. Special topics | L29-30 Lease financing Ri: Ch19 | Understanding and
+
+in corporate L31-32 Mergers and A cquisitions Ch 22 appreciation of special
+
+finance L 33-34 International financial Ch 17 and emerging themes
+management Ch 16 in corporate finance
+L35-36 Working capital R3: Ch 14 _ | and their implications
+management R2: Ch 13 | in financial decision
+L37-38 Behavioral finance and its + making process.
+implications for the corporate Class notes
+
+6. Evaluation Scheme: The course is of 300 marks.
+
+Components Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+
+Mid-Semester Test As per time-table Online
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Comprehensive 180 Min. 40% | Aspe As per time-table Online
+
+7, Contact:
+
+ 
+
+ 
+
+Chamber (6165 - G) Economics and Finance Dept., New Academic Block.
+
+Chamber consultation hour: TBA by respective instructors.
+
+e-mail — rajanpandey@pilani.bits-pilani.ac.in
+8. Students must check their BITS e-mail accounts on a regular basis for course related announcements.
+
+9. Make-up Policy: Make-up exam for Mid-semester Test and the Comprehensive Exam will be granted in only genuine
+cases with prior written permission from AUGS Dept. Prior written permission is mandatory under all circumstances. No
+make-up shall be granted for the quizzes.
+
+Instructor-in-charge
+Course No. ECON F315 / FIN F 315
+

@@ -1,0 +1,739 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+C ourse Handout Part II
+Date: 20/01/2021
+
+In addition to Part-I (General Handout for all courses appended to the timetable) this portion gives further specific
+details regarding the course.
+
+Course No. : ECON F354 / FIN F311
+Course Title : Derivatives & Risk Management
+Instructor-in-charge : ARUN KUMAR VAISH
+
+1. Scope & Objective:
+
+The objective of this course is to provide students an introductory level familiarity with a particular
+type of financial instruments known as DERIVATIVES. To achieve the stated objectives the course
+provides a detailed description on the structure (read, design) and utility (read, relevance) of the
+most common and popular financial derivatives namely, Options, Futures, and Swaps. The scope of
+the course entails acquainting students with the mechanics of trading and settlement of derivative
+instruments in the financial markets and their function as insurance products for hedging financial
+risk.
+
+No understanding about financial instruments or their derivatives is complete without a thorough
+grasp over interest rate concepts and hence the course also includes discussion on topics such as
+time value of money, term structure of interest rates and their role in valuation of bonds,
+computation of yield and forward interest rates, estimating bond-price volatility, and the role of
+bond duration and convexity in mitigating interest rate risks.
+
+The topics covered in the course will, at an introductory level, enable participants to learn about
+common risks prevalent in the financial markets and how to manage its impact on investment
+exposure by using derivatives. Discussion on valuation of financial derivatives and a brief
+introduction to creating synthetic investment positions by combining derivatives prepares students
+for advanced level courses such as Financial Engineering and Financial Risk Analytics and
+Management. The course concludes with a survey of selective topics of contemporary interest to risk
+management industry such as forecasting volatility, estimating value-at-risk, etc. The topics covered
+in the course will also assist students in preparing for competitive professional international
+certifications such as Financial Risk Manager (FRM) and Chartered Financial Analyst (CFA).
+
+2. Prerequisites: This is an elementary course on Derivatives and Risk Management and does not
+assume any prior knowledge of Financial Markets, Instruments and Derivatives. However,
+familiarity of basic economic theory such as law of supply and demand, utility maximization
+principle, compounding and discounting of cash flows, etc. are desirable. The course is not
+mathematically rigorous and a first-year course on elementary linear algebra, calculus, probability,
+and differential equations will be sufficient to grasp the contents of the course. It is expected that
+students have technical know-how of MS excel as it will be used to demonstrate required
+computations, wherever required, and for carrying out take-home assignments.
+
+ 
+
+ 
+
+A Save Paper.
+gs. Save Trees.
+£ © Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+  
+
+OTs + oo
+Wet reser ae” =
+
+ 
+
+3. Text book:
+Hull, John C., and Basu, Sankarshan (2016). Options, Futures, and Other Derivatives, 10th Edition. Pearson
+Education Inc.
+
+4. Reference books:
+R1. David A. Dubrofsky and Thomos W. Miller, Jr., Deivatives Valuation and Risk Management,
+Oxford Unversity Press.
+
+R2. David G. Luenberger, Investment Science, Oxford University Press
+
+ 
+
+ 
+
+Save Paper. }
+, Save Trees. .
+ot =" “s$Save the World. innovate Tes eW(=)
+
+Please Do Not Print Unless Necessary
+ 
+
+Lecture
+No. and
+Date
+
+Pilani Campus
+
+AUGS/ AGSR Division
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning Objectives Topics to be C overed Learning Outcomes Reading
+Reference
+
+Orientation:
+
+e Course introduction and
+
+discussion on the handout.
+
+Brief orientation of the
+participants and their
+expectations from the
+course.
+
+Time Value of Money
+
+Introduction:
+Introduction to Financial
+Markets and financial
+instruments.
+
+Role of intermediaries in
+modern-day finance.
+What are derivatives and
+their relation with
+traditional financial
+instruments?
+
+Philosophy of asset
+valuation.
+
+Types of traders in
+financial markets.
+
+4 Save Trees.
+h Asave the World.
+
+Concept of interest, Calculation of
+interest, Time Value of Money,
+Present V alue and Future Value
+
+e Exchange-traded markets vs.
+Over-the-counter markets.
+
+e Introduction to common
+financial instruments such as
+stocks and bonds, and their role
+in financial markets.
+
+Basics of derivatives and the
+concept of the underlying
+instrument.
+
+First principles of asset
+valuation i.e. Discounted Cash
+Flow approach to asset
+valuation.
+
+Distinction between investment,
+hedging, and speculation.
+
+Role of arbitrageurs in financial
+markets.
+
+ 
+
+e Importance of this course to the
+participants for gaining
+knowledge in this field and for
+fulfilling career aspirations
+related to this course.
+
+e Familiarity of the course
+instructor with course participants
+and their expectations from this
+course.
+
+e Should be able to understand
+application and various methods
+of interest,
+
+e Familiarity about application of
+interest rate in real world.
+
+e Fundamental distinction between
+underlying instruments and
+
+derivatives of those instruments.
+
+e Different types of derivatives
+and how they differ from each
+other, e.g. Difference between
+Options and Futures. Difference
+between call option and put
+option.
+
+e The first principles of asset
+valuation, which will enable
+students to learn the universal
+convention followed for asset
+valuation.
+
+innovate
+
+Please Do Not Print Unless Necessary
+
+Ch. 1
+(selective
+topics:
+follow
+classroom
+discussion)
++ Class
+notes
+
+ 
+
+ 
+ 
+  
+  
+  
+ 
+
+Pilani Campus
+
+Basic Tenet:
+
+Introduction to types of
+risks present in the
+financial markets.
+
+What is return on
+investment and how is it
+calculated?
+
+How derivatives are used
+in managing downside
+risk?
+
+Futures and Forwards
+
+Introduction to Futures
+How Futures are traded
+on stock exchange?
+Clearing and settlement
+of Futures contract.
+Risk management
+strategies using futures.
+Anticipation based
+strategies using futures.
+Forwards contract
+Valuation of Futures and
+Forwards.
+
+Save Paper.
+~ Save Trees.
+*’ Agave the World.
+
+AUGS/ AGSR Division
+
+An introduction to:
+
+What is risk? How to estimate
+risk?
+
+What is return? How to
+estimate return on stocks?
+Historical analysis of financial
+instruments from their riskreturn profiles.
+
+Specification of a futures
+contract.
+
+Trading of futures contract on
+stock exchange.
+
+Margin requirements and
+marking-to-market futures
+position.
+
+Expiration of futures contract
+and rollover.
+
+Basic trading strategies using
+futures contract.
+
+Hedging stock risk using futures
+contract.
+
+Law of convergence and
+valuation of futures contract.
+Forwards vs Futures
+
+Cost of carry and its implication
+on futures valuation.
+
+Short selling and intra-day
+trading of futures.
+Speculation using futures
+contract.
+
+Forwards on non-financial
+assets (commodities).
+
+Stock index futures.
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Understand the inherent
+relation between risk and return
+and importance of risk in asset
+valuation.
+
+Common types of risks that
+investors encounter in financial
+markets.
+
+Develop familiarity with riskreturn characteristics of
+different financial assets that are
+traded in the domestic market.
+Basic understanding of using
+derivatives for hedging
+downside risk.
+
+Identify futures contract on Ch 2 and 3
+stock exchange and read and + Class
+interpret online quotes on note
+futures.
+
+Place trading orders on Futures.
+Importance and implications of
+margin requirements for
+initiating a futures contract and
+role of maintenance margin in
+sustaining the contract.
+
+The concept of Marking-toMarket (MTM) an open position
+in futures contract as stock
+prices fluctuate real-time.
+Identification of variables that
+affect intra-and-inter-day prices
+of futures contract.
+
+Role of interest rates,
+transportation costs, storage
+costs on prices of futures.
+Fundamental difference
+between futures and forwards.
+Application of time value of
+money for valuing futures and
+forward contracts.
+
+Risk management using futures
+contract.
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+ 
+  
+  
+  
+  
+
+Pilani Campus
+
+Options: Introduction,
+Trading, Strategies
+
+Introduction to options.
+Difference between
+options and futures.
+Options trading
+mechanism, Clearing and
+settlement of options.
+Difference between long
+and short on options.
+Basic options pay-off
+diagrams.
+
+Identify important
+variables that impact
+options prices.
+
+Options strategies for risk
+management and
+speculation.
+
+Option Greeks and
+Valuation. The Greek
+letters and their
+estimation. Moneyness of
+an option and option
+Greeks. Hedging the
+underlying using options
+Greeks. Relations
+between option Greeks
+and volatility smiles Putcall Parity and option
+valuation. Binomial model
+of option pricing. BlackScholes-Merton (B-S-M)
+option pricing model.
+
+Save Paper.
+gs Save Trees.
+*’ Agave the World.
+
+AUGS/ AGSR Division
+
+e Types of options.
+
+Options positions and basic
+pay-off diagrams.
+
+Specification of options and
+interpretation of options
+quotes.
+
+Market mechanics of options
+trading, clearing, and
+settlement.
+
+Factors affecting options prices.
+Stock position protection using
+options.
+
+Creating spreads, net debit and
+net credit strategies,
+anticipation based strategies,
+volatility based strategies.
+
+Introduction to option Greeks:
+Delta, Theta, Gamma, Vega,
+Rho. What is moneyness of an
+option and its role in option
+valuation and creating
+strategies? Moneyness and
+delta hedging. One-step
+binomial model and a noarbitrage argument. Riskneutral valuation. Two-step
+binomial trees. Binomial model:
+Simulation example. Bounds for
+option prices. Put-call parity
+and no-arbitrage condition.
+Inputs to Black-Scholes-Merton
+option pricing model.
+Estimation of call and put prices
+using B-S-M model.
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+e Distinction between long on
+
+options and short on options.
+Draw pay-off diagrams of
+different options based
+strategies.
+
+Interpretation of price of an
+option as function of intrinsic
+value and time value.
+
+Impact of moneyness of an
+option on its value and utility for
+hedging the underlying.
+Creating hedging strategies
+using options.
+
+Creating speculative strategies
+using options.
+
+Basics of option Greeks and their
+
+different types. Differentiate
+between At-the-money, In-themoney, and Out-of-the-money
+options. Utilize information on
+options Greeks to formulate
+hedging strategies. Identify
+mispricing of options using PutCall parity. Learn the theory of
+risk-neutral valuation and use
+Binomial and B-S-M model to
+price options using data from
+the stock exchange. Learn the
+impact of dividends on option
+prices.
+
+innovate
+
+Please Do Not Print Unless Necessary
+
+Ch 10, 11
+(selective
+topics:
+follow
+classroom
+discussion)
+and 12 +
+Class
+notes
+
+Ch. 11
+(selective
+topics), 19,
+13, 15 +
+Class
+notes
+
+ 
+   
+  
+
+Pilani Campus
+
+Fixed Income Instruments
+
+and their Derivatives
+
+e Interest rate basics.
+
+e Interest rates and their
+role in bond valuation.
+Calculate yield-tomaturity and yield-to-call
+on fixed income
+instruments.
+
+Day count convention and
+calculating clean and dirty
+price of bond.
+
+Market mechanics of
+bond trading.
+
+Zero coupon bonds.
+Estimating forward
+interest rates.
+
+Duration, modified
+duration and bond price
+volatility, Convexity.
+
+Bond portfolio
+immunization.
+
+Interest rate futures.
+Currency futures.
+
+Swaps and their
+
+applications
+
+e Need for swaps in
+modern day finance.
+Different types of swaps.
+Swaps and cash flow
+engineering.
+
+Role of financial
+institutions in a swap
+contract.
+Valuation of swap.
+Risk management using
+swaps.
+
+5. Course Plan:
+
+6. Evaluation Scheme:
+Component
+
+AUGS/ AGSR Division
+
+e Features of fixed income
+instruments.
+Bond yield calculation.
+Pricing plain-vanilla bond.
+Yield curve analysis.
+Bond price volatility.
+Forward rates of interest.
+Strips markets.
+Overview of interest rate
+derivatives.
+Hedging using interest rate
+futures.
+Trading strategies using interest
+rate options.
+Currency derivative
+instruments.
+Determinants of foreignexchange rate
+
+Mechanics of swaps.
+Comparative-advantage
+argument.
+
+The nature of swap rates.
+Determining the LIBOR / swap
+zero rates.
+
+Valuation of interest rate
+swaps.
+
+Cross-currency swaps.
+Commodity swaps.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Ch.4+6+
+class notes
+
+e Role of interest rates in pricing
+securities.
+Relate fluctuations in interest
+rates with macroeconomic
+scenario.
+Factors affecting bond yields and
+the term structure of interest
+rates.
+Estimating bond duration and
+convexity.
+Bond portfolio management
+strategies.
+Futures and options on interest
+bearing instruments and their
+use in hedging interest rate risk.
+Foreign exchange rate and
+international risk management.
+Cross-currency exchange rates
+and common currency
+derivatives.
+
+Ch. 7 +
+class notes
+
+Why firms undertake swaps
+contract for exchanging one
+cash-flow with another?
+
+How swap contracts are
+designed and what purpose they
+Satisfy?
+
+Role of financial intermediaries
+in a swap contract.
+
+Distinction between different
+types of swaps.
+
+Valuation of swap contracts and
+their role in financial risk
+management.
+
+Duration | Weightage | Date& Time
+(marks)
+30% (90) | Open Book
+
+Compre- Exam
+
+2hrs. |
+
+40% (120) | (120)
+
+Open Book
+
+Surprise Quizzes 2 Best ~~ Min. bl (90) Open Book
+Out Of 3 (One Buffer,
+No Makeup)
+
+Save Paper.
+ce, Save Trees.
+XSave the World.
+
+ 
+
+ 
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+7. Learning outcome
+Students who complete this course would be able to
+
+1) Understand the various accounting methods for recording the business transactions.
+
+2) Evaluate various financial concepts and preparation of financial statements- balance sheet, income
+statement, and cash flow statement.
+
+3) Identify the financial position and performance of the companies.
+
+4) Make better economic decisions while undertaking investments in financial assets.
+
+Make-up policy
+
+The application for make-up tests/exam will not be entertained without specifying any genuine reasons.
+Application must be submitted to instructor-in-charge of the course along with documents supporting the
+reason for seeking make-up before conducting the respective tests/exams.
+
+Chamber Consultation Hour: 6165 E, Tuesday- from 3:30PM to 4:30 PM;
+
+Notices: Notices concerning the course will be displayed on the Economics and Finance Group Notice Board
+only.
+
+Instructor in-charge
+Dr. Arun Kumar Vaish
+
+ 
+
+ 
+
+Save Paper.
+ges. Save Trees.
+£ © SSave the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+

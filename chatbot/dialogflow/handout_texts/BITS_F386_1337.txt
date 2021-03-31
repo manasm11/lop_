@@ -1,0 +1,191 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+SECOND SEMESTER 2019-2020
+COURSE HANDOUT (PART II)
+Date: 15.01.2021
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion gives
+further specific details regarding the course.
+
+Course Number: BITS F386
+Course Title: Introduction to Quantum Information and Computation
+Instructor-in-Charge: RR Mishra
+
+Scope & Objectives: This is an introductory course on the rapidly developing interdisciplinary field of
+Quantum Information and Computation. The course does not require a thorough knowledge of either
+Computer Science or Quantum Physics. Relevant concepts of either subject will be developed during the
+course of instruction.
+
+Course Description: This course is divided into three main parts. (1) Foundation: Basic ideas and
+interpretation of quantum mechanics relevant for understanding quantum information. (2) Quantum
+Computation: Quantum circuit model, quantum gates, and quantum algorithms. (3) Quantum Information:
+Quantum version of Shannon’s classical theory of information, quantum cryptography, error correction, etc.
+
+Books:
+
+Textbook : i) Quantum Computer Science, An introduction by N. David Mermin, Cambridge University Press
+(2007)
+
+ii) Quantum Information Theory, Second Edition by Mark M Wilde, Cambridge University Press, 2017
+Reference books:
+
+(i) Quantum Computation and Quantum Information, M. A. Nielsen and I. L. Chuang, Cambridge Univ. Press
+2002 (RBI)
+
+(ii) Quantum Information, Lecture Notes by John Preskill (RBII)
+
+Course Plan:
+
+Learning Objectives Topics to be covered Reference to
+
+Textbook
+
+ 
+    
+
+A Save Paper.
+ge. Save Trees.
+£°* Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+Pilani Campus
+
+ 
+
+Foundations of Quantum
+Concepts (1) : Noiseless
+Quantum Theory
+
+Foundations of Quantum
+Mechanics (ii) : Noisy
+Quantum Theory
+
+Quantum computation
+(General features)
+
+Breaking RSA encryption
+
+Searching with a
+
+quantum computer
+
+Quantum error correction
+
+Protocols
+
+Evaluation Scheme:
+
+a Evaluation Component Weightage Date & Time
+
+ 
+
+A Save Paper.
+Save Trees.
+£°™ ‘Save the World.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Instruction Division
+
+Basic concepts, Dirac notation, Inner product
+and orthogonality
+
+Quantum Bits, Measurement, Reversible
+Evolution, Composite Systems,
+Entanglement
+
+Noisy (Mixed) Quantum State, Measurement
+in Noisy Quantum Theory, Evolution of a
+Noisy Quantum State
+
+Cbits, Reversible operations on Cbits, Qbits,
+Reversible operations on Qbits, Circuit
+diagrams, Measurement gates, The general
+computational process, Deutsch problem,
+Bernstein-Vazirani problem, Simon’s
+problem, Constructing Toffoli gates
+
+RSA encryption, Quantum period finding,
+Calculating the periodic function, Period
+finding and factoring
+
+The nature of the search, The Grover
+iteration, Generalization to several special
+numbers
+
+The physics of error generation, The 5-Qbit
+error-correcting code, The 7-Qbit errorcorrecting code, Encoding circuits
+
+Bell states, Quantum Cryptography, Bit
+commitments, Quantum dense coding,
+Teleportation, The GHZ puzzle
+
+Appendices
+
+TB (ii): Ch 3
+
+TB(ii) : Ch 4
+
+TB(i) : Chap.
+1-2
+
+TB(i) : Ch.3
+
+TB(i) : Ch.4
+
+TB(i) : Ch.5
+
+TB(i) : Ch.6
+
+ 
+
+ 
+
+innovate achieve lead
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+1 Tutorial Tests (3 tutorial tests) ee 10x 3 =30% pS
+To be
+
+ 
+
+Mid-Term (Closed book) To be announced 25%
+later announced
+later
+Comprehensive Exam. (Open* + Closed To be announced 35% To be
+book) later announced
+
+*Open Book: Only the books listed in the handout and handwritten notes are allowed.
+
+ 
+
+Chamber Consultation Hours: To be announced in the class.
+Notices: Will be put on Nalanda site only.
+
+Make-up Policy: Make-up will be given only in genuine cases, that is, illness leading to hospitalization or
+emergency situation requiring absence from campus. No make-ups for the tutorials and assignment
+
+submissions.
+
+Instructor-in-charge
+
+ 
+
+Save Paper.
+ge, Save Trees.
+ot ~"“s$ave the World. Toye
+
+Please Do Not Print Unless Necessary
+

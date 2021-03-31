@@ -1,0 +1,232 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 04.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BITS F312
+
+Course Title : Neural Networks and Fuzzy Logic
+Instructor-in-C harge : Dr. B.K. Mukherjee
+
+Instructor(s) : Dr. B.K. Mukherjee and Prof. S. Bhanot
+
+Tutorial/Practical Instructors: NA
+
+1. Course Description: This course aims to introduce basic concepts, mathematics, application of Al
+techniques mainly neural networks, fuzzy logic, expert systems, evolutionary algorithms in modeling, control,
+classification, clustering, prediction problems.
+
+2. Scope and Objective of the C ourse:
+Understand concept, techniques, applications, future of the field of “Artificial Intelligence”
+Understand the concepts, mathematics, techniques to implement fuzzy logic in clustering, control applications
+Understand basic concepts, mathematics, different architectures and learning algorithms in ANNs
+
+Understand Evolutionary algorithms for optimization like GA, PSO etc.
+After completing this course the students will be able to
+1) Understand the techniques, applications, impact of this new emerging area “AI’’/ “soft computing”
+
+2) Implement different learning algorithms used in Artificial neural networks to apply in applications
+such as modeling, control, classification, prediction etc.
+
+3) Understand mathematics behind fuzzy sets, implement fuzzy logic systems for decision making,
+control, classification, clustering etc.
+
+4) Design Hybrid AI techniques and use evolutionary optimization techniques like GA,PSO etc.
+
+3. Text Books: No single textbook
+
+4, Reference Books:
+1. Artificial neural networks, B Y egnanarayana, Prentice Hall
+
+2. Process control: principles and applications, Surekha Bhanot, Oxford University Press
+ 
+
+3. Fuzzy Logic with engineering application, Timothy J Ross
+
+Pilani Campus
+
+AUGS/ AGSR Division
+
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+4. Intelligent Systems and Control Laxmidhar behera , Indrani Kar
+
+9. Nature-inspired metaheuristic algorithms, Xin-She Y ang, Luniver Press
+
+6. Neural Network Design, Martin D Hagen et al 
+http://hagan.okstate.edu/N ND esign.pdf
+
+7. A first course in Fuzzy and Neural Control, By Hung T Nguyen, N R Prasad, C L Walker, E A
+Walker Chapman & Hall/CRC Press Company
+8. Fundamentals of Neural networks, architecture, algorithms and applications, Laurene Fausett,
+
+Pearson Education
+
+9, Elements of artificial neural networks by Kisham Mehrotra, C K Mohan & Sanjay Ranka, Penram
+International Publishing
+
+10. Soft Computing-Fundamentals and A pplications, Dilip K. Pratihar, Narosa Publishers
+
+11. Engineering Optimization, 4" Ed., S.S. Rao, John Wiley & Sons
+
+5. Course Plan:
+
+1. Introduction to
+Al, intelligent
+systems, soft
+computing
+
+(Lec 1-3)
+
+2. Nontraditional
+Optimization
+Techniques
+
+(Lec 4-9)
+
+3. Artificial
+neural networks,
+learning
+algorithms, ANN
+for modeling,
+control, function
+approximation,
+prediction
+
+Machine learning, Intelligent
+systems, soft computing,
+achievements, future directions
+
+Introduction to traditional
+optimization; Lagrange multiplier
+method; Gradient descent method;
+Introduction to nontraditional
+optimization; Genetic Algorithm;
+Particle Swarm Optimization
+
+Model of artificial neuron,
+Architecture , Learning methods:
+Supervised, Unsupervised,
+Reinforcement,
+
+Perceptron, Back propagation,
+Hebbian, Hopfield, dynamic,
+competitive, RBF networks,
+Recurrent neural networks,
+
+Reference | Learning outcomes
+
+Class notes
+and web
+resources
+
+R11 (Ch 2, 6,
+13), R10 (Ch
+3),
+
++ Class Notes
+
+R9 (Ch1)
+
+R8 (Ch
+1,2,3,4)
+R2 (Ch 17)
+
+R4 (Ch 2)
+
+ 
+
+Get an overview of field of
+artificial intelligence and the
+techniques for
+implementing AI, future
+implications
+
+Understanding a few
+popular evolutionary
+optimization algorithms
+such as GA and PSO and
+appreciating the advantages
+they offer over the
+traditional techniques.
+
+Get an understanding of
+different learning
+algorithms in A NNs,
+applications of ANNs for
+modeling, control,
+classification, prediction
+etc, Matlab implementation
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+LSTMs/GRUs, Convolution R7 (Ch 1 to 6)
+(Lec 10-31) networks, Deep learning and their
+
+applications in function + Class notes
+
+approximation, modeling, pattern
+
+recognition, prediction, modeling
+
+& control
+
+4, Fuzzy Logic Fuzzy Set theory, fuzzy relations,
+Mamdani and Sugeno inference, | R3, R4 Understanding the
+(Lec 32-40) Introduction to Type-2 fuzzy logic, mathematics behind Type-1
++Class notes | and Type-2 Fuzzy
+
+Neur-Fuzzy-GA Hybrid systems Reasoning process
+
+Fuzzy logic applications in PID Learning how to combine
+control neural net, fuzzy logic and
+
+nontraditional optimization
+Fuzzy logic applications in techniques
+
+luster
+clustering Understanding Control and
+
+Clustering applications of
+fuzzy logic
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ O pen Book)
+Mid-Semester Test OB
+
+"
+Examination
+
+CodingAssignments | | 10% | OB
+Research Paper 20% OB
+Assignment
+
+7. Chamber Consultation Hour: To be announced in the class
+
+8. Notices: All notices regarding the course will be posted on NALANDA
+9, Make-up Policy: Makeup will be granted to extremely genuine cases only.
+
+10. Note (if any): It shall be the responsibility of the individual student to be regular in maintaining the self
+study schedule as given in the course handout, attend lectures and assignment submission as per the schedule
+announced in Nalanda. Mid Semester Test and Comprehensive Examination are according to the Evaluation
+scheme given above.
+
+Instructor-in-charge
+Course No. BITS F312
+

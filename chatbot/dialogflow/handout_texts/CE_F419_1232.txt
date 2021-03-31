@@ -1,0 +1,140 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15-1-2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F419
+Course Title : Geotechnical Earthquake Engineering & Machine Foundation
+Instructor-in-C harge : Prof. Kamalesh Kumar
+
+1. Course Description: Basics of Geotechnical Earthquake Engineering and foundations supporting
+vibratory machines will be covered.
+
+2. Scope and Objective of the Course: Earthquake resistant geotechnical construction has become an
+important design aspect recently. Course includes discussion on introduction to geotechnical earthquake
+engineering, earthquakes, dynamic soil properties, site seismicity, seismic soil response and design
+earthquake. Concept of liquefaction will be covered in detail. Earthquake resistant design of shallow
+foundation, earthquake resistant design of deep foundation, slope stability analysis for earthquakes and
+retaining wall analysis for earthquake will also be covered. Later part of course will be on machine
+foundations. Methods of analysis of block foundations, soil spring constants, determination of soil spring
+constants, damping, vertical vibration, rocking vibration, pure sliding and yawing of block foundations will
+be covered in this context.
+
+3. Text Books:
+T1. Kamalesh Kumar “Basic Geotechnical Earthquake Engineering”, New Age International Publishers,
+second Edition, 2017.
+
+T2. Ranjan G. and Rao R. “Basic and Applied Soil Mechanics”, New Age International Publishers, Second
+Edition, 2000.
+
+4, Reference Books:
+
+R1. Day R. W. “Geotechnical Earthquake Engineering Handbook”, McGraw-Hill Handbooks, 2002.
+
+R2. Arora K. R. “Soil Mechanics and Foundation Engineering”, Standard Publishers Distributors, Fourth
+Edition, 1997.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+No.
+
+Introduction to Introduction, Earthquake records,
+geotechnical earthquake Chapter 1 Earthquake records of India
+engineering
+
+2. Earthquakes T1 Plate tectonics, Seismic waves,
+
+intensity, Seismograph
+
+3 Dynamic soil properties T1 Introduction, Types of _ soils,
+
+Chapter 4 Measuring dynamic soil properties
+
+4 Site seismicity, Seismic T1 Site seismicity, Seismic soil
+soil response & design Chapter 5 response, Design Earthquake
+earthquake
+po finees T1 Introduction, Factors goverming
+
+Chapter 6 liquefaction in field, Liquefaction
+analysis, Antiliquefaction measures
+_ resistant T1 Introduction, Bearing — capacity
+design for shallow Chapter 7 analysis for liquefied soil, Bearing
+foundation capacity analysis for cohesive soil
+weakened by earthquake
+
+ 
+
+Teese resistant Introduction, Design Criteria
+ae: of deep Chasers Chasers
+foundation
+
+Slope stability analysis T1 Introduction, Inertia & weakening
+for earthquakes Chapter 9 slope stability
+
+Retaining wall analysis Introduction, Pseudostatic method,
+
+for earthquakes Chapter 10 Analysis for liquified and weakened
+
+soil, Restrained & temporary
+
+retaining walls
+
+10 Machine Foundations T2 Introduction, Methods of analysis,
+
+Chapter 18 Determination of soil spring
+constants, Damping, Virtical
+vibration, Rocking vibration, Pure
+sliding & yawing of foundation
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+— 30 ———* lose Book/ ene Book)
+
+Mid-Semester Test
+
+Examination
+
+ 
+
+Other Evaluation
+Component
+
+7. Chamber C onsultation Hour: To be announced in the first class.
+
+8. Notices: Mostly on Nalanda.
+
+9, Make-up Policy: Make-up would be granted only for genuine cases with prior permission.
+10. Note (if any): Course related instructions will be given throughout the semester.
+
+Instructor-in-charge
+Course No. CE F419
+

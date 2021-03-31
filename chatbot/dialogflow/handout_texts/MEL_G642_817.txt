@@ -1,0 +1,162 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+
+ll SEMESTER, 2020-2021
+
+Course Handout (Part -11)
+Date: 12-03-2021
+
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives further specific
+
+details regarding the course.
+Course No. : MEL G642
+Course Title : VLSI Architectures
+Instructor in charge : S Gurunarayanan
+                Chandra Shekhar
+Lab Instructors: : Abheek Gupta, Kanika
+la. Scope and Objective of the Course:
+
+1b.
+
+To familiarize the student with various architectural techniques used in implementing complex logic functions as
+VLSI chips to achieve various design objective such as high performance, low cost, high throughput, low-power
+or a combination thereof. Besides the techniques used for creating efficient dedicated hardware architectures for
+complex digital functions, the course also covers the architectural techniques and design methods used for
+designing programmable processors .
+
+It covers the philosophy behind CISC instruction set and its implementation as a microprocessor chip through the
+creation of optimal datapath and a microprogrammed/ hardwired control unit using the flow -chart method.
+
+Next the concept of Reduced Instruction Set Computer (RISC) architecture which implements a streamlined
+instruction set on a pipelined execution unit to achieve single cycle execution is covered through an example.
+Concepts of superscalar architectures are also covered briefly.
+
+Design of Application Specific Instruction Set Processors (ASIP) is covered next to illustrate how high
+performance, low-power and functional flexibility can be simultaneously addressed through them.
+
+Learning Outcomes of the course:
+After completion of the course a student would be able to:
+
+> Gain both an overview of scope and an in-depth understanding of the issues and principles involved in the
+architecting of fixed-function as well as programmable V LSI circuits.
+
+> Architect and design functional blocks — such as arithmetic functions using combinational / sequential
+
+architecting techniques and control circuits that find applications in general purpose as well as application
+Specific processors with context-specific optimum architectures in terms of speed, gate count and power
+
+consumption
+
+Optimally architect the implementation of sequential computational algorithms
+
+Optimally architect the implementation of a CISC instruction set architecture
+
+Optimally architect the implementation of a RISC instruction set architecture
+
+Optimally architect the implementation of an Application Specific Signal Processor
+
+Text Books
+
+(1) Computer Organization and Design- The Hardware Software Interface : 4" Edition
+Author: John L. Hennessy & David A. Patterson
+Publisher: Elsevier- 2009
+(2) Microprocessor Logic Design: Flowchart Method
+Author: Nick Tredennick
+Publisher: Digital Press, 1987.
+
+Reference Books
+
+(1) Digital Design and Synthesis with Verilog HDL.
+Author: Eli Sternheim, Rajvir Singh, Rajeev Madhavan and Y atin Trivedi
+Publisher: Automata Publishing Co., San Jose, CA.
+
+(2) Computer Architecture: A Quantitative approach
+Author: John L. Hennessy & David A. Patterson
+
+VVV V
+(3) Embedded DSP Processor Design
+Author: Dake Liu; Publisher: Elsevier, 2008
+
+(4) DSP Integrated Circuits
+J L.Wanhammar
+Publisher: Academic Press, 1999.
+
+4. Course Plan:
+
+Role of Architecture in VLSI design; Importance of architectural exploration
+Combinatorial Architectures: Direct mapping of algorithms onto hardware
+Sequential Architectures: Avoiding duplication of hardware through hardware reuse
+Mapping algorithms on sequential architectures: The RTL description
+
+Design of data path: Choice of functional blocks and data transfer paths between
+functional units
+
+Design of control circuit: The Moore and Mealy Finite State Machines
+Design Examples : Binary multiplication and binary division
+Pipelined Architectures: Increasing the throughput
+
+Design Examples: Pipelined adder and pipelined multiplier units
+
+General purpose computing architectures: Mapping of any algorithms on a standard
+hardware via the use of that standard hardware’s instruction set
+
+Design of instruction set for general purpose computing and designing of processor
+hardware for the instruction set
+
+Techniques for optimization of data-path using hardware flow -charting
+RISC Architectures
+
+RISC Instruction - set architecture philosophy and example
+
+R.T.- level design & its capture via hardware flow -charts
+RISC microprocessor architecting:
+
+l
+2
+Techniques for optimization of control unit using hard-ware flow- charting
+l
+ee
+
+2.26 Implementation of Instruction decoder, control sequencer, Bus Controller and
+exception handling
+
+3.21 Micro architecture: Datapath and Control
+Single cycle Processor
+Multi cycle Processor
+
+—— on)
+Block-level architecture for a fetch-decode-execute pipelined implementation
+
+Pipelined Processor
+
+No. of Lectures
+
+2
+2
+
+ 
+5 Application Specific Instruction Set Processor (ASIP) architecture: philosophy and
+examples
+
+ 
+
+6 Future Directions: Research Possibilities and Challenges
+
+5. Assignments: Assignments will be given to students during the course from time to time. These will
+include some design assignments to be implemented in the VLSI laboratory, report
+Submission on some latest topics on design issues of different architectures.
+
+6. Evaluation Schedule:
+
+Components Duration Weightage Date Time Venue Remarks
+Midterm Test 90 min 20 TBD TBD TBD CB
+Assignments 20 To be announced
+
+Labs/lab Test 20 To be announced (TBA) OB
+Comprehensive 3 hrs. AQ 29/06/2021 AN (TBA) OB/CB
+
+7. Chamber Consultation Hour: Will be announced in the class.
+
+8. Notices: Notices will be put up on the LMS for the course.
+
+Instructor-in-charge
+

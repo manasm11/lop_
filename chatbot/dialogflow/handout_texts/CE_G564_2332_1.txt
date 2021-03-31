@@ -1,0 +1,278 @@
+CE G 564: Structural Health Assessment and Rehabilitation
+
+General Course Handout: Part-I
+
+Introduction, Overview of present repair, retrofitting, and strengthening practices, Distress
+identification, Repair management, Causes of deterioration and durability aspects, Holistic models
+of Deterioration of RCC, Durability Aspects, Intrinsic and Extrinsic causes an stages of Distress,
+Condition Survey and Non-destructive Evaluation, Classes of Damages and Repair Classification,
+Structural Analysis and Design, Reserve Strength, Evaluation of Building Configuration, Repair
+materials and their selection, Rehabilitation and Retrofitting Methods, Analysis and Design of
+Extemally FRP and ECC Strengthened Structures, Retrofitting using External Unbonded Posttensioning and Near Surface Mounted FRP Rebars, Durability Based Design of FRP
+Reinforced/Strengthened Bridge Girders, Case Study Problems.
+C ourse Handout-Part II
+
+In addition to Part | (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : CE G564
+
+Course Title: Structural Health Assessment and Rehabilitation
+
+Civil Engineering Department, BITS Pilani, Pilani Campus
+
+Course Description
+
+This course deals with critical assessment of the health of structures especially reinforced concrete
+structures and identification of the causes of deterioration along with design of suitable repair,
+retrofitting, and external strengthening of deficient structural systems using conventional and highperformance materials such as polymer modified mortars and concrete, epoxy mortar and concrete, fiber
+reinforced polymer (FRP) systems, composite fabric wrapping sheets, composite laminate, and
+engineered cementitious composites. Moreover, condition survey and various non-destructive testings
+as well as experimental tests to assess the quality of materials used in construction for determining the
+reserve strength of structural members are discussed in detail. A special topic on structural health
+monitoring using advanced sensors will be introduced for identification, location, and severity of damage
+in structures. Furthermore, analysis and design of structures such as beams, bridge girders, walls, and
+columns reinforced and/or strengthened with high-performance FRP materials are introduced. In
+addition, special topics such as seismic retrofitting of columns and analysis of external FRP prestressed
+bridge girders with case study problems are also presented and described.
+
+Scope and Objective of the Course
+
+Structural health assessment and rehabilitation is an advance course for Graduate and Postgraduate
+students of structural and infrastructure engineering, and most important for practicing engineers
+associated with private as well as government organizations such as Public Works Departments and
+Central Public Works Department. The clear understanding of materials (steel, concrete, polymers, and
+FRP), mechanics of solids and RCC design is prerequisite for this course. The primary objective of the
+course is to make students understand the various causes of structural deficiency and durability aspects
+along with knowing the characteristics of conventional and advance repair materials so that a deficient
+structural system could be suitably rehabilitated using appropriate repair materials with optimum cost.
+At the end of course, students will have general awareness of the nondestructive and partial destructive
+techniques, and structural health monitoring techniques along with sensors to evaluate the structural
+deficiency and methods of rehabilitation using appropriate repair materials. Furthermore, the student
+Shall be capable of selecting health evaluation methods, tests, and diagnosis. Once the condition has been
+assessed, the student shall be able to decide upon repair strategy, the method of repair, and compatible
+materials. Most importantly, students will be able to analyze and design the structures reinforced,
+prestressed, and or externally strengthened with high-performance composite materials such as FRP and
+Engineered Cementitious Composites.
+
+PREREQUISITES: (1) Course No. CE F211: Mechanics of Solids
+
+(2) Course No. CE F 311: Design of Concrete Structures
+Text Books (TB)
+
+Handbook on Repairs and Rehabilitation of RCC Buildings, CPWD, Government of India, new
+Delhi, 2002, 498 pp.
+
+Analysis and Design of FRP Reinforced Concrete Structures, Shamsher Bahadur Singh, McGraw
+Hill Education (India) Private Ltd., New Delhi, 2014, 323 pp.
+
+Reference Books (RB)
+
+1.
+
+8.
+oO.
+
+Structural Health Monitoring of Large Civil Engineering Structures, Hua-Peng Chen, Wiley
+Blackwell, John Wiley and Sons Ltd., NJ, USA.
+
+Guide Book on Non-Destructive Testing of Concrete Structures, Training Course Series No. 17,
+Report published by International Atomic Energy Agency, Vienna, 2002, 242 pp.
+
+ISIS and SAMCO Educational Module 5, An Introduction to Structural Health Monitoring,
+SAMCO Final Report 2006, F10-Teaching Materials (Available online).
+
+Mechanics of Composite Materials, Robert M. Jones, Taylor and Francis, New York, London,
+1999, First Indian Reprint, 2010, 519 pp.
+
+Reinforced Concrete Design with FRP Composites, Hota V.S., Gangarao, Narendra Taly, and PV
+Vijay, CRC Press (Taylor & Francis Group), Boca Raton, FL, USA, 2007, 382 pp.
+
+FRP Strengthening of RC Structures, Teng, J. G., Chen, J. F., Smith, S. T. and Lam, L. (authors),
+John Wiley & Sons Ltd., West Sussex, England, 2002, 245 pp. (E-mail: cs-books@wiley.co.uk;
+
+http://www.wiley.com).
+
+Strengthening of Reinforced Concrete Structures using Externally Bonded FRP Composites in
+Structural and Civil Engineering, L. C. Hallaway and M. B. Leeming (editors), Woodhead
+Publishing Ltd., Cambridge England, 2001, 327 pp.
+
+Service Life Estimation and Extension of Civil Engineering Structures, V. M. Karbhari, USA.
+
+Concrete Structures Repair, Rehabilitation and Retrofitting, CBS Publisher, New Delhi 2017.
+
+10. Durability Design of Concrete Structures, A. Sarja and E. Vesikari, CRC Press, RILEM Report 14.
+COURSE PLAN
+
+No.
+1
+
+12-20
+
+Learning Objective
+
+Introduction
+
+Causes of
+Deterioration and
+Durability Aspects
+
+Condition Survey and
+Non-destructive
+Evaluation
+
+Topics to be Covered
+
+An overview of present repair,
+retrofitting, and strengthening practices,
+Distress identification, and Repair
+Management
+
+Holistic models of deterioration of
+Reinforced Cement Concrete (RCC)
+structures in terms of capillary porosity,
+air-voids, micro-cracks, macro-cracks,
+Aggressive deteriorating chemical agents,
+corrosion of reinforcing bars, Sulphate
+attack, Alkali-silica reaction, Durability
+aspects, Intrinsic and Extrinsic Causes and
+Stages of Distress
+
+Objectives, Preliminary — Inspection,
+Planning stages, Visual Inspection, Field
+and laboratory testing stages,
+Consideration for Repair Strategy, NonDestructive Evaluation (NDE) Tests such
+as Rebound Hammer Test, Ultra-sonic
+Pulse Velocity (UPV) test, Penetration
+Resistance (Windsor Probe & PNR) Test,
+Pull-out test, Core Sampling and Testing,
+Carbonation Test, Chloride Damage
+Assessment, Structural
+Integrity/Soundness Assessment using
+Radiography , Impact Echo, and Dynamic
+Tests, Interpretation, Evaluation of
+Results Data
+
+Reference
+Chapter/Sec. #
+(Book/Handbooks)
+
+Chapter#1 (TB#1
+&RB#22)
+
+TB#1 (Ch. 2)
+
+TB#1 (Ch.3)
+
+ 
+Structural Health
+Monitoring (SHM)
+
+Structural Analysis and
+Design of Existing and
+Rehabilitated
+Structures
+
+Selection of Repair
+Materials for Concrete
+
+Rehabilitation and
+Retrofitting Methods
+
+Analysis and Design of
+FRP and ECC External
+Strengthening Systems
+
+Introduction to _— structural health
+monitoring, Classification of SHM,
+Methodology, Sensor Technology, SHM
+Testing Categories, SHM System Design,
+Case Studies, Future of Structural Health
+Monitoring, Detailed example on SHM of
+The Golden Boy Statue mounted on the
+Dome of Manitoba Legislature.
+
+Reserve Strength, Analysis necessary to
+identify critical sections, Active and
+Passive Repairs, Modeling of Repaired
+Composite Structures, Mechanical
+Properties of Materials, Evaluation of
+
+Damage Concrete/Reinforcements,
+
+Service Loads due to Change of Building
+Use, Evaluation of Building
+Configuration, and Load Tests for Flexural
+member
+
+Materials for Repair such as Premixed
+Cement Concrete, Mortars, Polymer
+Modified Mortars and Concrete
+(PMM/PMC), Epoxies and Epoxy Systems
+including Epoxy Mortar and Concrete,
+Fiber Reinforced Polymer Systems, Fabric
+sheets, Engineered Cementitious
+Composites, Ferrocement
+
+Repair Options, Performance
+Requirements, Repair Systems,
+Shotcrete, Ferrocement, Plate Bonding,
+Fiber Wrap, Section Enlargement, and
+External FRP Strengthening and
+Prestressing
+
+FRP and ECC Strengthened Structural
+Members such as Beams, Bridge Girders,
+Masonry Structures, and Columns. Near
+Surface Mounted FRP_ Strengthening,
+Strengthening using Laminates, and
+Seismic Retrofitting of Columns
+
+RB# 1&3
+
+TB#1 (Ch.4), TBH2
+(Ch3)
+
+TB#2 (Ch.3), TBH1
+(Ch.5)
+
+TB#2 (Ch.4 &5),
+TB#1 (Ch.6)
+
+TB#2 (Ch.5)
+
+ 
+Analysis Design of RC Flexural and shear Design Approach for TB#2 (Ch.4 & 6)
+Structures Reinforced FRP Reinforced RC Beams and FRP
+with FRP Bars prestressed bridge girders, Reduction
+
+Factors, Durability Based Design
+
+Case Study Problems Case study problems on_ Externally | TB#2 (Ch. 4 &5)
+Strengthened and Prestressed Systems | and TB#1 (Ch.9)
+using Unbonded Tendons
+
+ 
+
+Evaluation Scheme
+
+EC Evaluation Weightage Date &Time
+No. Component
+1 Mid-Term Test 90 Min. 30 Partially
+OB
+2 Assignments Take 15
+Home
+
+Special Projects (Computer 25 To be announced
+and Lab Oriented)
+Comprehensive Viva-Voce
+Examinations
+~ on
+OB
+
+Teaching Method: Teaching of the subject will be made by combination of power-point
+presentation. Necessary instructional materials (available and prepared by instructor) will also be
+supplied for ready reference.
+
+ 
+

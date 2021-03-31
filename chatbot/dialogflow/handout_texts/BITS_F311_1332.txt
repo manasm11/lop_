@@ -1,0 +1,137 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BITS F311
+Course Title : Image Processing
+Instructor-in-C harge : Raj Kumar Gupta
+Instructor(s) : NA
+
+Tutorial/Practical Instructors: NA
+
+1. Course Description: This is a first course on digital image processing. It begins with an introduction to
+the fundamentals of digital images and discusses the various discrete transforms, which are extensively used
+in the field of image processing. The course discusses different image processing techniques essential for
+image enhancement, image restoration and image compression. Finally, it briefly touches upon automatic
+image classification and recognition.
+
+2. Scope and Objective of the Course: The course introduces the students to the fundamentals of digital
+images and various processing techniques that are applied to them so as to improve their quality. These
+techniques are essential for image enhancement, image restoration and image compression. It also briefly
+introduces automatic image classification and recognition. Matlab software will be introduced to the students
+so as to improve their skills in writing codes related to image/data processing.
+
+3. Text Books: Gonzalez, R. C. & R. E. Woods, Digital Image Processing, Pearson.
+
+4. Reference Books: Foundations of Coding, Jiri Adamek, Wiley, 1991
+
+5. Course Plan:
+
+Introduction and digital image Chapter 2 To introduce fundamental concepts
+fundamentals. and terms associated with digital
+images.
+
+4 Image enhancement Chapter 3 To introduce the concept of image
+enhancement
+
+Some basic gray level transformations | Chapter 3 To study image enhancement by gray
+level transformations
+Histogram processing Chapter 3 To study Histogram processing of an
+image
+9-10 Spatial filtering Chapter 3 To learn image enhancement by
+filtering in the spatial domain
+11-13 Fourier Transform, Discrete Fourier | Chapter 4 To introduce Fourier Transform and
+Transform and their properties. Discrete Fourier Transform
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+14-15 Convolution & Correlation theorems, | Chapter 4 To introduce convolution and establish
+auto-correlation connection with Fourier transform
+16-17 Fast Fourier Transform Chapter 4 To study the Fast Fourier Transform
+algorithm
+
+Filtering in the frequency domain Chapter 4 To learn image enhancement by
+filtering in the frequency domain
+
+ 
+
+Image degradation model, Chapter 5 To introduce image degradation and
+degradation model
+
+21-22 Removal of blur caused by uniform Chapter 5 To learn how to remove blur caused by
+linear motion uniform linear motion
+
+23 | Inverse Inverse filtering Chapters 5 To learn inverse |Toleam inverse filtering
+
+_ 29 bene of image compression a 8 To es the fundamentals of
+image compression
+
+26 — 27 Kraft’s inequality, Huffman codes Chaps 1&2 | To introduce basics of coding theory
+of ref. book 2
+
+Entropy and data compression 8.3.4, Chap 3 | To introduce the basics of Information
+of ref. Book
+2
+
+near optimal variable length codes, Chapter 8 To learn various error- free
+Arithmetic and LZW coding, run- compression techniques
+length coding etc.
+
+Lossy compression, Image Chapter 8 To learn various lossy compression
+compression standards techniques and learn some image
+compression standards
+
+37 — 38 Image segmentation Chapter 10 To learn some image segmentation
+techniques
+39 — 40 Image representation and Chapter 11 & | To introduce the idea of image
+classification 12 classification and pattem recognition
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open
+Book)
+
+Mid-Semester T est <TEST 1> Closed/open
+Comprehensive Examination <TEST C> Closed/open
+
+Quiz/Assignment/Coding/etc| =| ~— 35 ~—s | Anmouncedinclass_| Closed/open
+
+7. Chamber Consultation Hour: To be announce in the class
+8. Notices: Nalanda website, google classroom
+
+9, Make-up Policy: As per Institute rule
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. BITS F311
+

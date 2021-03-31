@@ -1,0 +1,260 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MATH F424
+
+Course Title : Stochastic Processes and their A pplications
+Instructor-in-C harge : Dr. Anirudh Singh Rana
+
+Instructor(s) ; Dr. Anirudh Singh Rana
+Tutorial/Practical Instructors: Dr. Anirudh Singh Rana
+
+1. Course Description:
+
+A stochastic process is a mathematical model describing the evolution of a system via sequences of random
+events. Stochastic processes, as a branch of statistics, finds its applications in many disciplines including core
+sciences such as biology, chemistry, economics, ecology, finance, neuroscience, and physics as well as
+technology and engineering related fields such as the modelling of spread of infectious diseases, the evolution
+of genetic sequences, models for climate change, reliability theory, image processing, signal processing,
+information theory, computer science, cryptography and telecommunications.
+
+2. Scope and Objective of the C ourse:
+
+The primary objective of this course is to familiarize students with the fundamental concepts and simulation
+techniques of probability theory and stochastic process.
+
+3. Text Books:
+1. J. Medhi, Stochastic Processes, New Age International Publication, 4th edition, 2009.
+
+4, Reference Books:
+1. S. Karlin and H. M. Taylor, First Course in Stochastic Processes, Academic Press, 2nd edition, 1975.
+2. P.G. Hoel, $.C. Port and C.J. Stone, Introduction to Stochastic Processes, 1st edition, Waveland Pr Inc
+(1 December 1986).
+3. V.G. Kulkarni, Introduction to Modseling and Analysis of Stochastic System, Springer, 2nd edition, 2011.
+4, S.M. Ross, Stochastic Processes, Wiley; 2 edition (February 8, 1995).
+5. M. Lefebvre, Applied Stochastic Processes, Springer, New Y ork, NY, 2006.
+
+5. Course Plan:
+
+M.1
+
+L1.1: Axiomatic construction of probability R-1 Review of Probability
+Spaces, random variables and vectors, probability R-5 Theory
+distributions, joint and conditional distributions,
+L1.2: Conditional expectation and properties,
+functions of random variables; mathematical
+expectations,
+L1.3: Transforms and generating functions, laws of
+large numbers, central limit theorem.
+T-1
+
+ 
+
+LAB1.1 based on Generation random variables of
+
+probability distribution, Monte Carlo integration
+ 
+
+M.3
+(Lecture No. 915)
+
+LAB 3
+
+Module 5
+
+Module 6
+
+Module 6
+
+L2.1 Definition and examples of SPs,
+classification of random processes according to
+State space and parameter space, types of SPs,
+elementary problems.
+
+L2.2-2.3 Stationary Process: Weakly stationary
+and strongly stationary processes, moving average
+and auto regressive processes.
+
+L3.1 Definition of Markov chain with denumerable
+State space,
+
+L3.2 Transition probability matrix, order of
+Markov chain,
+
+L3.3 Markov chain as graphs, higher transition
+probabilities,
+
+L3.4 Generalization of independent Bernoulli
+trials, classification of states and chains,
+
+L.3.5-3.6 Stability of Markov systems, graph
+theoretic approach.
+
+LAB 2.1 based on Stationarity of Markov chain.
+
+C ontinuous-time Markov C hains (CT MCs):
+L4.1 Poisson process, Poisson process and related
+distributions,
+
+L4.2 Generalization of Poisson process,
+
+L4.3 Pure birth process, birth-death process, L4.44.5 Applications to queueing theory § and
+
+communication networks.
+LAB 3.1 based on calculation of probabilities for
+given birth and death rates, birth-death Process.
+
+Continuous time and continuous state space:
+L5.1 Brownian motion
+
+L5,2-5.4 Wiener process, differential equation for
+Wiener process as a limit of random walk;
+Kolmogorov equations,
+L5.5-5.6 Applications to
+communication networks.
+
+L 6.1-6.2 Martingales: Definition and examples of
+martingales.
+
+Lab 4.1 based on Brownian motion.
+
+L6.1-6.2 Renewal Processes in discrete and
+continuous time
+
+L6.3-6.4 Renewal equation, stopping time: Wald
+equation
+
+finance and
+
+L6.5-6.6 Renewal theorems
+L6.6-6.8 Cost/rewards associated with renewals.
+Renewal Reward.
+
+T-1
+Chapter 1
+Sec 1.5
+
+ 
+
+T-1
+Chapter 2
+Sec 2.1-2.7
+
+T-1
+Chapter 3
+sec 3.1-3.5
+
+T-1
+Chapter 4
+Sec 4.1-4.5
+
+  
+  
+ 
+
+T-1
+Chapter 5
+sec 9.1-5.2
+
+T-1
+Chapter 6
+Sec 6.1- 6.5,
+6.8.
+
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+By the end of module
+students are able to
+appreciate the basics of
+Stochastic Process and
+Stationary Processes
+
+Know Markov chains
+and their properties
+
+By the end of module
+students are able to
+analysis of models,
+that are characterized
+
+as discrete valued
+continuous time
+Markov chain (CT MC)
+Students can
+understand of very
+special stochastic
+
+process in continuous
+time and continuous
+State space.
+
+Students are able to
+explain the key results
+of renewal processes in
+real life situations.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Module 7 Branching Processes: T-1 Motivate to apply the
+L7.1 Galton-W atson branching process Chapter 9 probability theory to
+L7.2-7.3 Definition and examples branching | Sec 9.1-9.3. | study objects that can
+processes, probability generating function, mean generate the object of
+
+and variance, probability of extinction. similar kind.
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester Test 90 Min. 30% Will be announced by Open book
+AUGSD-AGSRD
+
+Examination AUGSD-AGSRD
+1 lab) each
+
+ 
+
+0
+Project/Lab | 15% To be announced in class Open Book
+
+7. Chamber Consultation Hour: TBA (via Google Meet).
+
+8. Notices: All notices related to this course will be put only on Nalanda.
+
+9, Make-up Policy: Make-up for any component of evaluation will be given only in genuine cases of absence.
+
+Dr. Anirudh Singh Rana
+
+Instructor-in-charge
+Course No. MATH F424
+

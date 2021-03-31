@@ -1,0 +1,225 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+FIRST SEMESTER 2020-21
+COURSE HANDOUT
+Date: 12.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHY F422
+
+Course Title : Group Theory and Applications
+Instructor-in-C harge : Rishikesh Vaidya
+
+Instructor(s) :
+
+Tutorial/Practical Instructors:
+
+1. Course Description: (Since most students are not really familiar with Group Theory I provide abroad
+outline of area. J ust as every book has a preface, this is a preface to the course).
+
+Symmetries have often played an important role in the development of physics. Most conservation laws in
+Physics owe it to the existence of continuous symmetries of physical systems. The word symmetry as it stands
+is vague and must be defined precisely. The dynamical description of a physical system is often captured in
+its Lagrangian. Whenever a physical system enjoys symmetry, there exists a class of solutions that offer
+physically equivalent descriptions of the given dynamical situation. All the equivalent solutions in this class
+are related by transformations called symmetry transformation. One can pose several questions here:
+
+a) Do these transformations have an algebraic structure?
+
+b) Does the algebraic structure have a life of its own? If yes, how rich and general is this algebraic
+structure?
+
+c) What is the relation of this algebraic structure to the space of solutions for the physical system?
+
+d) Is the group theory only of utilitarian value to physics or it contributes something very fundamental to
+physics?
+
+—
+
+e) Does it enrich something we already know?
+
+A Group is a set of abstract objects that satisfy four axioms to qualify as a group. The theory of Groups in
+itself is very rich and is indeed at the frontiers of pure and applied mathematics research. It is also very
+powerful and can be profitably applied to many branches of science and engineering in general and to Physics
+in particular. The algebraic structure of the symmetry transformations is a Group. It might seem odd that a set
+of abstract objects qualified by four axioms can be of relevance in describing real-world physical objects. This
+is where the power of representation theory comes into its own. The abstract group elements can be represented
+by symmetry transformations via isomorphism (one-to-one mapping), and thus the full structural power of the
+abstract group theory can be exploited to ‘see’ structure and pattern in the space of solutions to physical
+problems. We can thus extract a wealth of information about the physical system even without having to find
+the solution. Thus, a physicist is more interested in the matrix representations of the group of symmetry
+transformations. Since these symmetry transformations act on the space of solutions, the theory of
+representation itself is intimately connected to the linear vector spaces in general and the vector spaces with
+the norm in particular. This explains the relation of the abstract elements of groups to the linear spaces of
+solutions of a physical system.
+
+To the extent that group theory is a mathematical framework for symmetries of physical systems, it strikes at
+the very roots of why are things the way they are. Thus it is not just utilitarian in value but offers crucial and
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+fundamental insights. Going by our current understanding of the fundamental units of matter and energy, the
+structure of the most fundamental Lagrangian at the currently accessible energy scales (of the order of 10
+TeV ) is almost entirely dictated by the representations of the (a) spacetime symmetry group (Poincare group),
+and (b) the direct product of some Unitary ‘internal' symmetry groups. At the risk of some oversimplifications, let me explain the last statement. In order to build any structure, an engineer needs three things
+-- (i) A blueprint of the structure and the guiding design principles, (ii) Bricks (iii) Cement to glue the bricks.
+For the particle physicist, the observed Universe is the realization of the blueprint we are trying to infer -- the
+Lagrangian. The fields corresponding to the quanta of matter and energy are the building blocks of the
+blueprint-Lagrangian. Put another way, all the fundamental particles (which are essentially quanta of field
+excitations) are the different representations of the spacetime symmetry group called the Poincare Group. The
+ultimate glue which binds these quanta are the fundamental interactions. These interactions are the
+consequences of the broken and unbroken ‘internal' symmetry groups. That spacetime and internal symmetry
+groups almost completely dictate the ‘fundamental Lagrangian' is a testimony to the power and economy of
+Group Theory and its relevance to Particle Physics. I said ‘almost’ because the Lagrangian must comply with
+an additional requirement that all observables must be finite. This is an admittedly ad hoc requirement and
+hence the inverted quotes on the ‘fundamental Lagrangian’. The quantum field theory of fundamental particles
+and their interactions with its symmetry paradigm is called the Standard Model of particle physics. It is an
+almost fairy tale success story as it is constantly vindicated by experiments at the highest energy frontiers so
+far. However, it is far from being a complete story for several reasons we will not get into here. We expect
+that group theory will play a crucial role in our attempts to answer some of these puzzles.
+
+Last but not the least, does group theory shed some light on things we already know? The answer is yes. Most
+of the ‘special functions' in mathematical physics that are ubiquitous in classical and quantum physics
+originate in the symmetries of the underlying problem. This is hardly surprising if one knows about the origins
+of group theory. Group theory originated in the seminal work of Galois who used finite groups to solve the
+algebraic equations of degree two, three, and four. He showed that the general polynomial equation of degree
+greater than four could not be solved by radicals. Sophus Lie used this as a model and embarked upon an
+ambitious program to solve or simplify ordinary and partial differential equations using the Group Theory as
+a tool. The program is incomplete even after a century. Continuous groups are known as Lie Groups in his
+honor. Lie groups also find rich applications in differential geometry. Manifolds are an abstraction of the idea
+of a smooth surface and generalize the notion of an ordinary Euclidean space to a topological space that looks
+like a Euclidean space in the local neighborhood of every point in it. Lie groups have the structure of a
+manifold. Thus Lie groups are groups of symmetries of topological or geometric objects. Lie algebras can be
+viewed as the “infinitesimal transformations” associated with the symmetries in the Lie group. There is a
+geometric link between a Lie algebra and a Lie group. The Lie algebra can be viewed as a tangent space to
+the Lie group at the identity. The tangent space and the Lie group are related by a map -- an exponential map.
+The Lie algebra itself can be considered as a linearization of the Lie group. These observations connect the
+theory of the Lie group to its rich applications in differential geometry.
+
+2. Scope and Objective of the Course: This course is concemed with the rudiments of group theory and its
+applications to problems in physics. After motivating the need and place of group theory in Physics, we will
+first develop the rudiments of abstract group theory and some results of fundamental importance. We shall
+
+do so within the context of finite groups but the results shall be equally applicable to continuous Lie groups.
+Groups mainly enter the domain of physics through their representations as matrix groups. After developing
+the necessary background concerning Hilbert spaces and operators, we shall dwell upon the representation
+
+theory for finite groups. We shall prove two lemmas due to Schur as well as the great orthogonality theorem,
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+paving the way for the regular representations, the irreducible representations, and the characters of a
+representation. We will then discuss the continuous Lie groups such as SO(2), SO(3), Lorentz group, and
+SU(2). We will also discuss Lie algebra and representations of a Lie group. All along we will emphasize the
+applications to physical situations in general and to Quantum Mechanics in particular.
+
+3. Text Books: Elements of Group Theory for Physicists by A W Joshi, published by New Age International
+Publishers
+4, Reference Books:
+
+1. Group Theory in Physics by Wu-Ki Tung, World Scientific
+
+2. Group Theory a Physicist’s Survey, by Pierre Ramond, Cambridge University
+
+5. Course Plan:
+
+. What is group theory and why should we Motivation to study
+3 lectures) | bother studying it. group theo
+
+Abstract Group Theory with illustrations Text chapter-1 | Learning the essential
+from common finite groups, Establishing a notions of abstract group
+set of objects as a group, importance of theory
+
+subgroups, conjugacy classes, isomorphism
+
+and homomorphism, permutations groups,
+
+Caley’s theorem and Lagrange’s theorem
+
+3 Vector spaces and Hilbert spaces, Function Text chap.2 | Learning the essentials
+4 lectures) | spaces, Operators, Direct Sum and Direct of linear spaces to build
+product of matrices the ground for
+representation theo
+
+(
+(
+(
+
+5 Topological Groups and Lie Groups, SO(2), Text chap. 4 | Rudiments of
+SO(3), Lorentz group, SU(2), Generators of continuous groups, their
+lectures U(n) and SU(n), Lie Algebra and relation to Lie algebras,
+representations of a Lie Group, SU(3) as a precursor to
+applications in particle
+physics.
+
+A, Invariant subspaces and Reducible Text chap. 3 | Rudiments of group
+10 representations, Schur’s Lemmas and the representation theory for
+lectures) Orthogonality theorem, Characters of a applications to physics
+representation with examples from finite
+groups, regular representation, Symmetrized
+basis functions for irreducible
+representations, Transfer and Projection
+operators, Direct product of representations,
+representations of a direct product
+10
+)
+6. Hilbert spaces in Quantum Mechanics, Text chap. 5 | Applications to group
+(8 lectures) | Transformation of a function, Space and time theory to Quantum
+displacements, Symmetry of a Hamiltonian, Mechanics
+Reduction due to Symmetry, Dynamical
+Symmetry breaking, Time reversal and space
+
+inversion symmetries.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Boot! Open Book)
+(30%)
+Comprehensive ie marks <TEST C>
+Examination (35 %)
+
+4 best from 5 tutorials
+
+Assignments 45 marks
+(15 %)
+
+7. Chamber C onsultation Hour: To be discussed in google classroom
+
+ 
+
+8. Notices: Google classroom
+9, Make-up Policy: Only in genuine case with due documents
+10. Note (if any):
+
+Instructor-in-charge
+Course No.
+

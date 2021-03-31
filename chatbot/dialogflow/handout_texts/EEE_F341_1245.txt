@@ -1,0 +1,131 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time T able) this portion gives further specific
+details regarding the course.
+
+Course No : EEE/INSTR F341
+Course Title : Analog Electronics
+Instructor-in-C harge : VK CHAUBEY
+Instructor(s) : Arnab Hazra
+
+Tutorial/Practical Instructors: Pankaj Arora, Satyendra K Mourya , Sharda Tripathi, Devesh Samaiya,
+Ritish Kumar, Ankita Dixit ,Ashish Kumar Verma, Teena Gakhar ,
+Sabhavi Shukla, Prem Sai Regalla, Pavitra Sharma
+
+1. Course Description: Introduction to operational amplifiers: The difference amplifier and the ideal operational
+amplifier models, concept of negative feedback and virtual short; Analysis of simple operational amplifier circuits;
+Effects of real operational amplifier parameters on circuit performance. Linear applications of operational
+amplifiers: Instrumentation and Isolation amplifiers; Current and voltage sources; Active filters. Non-linear
+applications of operational amplifiers: Comparators; Linearization amplifiers; Logarithmic amplifiers,
+multifunction modules & circuits, true rms convertors, Precision and signal conditioning circuits, Waveform
+Generation: sinusoidal and non-sinusoidal signal generation; Wave shape converters. Timer 555 based circuits,
+Phase lock loop circuits & applications, IC regulators, Output stage and large signal amplifiers, Power amplifiers,
+Tuned amplifiers, Analog and Digital interface circuits: A/D, D/A Converters.
+
+2. Scope and Objective of the C ourse:The aim of the course is to deal with various electronic techniques and building
+blocks used in analog signal processing and conditioning. Various discrete and integrated electronic circuits used in analog
+system design will be studied. Experiments and projects using discrete IC modules will be carried out in the laboratory.
+
+3. Text Books:TB1 L.K. Maheshwari, Analog Electronics, PHI,2005
+TB2 L.K. Maheshwari and M.M.S. Anand, Laboratory Experiments & PSPICE Simulation in Analog Electronics
+Experiments, PHI, 2005.
+
+4. Reference Books:A.S. Sedra, K.C. Smith, Microelectronic Circuits, 6 Ed., Oxford International Student
+Edition, 2013
+
+5. Course Plan:
+
+1 (L1-L2) Introduction & Review of Concepts | TB1Ch1 Basics of analog circuits
+
+ 
+
+2(L3-L5) Op-amp basics TB1 Chcircuits | 2Ideal and real model opamp
+based
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 ( L6-L9) Special purpose opamp circuits TB1Ch3 Opamp based circuits and
+inductor simulation
+
+     
+ 
+
+4 (L10-L 14) Filters TB1 Active filter design and
+R1Ch.11 realization
+9 (L15-L 18) Non-linear O p-amp circuits R1,TB1Ch5 Multiplier application
+,Precision circuits
+6(L 19-L 26) Signal Sources & Phase lock loop TB1Ch6 Timer based circuits,
+Oscillators, PLL
+7(L27-L32) Voltage Regulators TB1 Ch 7 Linear and switched
+regulators, ICs concepts
+8(L33-L 35) IC Power Amplifiers TB1Ch8 Class A,B,C and AB stages and
+LM 380 concepts
+9(L36-L37) Tuned A mplifiers TB1Ch 9, R1.| Tuned amplifier design
+11.11
+
+10(L38-L 40) Data C onverters TB1Ch10, Concepts of D/A and A/D
+R1Ch10.9-10.11 converters
+
+ 
+    
+  
+  
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ Open Book)
+‘Tutorids | 10 Min | 13.3(40) | Regular | OB
+/Mid-SemesterTest_ | 90Min. | 25(75) | OB
+
+Lab Day/day ( 50) 28.3 (85)
+Lab Compre ( 20)
+Lab Quiz ( 15)
+fa =
+Examination
+
+7. Chamber Consultation Hour: Will be notified through notice.
+2
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+8. Notices: Nalanda
+
+9, Make-up Policy:Make-up will be given on extremely genuine grounds only. Prior application should be made for
+seeking the make-up examination.
+
+10. Note (if any): Will be announced from time to time.
+
+Instructor-in-charge
+Course No. EEE/INSTR F341
+

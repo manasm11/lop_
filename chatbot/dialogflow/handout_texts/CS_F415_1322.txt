@@ -1,0 +1,244 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Second Semester 2020-2021
+COURSE HANDOUT (PART Il)
+Date: 17/01/2021
+In addition to Part-| (general handout for all courses appended to this time table) this portion gives further
+details pertaining to the course.
+Course No.: CS F415
+Course Title: Data Mining
+Instructor-in-charge: YASHVARDHAN SHARMA (yash@ pilani.bits-pilani.ac.in)
+Lab Instructor : Divya Bharadwaj (p20180013@ pilani.bits-pilani.ac.in)
+1. Objective and Scope
+The course explores the concepts and techniques of data mining, a promising and flourishing frontier in
+database systems. Data Mining is automated extraction of patterns representing knowledge implicitly stored in
+large databases, data warehouses, and other massive information repositories. It is a decision support tool that
+addresses unique decision support problems that cannot be solved by other data analysis tools such as Online
+Analytical Processing (OLAP). The course covers data mining tasks like constructing decision trees, finding
+association rules, classification, and clustering. The course is designed to provide students with a broad
+understanding in the design and use of data mining algorithms. The course also aims at providing a holistic
+view of data mining. It will have database, statistical, algorithmic and application perspectives of data mining.
+
+2. Text Book
+i) TanP.N., Steinbach M & Kumar V. “Introduction to Data Mining” Pearson Education, 2016.
+3. Reference Books
+i) Han J & Kamber M, “Data Mining: Concepts and Techniques”, Morgan Kaufmann Publishers,
+Third Edition, 2012
+li) Zaki MJ & Wagner M JR, “Data Mining and Analysis-Fundamental Concepts and Algorithms”
+Cameridge Univ Press, 2014.
+
+ii) Dunhum M.H. & Sridhar S. “Data Mining-Introductory and Advanced Topics’, Pearson
+
+Education, 2006.
+Chapter
+Reference
+
+1+Class
+Notes
+
+4. Course Plan
+
+Learning Objective
+
+No.
+
+1-2 To understand the
+definition and applications
+of Data Mining
+
+3-5
+
+Topic(s)
+
+Introduction to Data Mining
+Motivation
+What is Data Mining?
+Data Mining Tasks
+Issues in Data Mining
+Applications
+
+Data Preprocessing
+Types of data
+
+To understand types of
+data and to improve the
+quality of data and
+efficiency and the ease of
+the mining process.
+
+To study how to
+investigate the data
+
+ 
+
+innovate lead
+
+ 
+
+Data Quality
+Data preprocessing
+Similarity and Dissimilarity Measures
+
+Data Exploration
+Data Set & its Statistics
+Visualization
+OLAP & Multidimensional Data Analysis
+
+Save Paper.
+aS) Save Trees.
+£ > 4Save the World.
+
+3 Self Study
+
+Please Consider Your Environmental Responsibilities
+
+ 
+
+Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+To understand Classification 4+Class
+Classification and its Introduction Notes
+applications Applications |
+
+Decision Tree based Algorithms
+
+Model Over-fitting
+
+Performance Evaluation of a Classifier
+
+Comparing Classifiers
+To study the alternative Classification: Alternative Techniques 5
+approaches for Rule Based Classifier
+
+Bayesian Classification
+
+Support Vector Machine
+
+Ensemble Classifiers
+
+Class Imbalance Problem
+
+Multiclass Problem
+
+ 
+
+To understand Association Rule Mining
+applications of Introduction
+Association Rule Mining Applications
+
+and algorithms to find Market-Basket Analysis
+them Frequent Itemsets
+
+Apriori Algorithm
+Alternative Methods
+
+To understand methods Advanced Association Rule Mining 7+Class
+and need for finding Generalized Association Rules Notes
+complex Association Multilevel Association Rules
+Rules Multidimensional Association Rules
+
+Temporal Association Rules
+
+Infrequent Patterns
+
+Constrained Based Association Rules
+
+To understand Clustering
+
+applications and Introduction
+
+algorithms for Clustering Applications
+Partitioning Algorithms
+Hierarchical Algorithms
+Density based Algorithms
+Cluster Evaluation
+
+To study advanced topics Clustering: Additional Issues and Algorithms
+in cluster analysis Characteristics of Data, Clusters and clustering
+Algorithms
+Graph Based Clustering
+Scalable Clustering Algorithms
+
+To understand detection Anomaly Detection 10
+of anomalies & their Preliminaries
+causes Statistical Approaches
+Proximity based Outlier Detection
+Density based Outlier Detection
+Clustering Based Techniques
+To introduce advanced Advanced Topics Class Notes
+topics in Data Mining Web Mining
+Incremental Algorithms for Data Mining
+Stream Data Mining
+
+Save Paper.
+age. Save Trees.
+innovate Prorat ews) for Asave the World.
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+ 
+     
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Evaluation Schedule
+
+Weightage(%) | Date & Time
+
+Mid Sem Exam 90 Mins. 30 To be Closed
+announced Book
+
+pemmrenrres| TT sees ||
+
+announced
+
+[meses free [een Te
+open
+
+ 
+
+7. Labs
+Two hour lab will be conducted every week. Students will be applying the concepts of data mining on the
+problems Python Programming and IBM SPSS Modeler. Students will also be exposed to modeling of the
+
+problems.
+8. Assignments
+Assignment(s) (programming/reading) will be given to the students. This will immensely help the
+Students in gaining a better understanding of the subject.
+
+9. Chamber Consultation Hours
+To be announced in the class.
+
+10. Make-up Policy: Prior Permission is must and Make-up shall be granted only in genuine cases based on
+individual’s need and circumstances.
+
+11. Notices
+All the notices concerning this course will be displayed on the CSIS Notice Board or course website.
+
+Instructor-in-charge
+
+A Save Paper.
+a. Save Trees.
+£ > SSave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+innovate achieve |
+
+ 
+

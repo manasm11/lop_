@@ -1,0 +1,199 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE/INSTR F414
+
+Course Title : Telecommunication Switching Systems & Networks
+Instructor-in-C harge : RAHUL SINGHAL
+
+Instructor(s) : RAHUL SINGHAL
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Introduction, electromechanical switching, pulse dialing and DI'MF dialing, stored
+program control, space division switching, speech digitization and transmission, time division switching,
+fundamentals of traffic engineering, telephone networks, signaling, data networks, layered architecture and
+protocols, LANs, packet switching networks, TCP/IP, ISDN, ATM networks.
+
+2. Scope and Objective of the Course: The objective of the course is to impart theoretical and practical
+knowledge of the present day telecommunication switching systems and data networks. Topics ranging from
+the electromechanical switching systems to the voice and data integration systems will be covered. Design of
+Space and time division switching systems will be discussed. The course also deals with SONET, VoIP, data
+networks and ATM networks.
+
+3. Text Books:
+
+T1. John C. Bellamy, Digital Telephony, 3rd Edition, John Wiley & Sons, Inc., 2002
+
+4, Reference Books:
+
+R1.Roger L. Freeman, Telecommunication System Engineering, 4th Edition, John Wiley & Sons, Inc., 2004
+
+R2.T. Viswanathan and M. Bhatnagar, Telecommunication Switching Systems and Networks, 2nd Ed.,
+Prentice-Hall, 2015
+
+3. Course Plan:
+L x ooture Lecture es Reference to Text | Learning Outcomes
+Book
+ne
+
+Overview of the course, the | Chp 1, TB, Chp 2, | Familiarize with the telecom
+ice oa network hierarchy, | R1 industry and standards,
+subscriber ice oa Recognize various systems and
+
+stages involved in
+
+Switching in an analog ap TB; Chp 3, telecommunication
+environment:
+
+electromechanical
+
+switching, stored program
+
+control.
+
+Signaling for analog HR TB; Chp 4,
+telephone network: Analog
+
+interfaces, in-channel and
+
+common-channel signaling,
+
+SS7
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Transmission media, | Chp 1, TB; Chp 5,
+impairments and systems, | Rl
+
+Pair gain systems, FDM
+
+multiplexing & modulation
+
+9,6 Long Distance Telephony, | Chp 1, TB; Chp 6, 7
+Intelligent networks, DNHR, | R1
+digital network evolution
+
+7
+
+Advantages and | Chp 2, TB; Chp 8, | Appreciate the characteristics of
+disadvantages of digital | R1 voice signal, Differentiate among
+voice networks various transmission media with
+——— respect to voice, Describe voice
+pone digitization: PAM, aT 3, TB; Chp 8, digitization, compression and
+transmission
+an Companding techniques Chp 3, TB; Chp 8,
+Rl
+
+10 Speech redundancies, | Chp 3, TB; Chp 8,
+DPCM, DM, _ Vocoders, | Rl
+Coding Standards
+
+11, 12 Digital pulse transmission, | Chp 4, TB; Chp 8,
+Line coding Rl
+
+13, 14 Time division multiplexing, | Chp 4, TB; Chp 8, | Learning different Multiplexing
+TDM framing and | R1 Techniques used at physical layer
+synchronization
+
+15,16,17 | SONET/SDH multiplexing | Chp 8, TB; Chp 8,
+and framing & Optical | 20R1
+Networks
+
+18,19,20 | Digital Switching, Space | Chp 5, TB; Chp 9, | Understanding various aspects of
+division switching, Blocking | R1 analog and digital switching and
+
+probabilities design space division, time
+
+21, 22 Time division switching Chp 5, TB; Chp 9 division and hybrid switches
+
+25, 26 Introduction to Wireless & | Chp 6, 9, TB; Chp | Principles of telecommunications
+Cellular/ Mobile Radio 18, R1 as applied in existing data
+
+networks
+
+2 , 29, | Data communication & | Chp 10, TB; Chp 10,
+30 networks, X.25, Frame | 11,15, 16R1
+Relay, TCP/IP, MPLS, VPN,
+ATM networks
+
+31, 32 V oice-over-IP Chp 12, R1
+33, 34 Local Area Networks, | Chpl3, R1 Introduction to data
+CSMA, WLANs communication networks and
+
+35, 36,37 | Digital Subscriber Access, | Chp 11, TB; Chpi4, | °a'y network establishments
+Integrated services digital | R1
+network (ISDN) , Broadband
+
+ISDN
+
+38, 39 Network Management Chp 7, TB; Chp 21,
+Rl
+
+J R1 J J
+23, 24 Combination switching, STS | Chp 5, TB; Chp 9,
+and TST switches Rl
+7, 28
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+40,41, 42 | Traffic engineering: | Chp 12, TB; Chp 1, | Estimate and analyze traffic in
+Introduction, loss systems & | R1 telecom/data networks
+delay systems
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration Weightage Date & Time Nature of component
+
+0
+
+(% ) (Close Book/ Open Book)
+| Mid-SemesterTest = Semester Test )90Min, Min. 300 | <TIME TABLE> Open Book (OB)
+
+— — 20 min > Quiz during class
+hours
+
+Assignment(s) Regular Details will be announced in
+class & on nalanda site
+
+Comprehensive 01/05
+
+Examination
+
+ 
+
+7. Chamber Consultation Hour: Time & Date will be announced in the class.
+8. Notices: Notices concerning this course will be displayed on nalanda.bits-pilani.ac.in only
+
+9, Make-up Policy: No make-ups in Quizzes and Assignments. Make-ups only for genuine reason that will be judge
+by Course Instructor-in-Charge itself before grant of make-up. Decision of Course Instructor-in-Charge will be final.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE/INSTR F414
+

@@ -1,0 +1,116 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 12-01-2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : ME/MF F221
+
+Course Title : Mechanisms and Machines
+
+Instructor-in-C harge : J S Rathore
+
+Tutorial Instructors Amol Marathe, Amit R Singh, J S Rathore, Venkatesh KP Rao
+
+1. Course Description:
+
+Kinematics analysis of planar mechanism: Introduction to mechanisms, displacement, velocity,
+acceleration analysis, synthesis of planar mechanism, cam design, kinematics of gears, gear trains,
+Dynamics of machines: static force analysis, dynamic force analysis (planar), dynamics of reciprocating
+engines, balancing, flywheels, gyroscopes. Introduction to spatial and compliant mechanism.
+
+2. Scope and Objective of the C ourse:
+The first part deals with kinematics of simple mechanisms and motion generation, which lays foundation
+for further study in Dynamics and Vibration. The second part introduces some of basic concepts in the
+analysis of dynamic systems, kinetics of machine parts.
+
+3. Text Books:
+T1: Theory of Machines and Mechanisms by Uicker J.J., Pennock G.R., Shigley J.E., Oxford Univ.
+Press, NY, 3% Ed., 2003.
+
+T2: Theory of Mechanisms and Machines, Amitabh Ghosh and Ashok K. Malik, Allied East West
+Press Pvt. Ltd., 3% Ed.
+4, Reference Books:
+R1: Mechanism Design: Analysis and Synthesis, A. Erdman and G. Sandor, Prentice-Hall, 1984.
+
+5. Course Plan:
+
+Reference
+
+1- 2 Introduction to Kinematics CH1-T2 | Degree of Freedom, Types of Kinematic
+Joints, Inversions, Grashof’s law
+
+CH2:T2
+CH 3 and
+4: T1
+
+Vector Polygon Method for
+Velocity and Acceleration
+
+Velocity and Acceleration Diagram of
+Kinematic Chain
+
+CH5-T1 Different types of Cams, Motion Analysis
+Cam and Follower Systems CH 8-72 and Motion Synthesis of Cam, Cam Profile
+drawing
+Direction of Rotation, Speed and Torque
+11-14 Gear Trains CH 10: T1 | determination of Simple, Compound and
+Planetary gear systems
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Topics
+15-17 Analytical solutions of Velocity CH 2,3 | Analytical and Position Vector Method of
+& Acceleration and 4 (T2) | determination of Velocity and Acceleration
+; ; ; D’Alemberts Principle, Graphical Method,
+n-del Dynanite Force Analysis EH eT A) Vector Method, Complex Algebra Method
+Dynamics of Reciprocatin Introduction, Gas Forces, Dynamic Analysis,
+22-25 En ines P g CH 5(T2) | Equivalent Masses, Inertia Forces, Crank
+J Shaft, Torque Analysis
+T2)
+T2
+
+26-27 Flywheels CH 5 ( Introduction, Dynamic Theory
+
+CH4(T2) | Motion of Gyroscopes, Euler’s Equation
+Dynamic Unbalance, Single Plane, Multiase CH 7 (12) plane Balancing, Multi-cylinder Balancing
+35-36 Elastic links, applications, Degrees of
+freedom
+
+6. Evaluation Scheme:
+Evaluation Weightage Date & Time
+Component
+
+Mid sem. Exam. Refer Timetable
+
+ 
+
+Monday Ist Hou
+May 7, 2021
+
+ 
+
+7. Chamber Consultation Hour: Will be informed separately by individual tutorial instructor.
+
+8. All notices will be communicated via email and put up on Nalanda portal.
+
+9, Make-up Policy: Make-up (Mid sem and Compre exam) will be granted only to genuine cases.
+
+10. No makeup for tutorials. Four evaluative tutorials will be conducted and best three will be considered
+for evaluation.
+
+Instructor-In-C harge
+ME/MF F 221
+

@@ -1,0 +1,278 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+
+Course Handout (Part Il)
+18.01.2021
+
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives further specific details regarding the course.
+
+Course No. : ECON F241
+
+Course Title : ECONOMETRIC METHODS
+Instructor-in-charge : N. V. M. RAO
+
+Instructor -NVM Rao
+
+1. Course Description:
+
+Introduction to Regression Analysis - Specification of simple linear regression model, least square method of estimation,
+classical assumptions, general and confidence approach to hypothesis testing. Specification of Models; estimation of single
+equation economic models and related problems; Auto -correlation, multicollinearity and heteroscedasticity, Multiple
+regression analysis; regression using dummy variables; simultaneous equation models.
+
+2. Scope and Objective of the Course:
+
+The purpose of this course is to introduce students to the econometric theory and methods. It covers the basic tools of
+estimation and inference in the context of the single-equation linear regression model, and deals primarily with least squares
+methods of estimation. The course emphasizes the intuitive understanding and practical application of these basic tools of
+regression analysis, as distinct from their formal theoretical development. Topics include simple and multiple linear regression
+analysis, correlation, and hypothesis testing. Both conceptual and practical problems are considered, including
+multicollinearity, dummy variables, heteroscedasticity, autocorrelation, specification and measurement errors. Some emphasis
+will also be placed on models using time series data, panel data and simultaneous equation estimation. Course material is
+presented predominantly in scalar terms; the use of matrix algebra is confined to Summarizing major results and to interpreting
+output listings of computer software programs. The course is designed to build a solid base of theoretical understanding, and
+exercise this theory with economic applications, providing a base of practical knowledge.
+
+3. Learning Outcomes
+
+Knowledge outcomes
+
+e The basic econometric techniques and their applications and equip them with a broad knowledge of regression analysis relevant for
+analyzing economic data.
+
+e To interpret and critically evaluate the outcomes of empirical analysis by using standard methods like properties of least squares
+estimators and the statistical testing of hypothesis.
+
+e _Postulation and testing of hypotheses pertaining to economic issues or problems.
+
+e To derive and analyze the properties of estimators, test statistics and compare their performance
+
+e Basic procedures for model validation.
+
+Skills
+
+e Become a critical reader of the literature concerning empirical analyses and become a qualified user of econometric methods
+
+e Tobe able to use a computer based program package for performing different types of econometric analyses
+
+e Toperform different statistical tests and carry out regression analyses of empirical data in computer software.
+
+Competencies
+
+e To be able to read and understand project reports and journal articles that make use of the concepts and methods which will be
+introduced during the semester under this course
+
+e To be able to make use of basic econometric models in any kind of academic work
+
+4. Text Book:
+Christopher Dougherty, Introduction to Econometrics, Oxford, Fourth Edition, Indian Edition, 2011.
+Reference Books:
+R1. Johnston J and John Dinardo, Econometric Methods, McGraw-Hill International, MGHISE, 4" Edition, 1997
+R2. Damodar. N. Gujarati and Sangeetha, Basic Econometrics, Tata McGraw-Hill Publishing Company Limited, Fourth Edition, 2007
+R3. R.S. Pindyck and D.L. Rubinfeld , Econometric Models and Economic Forecasts, Third Edition, McGraw-Hill: New York, 1991
+R4. H. Baltagi Badi, Econometrics, Springer, Delhi, Second Edition, 1999
+R5. Ramu Ramanathan, Introductory Econometrics With Applications, Thomson South-Western, Fifth Edition, 2002
+R6. Wonnacott & Wonnacott, Econometrics, Wiley, New York, 1970.
+
+Page 1 of 3
+5. Course Plan:
+
+Reference
+to
+Text Book
+
+Simple Linear Model
+
+Assumptions; Derivation and Interpretation of
+Regression Coefficients; The Correlation
+Coefficient; Goodness of Fit
+
+Types of Data and Regression Model;
+Properties of Regression Coefficients
+Gauss-Markov Theorem; F-test
+
+Extension of two variable model;
+
+Derivation and Interpretation of the multiple
+regression coefficients; Properties of the
+multiple regression coefficients;
+
+Learning
+Objective(s) Topics to be Covered
+
+1 The Nature and Scope of
+
+aa Econometrics
+
+Introduction
+
+The Simple Linear
+
+Review of Statistics
+Regression Analysis
+10-14
+
+Properties of Regression
+Coefficients
+
+Hypothesis Testing
+Multiple Regression
+Analysis
+
+15-18
+19-21
+
+Multicollinearity Multicollinearity; Consequences
+Multicollinearity; Tests for Detecting the
+
+Multicollinearity and Solutions;
+
+Class Notes
+
+Non Linear Models and | Basic Procedure;
+Transformation Transformation; Nonlinear
+Variables Comparison Linear and
+
+22-25
+Specification
+
+Variable; The Chow Test
+29-31 Specification of | Model Specification; Exclusion of Relevant | Ch.6
+Regression Variables
+
+and inclusion of irrelevant variable; Proxy
+32-34 Heteroscedasticity Ch.7 and
+
+Variables; Testing of Linear Restriction
+Class Notes
+35-37 Autocorrelation
+
+Logarithmic
+Regression;
+Logarithmic
+
+for the Case of Autocorrelation; Prediction
+Introduction to Simultaneous Equation
+Models; Simultaneous Dependence of
+variables and Consequences; Simultaneous
+Bias; The Problem of Identification;
+
+Review of Course Completed [=
+
+Heteroscedasticity and its Implications; Tests
+Ch 12 and
+Class Notes
+38-40 Simultaneous Equation
+
+for Detection; Solutions; Prediction
+Sources of Autocorrelation, The First-order
+Autoregressive Scheme; Tests; Solutions
+Ch.9
+Estimation - Introduction and
+Notes
+
+Class
+
+6. Evaluation Schedule:
+
+Date & Time -- Venue
+
+Learning Outcome(s)
+
+fundamental —_ techniques
+and assumptions involving
+regression
+estimation:
+interpretation of coefficients
+in the context of specific
+regression models;
+construct appropriate
+regression specifications,
+extensions of — simple
+regressions
+Identifying and correcting (if
+possible) the problems
+arising due to
+multicollinearity;
+Understand the
+transformation of variables
+and nonlinear models
+
+Introduction of _ binary
+variables into regression
+Understand the
+specification of regression
+variables and model
+Identifying and correcting
+(if possible) the problem of
+heteroscedasticity and
+autocorrelation
+
+Understand the basics of
+simultaneous equation
+estimation models — of
+econometrics.
+
+ 
+
+Evaluation Component | ecsio Weightage
+(%)
+
+MIDSEM TEST
+CLASS TESTS / QUIZZES / _
+5
+
+TUTORIALS PPR Monday 10 hr
+
+ASSIGNMENTS Will be announced in the
+PARTICIPATION class
+
+CLASS
+
+COMPREHENSIVE EXAMINATION 13/05 FN
+
+Nature of Evaluation
+
+Closed Book
+Closed Book
+
+Closed Book
+
+ 
+
+Partly Open Book
+
+7. Chamber consultation hour: Thursday 4.00pm-5.00pm
+
+8. Notices: All notices regarding the course would be sent to student course mail group.
+
+9. Make-up Policy: Make-up exam for Mid Semester Test and Comprehensive Examination may be given only on genuine grounds; prior
+permission of I/C is required to get a makeup test.
+
+10. Other Course Policy Issues:
+
+E-mail address for this course related information: nvmraoeconometrics@gmail.com
+
+Page 2 of 3
+e Students are expected to attend class and to arrive on time and prepared. You should read the sections in the textbook we
+are going to cover in class prior to following the lecture.
+
+e Assignment/Problem Sheets and Reading Assignments will be assigned periodically. They must be worked out to understand
+the subject. For Reading Assignments, students are expected to consult the books, Research Articles, notes and Reports as
+advised in the classroom.
+
+e If there are problems of any nature that concern the class of which | am unaware of and which need to be addressed, please
+feel free to discuss this with me at any time. The main objective is to foster an environment where people who are
+interested in the subject matter have the opportunity to discuss their questions in a positive learning environment.
+
+e Use of mobile phones/electronic devices is not allowed during the class hour.
+
+The instructor reserves the right to make adjustments to this syllabus. Any change will be notified at least one week in
+advance. But itis your responsibility to stay informed if you do not attend all the classes.
+
+Instructor-in-charge
+ECON F241
+
+Page 3 of 3
+

@@ -1,0 +1,209 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST SEMESTER 2020-21
+COURSE HANDOUT
+16/03/2020
+
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+Course No. : ME F112
+Course name : Workshop Practice
+Credit : 2 (1 Lecture per week)
+
+Instructor-in-charge : Girish Kant Garg
+Practical Instructors : Shailendra Pawanr, Shailender Singh, Naveen PT, Ramesh Kumar
+
+1. Course Description:
+
+Casting; metal forming; Joining Processes; metal cutting machines e.g., Sand casting, rolling,
+extrusion, forging, arc welding, gas welding, lathe, shaper, drilling, milling and grinding;
+Engineering metrology and equipment. Overview of Non-traditional manufacturing processes.
+Laboratory exercise involving machining, joining and welding etc.
+
+2. Course Objectives:
+
+This course aims at imparting theoretical and practical aspects of the basic techniques and skills
+used to manufacture metal and wooden products. This course provides an overview of the basic
+manufacturing processes and allied processes used to produce finished products from raw materials.
+In addition to theory, demonstration of various basic manufacturing processes like sand casting,
+machining, forming, sheet metal working and joining processes using common machine tools and
+hand tools etc will be imparted.
+
+3. Text book
+
+(i) B S Nagendra Parashar and R K Mittal, Elements of Manufacturing Processes, Prentice Hall
+of India, 2006, 4th print.
+
+(ii) Sangwan, K. S. et. al, Workshop Practice Manual, BITS Pilani.
+4. References book
+
+Serope Kalpakjian and Steven R. Schmid, “Manufacturing Engineering and Technology,” Pearson
+Education, 4” edition, 2005, New Delhi
+
+Save Paper. ; |
+ae) Save Trees.
+£ > Save the World. — fg
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan
+
+, ae , Text BookLearning Objectives Topics to be covered Chapter No.
+
+Metal cutting, machine tools, cutting tools,
+Theory of Metal | tool material, type of tools, tool geometry,
+cutting/Machining type of chips, cutting fluids, operating
+
+conditions, tool life and machinability.
+Production of cylindrical | Lathe machine tool, operating conditions,
+surfaces: machine tool and | various operations on a lathe and MRR.
+Operations
+
+|
+iw
+
+I I I I 4 I I
+— oO
+
+J
+O1
+
+Dnilling machine, drill, operating
+conditions, boring, reaming, tapping and
+MRR.
+
+Production of flat surfaces: | Shaping machines, operations on shapers,
+Milling machine, type of milling processes
+& operations, operating conditions and
+
+MRR.
+
+Za Abrasive machine, abrasives, grinding,
+
+Production of cylindrical
+holes and allied operations
+
+—
+
+Production of complex and
+flat surfaces
+
+—
+oe)
+
+—
+CO
+
+Obtaining surface finish grinding wheel, grinding machines and fine
+finishing operations.
+
+Role of measurements in | Metrology, inspection, measuring, gauging,
+manufacturing limits & fits.
+
+Casting processes, pattem making,
+moulding sand, moulding process, cores,
+9 gating system, melting, pouring,
+solidification, casting defects, advantages
+and disadvantages of casting
+forming extrusion, and forging processes.
+Mechanical joining, arc welding, gas
+13 welding, soldering, brazing and mechanical
+fastening.
+we Role of computers in Numerical control, computerized numerical
+14 control (CNC), machine tools, advantages
+
+manufacturing and disadvantages.
+
+Save Paper. ; |
+ge) Save Trees.
+£ >= Save the World. mm g@
+
+Please Do Not Print Unless Necessary
+
+—
+
+Production of parts by
+casting
+
+=<
+—
+—
+
+1-2
+3
+4
+o
+7
+-10
+-12
+
+Mechanical joining
+processes
+
+ 
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation scheme
+
+Evaluation Duration Weightage Marks Nature of
+component (minutes) (% ) component
+
+Mid semester examination 40% Open book
+
+examination
+
+* Two multiple-choice quiz of equal weightage will be conducted in practical hours.
+
+ 
+
+7. Chamber consultation hour: Thursday 5 to 6 PM
+
+8. Notices: A |I the notices will be displayed on Nalanda.
+
+9, Make-up policy: No make up will be permitted for practical quiz under any circumstances.
+Make-up for mid semester and comprehensive examination will be permitted only in genuine
+
+cases with prior permission.
+
+Instructor-In-charge
+
+ME F112
+
+Save Paper.
+\ Save Trees.
+£ ? Asave the Wortd. — fg
+
+Please Do Not Print Unless Necessary
+
+ 
+

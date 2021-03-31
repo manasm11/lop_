@@ -1,0 +1,530 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST/SECOND SEMESTER
+COURSE HANDOUT
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion
+gives further specific details regarding the course.
+
+Course No : BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/
+BITS G564T
+
+Course Title : DISSERTATION
+
+Instructor-in-C harge : Associate Dean, AGSRD
+
+Instructor(s) : Supervisor(s)/M entor(s)
+
+1, COURSE DESCRIPTION
+
+This course deals with the research and development work in assigned areas of professional
+interest. Each student will work under the overall guidance and supervision of a faculty
+member/professional. The course must end with a well defined Final Report outlining all the
+investigations, achievements and conclusions at the end of each semester. References and
+bibliography in standard format are also to be included in the report.
+
+2, SCOPE AND OBJECTIVE OF THE COURSE
+
+The aim of this course is to carryout a research and development project in assigned areas of
+professional interest. The course envisages student’s training in the methodology of research and
+presentation of the research findings in the form of a scientific report.
+
+3. OPERATION OF THE COURSE
+
+a) The student should immediately chalk out a plan of work in Consultation with his Supervisor.
+Current literature (journals, books, etc.) must be methodically reviewed and the status of the
+work in the field must be considered. The detailed outline of work must reflect a survey of the
+current literature in the same area and must include topic of research, objective, background of
+previous work in the area, methodology and a work plan with a time schedule clearly indicating
+the intermediate milestones and the estimated time to achieve the same along with
+references and bibliography.
+
+b) Within two weeks of registration, the student should give his Dissertation particulars to the
+Head of Department in TS-1 Performa.
+
+c) The student should regularly interact with his supervisor and present seminars and submit
+reports on the scheduled dates. Proposed examiners and other faculty in relevant area may be
+requested to attend the presentations.
+
+d) Supervisor will announce the Mid-semester grade to his student and send the MID-SEM
+Evaluation Form to the Head of Department.
+
+e) Typed copy of Final Dissertation Report and A bstract are to be submitted to the supervisor on
+or before the last day of class work in each semester.
+
+f) Every student has to sign his attendance regularly with the supervisor or as per the alternative
+arrangement made by the supervisor. An attendance sheet is being provided for this purpose to
+the supervisor.
+
+g) The candidate should apply and seek prior permission of his supervisor for going on leave for
+any genuine needs. If leave of absence exceeds seven days in entire semester, recommended
+
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+final grade may be revised by supervisor.
+h) The following format for Dissertation Abstract should be used. Abstract should also be
+included in the bound report:
+
+Format for submission of Dissertation A bstract
+
+Thesis Title:
+
+Supervisor:
+
+Semester: First/Second Session
+Name of Student: ID No:
+
+Abstract (A pprox 1000 to 2000 words)
+
+i) A separate Dissertation topic has to be assigned to individual students. Wherever the broad
+area is same, the aspects to be researched by an individual candidate should be clearly focused
+and spelt out.
+
+j) Utmost care should be taken in the preparation of the FINAL REPORT. A check-list of
+various items is provided and students should carefully go through these. Supervisors are also
+requested to examine the draft of the FINAL REPORT keeping in view the items in the
+checklist. Title of the thesis should be proper and should be indicative of the type of work done.
+
+4, EVALUATION
+
+Evaluation in this course is essentially individual oriented. The various instruments of evaluation
+along with the weightage of components are given below:
+
+Component Weightage Week in which due
+
+Viva-] 15 3” week
+
+Mid. sem. Written report 15 10" week
+
+Mid sem. presentation 15 10" week
+
+Viva-II 15 15" week
+
+Final Dissertation* 29 Last day of class work
+
+Final viva-voce* 15 Actual date announced by DRC
+
+*Final viva-voce examination and evaluation of the Dissertation is to be jointly done by the
+Supervisor and the examiner appointed by the DRC. The other components are to be evaluated
+by the supervisor and the details are to be made available to the examiner at the time of final
+viva.
+
+Supervisor will send the copy of Dissertation report to the examiner well in advance. Before
+sending he should check the contents as per checklist and sign the ‘Certificate’ page. The
+evaluation will recognize the day-to-day work involvement and punctuality of the student in his
+work. Evaluation in various components shall take into account work progress and achievements,
+technical/professional competence, documentation and expression, initiative and onginality,
+punctuality and reliability, self-reliance, and acquisition of special skills. The student should
+extend full cooperation to his supervisor and interact with him in advance about the time, venue
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+and mode of each evaluation. He should be in constant touch with his supervisor. Supervisor
+may require his student to sign the attendance sheet before a particular time on each working
+day.
+
+Grading will be done mainly on the basis of the progress made towards attaining the overall
+objectives of the Dissertation. The supervisor shall evaluate various prescribed components of
+evaluation before the submission of final Dissertation. He/she should seek utmost participation
+of examiner by inviting him to the various seminars. Supervisor should maintain all pertinent
+records of his student.
+
+The final report and performance in the final viva are to be jointly evaluated by the Supervisor
+and examiner appointed by the DRC. Evaluation in various components can be done on the basis
+of marks or grades. However, the recommendations for the final award shall invariably be made
+in terms of one of the prescribed letter grades, viz. A/A-/B/B-/C/C-/D/E. The student will have
+to defend the work appearing in his/her Dissertation before the panel of examiners.
+
+Immediately after the final viva, ONE copy completed Final Evaluation Form is to be submitted
+to the Head of Department by the supervisor.
+
+3. MID SEMESTER GRADING
+
+This will be announced by the supervisor to his student sometime in the 10“ week of the
+semester. Mid-semester evaluation form should be retumed by the supervisor to the Head of
+Department during the 10 week of the semester.
+
+6. COURSE NOTICES
+Notices pertaining to this course will be displayed on respective Department Notice boards by
+the supervisor.
+
+7. GENERAL
+a) Itis the responsibility of the student to ensure continuous interaction with his Supervisor.
+b) Prescribed formats of the Cover/Title page and certificate from the supervisor should be
+adhered to in the preparation of final Dissertation Report. Check-list of items for the
+preparation of the FINAL REPORT should also be consulted. The following sequence may be
+followed in the preparation of the Dissertation Report:
+e Title page (inner cover)
+Acknowledgement
+Certificate from the Supervisor
+List of Symbols & Abbreviations used
+Dissertation A bstract
+Table of contents
+Chapters 1, 2, 3, etc.
+Conclusion
+A ppendices
+Bibliography/References
+List of Publications/Conference Presentations, if any.
+
+c) The registration in Dissertation course is normally after the completion of coursework.
+
+Check List of Items for Final Report of Higher Degree Dissertation
+
+3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+1. Is the Report’s ‘Cover/Title page’ in proper format?
+
+2. Is ‘Supervisor’s Certificate’ in proper format? Has it been signed?
+3. Is ‘Abstract’ included in the Report? Is it in properly written?
+
+4. Does the ‘Table of Contents’ page include chapter page numbers?
+5. Does the Report contain a summary of the literature survey?
+
+6. (a) Are the Pages numbered properly?
+
+b) Are the Figures numbered properly?
+
+c) Are the Tables numbered properly?
+
+d) Are the Figures and tables titled properly?
+e) Are the Appendices numbered?
+
+(
+(
+(
+(
+
+7. Does the Report have ‘Conclusion’ of the work?
+
+8. Are References/Bibliography given in the Report?
+9. Have the ‘References’ been cited in the Report?
+
+10. Is the citation of ‘References and Bibliography’ in the standard format?
+Attention should be paid on the above items while preparing the FINAL REPORT. Supervisors
+are also requested to ensure that their candidate(s) have prepared the FINAL REPORT properly.
+
+Illustrative Examples of Citation of References:
+
+1. | Book: A. Gelb, Applied Optimal Estimation. Cambridge, M.A.; M.I.T. Press, 1974
+
+A paper in Conference or Symposium Proceedings edited Published by Book Company:
+R.E. Kalman, ‘New Methods in Wiener filtering theory’, in Proc. First Symposium on
+Engineering A pplications of Random Function Theory and Probability’ J.L. Bogdanoff
+and F. Kozin, Eds. New Y ork, Wiley, 1963, pp. 270-388
+
+A Journal Paper:
+
+R.E. Kalman and N.S. Pucy, “New results 1n linear filtering and prediction theory’, Trans.
+
+ASME, J.Basic Eng., Vol. 83-D, pp. 95-108, Mar. 1961
+
+A Conference Paper: M. Vidyasagar and N.K. Bose, Input-output stability of linear
+systems defined over measure spaces’, in Proc. Midwest Symp. Ciro, Syst., Montreal,
+P.O. Canada, Aug. 1975, pp 394-397
+
+A Ph.D. dissertation or Dissertation
+
+A.C.G Viera, Matrix, orthogonal polynomials, with applications to autoregressive
+modeling and ladder forms’, Ph.D. Dissertation, Stanford Univ., Stanford, CA, Dec. 77
+A Private Communication W.M. Wonham (1982) Private Communication
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Format of the Cover/Title page of the Dissertation
+(Title of the Dissertation)
+Thesis
+Submitted in partial fulfillment of the requirements of
+BITS G629T Dissertation
+By
+(Author)
+ID No. ( )
+
+Under the supervision of
+
+(Name and Designation of Supervisor)
+Institute emblem
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE PILANI, PILANI CAMPUS
+(Date)
+Format of ‘Certificate from the Supervisor’
+
+CERTIFICATE
+
+and submitted
+
+by ID No. in partial fulfillment of the requirement of
+
+BITS G629T Dissertation embodies the work done by him/her under my supervision.
+
+Signature of the Supervisor
+Date:
+Name
+
+Designation
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST/SECOND SEMESTER 20 ~— -20
+MID SEMESTER EVALUATION FORM: DISSERTATION
+
+Section I PARTICULARS (TO BE FILLED BY STUDENT AND RETURNED TO
+SUPERVISOR)
+
+Semester session
+IDNo see NameofStudent eee
+Title of Dissertation
+
+Section IT EVALUATION DETAILS (TO BE FILLED BY SUPERVISOR)
+
+Evaluation Component Marks awarded
+
+Viva-l
+
+oa Mid. Sem. Presentation
+PBS Sem. Wten Repos a
+pm
+
+Recommended Mid-semester grade ( A/-A/B/-B/C/-C/D/E ):
+Reports, if any (NC/I, See Academic Regulation 4.12)
+
+(Give Reasons)
+
+ 
+
+Date Signature of Supervisor
+
+NB: Supervisor should announce the mid semester grades to his student directly and send the
+form to the Head of Department
+
+* Possible break up of marks for grades:
+90 <A< 100; 80 <- A< 90; 70 <B< 80; 60 <- B < 70; 50 <C < 60; 40 <-C < 50; 30 <D< 40;
+Ex 30
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST/SECOND SEMESTER 20 ~— -20
+END SEMESTER EVALUATION FORM: DISSERTATION
+
+Name of Student ID No.
+
+Evaluation:
+
+[Vivato
+2. | Mid. Sem. Presentation | 10) |
+3. | Mid. Sem.WrittenReport| 10) |
+
+10
+40 |Viva-M 8H
+(5. | FinalThesisReport | 15 |
+6. |FinalViva |
+— [Total F100 P
+
+Recommended Mid-semester grade (A/A -/B/B-/C/C -/D/E):
+
+ 
+
+RECOMMENDED FINAL GRADE (A/A-/B/B-/C/C-/D/E):
+
+Reports, if any (NC/I, See Academic Regulations 4.12)
+(Give Reasons)
+Supervisor’s Rating:
+
+i A/-A B/C /-C /D I
+A/-A
+Documentation and expression | A /_- A
+i A/-A
+A/-A
+A
+
+-B / C /-C /D /
+-B / C /-C /D /
+-B / C /-C /D /
+-B / C /-C /D /
+
+Initiative and originality
+Punctuality
+
+/ B E
+/ B E
+/ B E
+/ B E
+/ B E
+/ B E
+
+Reliability CAT B/C /-C /D |
+
+ 
+
+* Possible break up of marks for grades:
+90 <A< 100; 80 <- A< 90; 70 <B< 80; 60 <- B< 70; 50< C< 60; 40 <-C < 50; 30 <D< 40;
+Ex 30
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+TS1 form
+PARTICULARS OF DISSERTATION
+
+The student should correctly fill in this Proforma and submit to Head of Department within two
+weeks of registration.
+
+Name of the Student
+
+2. Non-BITS email ID
+
+Phone Number:
+
+Signature of the Student
+
+Panel of examiners (To be suggested by the supervisor)
+
+Department/Div./Unit
+
+a
+
+a ee
+Date;
+
+Signature of
+supervisor
+(P.T.O)
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+orm
+Higher Degree Dissertation Outline
+(Attach extra sheet, if necessary)
+Aim or objective of the project work:
+Background of work:
+Plan of work:
+Bibliography and References:
+Signature of the student Signature of supervisor
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ATTENDANCE SHEET FOR HIGHER DEGREE DISSERTATION STUDENTS
+FIRST/SECOND SEMESTER
+I. PARTICULARS
+Name of student ID No. Supervisor
+
+Hostel Room No.
+
+II. Attendance (Student to sign his initials)
+
+Month DATES Total Days
+working | absent
+days
+
+eee
+
+Aug/Jan
+
+| |
+pe tt
+| et | |
+ps
+|| | |
+ewe
+|| | |
+pet |
+ptt
+
+Note: Supervisor may decide to keep this sheet with him or with the Department office and ask the student to
+sign on each working day before a particular specified time. This sheet should be retumed to Head of
+Department along with the Final Evaluation Form.
+
+ 
+
+Date: Signature of Supervisor
+
+10
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+CAL
+
+AUG 16 |JAN22 | TS-1 Form Head of Department
+AUG 28 |JAN29 | Detailed outline of work
+
+OCT 08 MAR 15_ =| Mid. Semester written report and | Student Supervisor
+pea
+OCT 08 MAR 15 | Mid. Semester Grade Supervisor | Head of
+
+NOV 28 | APR 30 __ | Dissertation abstract Student
+
+NOV 28 APR 30 Final dissertation report Student Supervisor
+submission
+
+Dec1-8 | May3-8 | Final Evaluation Form Supervisor | Head of
+Department
+
+ 
+
+Note:
+
+1.
+
+If any of the above date happens to be a Sunday ora holiday, the immediate next date _ will be the calendar
+date. FINAL DISSERTATION REPORT should invariably be submitted on or before the above mentioned
+date.
+
+Student should ensure with his supervisor that the Mid-semester grade and the Final Dissertation Report,
+Dissertation A bstract and Final Evaluation form are sent to the Head of Department by the due date
+The time and venue of Seminars is to be fixed by the Supervisor
+The final viva-voce examination is to be held on the date announced by Departmental Research Committee
+(DRC). The Supervisor in consultation with the examiner will fix the venue and time.
+
+Specified formats of the Cover/Title page and certificate from the supervisor should be adhered to in the
+preparation of final report. Attention should be given to the items in the checklist for preparation of the
+report. Supervisors are requested to sign the certificate page in the report and signed copy of dissertation
+
+report should be made available to the examiners well in advance.
+
+11
+

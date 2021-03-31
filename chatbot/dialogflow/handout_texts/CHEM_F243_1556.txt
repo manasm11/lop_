@@ -1,0 +1,143 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+Course Handout Part II
+Date: 17.01.2021
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further details
+regarding the course.
+
+Course No: CHEM F243
+
+Course Title: Organic Chemistry-Il
+Instructor-in-charge: ANIL KUMAR
+Instructor: Anil Kumar
+
+1. Scope and objective of the course: To familiarize the students with stereochemical concepts and their
+applications in organic synthesis; important functional group transformations; pericyclic reactions. Emphasis
+will be placed not only on the mechanistic and stereoelectronic features but also in preparation of optically active
+compounds.
+
+Course learning outcome: After successful completion of the course, students will be able to understand:
+
+e Principal of resolution of a racemic mixture
+
+e Preparation & usefulness of optical active compounds
+
+e Stereochemical aspects of the substitution and elimination reactions
+e Thermal and photochemical reactions
+
+e Mechanisms of pericyclic reactions
+
+e Pericyclic reactions & various stereochemical notations
+
+2. Text Book:
+
+T1: E.L. Eliel, S. H. Wilen, L. N. Mander, John Wiley & Sons, 1st Ed., 2004
+T2: Michael B. Smith & Jerry March, March's Advanced Organic Chemistry: Reactions, Mechanisms, and
+Structure, John Wiley & Sons, 6 ed., 2007
+
+3. Reference Books:
+
+R1: J. Clayden, N. Greeves, S. Warren, P. Wothers, Organic Chemistry, OUP, 1s ed., 2000.
+
+R2: R.T. Morrison, R. Boyd and S. K. Bhattacharjee, Organic Chemistry, 7‘ edition
+
+R3: Francis A. Carey, Richard J. Sundberg, Advanced Organic Chemistry: Part A: Structure and Mechanisms,
+Springer; 5th edition, 2008
+
+R4: Photochemistry and Pericyclic Reactions, New Academic Science, 3" Edition, 2009
+
+4. Course Plan:
+
+Lect. Learning objectives Topics to be covered Text book (topic no.)
+
+No.
+Symmetry elements, symmetry T1: Ch. 4, P. 71-87, 92-97
+operators, symmetry and molecular
+properties.
+Stereoisomers and Diastereomers
+
+Configuration Absolute configuration, relative T1: Ch. 5, P. 101-112,
+
+configuration and notation, 117-123, 126-128, 130determination of relative configuration, | 144
+
+Chirality in molecules Introduction, nomenclature, allenes T1: Ch. 14, P. 1119-24,
+devoid of chiral centers-1 1132
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+10-12 Chirality in molecules Alkylidenecycloalkanes, Spriranes, T1: Ch. 14, P. 1133-50,
+devoid of chiral centers -2 | biphenyl atropisomersism, molecules 1166-76
+with planar chirality
+13-14 Stereochemistry of Cis-trans isomerism, determination of T1: Ch. 9, P. 539-574
+alkenes configuration of cis-trans isomers by
+chemical & physical methods
+15-17 Conformation of acyclic Conformation of unsaturated acyclic and | T1: Ch. 10, P. 597-627
+molecules miscellaneous molecules
+18-20 Conformations of cyclic Conformational aspects of the chemistry | T1: Ch. 10, P. 665-754
+molecules of six membered ring compounds
+21-23 Reaction mechanism Revision of basic mechanisms, T2 : Ch. 10, P. 293-369,
+neighboring group participation in Ch. 17, 982-1006, Ch 23,
+mechanism, E1cB P. 1149-1154; Lecture
+notes
+24-28 | Asymmetric synthesis Resolution and stereoselective synthesis | T1: Ch. 12, P. 835-843,
+858-886, 894-902, 905908, 913-932, 947-952,
+R1 : Ch. 16, P. 399-404,
+Ch. 34, P. 881-904;
+Lecture notes
+29-31 Pericyclic reactions-| Introduction to pericyclic reactions, T2, Ch. 20, P. 1032-1040;
+correlation diagrams, FMO approach & Lecture notes
+PMO approach, Woodward-Hofmann
+orbital symmetry rules
+
+ 
+
+32-34 Pericyclic reactions-II Electrocyclic reactions, chelotropic T2: Ch. 20, P. 1040-1048,
+reaction Lecture notes
+
+35-36 Pericyclic reactions-III Sigmatropic reactions, cycloaddition T2, Ch. 20, P. 1048-1058,
+a reactions: Diels-Alder, Ene and 1,3- Lecture notes
+dipolar cycloaddition reactions.
+37-40 Organic Photochemistry a- and $-cleavage, intramolecular T2: Ch. 21, P. 1064-1090;
+hydrogen abstraction, addition to T- Lecture notes
+systems, intramolecular Paterno - Buchi
+reaction, application of photochemistry
+
+ 
+
+5. Evaluation Scheme:
+
+Weightage(%) | Date & Time
+Mid-termtest =| 90min | TBA
+Assignments /Quiz/ a
+
+ 
+
+Comprehensive 120 min. 05/05 FN
+Examination
+
+6. Make-up(s) will be granted only for genuine reasons.
+
+7. Chamber consultation hours: Monday 4.00-5.00 PM
+
+8. Notices: All the notices pertaining to this course will be displayed on Department of Chemistry, Notice
+Board /will be shared through BITS email only.
+
+Instructor-in-Charge
+CHEM F243
+

@@ -1,0 +1,166 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21 COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Timetable) this portion gives further
+specific details regarding the course.
+
+Course No : CE F342
+
+Course Title : Water and Wastewater Treatment
+Instructor-in-C harge : Anupam Singhal
+
+Instructor(s) : Anupam Singhal
+
+Tutorial/Practical Instructors: R. Srinivas, Soumya Kar, Srishti Khare and Akshay Kumar
+
+1. Course Description: In this course, the fundamental concepts involved in W ater and Wastewater treatment will be
+discussed. The course coverage includes a wide range of topics such as sources of water, estimation of water
+requirements and wastewater generation, study of their characteristics, natural methods of purification, different unit
+operations for treatment of water and wastewater, sludge handling and disposal, advanced wastewater treatment, reuse
+of wastewater, and hydraulic design of sewer and water supply distribution system. The course has a lab component
+where the student gets involved in the testing of few physico-chemical parameters of water and wastewater.
+
+2. Scope and Objective of the Course: The need of the hour in the world nowadays is “provision of adequate and
+potable water supply”. The world is witnessing a war like situation for ‘lack of water supply’ at many places. The global
+need is for judicious use of available water and putting efforts to recycle/reuse the treated wastewater for beneficial
+purposes. This course aims to provide insight to the several technical aspects to be considered in the planning, design,
+and implementation of water supply and wastewater treatment schemes. Field application of the subject is illustrated
+through case studies reported in literature. In addition, students will be shown some videos to illustrate the field
+application of the experiments demonstrated in the laboratory sessions.
+
+3. Textbooks:
+T1. Punmia B.C, A. Jain and A. Jain. Water Supply Engineering, Laxmi Publications, New Delhi, 1995.
+
+T2. Punmia B.C, A. Jain and A. Jain. Wastewater Engineering, Laxmi Publications, New Delhi, 1998.
+T3. Moondra H.S. and R. Gupta, Laboratory manual for Civil Engineering, CBS Publishers & Distributors,
+Delhi, 1992.
+
+Reference Books:
+R1. Peavy H.S., D. R. Rowe and G. Tchobanoglous. Environmental Engineering, McGraw Hill Education (India)
+
+Private Limited, 2013.
+
+R2. Garg S.K. ,Water Supply Engineering, Khanna Publishers, Delhi, 2008.
+
+R3. Garg S.K., Sewage Disposal & Air Pollution Engineering, Khanna Publishers, Delhi, 2010.
+R4, Relevant IS codes, National and International Journals pertaining to the subject.
+
+5. Course Plan:
+
+Module No. Lecture Session Reference | Learning outcomes
+
+1. Introduction to Introduction; Estimationof WS & | Ch.l of T1& Understanding the basic
+basics of Water WW; Characteristics (1-5) T2; Ch. 5 of T1; | concepts of water and
+Supply (WS) and wastewater characteristics
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+wastewater (WW) ~~ Ch 6ofTi ch] 6 of T1; Ch.
+Engineering 8 of T2
+
+2. Natural methods Self-purification of rivers, Ch. 7 of T1; Idea about the selffor water and Dilution method, Gas transfer(6-8) | Ch.9 of T2 purification capacity of
+wastewater streams and natural
+treatment methods of treatment
+
+ 
+
+3. Unit operations for | Preliminary treatment, Ch 8-11 of T1 Different steps in water
+water treatment Sedimentation, Filtration, treatment
+Disinfection(9-19)
+
+4, Unit operations for | Preliminary treatment, Primary Ch. 10-15 of T2 | Students will get idea
+wastewater treatment, Secondary treatment about the different
+treatment methodologies of
+
+(20-34) wastewater treatment
+
+9. Treatment and Dewatering, Digestion and Ch. 16 of T2 Remedies of solid waste
+disposal of sludge | disposal(35-37) disposal
+
+Advanced methods | Ion exchange, Reverse Osmosis, Ch-18 of T2; Idea about the latest
+of treatment for Adsorption, Water softening, Ch. 11 ,12,130f | techniques of water and
+water and WW Desalination (38-40) T1 wastewater treatment
+
+Application of Hydraulic design of sewers, WS Ch. 4 of T2; Ch. | Understanding the design
+Hydraulics and distribution networks and Field 16 of T1 of sewers and water
+Case studies case studies (41-44) distribution system
+
+ 
+
+6. List of Experiments
+Determination of acidity and alkalinity in water. 1 Tum
+
+Determination of Dissolved Oxygen (DO) in water 1 Turn
+3 Determination of iron and residual chlorine in water 1 Tum
+5 Determination of Hardness content in water 1 Tum
+
+Determination of Calcium content in water 1 Tum
+
+7 Determination of pH, turbidity and suspended solids of water 1 Tum
+
+Oe
+CT ——  eF
+2
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+1 Tum
+
+Water quality monitoring and real time monitoring of river Ganges using remote sensing.
+
+Usage of multiparameter sonde to measure water quality parameters and treatment of storm | 1 Tum
+water runoff in urban setting.
+
+7. Evaluation Scheme:
+
+(% ) (Close Book/ Open Book)
+|Mid-SemesterTest_ | 90Min. | 30 0 | TEST: 1> | OB
+:
+
+Examination
+
+ 
+
+Lab activity/ Quiz
+
+Assignments 3% To be announced in the
+class from time to
+time(OB)
+
+8. Chamber Consultation Hour: 4 to 5 PM every Monday.
+
+ 
+
+9, Notices: Concerning the course will be declared in the class or updated in Google classroom.
+10. Make-up Policy:
+
+a. Make-up will be granted only on genuine reasons. However, prior permission is must.
+b. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced.
+c. NO make-up will be granted for lab quiz.
+
+11. Note (if any): Academic honesty and academic integrity are to be maintained by all the students throughout the
+semester and no type of academic dishonesty is acceptable.
+
+Instructor-in-charge
+Course No. CE F342
+

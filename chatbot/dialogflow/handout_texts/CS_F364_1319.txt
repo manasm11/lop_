@@ -1,0 +1,318 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CS F364
+
+Course Title : Design & Analysis of Algorithms
+Instructor-in-C harge : Abhishek Mishra
+
+Instructor(s) : Kamlesh Tiwari
+
+Tutorial/Practical Instructors: Ravi Kant
+
+1. Course Description: The course gives an introduction to some algorithm design techniques.
+
+2. Scope and Objective of the Course: To learn about some basic algorithm design techniques like
+Divide and Conquer, Greedy Algorithms, Dynamic Programming, and Network Flow Algorithms.
+To learn about Computational Complexity. To learn about some advanced algorithm design
+techniques like Approximation Algorithms, and Randomized Algorithms. To learn about Number
+Theoretic Algorithms.
+
+3. Text Book:
+[T1] T.H. Cormen, C.E. Leiserson, R.L. Rivest, C. Stein, Introduction to Algorithms, 3'4¢ Edition, PHI,
+2012.
+
+4, Reference Books:
+[R1] J.Kleinberg, E. Tardos, Algorithm Design, Pearson, 2013. Lecture slides of the book are available
+
+online at: http://www.cs.princeton.edu/~wayne/kleinberg-tardos/pearson/
+
+[R2] D.P. Williamson, D.B. Shmoys, The Design of Approximation Algorithms, Cambridge University
+Press, 2010. Available online at: http://www.designofapproxalgs.com/book.pdf
+
+[R3] S. Arora, B. Barak, Computational Complexity: A Modern Approach, 2009, Cambridge University
+Press. Available online at: http: //theory.cs.princeton.edu/complexity/book.pdf
+
+[R4] E. Horowitz, S. Sahni, S. Rajasekaran, Fundamentals of Computer Algorithms, Second Edition,
+2007, Universities Press.
+
+5. Course Plan:
+
+ 
+
+Lectures Topics
+
+ 
+
+1 Introduction, Asymptotic Notations, Analysis of Insertion sort and Merge Sort.
+
+ 
+
+The Defective Chessboard Problem. Karatsuba’s Multiplication Algorithm.
+
+ 
+
+ 
+
+2
+3 Strassen’s Matrix Multiplication Algorithm.
+4
+
+Polynomial Representations, Evaluating a Polynomial using Horners’ Rule,
+Interpolation using Gaussian Elimination.
+
+ 
+
+ 
+
+ 
+
+ 
+
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+Discrete Fourier Transform. Fast Fourier Transform Algorithm.
+
+ 
+
+The Fractional Knapsack Problem.
+
+ 
+
+ 
+
+Optimality of Huffman Encoding.
+
+ 
+
+5
+6
+7 Huffman Encoding.
+8
+9
+
+Matroids.
+
+ 
+
+10 ~=—|Application of Matroids.
+
+ 
+
+11 The 0/1 Knapsack Problem.
+
+ 
+
+12 The Traveling Salesman Problem.
+
+ 
+
+13 Matrix Chain Multiplication.
+
+ 
+
+14 Longest Common Subsequence.
+
+ 
+
+15 Optimal Binary Search Trees.
+
+ 
+
+16 Flow Shop Scheduling.
+
+ 
+
+17 |The Maximum Flow Problem and the Ford-Fulkerson Algorithm.
+
+ 
+
+18 Maximum Flows and Minimum Cuts in a Network.
+
+ 
+
+19 ~=—*|The Bipartite Matching Problem.
+
+ 
+
+20 __|Disjoint Paths in Directed and Undirected Graphs.
+
+ 
+
+21 The Complexity Class P.
+
+ 
+
+22 The Complexity Class NP.
+
+ 
+
+23 Polynomial Time Reductions. The Complexity Classes NP-Complete and NP-Hard.
+The Satisfiability Problem.
+
+ 
+
+24 Cook-Levin Theorem.
+
+ 
+
+25 NP-Completeness of 3SAT, 0/1 Integer Programming, and Independent Set.
+
+ 
+
+26 NP Optimization Problems. Definition of Approximation Algorithms. A 2approximation Algorithm for the Cardinality Vertex Cover Problem. A 2approximation Algorithm for the Weighted Vertex Cover Problem.
+
+ 
+
+27 LP-Rounding Algorithm for Set Cover. Primal LP, Dual LP, LP-Duality Theorem,
+Weak Duality Theorem, and Complementary Slackness Conditions.
+
+ 
+
+28 Dual-Rounding Algorithm for Set Cover. Primal-Dual Algorithm for Set Cover.
+
+ 
+
+29 PTAS and FPTAS. FPTAS for the 0/1 Knapsack Problem.
+
+ 
+
+30. = |Complexity Classes for Approximation.
+
+ 
+
+31 Probability, Random Variables, and Expectation. Linearity of Expectation.
+
+ 
+
+32 The Randomized Complexity Classes BPP, RP, co-RP, and ZPP.
+
+ 
+
+33 Markov’s Inequality, Chebyshev’s Inequality, and Chernoff’s Bounds.
+
+ 
+
+ 
+
+ 
+
+34 Atlantic City, Monte Carlo, and Las Vegas Algorithms.
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+35 ‘|The Birthday Paradox.
+36 Divisibility.
+37 |Euclid’s Extended GCD Algorithm.
+
+ 
+
+ 
+
+ 
+
+38 Congruences, Fermat's Theorem, and Euler’s Theorem.
+
+ 
+
+39 ~=|Modular Exponentiation Algorithm.
+
+ 
+
+ 
+
+ 
+
+ 
+
+40 _|Pollard’s Rho Factorization Algorithm.
+
+ 
+
+6. Evaluation Scheme:
+(% ) (Close Book/ O pen Book)
+Test
+Examination
+
+Tutorials 40 Min. 32 Thursdays, 9:00 to Open Book. There will be
+9:40. You can take 12 tutorials. In each
+your time from 9:40 to | tutorial, a randomly
+9:50 for scanning and_ | selected problem will be
+uploading your given for solving. One out
+solution. Only one of tutorials 1 to 3, one out
+submission is of tutorials 4 to 6, one out
+allowed. Submission | of tutorials 7 to 9, and one
+will be disabled at out of tutorials 10 to 12
+9:50. will be evaluated (each
+
+having 8% _ weightage).
+Each student can decide
+which tutorials to evaluate.
+
+7. Chamber Consultation Hour:
+
+Abhishek Mishra: 13:00 to 14:00 on Fridays
+(with prior appointment on email).
+
+Kamlesh Tiwari: 11:00 to 12:00 on Tuesdays
+(http://meet.google.com/frf-kskx-uhx).
+
+8. Notices: All notices will be posted on https://nalanda-aws.bits-pilani.ac.in. also visit
+
+ktiwari.in/algo
+
+ 
+
+9, Make-up Policy: Make-up exam may be arranged only in genuine cases with prior permission. No
+makeup for Tutorial test.
+
+10. Open Book Policy: Everything is allowed except for cheating.
+
+11. Lecture Link: http://meet.google.com/jto-vjtw-bsd
+
+3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+12. Tutorial Link: http://meet.google.com/qko-rqsm-iay
+
+Abhishek Mishra
+Instructor-in-charge
+Course No. CS F364
+

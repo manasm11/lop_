@@ -1,0 +1,263 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2019-20
+COURSE HANDOUT
+Date: 10.03.2021
+
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : MEL G641
+Course Title : CAD for IC Design
+Instructor-in-charge : ABHIJIT ASATI (Pilani Campus)
+
+email: abhijit_asati@ pilani.bits-pilani.ac.in
+
+1. Corse Description: The course description includes the introduction to CAD tool environment;
+VLSI design methodologies and supporting aids for test generation and testing; HDL, behavioral, functional,
+logic and circuit simulators; overview of data structure, schematic editors; layout editors; graphics and CIF;
+algorithms of some of the CAD tools; floor-planning, placement and routing tools.
+
+2. Scope and Objective of the course:
+
+To understand the basic concepts of CAD tools used for IC/V LSI Design process. To be conversant with the
+use of existing CAD tools and algorithms for all the stages of the design cycle of aV LSI chip design, To
+study modeling using HDL (VHDL/Verilog) and to study the design issues involved in the development of
+CAD tools. Current trends in CAD tools for IC/V LSI design.
+
+3. Text Book:
+T1: Algorithm for VLSI Physical Automation, 3™ Edition
+
+Author: Naveed Sherwani
+Publisher, Y ear: Kluwer Academic Press, 1998
+
+A, Reference Books
+
+R1: An Introduction to CAD for VLSI
+
+Author: Stephen M. Trimberger
+
+Publisher, Y ear: Kluwer Academic Press 1987.
+
+R2: VLSI Physical Design Automation: Theory and practice
+Author: Sadiq M Sait and Habib Y oussef
+
+Publisher, Y ear: World Scientific Press, 1999
+
+R3: Computer Aids for VLSI Design
+
+Author: Steven M. Rubin
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Publisher, Y ear: Addison Wesley, 1987
+
+R4: Simulation in the Design of Digital systems
+
+Author: John B. Gosling
+
+Publisher, Y ear: Cambridge University Press (CUP), 1993
+R5: Introduction to VLSI Systems
+
+Author: Carver Mead and Lynn Conway
+
+Publisher, Y ear: A ddison-W esley,1980
+
+R6: A VHDL Primer, 3™ Edition,
+
+Author: J. Bhaskar
+
+Publisher, Y ear: Pearson /Prentice- Hall, 1999
+
+R7: Verilog HDL
+
+Author: Samir Palnitkar
+
+Publisher, Y ear: Pearson Education A sia, 2007
+
+R8: Synthesis and Optimization of Digital Circuits
+Author: Giovanni De Micheli
+
+Publisher, Y ear: Tata McGraw-Hill, 1994
+
+R9: High level Synthesis: Introduction to Chip and System Design
+Author: Denieal Gajski
+
+Publisher, Y ear: Kluwer Academic Press, 1992
+5. Course Plan
+
+Module Lecture session Learning Outcome
+Number
+
+1, L1.1- L1.2 An introduction to Introduction to Electronic system design:
+electronic system design General purpose DSP based, Domain specific
+processor based, ASIC, SOC. Discussing
+
+L 1.3-L1.4 An introduction to CAD Combinational, Sequential, | Sequential
+for IC Design Pipelined circuits and their ASIC and FPGA
+
+implementation and comparison with software
+implementation. To understand system level
+design issues. Low power VLSI design flow,
+technology nodes and current technology
+Status, Sources power consumption.
+
+ 
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+ 
+
+Z L2.1- L2.6 IC Design Flows and
+CAD Tools
+
+L3.1- L3.5: VHDL Modeling
+
+_ L3.6- L3.10: Verilog Modeling
+
+L4.1: Simulation
+
+(Behavioral , Functional, Logic,
+Mixed mode)
+
+L5.1- L5.5: Schematic, Layout and
+Stick Editors
+
+Introduction to CAD for IC Design: Benefits
+of CAD, CAD systems aspects (Technical,
+Human-computer Interaction, Management),
+CAD equipment functions and characteristics.
+
+To understand a view of IC design,
+Complexity of VLSI design _ task,
+Miniaturisation of electronic systems. To learn
+VLSI design methodologies: semicustom
+design (Array based, cell based), Gate array
+approach, Standard cell approach full custom
+design.
+
+To understand several formats such as LEF,
+DEF, Lib. To understand design flow: Topdown, Bottom-up design, Mixed Top-down
+and bottom-up design. To learn Synthesis
+aspects, SDC format, Functional verification,
+Production testing, SDF format, SPEF format,
+STA andCAD Tools _ classification.
+
+To learn Identifier, Data objects, Data types,
+
+Operators in VHDL. To understand the
+different styles of modeling in VLSI circuits:
+Data flow style of modeling, Behavioral Style
+of modeling, Structural Style of modeling. To
+learn Functions, Procedures, Package and
+synthesis aspects etc.
+
+To learn Identifier, Data types, Operators in
+Verilog. To understand the different styles of
+modeling in VLSI circuits: Data flow,
+Behavioral, Gate level, Switch-level etc. To
+learn Functions, task and synthesis aspects etc.
+
+Types/Levels of Simulation, Compiled-code
+simulation, Event-driven simulation
+
+To learn the CAD aspects of: Schematic
+Editor and suitable data structure, Layout
+Editor and suitable data structure
+
+ 
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L5.6: Overview of CIF
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+To learn CIF ASCII format for layouts.
+
+To understand need of circuit partitioning. To
+leam related Algorithms: Deterministic,
+Probabilistic, Constructive, Iterative
+improvement etc.
+
+To understand floor-planning/ chip planning
+problem. To learn functions of floor- planning
+
+and factors considered for floor-planning,
+algorithms, area estimation methods and
+routing regions
+
+7, L7.1- L7.2: Placement
+
+To understand placement problem and to learn
+
+the global routing algorithms and placement
+algorithms: Constructive, iterative
+improvement, Partitioning-based placement
+algorithm
+
+L8.1: Logic Synthesis and To understand Two-level, Multi-level
+optimization combinational logic synthesis and Logic
+L8.2: High Level synthesis Optimization.
+High-Level Synthesis Steps:
+Compile specification into an_ intemal
+representation, high-level transformations,
+Scheduling and allocation, Binding etc.
+
+L9.1: Current trends in CAD tools To understand the current trends in CAD tools.
+
+L7.3- L7.5: Routing
+
+L6.1- L6.2: Partitioning
+L6.3- L6.4: Floor-planning and
+Assignment
+
+ 
+
+6. Evaluation schedule:
+
+we ~
+No.
+
+90 Min Min. As per AGSRD Closed Book
+
+a Hrs 40 % 30/06/2021 (AN) Closed + Open
+Book
+3. Project/Seminar/Lab Regular 29 % Open Book
+Assignments
+
+ee
+Examination
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+7, Chamber consultation hour: Will be declared later
+
+8. Notices: A1l notices related to the course will be put on the EEE Notice board.
+
+Instructor-in-charge
+
+MEL G641
+

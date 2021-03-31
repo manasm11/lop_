@@ -1,0 +1,191 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : CE F420
+Course Name : INTRO TO BRIDGE ENGG
+Instructor-in-charge : MANOJ KUMAR
+
+1. Course Description:
+
+This course deals with the planning and investigations for bridges, understanding the behaviour of different
+type of bridge superstructures, economical span and basis for selecting suitable form of superstructure for
+given location, types of loads considered for highway and railway bridges, design of various culverts and
+bridges, design of pier and abutments, and design aspects of foundations for abutments and piers.
+
+2. Scope and Objective of the C ourse:
+
+Bridges are inseparable part of any communication network as they are the key elements in rail and highway
+network. This course intends to impart skills for planning and analysis & design of different types of highway
+bridge structures at basic as well as at advance level. This course will introduce the various components of
+bridges and different type of bridges to the students. Standard loading standards developed by IRC which
+form a consistent basis for design will be introduced. Moreover, in this course the theory and design of pipe
+culverts, RC slab culverts, arch culverts, composite bridges and T- Beam Bridges will be discussed in details
+while the long span bridges will be introduced. Furthermore, this course will cover the theory and design of
+substructures (piers and abutments), foundations and bearings which is an important part of bridge
+engineering.
+
+3. Text Book (TB):
+
+1. Krishna Raju, N. (2014) “Design of Bridges”, 6 Edition, Oxford & IBH Publishing Co. Pvt. Ltd.,
+New Delhi.
+
+4. Reference Books (RB):
+
+1. Johnson Victor, D. (2010), “Essentials of Bridge Engineering”, 6" Edition, Oxford & IBH Publishing
+Co. Pvt. Ltd., New Delhi.
+
+2. SP 13:2004: Guidelines for Design of Small Bridges and Culverts, Special Publication, Indian Road
+Congress.
+
+3. SP 20:2002: Rural Roads Manual, Special Publication, Indian Road Congress (Chapter 7)
+
+4, SP 64: 2005: Guidelines for the Analysis and Design of Cast-in-place V oided Slab Superstructures,
+Indian Road Congress.
+
+9. IRC: 5-2015, “Standard Specifications and code of Practice for road bridges: section I-General
+features of Design’, Indian Road Congress.
+
+6. IRC: 6-2017, “Standard Specifications and code of Practice for road bridges: section H-Loads and
+Stresses”, Indian Road Congress, 5th revision.
+
+7. IRC: 112-2011, “Code of Practice for Concrete Road bridges, Indian Road Congress
+
+8. IRC: 22-2015, “Standard Specifications and code of Practice for Road Bridges: section VI-Composite
+Construction, Indian Road Congress.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+9, IRC:78-2014, “Standard Specifications and code of Practice for road bridges: section VH-Foundation
+and Substructures”’, Indian Road Congress
+
+10. IRC:83-2002, “Standard Specifications and code of Practice for road bridges: section IX (Part I)Metallic Bearings, (Part II)- Elastomeric Bearings and (Part III)-Pot, Pot-Cum-PTFE, Pin and metallic
+guide Bearings, Indian Road Congress.
+
+ 
+
+5. Course Plan:
+
+Module No. Lecture Session Reference Learning outcomes
+
+L1-5: Components of bridges and various General features of
+definitions, Classification and general IRC 5, RB: Ch. 1- | various Types of
+I: General features of different types of bridges, 2 Bridges and selection
+features of Road | Planning of bridges, Collection of Data, of Bridge Site
+bridges Effective Linear water way, Economical IRC 5. RB: Ch1- Planning of Bridge
+Investigations | span, Afflux, Freeboard, vertical jo
+for Bridges clearance, kerbs
+
+2
+L6-7: Choice of bridge type, Width of IR C5, Selection of bridge
+carriage way, Clearances TB: Ch. 3 Super structure type
+
+Ib L L8-10: Different types of loads and their Loads to be
+
+: Loads on ar ; IRC 6, ; .
+
+Bridges combinations considered for the design TB: Ch3 considered in Design
+
+of Roadway bridges super structures of Highway Bridges
+
+III: General L11: Traffic aspects of highway bridges, Deciding no. of
+Design aesthetics, relative costs of bridge TB: Ch. 5 Lanes and clearances
+considerations components
+
+L12-15: Effective width and Effective Design of Slab
+
+Length of dispersion of vehicular Loads, | TB: Art. 4.4, 5.2- | culverts
+
+IV: Analysis and Analysis of solid slab, voided slab and 9.3, Ch. 6
+
+skew slab culverts
+
+Design of L16-18: Classification of RCC pipes Design of Pipe
+ements design principles of Pipe culverts
+culverts, determination of design forces a Culverts
+L22-25: Components of T-beam bridges, Design of Deck slab
+Analysis of intemal deck slab panels T-beam Bridges
+using Pigeaud’s method, analysis of
+cantilever slabs,
+L26-29: Load distribution among Live Load
+longitudinal girders according to (1) Distribution in the
+Courbon’s method, (ii) Guyon & TB: Art. 4.4, 8.2- | Longitudinal girders
+Massonet method, and (iii) Hendry- 8.6 of T-beam Bridges
+
+Jaegar method, Analysis of longitudinal
+girders and cross beams
+
+VI: Design of L30-31: Fatigue strength of steel, design | TB: Ch. 9, IRC Design of Plate
+Steel Bridges plate girders with lateral bracings 24 girders
+
+VII: Analysis of | L32-35: Design of composite bridges Design of Shear
+composite with various types of shear connectors TB: Ch. 10 Connectors in
+bridges Composite bridges
+
+V: Analysis and
+Design of
+Reinforced
+Concrete Tbeam Bridges
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+VIII: Design of | L35-37: Types of bearings, design of Design of
+: TB: Ch. 16 . .
+bearings Elastomeric pad bearings Elastomeric bearings
+
+IX: Design of L38-40: Design of Pier & Abutment Design of A butments
+Bridge Piers & __| Caps, Forces acting on Piers & TB: Ch. 18 and Piers
+A butments Abutments, design of piers & A butments
+
+ 
+
+   
+ 
+
+X: Bridge L41-42: Types of foundations, scour TB: Ch, 19 Design of Bridge
+Foundations depth, Forces considered on Foundation a Foundations
+
+6. Evaluation Scheme:
+
+. , , Nature of component |
+Evaluation Component | Duration (% ) Date & Time (OB/CB)
+
+Mid-Sem Test-I TBA by AUGSD OB
+Compre. Exam. 11/05 FN OB
+25
+
+clesTewQumeliaeig | = | 5 | = | CO
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class by the Instructor.
+
+8. Notice: Notice if any, concerning this course will be uploaded at Nalanda or communicated through institute
+e-mail.
+
+9, Make up policy: Make-up will be granted only to genuine cases. For cases related to illness, proper
+documentary evidence is essential. Prior permission is necessary if student is out of station on the test date.
+
+Instructor-in-charge
+
+CE F420
+

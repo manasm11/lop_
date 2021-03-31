@@ -1,0 +1,163 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2018-2019
+C ourse Handout Part-II
+Date: 16-01-2021
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further specific details
+
+regarding the course.
+Course No. : CE F428
+Course Title : Earthquake Resistant Design and C onstruction
+
+Instructor-in-charge :GMUTHUKUMAR (M - 10!" HOUR; T, TH — 38” HOUR)
+
+1 Course Description: This course covers the fundamentals of dynamics of structures and design aspects of structures
+Subjected to earthquake. Since the code provisions have been revised in the last few years, stronger emphasis will be
+given to understand the basic premise on which codes were built. Emphasis will also be given on the best construction
+
+practices.
+
+2 (a): Scope of the C ourse:
+The scope of the course is to know the various aspects in the analysis, design and construction to achieve safe and
+
+economical earthquake resistant Reinforced Concrete structures. This course includes, introduction to structural
+dynamics with strong emphasis on design aspects. The concepts of the earthquake resistant design will be discussed in
+detail along with the design examples of different structures (framed structures, shear wall-frame, water tank, Chimney
+
+etc).
+
+2(b): Objectives of the course:
+> To understand the basic concepts of earthquake engineering in general and structural dynamics in particular
+
+[Module - I]
+> To study important methods to solve the equation of dynamic equilibrium [Module - IT]
+
+Vv
+
+To study response analysis methods using mode superposition and response spectrum [ Module-IIT]
+
+Vv
+
+To understand various codal provisions for safe and effective design of RC structures for seismic loading
+[Module-IV |
+
+To understand the various design steps for columns, beams, beam-column joint [Module-V |
+
+To understand intricacies and guidelines for overhead tanks, chimneys and shear walls [Module VI]
+
+To discuss the various structural configurations and its merits & demerits [Module VII]
+
+To highlight the drawbacks of non-engineered construction [Module VIII]
+
+To highlight the good detailing practices in RCC structures [Module IX |
+
+To summarize the building failures and design errors [Module X ]
+
+VV VV V WV
+
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+2. Text Book:
+T1. Duggal, S K (2013) “Earthquake Resistant Design of Structures” Oxford University Press.
+
+3. Reference Books:
+
+RI. Chopra, A.K. (2007) “Dynamics of Structures: Theory and Application to earthquake Engineering” Pearson
+Education, 3” edition.
+
+R2. Saran, S. (2012), “Analysis and design of foundations and retaining structures subjected to seismic loads” I K Lee
+Publishers.
+
+R3. Kramer S.L.(1996) “Geotechnical Earthquake Engineering” Pearson Education.
+
+R4, Agarwal, P. and Shrikhande, M. (2006), “Earthquake Resistant Design of Structures” PHI.
+
+R5. IS: 1893(All parts), 4326, 13827, 13828, 13920, 13938 and other relevant BIS and International, codes
+
+4, Course Plan
+
+No. Lectures
+Introduction to | Importance and scope of the course, Causes of earthquake, | 4
+Earthquake Engineering | seismic waves, magnitude and intensity, Free and forced notes
+& Structural Dynamics Vibration concepts;
+2 Evaluation of equation of | Numerical techniques for evaluation of dynamic response of | 3 T1/Class
+dynamic equilibrium system; direct integration techniques using Central Difference notes
+Method and Newmark beta method;
+3 Concept of Response | Natural frequencies and mode shapes. Damping Matrices. Mode T1/Class
+spectra superposition method; modal combination rules using absolute notes
+sum, SRSS and CQC method. Concept of Response spectra, Use
+of response and design spectra.
+
+4 Concepts and principle of | Basic principles of Earthquake resistant design; Global overview T1/Class
+Earthquake resistant | of earthquake resistant design; Load combination, increase in notes
+design permissible stress, importance factor, response reduction factor,
+seismic weight, Codal provisions of IS: 1893- 2016 (Part-1);
+Equivalent Static Method of Analysis (ESMA); Design
+eccentricity, moment and shear forces due to torsion. Introduction
+to performance based design.
+5 Framed structures and | Design of beams, columns, beam-column joint as per IS 13920- T1/Class
+Beam-Column joints 1916; Strong column and weak beam concept; Concept of notes
+ductility
+EQ resistant design of | Seismic analysis and design aspects of overhead water tank, | 4 T1/Class
+special structures chimney; Shear wall- Its structural advantage as earthquake notes
+resistant element; Design aspects as per IS codes;
+
+7 Influence of structural | Regular and irregular buildings, Codal provisions of IS: 1893- | 5 T1/Class
+2016 (Part-1) for multi-storeyed buildings. Effect of irregularities Pe
+building performance on failure of buildings during past earthquakes.
+
+a Non-engineered EQ resistant guidelines and provisions for construction of non- T1/Class
+
+construction engineered earthen, stone masonry, and brick masonry buildings. notes
+Quality control in EQ resistant construction.
+
+fe maine seem Se be | [i
+softwares modeling of the building systems. Structural Analysis and notes
+response Analysis.
+design errors subsequent impact. notes
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Evaluation Scheme:
+
+Monthly Assignments/C lass quiz p10 Minar COMINIGLE! EY
+. Start date: Feb 1, 2021;
+0 ) }
+pee pf 10% Deadline: A pril 20" 2021.
+Comprehensive Examination
+
+6. Mid Semester Grading [Mid Sem. +3 Assignments/Q uiz] = [35+10 = 45]
+7. Chamber Consultation Hour: Saturday 12 Noon -1 PM
+
+8. Reading assignments will be given as and when necessary [Students are expected to learn any one standard
+
+commercial finite element software in order to carry out end semester project]
+
+9. Notices: Notices will be sent through your BITS mail only.
+
+Instructor-in-charge
+CE F428
+

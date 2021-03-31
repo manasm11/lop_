@@ -1,0 +1,221 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+January 15, 2020
+SECOND SEMESTER 2020-2021
+Course Handout (Part IT)
+
+In addition to the part I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No.: MF F222
+
+Course Title: Casting, Forming and Welding
+Instructor-in-C harge: Radha Raman Mishra
+1. Course Description
+
+Study of quantitative and qualitative analyses of manufacturing processes enables engineers to understand the
+design requirements of an industrial component for possible manufacturing. The present course acquaints
+students with the manufacturing processes such as Casting (pattern, mould and gating system design, casting
+processes, defects and inspection), Forming (mechanics of forming processes; forming operations, friction and
+lubrication, forming defects), Welding (principles of solid-phase welding and liquid phase welding, soldering,
+brazing and adhesive bonding; newer welding processes, welding and additive manufacturing, weld defects
+and inspection), Plastic processing (types of plastics, processing methods, advantages, limitations and
+applications) and Powder metallurgy (introduction, need, powder preparation, compaction, sintering,
+advantages, limitations and applications).
+
+2. Scope and Objective of the C ourse
+
+This course provides theoretical, analytical and practical exposure to the students about the manufacturing
+processes such as casting, forming, welding, and powder metallurgy. Moreover, it enables learners to
+understand process design requirements for possible manufacturing of the industrial components.
+
+3. Text Books
+
+e A.Ghosh and A. K. Mallik, Manufacturing Science, East-West Press Private Limited. (T1)
+e S. Kalpakjian and S.R. Schmid, Manufacturing Processes for Engineering Materials, Pearson
+Publications. (T2)
+
+4, Reference Books
+
+e R. Heine, C. Loper, P. Rosenthal, Principles of Metal Casting, TMH Publications. (R1)
+
+e G.E. Dieter, Mechanical Metallurgy, McGraw Hill. Inc. (R2)
+
+e B.L.Juneja, Fundamentals of Metal forming processes, New age international publishers. (R3)
+e R.S. Parmar, Welding Processes and Technology, Khanna Publishers, New Delhi. (R4)
+
+e Mikell P. Groover, Fundamentals of Modern Manufacturing John Wiley & Sons, Inc. (R5)
+
+HM sera yo
+
+ 
+
+Zs. Save Trees.
+{or Asave the World. innovate Cre
+
+Please do not print unless necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan
+
+No.
+
+To understand the basic
+concepts of casting
+processes, pattern,
+mould and __ gating
+design.
+
+To learn principles of
+different casting
+techniques, = methods,
+defects and inspection
+techniques
+
+To know _ various
+forming processes,
+forming defects
+
+M1 L (1): Fundamentals of the casting T1 and R1
+process
+L (2-3): Pattern, mould and gating system T1 and R1
+design
+L (4-6): Casting processes — principles T2 and R1
+and method
+L (7): Casting defects and inspections T2 and R1
+techniques
+
+M2 L (8): Fundamentals of the forming] T1, R2 andR3
+processes
+L (9-11): Forming operations T1, R2 and R3
+L (12-22): Mechanics of forming] T1, R2andR3
+
+ 
+
+To analyse the
+mechanics of different
+forming processes for
+understanding the effect
+of various parameters,
+friction and lubrication
+
+Processes
+
+L (23): Friction and lubrication T1, R2 and R3
+
+ 
+
+L (24): Forming defects T2, R2 and R3
+M3 L (25): Fundamentals of the welding T1 and R4 e To learn the basics of
+welding processes and
+
+L (26): Principles of solid-phase welding T1 and R4 welding defects
+and liquid phase welding
+e To know various new
+
+L (27): Soldering, brazing and adhesive T1 and R4 welding processes and
+
+bonding additive manufacturing
+L (28-30): Newer welding processes T2 and R4 techniques which are
+
+based on welding
+L (31): Welding and additive| Class Notes principles
+
+manufacturing
+
+L (32): Weld defects and inspection T2 and R4
+M4 L (33): Types of plastics T2 and R5 To understand various
+plastics, processing
+L (34-35): Processing methods of plastics T2 methods and thelr uses
+
+Save Paper. gl
+
+t-\ Save Trees.
+= Asave the World. innovate Srl ST
+Please do not print unless necessary
+
+ 
+
+    
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+L (36): Advantages, “jimitations and] T2 | in and ~ industrial |
+applications of plastics applivations
+L
+
+(37): Fundamentals of Powder T2 and R5 e To understand’ the
+metallurgy: introduction and need basics of powder
+metallurgy process and
+
+L (38) Powder preparation methods T2 and Ro various steps involved
+
+L (39): /% Geih Compecion mel inicing and sintering T2 ae R5 to develop an industrial
+
+component
+L (40): aoe limitations and T2 Baal R5
+applications of powder metallurgy process
+
+6. Lab Practical
+Various experimentations based on casting, metal forming and welding will be demonstrated through
+virtual mode.
+
+ 
+
+ 
+
+7. Evaluation Scheme
+
+Components “nition ey Date Remarks
+| Seven teins |G oe
+Mid Semester Test Semester Test “> e Will be announced by
+AUGSD-AGSRD
+Assignments/Pro) ects/ To be announced in the class
+So
+
+Lab |Labquiziviva | 20 | To be announced in the class
+— at be announced by
+Examination AUGSD-AGSRD
+
+8. Chamber Consultation Hour
+To be announced in the first class.
+
+ 
+
+9. Notices
+All notices regarding the course will be sent through the email/Nalanda/Google classroom.
+
+10. Make-up Policy
+Make-up will be granted ONLY in genuine cases with PRIOR permission as per the institute rules.
+
+Instructor-in-C harge
+MF F222
+
+Save Trees.
+£ ‘Save the World. innovate Sr
+
+Please do not print unless necessary
+
+A Save Pane yo
+
+ 
+

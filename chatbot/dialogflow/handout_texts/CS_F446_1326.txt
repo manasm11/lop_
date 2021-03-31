@@ -1,0 +1,104 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+In addition to part-I (General handout for all courses appended to the timetable) this portion gives
+further specific details regarding the course:
+
+1. a) Course Number: CS F446
+b) Course Title: Data Storage Technologies and Networks
+c) Instructors: J.P. Mishra (IC) (email: jpm)
+
+2. a) Objective: To introduce the student to secondary storage technologies, algorithms
+and protocols for effective access of secondary storage, design and implementation issues
+for high performance storage over the network, and performance analysis as applicable.
+
+3. Text and Reference Books:
+
+(a) Text Book:
+
+T1. Storage Networks: The complete Reference. Robert Spalding TMH.
+
+(b) References:
+
+Ri. Computer Systems — A Programmer’s Perspective. Randall Bryant and David
+O’Hallaron. Pearson Education. 2003.
+
+R2. The Design and Implementation of the 4.4 BSD Operating System. McKusick, Bostic,
+Karels, and Quaterman. 1996
+
+R3. Computer Architecture. Patterson and Hennessey. 3% Edition. 2007
+
+R4. IBM Redbooks on SAN, SAN Design and Storage Virtualization. (Available online)
+AR. Additional references as assigned and made available by the instructors (Papers,
+Standards Documents and Datasheets).
+
+4, Course Plan
+
+No.s Reference
+Storage Models. Large Data Cases; Data Explosion; AR
+
+Data and Storage Characteristics. ee
+Network basics : Collision domain, Broadcast domain ,
+network segmentation using Hub, bridge, Routers,.
+Switching modes, High availability network : STP
+Computer System Architecture — I/O: Buses, Design
+Issues and Typical Configurations.
+Hard Disks — Structure and Geometry, Addressing and
+Access Model. Access Time
+
+SCSI Protocol — Bus Features and State Transitions.
+Commands.
+
+Disk I/O Scheduling: Advanced Techniques.
+Performance Issues, Prefetching/C aching.
+
+ 
+18—19 | Storage Design — Reliability and Redundancy.
+Performance: Data Transfer Rate vs. I/O Rate. Striping
+and Mirroring. Error Detection and Correction
+
+RAID —Levels and Performance. Parity Placement
+
+Destaging.
+Fibre Channel — Layered Architecture, Topologies,
+Classes of Service. T1.Ch 11
+Fibre Channel — Addressing and Routing. High
+Performance Techniques. T1.Ch 11
+
+Storage on the Network. Evolution. SAN vs. NAS
+
+Fiber channel Protocol, encoding technigies , fabric
+services, zoning, trunking, multipathing , concept of
+LUN, ordered set, frames , sequence & exchange
+
+Types of san SAN Switches
+
+SAN Extensions and Emerging Protocols — IP SAN.
+NAS — Structure and Components, NAS Servers and
+Configurations
+
+37-38 | SAN design consideration
+39-40 | Storage Architectures and Solutions. Data Centers — T1. Ch 14.
+Issues, Techniques and Performance. AR
+A, Evaluation Scheme:
+
+Mid SEM Open Book 90 mins 35%
+
+ 
+
+Term Paper Take Home 2 to 3 weeks each 25%
+
+ 
+
+Comprehensive Closed Book 3 Hrs 15/05 FN 40%
+Exam
+
+9. Notices:
+All notices shall be displayed on CSIS notice Board.
+6. Chamber Consultation Hours: TBA
+
+Instructor-in- charge
+

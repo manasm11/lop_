@@ -1,0 +1,360 @@
+Cy
+Loy
+
+" i BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+>= Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-2021
+C ourse Handout (Part II)
+Date: 18/01/2021
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion
+gives further specific details regarding the course.
+
+Course No. : CHE F241
+
+Course Title : Heat Transfer
+
+Instructor-in-C harge : BANASRI ROY
+
+Instructors (Tutorial) SOMAK CHATTERJEE, SRINIVAS APPARI
+
+1. Course Description
+
+Steady state and unsteady state conduction, Fourier’s law, Concepts of resistance to heat transfer and
+the heat transfer coefficient. Heat transfer in Cartesian, cylindrical and spherical coordinate systems,
+Insulation, critical radius, Convective heat transfer in laminar and turbulent boundary layers, Theories
+of heat transfer and analogy between momentum and heat transfer, Heat transfer by natural
+convection, Boiling and condensation, Radiation, Heat exchangers: LMTD, epsilon-NTU method,
+Co-current counter-current and cross flows,
+
+NTU — epsilon method for heat exchangers.
+
+2. Scope & Objectives
+
+After completion of this course the students are expected to:
+
+e Estimate the rate of heat transfer for one dimensional steady state systems involving temperature
+gradient
+
+e Define (both conceptually and mathematically) fundamental mechanisms of three heat transfer
+modes; Conduction, Convection (free and forced both), and radiation.
+
+e Apply these three mechanisms of heat transfer in solving practically relevant chemical
+engineering problems; single phase and with phase change (boiling and condensation)
+
+e Perform basic calculations related to the dependence of heat transfer coefficient on various
+physical and fluid property parameters theoretically and empirically for; free convection, forced
+convection, and boiling & condensation.
+
+e Recognize and explain the construction and working principle of the various types of heat
+exchangers
+
+e Apply the Kern’s method to perform the process design of the new shell and tube heat exchangers
+
+e Apply epsilon- NTU method to carry out the process design of the existing heat exchanger
+
+e Recognize and explain the construction and working principle of the various types of evaporators
+
+3. Prescribed Textbook (T)
+
+Holman, J.P., Bhattacharyya, S. (2011), “Heat Transfer”, 10th Ed., Tata McGraw Hill Education
+Pvt Ltd, New Delhi.
+
+4, Reference Books
+
+R1 :Sinnot, R.K. (2003), “Coulson & Richardson's chemical engineering vol 6”, 3™ edition,
+Butterworth Heinemann, Oxford.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+R2 :Mccabe, W.L., Smith, J.C., Harriott, P. (2005), “Unit operations of chemical engineering”, pi
+edition, McGraw Hill Intemational Edition, Singapore.
+
+9. Course Plan
+Module Topics to be C overed in Reference Learning Outcomes
+Number Lecture (L) Ch./Sec. (students be able:)
+and Title
+1. Basics of | L1. Introduction to conductive, | T:1.1-1.4 | To define basic mechanisms of
+heat transfer | convective and radiative heat heat transfer
+transfer e To develop the generalized
+Development
+2. One L3. Application of Fourier’s law | T:2.1—2.3 |e To apply the Fourier’s law of
+dimensional | in simple systems and thermal heat conduction in plane wall,
+steady state | resistance formulation cylindrical and spherical
+
+conduction | L4. Application of Fourier’s law | T: 2.4 — systems to calculate the heat
+in cylindrical and spherical , loss in each case
+systems and thermal resistance To calculate the critical
+formulation thickness of insulation for
+
+L5. Critical thickness of insulated pipe and spherical
+insulation for cylindrical and tank
+
+spherical systems To analyze the temperature
+L6. Temperature distribution in distribution in systems with
+plane wall and cylindrical heat source and in systems
+system with heat source having fin
+
+T
+2.
+
+L7. Temperature distributionin | T: 2.9 To calculate the heat loss,
+
+a fin and fin efficiency & its 2. efficiency and effectiveness of
+T
+
+effectiveness fin
+
+L8.Thermal contact resistance
+
+unsteady —_/ 1.10. Heat flow in infinite plate | T: 4.1, 4.3 | ¢ lumped heat capacity approach
+
+state and in semi-infinite solid e analytical solution of semi
+conduction [711 7 emperature distribution infinite wall/cylinder & sphere
+
+and heat loss calculation using (Heisler charts)
+
+T
+Heisler charts a“
+4. Principles To develop the relation of
+of on a flat plate e Boundary layer thickness with
+convection Reynolds number for laminar
+Boundary Layer
+
+flow over a flat plate
+
+L14. Thermal boundary layer on | T:5.6 e Heat transfer coefficient with
+coefficient number for laminar/turbulent
+L15. Analogy: fluid friction and |T:5.7—5.8| ‘low overa flat plate and in a
+heat transfer and its application tube
+
+to turbulent heat transfer
+
+: 2.6
+
+; ,
+
+7 :
+
+» 2.1
+3. One L9. Lumped heat capacity T: 4.2 To analyze the temperature
+dimensional | System variation with time using
+
+:4,4
+
+5.4
+
+one)
+
+ 
+ 
+  
+ 
+
+Pilani Campus
+AUGS/ AGSR Division
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+L16 Heat transfer in tube flow T: 5.10laminar and turbulent flow 5.11
+
+9. Empirical | L17. Empirical relations for pipe | T: 6.2
+and and tube flow
+practical 18. Empirical relations for flow | T: 6.3
+relations for | across cylinders and spheres
+forced . L19. Empirical relations for flow | T:6.4
+eee across tube banks
+
+estimate heat transfer coefficient
+L21. Free convection heat
+transfer on a vertical flat plate
+L22. Empirical relations for free
+convection: planes, cylinders
+and spheres
+L23. Empirical relations for free
+convection: enclosed spaces &
+combine free and forced
+convection
+L24. Condensation heat transfer
+phenomena & condensation
+number
+L25. Film condensation inside
+horizontal tubes and introduction
+to boiling heat transfer
+
+6. Natural
+convection
+
+7.Condensat
+ion and
+Boiling
+
+empirical relations 9.6
+
+L27. Introduction, LMTD and T:10.1L28. Overall heat transfer
+coefficient and types of heat 10.5
+exchangers
+
+L29. General design R1:12.5L30. Example Problem: Kern’s | R1:12.5
+8. Heat
+exchangers
+
+Effectiveness NTU method
+heat transfer | radiation properties and ,
+governing laws
+relation amongst them 8.5
+8.7
+
+3
+
+L35. Heat exchange radiation
+network
+
+To estimate the heat transfer
+coefficient for a given system
+using most appropriate empirical
+equations available and compare
+
+To estimate the heat transfer
+coefficient for a given system
+using different appropriate
+empirical equation available and
+compare
+
+To estimate the heat transfer
+coefficient and/or heat loss fora
+given system involving phase
+change using most appropriate
+theoretical/empirical equation
+and compare
+
+To explain construction and
+working principle of various
+types of heat exchangers
+Apply Kern’s' method to
+perform the process design of
+the new shell and tube heat
+exchangers
+
+Apply epsilon- NTU method to
+carry out the process design of
+the existing heat exchanger
+
+e To estimate the rate of steady
+State heat transfer between two
+or more nonblack/black bodies
+e To develop the radiation
+resistance network and analyze
+it using electrical analogy
+
+ 
+ 
+  
+  
+  
+    
+  
+       
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+L36. Radiation shields &
+Radiation network for an
+absorbing and transmitting
+medium
+
+and types of evaporator
+
+LAO. Effect of boiling point R2: 16
+elevation on multiple effect
+operation and vapor
+
+recompression
+
+    
+  
+
+   
+
+10.Evaporat
+ion
+
+   
+  
+
+To explain construction and
+
+working principle of the
+various types of evaporators
+
+e To evaluate the performance of
+
+evaporators in terms of the
+
+capacity, economy and steam
+
+consumption
+
+  
+
+  
+    
+   
+  
+
+ 
+ 
+
+  
+  
+  
+
+6. Evaluation Scheme
+
+Sl | Evaluation Component | Duration | Weightage
+No. (EC) (Marks/ % )
+
+| 1 |Midsemestertest_ | 90 min__| 90/30 — CB /OB
+
+2 | Tutorial tests (TT) 75/25 During pune mara CB/OB
+(5 best out of XX conducted) class. Surprise in
+nature
+
+Assignment (Aspen/Matlab ) pe 15/5%
+
+es
+[4 |Comprcensive examination |720min [12040 /«CBTOB
+
+e Notes: CB= Closed book, OB= Open book
+
+ 
+
+Important:
+
+e Chamber consultation hour: [t will be announced in the class. Prior appointment via email or
+discussion in class is encouraged.
+
+e The notices, if any, concerning the course will be displayed on the Google Classroom/Nalanda
+only.
+
+e Make-up will be granted for genuine cases only. Proper certificate from authenticated doctor,
+say from the BITS Medical Center, must accompany make-up application (only prescription or
+vouchers for medicines will not be sufficient). Prior permission of IC is compulsory. No make-up
+will be granted for the tutorial tests.
+
+Instructor-in- charge
+Heat Transfer | CHE F241
+

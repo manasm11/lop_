@@ -1,0 +1,221 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Timetable) this portion gives further
+specific details regarding the course.
+
+Course Number : MATH F231
+
+Course Title : Number Theory
+Instructor-In-charge :DIVYUM SHARMA
+Tutorial Instructor : DIVYUM SHARMA
+
+1. Course Description: This is a course on number theory, one of the oldest branches of mathematics. The
+course will cover the basics of elementary number theory including some of the fundamental properties of
+integers, greatest common divisors, primes, congruences, Chinese remainder theorem, Fermat’s Little
+theorem and similar results, integer functions, primitive roots, quadratic residues and solutions to certain
+Diophantine equations.
+
+2. Scope and Objective of the Course: This course will introduce some basic mathematical notation and
+methods, covering properties of divisors, prime numbers, integer functions, equations in integers as well as
+some applications. The main objective of this course is to understand the divisibility properties of integers
+and other related topics as a basis for studying more advanced topics in Number Theory, Modem Algebra,
+or the number theoretic RSA cryptography algorithms.
+
+3. Textbook:
+Thomas Koshy: Elementary Number Theory with A pplications, Second Edition, Academic Press,
+
+2007.
+
+4. Reference Books:
+(i) I. Niven, H. S. Zuckerman, H.L. Montgomery: An Introduction to the Theory of Numbers,
+Wiley, 1991.
+
+(ii) W. Stein: Elementary Number Theory: Primes, Congruences, and Secrets, Springer, 2011.
+(iii) Neal Koblitz: A Course in Number Theory and Cryptography, 2% Edition, Springer, 1994.
+
+(iv) Harold Davenport & J. H. Davenport, The Higher Arithmetic: An Introduction to the Theory of
+Numbers, 8th edition, Cambridge University Press, 2008.
+
+5. Lecture Plan:
+
+Save Paper.
+ae. Save Trees.
+Lr \Save the World. innovate Tol a)
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+Module No. Reference | Learning Outcome
+Lecture Sessions
+
+ 
+
+ 
+
+  
+
+ 
+
+1 L1.1 Fundamental properties, the Understanding the fundamental
+summation and product notation, properties of integers
+Mathematical induction, recursion, the
+binomial theorem
+2 L2.1-L2.3 The division algorithm, base b- | 2.1-2.2 Students will be able to check the
+representation correctness of a division problem
+3 L3.1-L3.4 Prime numbers, composite 2, Students will be able to explore
+numbers, Fibonacci numbers, Lucas various important classes of
+numbers and Fermat numbers positive integers
+4 L4.1-L4.2 Greatest common divisor , Students will be able to learn the
+fundamental operations on
+integers
+5 L5.1-L5.2 The Euclidean algorithm. . Students will be able to find the
+greatest common divisor of two
+numbers from prime
+factorizations.
+L6.1-L6.2 The fundamental theorem of , Understanding the factorization of
+arithmetic any positive integer
+7 L7.1-L7.2 Least common multiple, linear A-3. solving linear Diophantine
+Diophantine equations equations
+L8.1-L8.3 Introduction to congruences, 1-4. Understanding the fundamental
+linear congruences, The Pollard Rho properties of congruences and
+factoring method applications
+L9.1-L9.2 Chinese remainder theorem Knowledge about four classical
+
+ 
+
+Save Paper.
+ae. Save Trees.
+for ASave the World. innovate Tol a)
+
+Please Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+L9.3 Wilson’s theorem
+
+L.9.4 Fermat’s Little theorem milestone theorems in number
+theory
+
+L9.5-L9.6 Euler’s theorem
+
+L10.1-L10.4 Euler’s Phi function, The Tau | 8.1- 8.2, Knowledge about multiplicative
+and sigma functions, The Mobius function | 8.5 functions and their properties
+
+L11.1-L11.4 The order of a positive 10.1-10.3 | Students will be able to find the
+integer, Primality tests, primitive roots for order of an integer and primitive
+
+ 
+
+primes roots of a prime
+
+L12.1-L12.2 Quadratic residues, The 11.1-11.4 | Understanding the quadratic
+
+Legendre symbol residues and the famous law of
+a quadratic reciprocity
+
+L12.3-L12.5 Quadratic reciprocity, The
+
+Jacobi symbol
+
+L13.1-L13.2 Finite continued fractions 12.1 Understanding finite continued
+fractions and their use in solving
+linear Diophantine equations
+
+6. Evaluation Scheme:
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Component Duration Weightage Date & time Remarks
+(% )
+Mid Term Exam 90 Min 30 To be announced Open Book
+by AUGSD
+2 Class tests 30 Min each 30 Exact date will be Open Book
+(Quizzes) (15 each) | posted on (Quizzes may be held
+Nalanda a week during lecture/tutorial
+in advance hour)
+Comprehensive 120 min A0 03/05 FN Open Book
+Examination
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A Save Paper.
+{= save the Wortd
+
+Please Do Not Print Unless Necessary
+
+innovate achieve (S27 |
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+7. Chamber consultation hours: To be announced in class.
+8. Notices: All notices in relation to the above course will be put up on NALANDA.
+
+9, Make up Policy: Make-up for the quiz/mid-semester/comprehensive examination will be given to
+genuine cases with prior permission only.
+
+Instructor-In-C harge
+MATH F231
+
+ 
+
+   
+
+Save Paper.
+Save Trees.
+
+*ASave the World. A ee
+Please Do Not Print Unless Necessary
+
+ 
+
+A 7
+f ,
+oi
+" v
+

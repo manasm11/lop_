@@ -1,0 +1,511 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+
+AUGS/AGSR Division
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT (PART II)
+
+ 
+
+Date: 18.1.2021
+
+In addition to Part I (General Handout for all courses appended to the Time Table), this portion
+gives further specific details regarding the course.
+
+Course No. : CHE F414
+Course Title : Transport Phenomena
+Instructor In-charge : BHANU VARDHAN REDDY KUNCHARAM
+
+1. Course Description
+Analogy for momentum, heat and mass transport; shell balance approach for analysis of individual
+and simultaneous momentum, heat and mass transport; hydrodynamic and thermal boundary layers;
+velocity, temperature and concentration distributions in turbulent flow; interphase transport for
+isothermal and non-isothermal systems.
+2. Scope and Objectives
+e The primary objective of the course is to develop an understanding of a unified approach to study
+three closely related topics: fluid dynamics, heat transfer, and mass transfer. Also, analyze the
+analogy in these three transport mechanisms in terms of governing laws.
+e The scope of the course is to represent the process behavior mathematically by applying the
+following transport phenomena fundamentals:
+o Apply the shell balance (mass, momentum and energy) to develop a system of
+partial/ordinary differential equations.
+o Find the required boundary conditions based on the understanding of the physics of the
+system.
+O Solve governing equations to find velocity/concentration/temperature/pressure profile
+using appropriate analytical methods.
+e Develop the equation of continuity and equation of change for mass, momentum and energy.
+e Apply the equation of change to a real physical system and deduce the governing equation by
+eliminating few terms representing phenomena not occurring in the process.
+e Familiarize with computational tools (CFD) available to solve transport phenomena problems.
+3. Prescribed Text Book
+
+T.1 Bird, R. B., Stewart, W. E., & Lightfoot, E. N. (2007). Transport phenomena. John Wiley &
+Sons, 2™ Edition
+4, Reference Books
+
+R.1 Fox and McDonald, ‘Introduction to fluid dynamics,’ John Wiley & Sons, 2008, 7" Ed.
+
+R.2. Holman, J.P., ‘Heat transfer’, McGraw Hill, 1997, 8th edition
+
+R.3. McCabe, W. L., Smith, J. C., & Harriott, P. Unit operations of chemical engineering,
+McGraw-Hill, 7" Edition
+
+ 
+
+Save Paper.
+aS) Save Trees.
+— fg... £ © Save the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+ 
+
+3.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/AGSR Division
+
+5. Course Plan
+
+Module Lecture session Reference | Learning Outcomes
+
+1.
+
+Basics of L1. Introduction to transport phenomena | T1:0.1-0.4 Revise the basics of
+
+Momentum heat, mass and
+momentum transport and
+Transport
+
+their governing laws
+
+L2. Mechanisms of momentum transport | T1: 1.1, 1.7 | Understand the various
+mechanism of
+momentum transport
+
+L3. Generalization of Newton’s law of T1:1.2 Develop the generalized
+viscosity form of Newton’s law of
+viscosity
+Shell Momentum _ | L4. Concepts of shell momentum T1:2.1-2.2 | To find the velocity
+Balances and balance and boundary conditions profile in a laminar flow
+. for various systems
+Velocity L5. Example Problem: Flow through a T1:2.3
+
+Distributions in circular tube
+To apply the shell
+
+Laminar Flow L6. Example Problem: Flow through an | T1:2.4 momentum balance and
+annulus develop the governing
+
+L7. Example Problem: Flow of two T1:2.5 equauon and find out
+, oo, appropriate boundary
+adjacent immiscible fluids conditions
+
+L8. A pplication of shell momentum T1: Ex 2B3
+balance on narrow slit system with and 2B4 To solve the resulting set
+without moving wall of equation with
+
+L9, Application of shell momentum T1: Ex 2B6 Seer a ma Ce
+balance on flow of a film on outside 2B7 con aieions oundary
+circular tube and annular flow with inner
+
+cylinder moving axially
+
+continuity and equation
+
+Change for L11. Equation of Motion and types of T1:3.2-3.5 | of motion and develop
+isothermal systems | derivatives the goveming equation
+L12. Use of Equation of change to solve | T1:3.6 ane tie ea
+flow problems “
+L13. Dimensional analysis and velocity | T1:3.7
+
+profile development in flow near rotating
+sphere and cone and plate viscometer
+
+Equation of L10. Equation of Continuity T1:3.1 To apply the equation of
+
+To solve the resulting set
+of equation with
+appropriate analytical
+
+; Save Paper.
+Zs". Save Trees.
+innovate achieve for \save the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+ 
+
+ 
+ 
+
+4, Boundary layer
+theory and velocity
+distribution in
+turbulent flow
+
+Basic of Energy
+Transport and
+Temperature
+Distributions in
+Solids and
+Laminar Flow
+
+ 
+
+Pilani Campus
+AUGS/AGSR Division
+
+T1: Ex 3.6.5
+and Ex 3.7.1
+
+L16. Introduction to Boundary Layer T1: 4.4
+theory
+L17. Examples applying the Boundary T1; 4.4
+
+Layer theory
+T1: 5.1-5.2
+
+T1: 5.3
+
+L 14. Velocity profile development for
+flow near rotating sphere and creeping
+flow around a sphere
+
+L 15. Demonstration of numerical tools
+(ANSYS, Matlab) to analyze
+momentum flow problems.
+
+L18. Basics of turbulent flow and
+Reynolds decomposition and timesmoothed equation of change for
+incompressible fluids
+
+L19. Time smoothed velocity profile
+near a wall
+
+L22. Temperature distributions in Solids:
+
+L20. Mechanisms of Energy Transport T1: 9.1,9.7,
+9.8,
+
+L21. Concepts of Shell Energy balance | T1: 10.1
+
+and boundary conditions
+
+Heat conduction with electrical heat
+
+source
+L23. Temperature distributions in Solids: | T1: 10.3
+Heat conduction with nuclear heat source
+L24. Temperature distribution in solids | T1: 10.4
+with viscous heat source
+
+L25. Temperature distribution in a T1: 10.7
+cooling fin
+
+L 26. Forced Convection T1: 10.8
+
+L27. Free convection T1: 10.9
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+method and boundary
+conditions and develop
+velocity profile
+
+To familiarize with
+numerical tools to solve
+transport phenomena
+(momentum flow)
+problems.
+
+To understand the
+Boundary Layer theory
+and its application to
+flow problems.
+
+To develop the model
+for the turbulent flow
+system using Reynolds
+decomposition
+phenomena
+
+To apply the time
+smoothed equation of
+change and develop the
+velocity profile for
+turbulent system
+
+To find the temperature
+profile in solid and ina
+
+laminar flow for various
+systems
+
+To apply the shell
+energy balance and
+develop the governing
+equation and find out
+appropriate boundary
+conditions
+
+To solve the resulting set
+of equation with
+appropriate analytical
+method and boundary
+conditions
+
+ 
+
+Save Paper.
+
+WA se Trees.
+
+£ > -ASave the World.
+Pilani Campus
+AUGS/AGSR Division
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+L28. Example Problems: Forced T1: 10B.7
+convection heat transfer in parallel plates
+
+6. Equation of
+change for nonisothermal systems
+
+L29. Development of Energy Equation T1: 11.111.3
+
+L30. Use of Equations of change of T1:11.4.1
+energy to solve steady state problems:
+Laminar flow in circular tube
+
+L31. Use of Equations of change of T1:11.4.2
+energy to solve steady state problems:
+Tangential flow in annulus with viscous
+
+heat generation
+
+L32. Use of Equations of change of T1:11.4.3
+energy to solve steady state problems:
+
+Transpiration cooling
+
+L33. Use of Equations of change of T1: 11.4.5
+energy to solve steady state problems:
+Free convection heat transfer from a
+
+vertical plate
+
+L34, Dimensional analysis of the
+equation of change for non-isothermal
+system
+
+L35. Demonstration of numerical tools
+(ANSYS, Matlab) to analyze Energy
+transport and non-isothermal systems.
+
+TI:
+17.1,17.7,
+17.8,17.9
+
+L37. Shell Mass Balance and Boundary | T1: 18.1
+conditions
+
+L38. Diffusion with a stagnant film T1: 18.2
+
+L39. Diffusion with
+heterogeneous/homogeneous chemical
+reaction
+
+_ Basics of Mass L36. Mechanics of Mass Transport
+
+Transport, Shell
+Balance and
+Equation of
+Change for multicomponent system
+
+L40. Diffusion into a falling liquid film
+and diffusion and chemical reaction
+inside a porous catalyst
+
+ 
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+B
+
+To apply the equation of
+change of energy and
+equation of motion and
+develop the governing
+equation and find out
+appropriate boundary
+conditions
+
+To solve the resulting set
+of equation with
+appropriate analytical
+method and boundary
+conditions and develop
+temperature profile
+
+To familiarize with
+numerical tools to solve
+energy transport
+problems and nonisothermal systems.
+
+To find the
+concentration profile in
+stagnant and in a laminar
+flow for various systems
+
+To apply the shell mass
+balance and develop the
+governing equation and
+find out appropriate
+boundary conditions
+
+To solve the resulting set
+of equation with
+
+ 
+
+Save Paper.
+Save Trees.
+Save the World.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/AGSR Division
+
+L41. Equation of Change for multi T1: 19.1 appropriate analytical
+component system method and boundary
+L42.S f mul T1:19.2 conditions,
+. tl t :19.
+3 aon of cham me Comps To familiarize with
+q g numerical/CFD tools
+
+L 43, Illustration of diffusion and available to solve mass
+reaction in a porous catalyst using transport (diffusion and
+CFD software. reaction In porous
+
+ 
+
+media).
+
+ 
+
+Overall C ourse Learning Outcomes:
+
+1. Identify and develop analogy between momentum, mass and heat transport phenomena.
+
+2. Write shell balances for 1D momentum, heat and mass transport problems,
+
+3. Develop ordinary and partial differential equations from the shell balances and identify
+the boundary conditions to solve the ODEs and PDEs.
+
+4. Develop continuity, equation of change for isothermal and non-isothermal systems for
+momentum, heat and mass transport problems.
+
+9. Apply equation of change to real systems and develop the governing equation by
+eliminating terms that are not necessary or negligible.
+
+6. Use CFD software to solve transport phenomena problems and appreciate the know-how
+behind the CFD.
+
+6. Evaluation Scheme:
+
+Evaluation Duration Weightage Date & Time Remarks
+Component (% )
+
+1. Mid Semester Test 90 min Open Book
+, 5
+
+Semester
+Semester
+Design Project and
+4. Seminar using CFD ae ‘ene Open Book/Take Home
+Semester
+software
+Exam
+
+Closed Book Test:
+
+Assignments (2)
+
+ 
+
+No reference material of any kind will be permitted inside the exam hall.
+
+Save Paper.
+aS) Save Trees.
+— fg... £ © Save the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+
+AUGS/AGSR Division
+Open Book Exam:
+
+ 
+
+Use of any printed/written reference material (books and notebooks) will be permitted
+inside the exam hall. Loose sheets of paper will not be permitted. Computers or electronic
+devices of any kind will not be allowed inside the exam hall. Use of calculators will be
+allowed in all exams. No exchange of any material will be allowed.
+
+7. Chamber C onsultation Hours:
+TBA
+8. Notices:
+
+All announcements, notices will be posted on the Nalanda portal or Google Classroom
+only.
+
+9, Make-up Policy:
+
+Make-up is granted only for genuine cases with valid justification and prior permission of
+the Instructor-in-charge. Certificate from authenticated doctor, say from the Medical
+Center, must accompany make-up application (only prescription or vouchers for medicines
+will not be sufficient). Prior permission from IC, barring emergencies, is mandatory. There
+
+is no makeup for Project, Assignment, and surprise quiz/discussion components.
+10. Note:
+
+Any changes made to the above handout will be notified earlier in the class.
+
+(BHANU VARDHAN REDDY KUNCHARAM)
+
+Instructor-In-C harge
+CHE F414
+
+ 
+
+Save Paper.
+age Save Trees.
+innovate Se lead for Asave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+

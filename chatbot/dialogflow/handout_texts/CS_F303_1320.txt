@@ -1,0 +1,337 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+Date: 18 Jan 2021
+
+In addition to Part-I (General handout for all courses appended to the timetable) this portion gives
+further specific details regarding the course:
+
+COURSE NO. : CS F303
+COURSE TITLE : COMPUTER NETWORKS
+INSTRUCTOR-In-Charge : VIRENDRA SINGH SHEKHAWAT
+E-mail: vsshekhawat@ pilani.bits-pilani.ac.in
+Instructor(s) : Ashutosh Bhatia, Vishal G upta
+E-mail: (ashutosh.bhatia, vishalgupta)@ pilani.bits-pilani.ac.in
+
+Course page: http://nalanda-aws.bits-pilani.ac.in and Microsoft Teams
+
+Scope and Objectives
+
+This course will give you a breakdown of the applications, communications protocols, and network services
+that make a computer network work. We will closely follow the top down approach to computer networking
+as given in the textbook, which will enable you to understand the most visible part i.e. the applications, and
+then seeing, progressively, how each layer is supported by the next layer down. Most of the time our example
+network will be the Internet. Also, a chapter on wireless and mobile networks will be covered as currently
+users access the Internet from offices, from homes, while on move, and from public places wirelessly. There
+will be laboratory sessions to provide practical skills using a network simulator (NS-2), a network protocol
+analyzer tool (Wireshark) and TCP/IP socket programming.
+
+TEXT BOOK
+[T1] James F. Kurose, and Keith W. Ross: Computer Networking: A Top-Down Approach Featuring the
+Internet, Sixth Edition, Pearson Education, India, 2017. (Fifth Edition is also fine)
+
+[T2] L. Peterson and B. Davie, Computer Networks: A Systems Approach, Fifth Edition, Elsevier, 2012
+
+REFERENCE BOOKS
+
+[R1] Andrew S. Tanenbaum & David J. Wetherall: Computer Networks, 5th Edition, Pearson, New Delhi,
+2014.
+
+[R2] Douglas E. Comer: Hands-on Networking, Pearson, New Delhi, 2015.
+
+[R3] W. R. Stevens, UNIX Network Programming, Vol I, Networking APIs: Sockets and XTI, Pearson
+Education, 3“ Edition.
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+ 
+
+Module Topics
+No.
+
+ 
+
+Pilani Campus
+AUGS/AGSR Division
+
+ 
+
+Internet Architecture and C omputer
+Network Primitives: Overview of computer
+network building blocks, Internet architecture,
+protocol layers
+
+Network Applications (A pplication Layer):
+Principles of network applications (e.g.,
+HTTP, FTP, e-mail, P2P, DNS etc.), Creating
+network applications using socket
+programming
+
+End to End Data Transfer (Transport
+Layer): Data transport services:
+Connectionless (UDP), Connection oriented
+(TCP), Reliable data transfer protocol design,
+Congestion control and resource allocation
+principles, TCP congestion control and
+performance measurement
+
+Data Routing and Forwarding (Network
+Layer): IP addressing (IPv4 and IPv6) for
+host and network devices, Network
+segmentation using subnets, IP Routing
+algorithms and protocols to move datagrams
+in the Internet (One to one, One to all, One to
+many)
+
+ 
+
+Access Networks & LANs (Link Layer):
+Hop by Hop data transmission using link layer
+frames, Multiple access links and protocols:
+Point-to-Point and Broadcast link (LANs),
+Node addressing in switched LA Ns
+
+(Ethernet), Link Virtualization (MPLS)
+
+Wireless and Mobile Networks: Wireless
+links and network characteristics, Wi-Fi
+(802.11) networks, Node mobility
+management in wireless networks (Mobile IP)
+
+ 
+
+Save Paper.
+ge. Save Trees.
+£ > &Save the World.
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning Objectives
+
+To know about elements of computer
+network design
+
+To understand the Internet Design
+Philosophy and layered architecture
+
+To understand working of various network
+applications
+
+To learn network application creation
+process using socket programming.
+
+To understand end-to-end data transfer
+mechanism used in the Internet.
+
+To understand congestion control and
+resource allocation principles used in the
+Internet on end-to-end basis
+
+To understand how to assign addresses to
+the communicating nodes in the IP network
+To understand IP addressing mechanism to
+segregate a network into multiple
+subnetworks for scalability
+
+To understand data routing and forwarding
+mechanisms used in the Internet
+
+To understand how data moves from one
+hop to another hop between two end points.
+To learn about local area network design
+and performance issues
+
+To understand different channel access
+protocols
+
+To understand the challenges faced by IP
+network due to mobile communicating
+nodes
+
+To understand wireless network access in
+IP networks.
+
+ 
+
+innovate
+
+achieve |
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/AGSR Division
+
+ 
+
+ 
+
+PLAN OF STUDY
+
+Lect. Topics References
+No.
+
+M 1; Internet Architecture and Computer Network Primitives
+Internet Architecture, Network Hardware: The Network Edge, The Network Core, | T1: 1.1-—1.5
+ISPs and Internet Backbones, Delay, Loss and Throughput in Packet Switched
+Networks, Protocol Layers and their Service Models (TCP/IP)
+
+M2: Network Applications (A pplication Layer)
+
+Principles of Network Applications, Hypertext Transfer Protocol (HTTP): | T1:2.1-2.3
+Persistent vs. Non-persistent connections, Cookies, Web Caching, File Transfer
+Protocol: FTP
+
+6-7 Mail Transfer Protocols (SMTP, POP3, IMAP), HTTP 1.0 and HTTP 2.0, The | T1: 2.4—2.5
+Internet Directory: Domain Name Systems (DNS), DNS services,
+Peer to Peer (P2P) File distribution: BitTorrent, Distributed Hash Tables (DHTs) | T1: 2.6
+M3: End to End Data Transfer (Transport Layer)
+
+in
+o1
+
+Transport layer services: Connection oriented vs. Connectionless, Multiplexing, | T1: 3.1 — 3.4
+Demultiplexing, UDP, Principles of Reliable Data Transfer (Go-Back-N, and
+Selective Repeat).
+
+13-14 | Introduction to Socket Programming; TCP, UDP, Creating simple Client Server | T1: 2.7
+Applications
+
+Connection oriented transport using TCP: TCP connection management, RTT | T1: 3.5 —3.7
+Estimation and Retransmission Timeout, TCP Flow Control. TCP Error Control
+
+and Congestion control algorithms (Slow start, Congestion avoidance, Fast
+
+Recovery, Fast Retransmit), TCP Faimess
+
+M4; Data Routing and Forwarding (Network Layer)
+Virtual Circuits Networks vs. Datagram Networks, Inside a Router, Forwarding | T1: 4.1 —4.4
+
+and Addressing in the Internet (IP). IPv4 Addressing, Internet Control
+Management Protocol (ICMP), IPv6 Addressing
+
+Routing Algorithms: Shortest Path Routing, Flooding, Link State, Distance | T1: 4.5
+Vector, and Hierarchical Routing
+
+—
+ol
+—
+CO
+
+No
+a
+No
+NJ
+
+Routing in the Intermet: Intra-domain routing (RIP, OSPF), Inter-domain routing | T1: 4.6 — 4.7
+(BGP): BGP policy and attributes, Multicast routing algorithms: Source based
+multicast tree vs. group based multicast tree, IP Multicast routing (DVMRP,
+IGMP)
+
+M5: Access Networks & LANs (Link Layer)
+28-29 | Services, Error Detection and Correction Techniques (Parity Checks, Checksums, | T1: 5.1 — 5.2
+CRC).
+
+30-31 | Multiple Access Protocol: TDM, FDM, Slotted ALOHA, Pure ALOHA, CSMA, | T1: 5.3
+
+ 
+
+Save Paper.
+Pe Save Trees.
+’ ASave the World. 4
+
+Please Do Not Print Unless Necessary
+
+ar
+
+g
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/AGSR Division
+
+ 
+
+| | CSMA/CD
+
+Local Area Networks, Link Layer addressing: MAC addresses, Address | T1: 5.4
+Resolution Protocol (ARP), Domain Host Control Protocol (DHCP), Ethernet,
+Link Layer switches, Virtual Local Area Networks (VLANs)
+
+Link Virtualization: Multi-Protocol Label Switching (MPLS)
+
+36-37 | The theoretical basis for data communication (Bandwidth Limited Signals,
+Maximum Data Rate of a Channel), Guided physical media. Line coding | Class Notes
+Schemes: NRZ, RZ, Manchester, Differential Manchester.
+
+M6: Wireless and Mobile Networks
+
+Wireless Links and Network Characteristics, Wi-Fi: 802.11 Wireless LAN | T1: 6.2-—6.4
+Architecture and Protocol, Cellular Internet access: Architecture and Standards.
+
+Mobility management: addressing and routing, Mobile IP T1: 6.5 — 6.6
+
+EVALUATION SCHEME
+
+. | Component Duration | Weightage | Date and Time Nature of
+: component
+
+[Qua Gos) [TEAR
+Taal
+
+ 
+
+[Quiz nosy TRA
+
+A
+A
+A
+
+[eae
+Exam
+
+Notices: All course notices will be displayed on the NALANDA LMS/Microsoft Teams
+
+Make-up Policy: Only in genuine cases, on a case-by-case basis, make-ups shall be allowed. Prior
+permission from I/C is must.
+
+Chamber Consultation Hour: Monday, Wednesday @ 5:00 PM — 6:00 PM
+
+ 
+
+Instructor-In-C harge
+CS F303
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+

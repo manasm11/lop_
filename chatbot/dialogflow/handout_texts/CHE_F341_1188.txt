@@ -1,0 +1,320 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18-Jan-21
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F341
+
+Course Title : Chemical Engineering Laboratory - II
+Instructor-in-C harge : BHANU VARDHAN REDDY KUNCHARAM
+Practical Instructor(s) : Hare Krishna Mohanta, Arkaprovo Ghosal
+
+1. Course Description:
+
+This course aims to help students gain practical experience using laboratory-scale experiments to supplement theory
+courses taught in classroom with major focus on chosen experiments from Kinetics and Reactor Design, Process
+Dynamics and Control and Separation Processes — 2. Students will collect and analyze experimental data using
+theoretical principles related to relevant courses already covered in previous Semesters.
+
+2. Scope and Objective of the Course:
+
+The main objective of this course is to educate students with different aspects of chemical engineering experiments. The
+students will carry out experiments that will expose them to experimental methods and integrate theoretical knowledge
+and concept to practical experience. Students will also learn the operation of some scientific equipment for performing
+experiments.
+
+3. Text Books:
+
+Laboratory Manual for Chemical Engineering Laboratory - II.
+
+4. Reference Books:
+
+1. Seborg, D. E., Edgar, T. F. and Mellichamp, D.A., Doyle, FJ., "Process Dynamics and Control", 3% Ed., John
+Wiley and Sons, 2011.
+
+2. Fogler, H. Scott "Elements of Chemical Reaction Engineering", Pearson Education, Inc., 4" Ed, 2006
+
+3. McCabe W. L., and Smith J. M., & Harriott P., Unit Operations of Chemical Engineering, 7th Ed., McGrawHill International Edition, 2006.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+5. Course Plan:
+
+, Ean Date of the Lab Records wate ohoe
+Experiment Manual ; (during regular
+: Experiment Due Date
+Ref lab)
+. . . 19/01/2021,
+a. Cone Classifier and b. Thickener 3 28/01/2021 04/02/2021 04/02/2021
+Plate and Frame Filter Press 02/02/2021 09/02/2021 09/02/2021
+Rotary Vacuum Filter 04/02/2021 11/02/2021 11/02/2021
+
+a. Basket Centrifuge, b. Froth
+| & Basket Cen 09/02/2021 16/02/2021 18/02/2021
+8 Jaw Crusher, Roll Crusher, c. Ball 11/02/2021 18/02/2021 23/02/2021
+I 1
+
+18/02/2021 29/02/2021 29/02/2021
+
+Isothermal Semi batch reactor p22 23/02/2021 09/03/2021 09/03/2021
+a, Isothermal CSTR Yacket heating) 25/02/2021 | 11/03/2021 11/03/2021
+
+b. Isothermal CSTR (coil heating)
+09/03/2021 16/03/2021 18/03/2021
+
+Pe
+
+sothermal Batch Reactor
+
+~~
+
+a. Isothermal PFR (Straight tube type)
+b. Isothermal PFR (Coiled tube type)
+
+10. | Packed Bed Reactor 16/03/2021 23/03/2021 23/03/2021
+
+11. | Cascade CSTR 18/03/2021 25/03/2021 29/03/2021
+
+12. | Combined flow Reactor 23/03/2021 30/03/2021 30/03/2021
+
+a. RTD studies CSTR, b. RTD studies a
+
+—
+
+—
+O1
+
+3. | PFR, c. RTD studies Packed Bed
+Reactor
+
+29/03/2021 01/04/2021 01/04/2021
+
+14. | First Order and second Order System 30/03/2021 06/04/2021 06/04/2021
+
+Multi Process Trainer (FBC, FFC, and
+Ratio control)
+
+01/04/2021 08/04/2021 08/04/2021
+
+16. | Pressure Control Trainer 06/04/2021 13/04/2021 13/04/2021
+
+17. | Flow Control Trainer 08/04/2021
+
+Control Valve Characteristics we 13/04/2021
+
+15/04/2021 15/04/2021
+
+2
+3
+4
+o
+7
+14
+15
+16
+17
+18
+
+18. 20/04/2021 20/04/2021
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+EC Marks Nature of
+Evaluation C omponent | Duration | Marks Weightage Date & Time Component
+
+Continuous Evaluation
+
+Exp. Report
+Viseaheatinn Cait al ue oC 7 30% Regular Lab hours Open Book
+Thinking, Discussion)
+Quiz (Best 15 out of 18) ls 7 Regular Lab hours Closed Book
+
+Subtotal of continuous evaluation | 60%
+
+ 
+
+Mid-Sem Lm End- = |
+
+To be During pre-announced
+3. Mid-Sem Viva 10% dates/slots & during Closed Book
+announced
+regular online lab hours
+
+   
+
+Viva would be conducted Closed Book
+
+& Open
+Book
+
+End Semester To be
+Examination announced
+
+during pre-announced
+dates/lots & during
+regular online lab hours
+
+30%
+
+ 
+
+7. Software & Technology:
+
+e Students are expected to acquire a computer with desired hardware, software capable of handling
+online classes. High-speed internet may be required for streaming the lab sessions.
+
+e Online lab sessions will be conducted via Google Meet, and all relevant material will be posted on
+Google Classroom.
+
+9. Evaluative Components and Associated Policies:
+
+9.1. Lab Report Submission:
+
+e A group of 5-6 students are formed at the beginning of the semester.
+
+e All members of each group will unanimously identify a group leader who would be responsible for
+communication. Please note that the group leader is just for facilitation purpose and by no means
+should be considered authoritative. All group members shall be deemed equal.
+
+e On the day of conduction of the online lab experiment, a datasheet with experimental results will be
+sent to the identified group leader. The identified group leader will be responsible for coordinating
+among group members for completion of lab records.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+e Lab record includes sample calculation and calculation table (1 mark), graph(s) and data
+visualization (1 mark), discussion and critical data analysis (2 marks), final conclusion (1 mark). All
+group members will participate in this activity and contribute in the lab record writing.
+
+e Itis expected that you will submit your lab report as a single pdf file. Please make sure you write
+names and IDs of all group members on top of each page with the group leader's name highlighted.
+Y ou are free to use any platforms/software for report generation, data analysis and visualization. Use
+of technology is encouraged. Handwritten and scanned reports will not be accepted.
+
+e The lab report will be due one week after completing the experiment (all dates are marked out in the
+schedule). The designated group leader will submit the report online in the google classroom. It is the
+responsibility of all group members to ensure the report is completed and submitted within the
+deadline.
+Late Submission Policy: As highlighted in the schedule, the lab records will be due at 1:59 pm a week
+after the experiment's conduction. If you miss this deadline, you can still submit your lab record with
+the procedure described above; however, in this case, there will be a 50% penalty. This late submission
+policy is applicable for only one more week following the original deadline. However, if your group
+failed to submit a lab report even after two weeks of original conduction of the experiment, your group
+will be awarded zero points for that experiment. Each group member's collective responsibility is to
+make sure their group leader submits the lab report on time. No exceptions will be entertained in this
+regard. The decision of the I/C will be final in all such cases.
+
+Plagiarism: As highlighted, you are requested to submit a professional quality digital lab report in a
+
+single pdf file. It is expected that each group will submit their original lab report. Plagiarism might be
+
+construed as academic dishonesty, and your submitted lab reports might be subjected through
+plagiarism detection software(s). W hile we understand there might be a few technical phrases common
+in all the lab reports, there will not be any penalty for similarity up to 20%. However, 50% marks
+deduction for both the groups whose reports are 20%-40% similar. If found more than 40% similarity,
+zero marks will be awarded for both the groups. The decision of the I/C will be final in all such cases.
+
+e Since itis a kind of pseudo-flipped mode of teaching/learning, and mainly since all the lab procedures
+will be made available, there will not be any lab makeup. If students miss a particular lab-session, they
+are encouraged to go through the recorded lab video in their own time and catch-up with their group
+members to complete lab reports. They may also consult instructor(s) in the online consultation hours
+announced or during the next regular lab session.
+
+9.2. Quizzes:
+
+@ Quizzes are part of the continuous evaluation process and designed as per the latest guidelines from
+
+AUGSD.
+
+e Total 18 quizzes of 6 marks each will be conducted during the regular lab hours as per dates announced
+in the schedule. These quizzes will be conducted online.
+Out of 18, the best 15 will be taken for final evaluation.
+Quizzes are timed and closed book. Each student will attempt the quiz individually without consulting
+his/her group or classmates. Any cheating/coordination/unfair means will be reported to AUGSD.
+Makeup is only provided for genuine cases. Prior permission has to be taken from the I/C. The decision
+of the I/C will be final in all such cases.
+
+9.3. Viva-voce:
+e Vivais an integral part of this course and will be conducted during the mid-semester (30 marks) and
+end-semester (45 marks).
+e Mid-semester viva will be based on experiments 1 to 8 while end-semester viva will be based on
+experiments 9 to 18.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+e Viva will be conducted online via Google Meet with your group members which you will have selected
+as described in 9.1.
+
+e Viva is a closed book, and you will be tested on the clarity of concepts related to the experiments
+conducted, background theory, experimental procedure, calculations, data analysis and applications.
+
+e A panel of all instructors will take the viva and give individual marks. Average of those marks would
+then be taken and communicated to you. We will not be able to give you individual break-down marks.
+
+e Only genuine requests for viva makeup backed by paperwork/evidence will be entertained. Prior email
+permission would be necessary. The decision of the I/C will be final in all such cases.
+
+9.4. Comprehensive Examination:
+e There would be a written comprehensive examination for 45 marks.
+e The syllabus for comprehensive examination will be all experiments.
+
+7. Chamber Consultation Hour:
+To be announced
+
+8. Notices:
+
+All notices will be posted in Google Classroom. Google Class room is available for BITS email address only,
+no access is provided for other emails.
+
+9. Makeup Policy:
+
+Makeup for selected evaluation components will be granted for genuine cases only. Except for an emergency,
+for all other cases, prior permission of the I/C is mandatory. The decision of the I/C will be final in all the
+cases.
+
+10. Note (if any):
+Any change(s) in the course handout will be communicated in the regular class or through email.
+
+BHANU VARDHAN REDDY KUNCHARAM
+
+Instructor-in-charge
+Course No. CHE 341
+

@@ -1,0 +1,242 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F324
+
+Course Title : Numerical A nalysis
+Instructor-in-C harge : SHIBANI KHANRA JHA
+Instructor(s) :NA
+
+Tutorial/Practical Instructors: NA
+
+1. Course Description: It is needless to say that the present digital world has forced students to use commercial
+software that involve numerical methods, quite often. The proper and justified use of these programs is only
+possible if knowledge of the basic theory underlying the methods have been sufficiently developed among the
+students. This course is framed to provide a sufficient background to numerical methods required to solve
+engineering problems, especially intended to focus on various civil engineering and natural problems.
+
+2. Scope and Objective of the Course: We know that various scientific phenomena whether natural or manmade, can be modeled using mathematical expressions which may be of simple algebra to complex algebra, simple
+to complex ODE’s, simple to complex PDE’s etc. To represent these phenomena, one need to solve these
+mathematical models by analytical, graphical, or approximate methods. Numerical Analysis is the approach that
+deals with the approximate solution methodologies of various mathematical models. This course introduces the core
+concepts of error estimation and accuracy of numerical solutions. It then discuss the methods of solution of linear
+and non-linear equations. Both direct and iterative solution methods are discussed. Then ordinary differential
+equations frequently used in engineering applications are introduced and its various solution methodologies are
+discussed. Next the numerical solutions of partial differential equations which are again quite common forms of
+mathematical models for many natural problems, are discussed, along with a brief review of different category of
+partial differential equations and well known analytical techniques for the solutions of some of the simple models
+and finally discussing the necessity of numerical methods. Finite difference operators are introduced and used to
+solve typical initial and boundary value problems of engineering interests.
+
+3. Text Books:
+TB1. Numerical Methods for Engineers by Steven C. Chapra , Raymond P. Canale, Tata McGraw-Hill Edition, 6th
+
+Edition, 2012.
+
+4, Reference Books:
+
+RB1. Applied Numerical Analysis by Curtis F. Gerald, Patrick O. Wheatley, Pearson Education, 7th
+Edition, 2003.
+
+RB2. Numerical Methods for Engineers and scientists by J. D. Hoffman, 2nd Edition. CRC 2010.
+
+RB3. Introduction to Numerical Analysis 3rd Edition, Devi Prasad, Narosa 2006.
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+   
+
+1-2 Introduction, Kinds of errors in CHAP 1,
+numerical procedures, measurement
+of efficiency of numerical
+
+procedures, order of accuracy
+
+CHAP 5,
+6,8 TB1
+
+Bisection, secant, method of false —
+position,
+
+Newton’s method, Fixed point
+iteration method, Order of
+convergence, multiple roots.
+
+16-21
+22-26
+
+27- 32
+
+3-7
+8-1 CHAP 9,
+
+10, 11, 12
+TB1
+
+The Elimination method, Gaussian
+Elimination, Other direct methods,
+Pathology in linear systems-singular
+matrices, Determinants and matrix
+inversions, Tri-diagonal systems,
+Thomas algorithm, Norms, condition
+numbers and errors in computed
+solutions, Jacobi’s method, Gauss
+Seidel method, Newton’s methods,
+fixed-point methods for non-linear
+systems
+
+CHAP 17,
+18 TB1
+
+Least square regression, Existence
+and Uniqueness of interpolating
+polynomial, Lagrange polynomials,
+divided
+
+differences, evenly space points,
+error of
+
+interpolation
+
+CHAP 21,
+22, 23, 24
+TB1
+
+CHAP 25,
+26 TB1
+
+33 - 36 General method for BVP, Eigenvalue | CHAP 27,
+problems, Finite difference method,
+
+2
+
+Derivatives from difference table,
+Higher order derivatives, NewtonCotes Integration formulas, The
+Trapezoidal rule - a composite
+formula, Simpsons rule, Gaussian
+Quadrature, Richardson
+Extrapolation
+
+Taylor series method, Euler and
+Modified Euler’s method, RungeKutta (RK) Methods, Multistep
+methods: Milne’s method, AdamsMoulton method, Predictor —
+
+ 
+
+corrector formulas, System of
+equations and higher order equations,
+stiffness.
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+To understand the significance of
+numerical methods in context of
+solving engineering problems
+
+To study the solution methodologies of
+non-linear equations and system of
+non-linear equations
+
+To solve a linear system using
+matrix and iterative methods to solve a
+set of algebraic equation
+
+To understand regression and an
+interpolating polynomial and its
+efficient evaluation?
+
+To compute numerical derivatives and
+integration using discrete data points
+and to know how to integrate functions
+
+Ordinary Differential Equation: To
+understand initial value problems and
+computation of numerical solutions of
+initial value problems
+
+Ordinary Differential Equation: To
+study boundary value problems (BV P)
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Derivatives, boundary conditions. Eigenvalue problems
+
+Types of PDEs: Elliptic, Parabolic, | CHAP 29, | To understand different types of PDEs
+Hyperbolic, physical significance of | 30,32 TB1 | as well its significance in engineering
+PDEs, Types of boundary conditions and scientific problems, Development
+and its physical significance, Finite of Finite Difference Equations for
+Difference formulation: Laplace these PDEs
+
+equation, Poisson's equation,
+
+Diffusion equation, Advection
+Diffusion equation, Explicit
+
+methods, A Simple Implicit Method,
+
+The Crank-Nicolson Method, Two
+
+dimension problems frequently used
+
+in engineering applications
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% (Close Book/ O pen Book)
+
+)
+Mid-Semester Test 30 <TEST 1> Close and Open
+o
+29
+
+Comprehensive 3h <TEST C> Close and Open
+
+Examination
+
+Project | pen
+
+7. Chamber C onsultation Hour: To be announced
+
+8. Notices: All notices concerning the course will be displayed either on Nalanda webpage or will be
+announced in class on regular basis.
+
+ 
+
+9, Make-up Policy:
+1. Make-up will be granted only on genuine reasons. However, prior permission of IC is must.
+2. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. CE F324
+

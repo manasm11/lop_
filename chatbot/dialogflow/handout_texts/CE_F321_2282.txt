@@ -1,0 +1,188 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F321
+
+Course Title : Engineering Hydrology
+Instructor-in-C harge : RALLAPALLI SRINIVAS
+Instructor(s) : NA
+
+Tutorial/Practical Instructors: Rallapalli Srinivas, Akshay Kumar
+
+1. Course Description:
+
+This course equips students with key concepts and methods in physical and engineering hydrology along with
+a background in basic hydrological techniques used by professional engineers Course contains total nine
+modules with 40 lecture sessions. In order give an exposure of field application, some virtual field trips will
+be organized using videos. The students crediting this course will be able to know different estimation
+techniques of hydrological parameters, data analysis in engineering hydrology, frequency analysis of
+hydrological parameters, regression analysis, introductory basics of groundwater and surface water hydrology.
+
+2. Scope and Objective of the C ourse:
+
+The course serves as a foundation to the field of engineering hydrology. The course will acquaint students in
+fundamentals such as the hydrological cycle, catchment and losses, hydrographs and hyetographs, rainfallrunoff analysis, flood frequency analysis, determination of design rainfall intensity and hyetographs, peak
+flow estimation, groundwater process and modelling, reservoir and river flood routing, and introduction to
+dams and hydro-economics. The primary objective of the course is to enable students to relate to real life
+problems and prepare them to scientifically address them using hydrologic models and decision support tools.
+
+3. Textbooks:
+
+TB1. Reddy, Dr.P.Jaya Rami, A Textbook of Hydrology, University Science Press, New Delhi,
+Third Edition, 2011.
+
+TB2. Modi, Dr. P.N., Irrigation Water Resources and Water Power Engineering, Standard Book
+House, Rajsons Publications Pvt. Ltd., Eighth Edition, 2012.
+
+4, Reference Books:
+
+RB1. Mays, Larry W, Water Resource Engineering, WSE, Wiley India, Second Edition, 2010.
+
+RB2. Patra, K.C., Hydrology and Water Resources Engineering, Narosa Publishing House, New
+Delhi, Second Edition, 2008.
+
+RB3. Subramanya, K., Engineering Hydrology, McGraw Hill Education (India) Private Limited,
+New Delhi, Fourth Edition, 2013.
+
+5. Course Plan:
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+L1-3 CH-1 (TB1), History of Hydrology,
+Introduction CH-1 TP 2), Water Resources
+CH-2 (RB1) Assessment, W ater
+Resources Planning,
+
+Issues in Systems
+Approach, Hydrologic
+Cycle, Various
+applications of
+Hydrology, Irrigation
+L4-9 CH- 5, 7,8 Types of precipitation,
+Precipitation and Losses (TB 1) Measurement of
+Rainfall, Network
+Design, Analysis of
+Rainfall data, Depth
+area duration curves,
+Different forms of losses
+
+L10 Virtual field trip-1 BA Video lecture and
+discussion
+
+L11-13 CH-7 (TB1) Methods of Irrigation,
+
+Irrigation Methods, Water requirement | CH-2, 4 TP 2) | Water requirement of
+
+of crops and estimation methods crops and estimation
+methods Conventional
+methods for water
+requirement of crops,
+various ET estimation
+methods.
+
+L14-17 CH-9 (TB1), Basic Definitions,
+
+Ground Water Hydrology CH-6 (TB2), confined and unconfined
+
+CH-6 (RB1) aquifers, Steady and
+
+unsteady W ell
+Hydraulics
+
+L18-24 CH-4, 10,11, | Types of catchment,
+Runoff and Hydrograph analysis 12 (TB1) Factors affecting runoff,
+
+ 
+
+  
+
+CH-5 (TB2) Stage discharge
+
+relationships, Unit
+Hydrograph, Flood
+Hydrograph, SHydrograph, [UH
+hydrograph etc.
+
+L25-27 CH-13 (TB1), | Various aspects of
+
+Flood Routing CH-9 (RB1) Reservoir and Stream
+flow routing; routing
+methods
+
+L28-30 CH- 15(TB1) | Erosion, Sediment
+Sediment Transport Transport, Sediment
+2
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ee, ee _
+Sedimentation
+L31-34 CH-3 (TB1) Statistical parameters,
+Probability and Statistics in CH-10(RB1) | Probability distribution
+Hydrology functions, Frequency
+analysis, Regression
+Analysis and correlation
+
+L35 (Virtual field trip-2 BA Video lecture and
+discussion
+
+L38-40 CH-8, 9 (TB2) | Various types of dams,
+
+Introduction to dams, Design of advantages of dams,
+
+simple dams, spillways, diversion simple designs,
+
+headworks spillways, diversion
+headworks
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid- Semester Test TBA (March 1st — 6th) Close
+
+Comprehensive 3h 45 15 May 2021 Close and Open
+Examination
+
+Tutorials/Assignments|  - | 2 | —- | Close and Open
+
+7. Chamber C onsultation Hour: M W F 3:00 PM — 5:00 PM
+
+ 
+
+8. Notices: All notices concerning the course will be displayed either on Nalanda webpage or will be
+announced in class on regular basis.
+
+9, Make-up Policy:
+
+1. Make-up will be granted only on genuine reasons. However, prior permission of IC is must.
+2. For medical cases, a certificate from the concerned physician of the Medical Centre must be produced.
+
+Instructor-in-charge
+Course No. CE F321
+

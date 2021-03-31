@@ -1,0 +1,240 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+Second SEMESTER 2020-21
+
+Course Handout (Part — II)
+Date: 08/01/2021
+In addition to Part | (General Handout for all courses appended to the time-table) this portion gives
+
+further specific details regarding the course.
+
+Course No. : BITS F415
+Course Title : Introduction to MEMS
+Instructor-in-charge : SACHIN U BELGAMWAR
+
+1. Scope and Objective of the Course:
+
+The course introduces the basic concepts in MEMS (Micro Electromechanical Systems) with a view to
+address a class of students from science and engineering disciplines. The discussion on topics like
+MEMS design, Microfabrication, Microfluidics, Microrobotics and Microsensors have been structured
+in the course plan. The objective of the course is to equip the students from various aspects and with
+basic knowledge of the area of MEMS.
+
+2. Text Book:
+T1. Tai-Ran Hsu, MEMS and Micro systems Design and Manufacture, Tata McGraw Hill, 2002.
+T2. GK Anantha Suresh, et. al, Micro and Smart Systems, Wiley-India, 2010.
+
+3. Reference Books:
+(a) Nitaigour P. Mahalik, WEMS, Tata McGraw Hill, 2007
+(b) Marc Madou, Fundamentals of Microfabrication, CRC Press, 2002.
+(c) Chang Liu, Foundation of MEMS, Pearson Education Inc., NJ, 2006
+
+(d) Nadim Maluf , An Introduction to Microelectromechanical Systems Engineering , Artech
+House, 2000.
+
+(e) Stephen D. Senturia, Microsystem Design , Kluwer Academic Publishers, 2001
+
+ 
+
+innovate
+
+ 
+
+A Save Paper.
+As Save Trees.
+£ >= Save the World.
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+No. of Lectures
+Chap. Sec.
+
+a
+and Microsystems (a)
+(2) Working principles of | 4 | Ch. 2(T1), Ref | Introduction to different MEMS sensors
+
+(3) Engg. Science for
+
+micro-system design and MEMS like plasma physics, doping,
+fabrication diffusion, electrochemistry etc
+
+1. Need of fluid mechanics and basics of
+fluid mechanics.
+
+2. Basic equation in continuum fluid
+dynamics.
+
+3. Laminar fluid flow in circular conduits
+4. |Incompressible fluid flow in micro
+conduits
+
+5. Over view of heat conduction in solid
+
+(6) Scaling Laws i 1.Introduction to scaling
+Miniaturization 2.Effect Scaling in Nature
+3.Scaling in geometry
+4.Scaling in rigid body dynamics
+5.Scaling in Electrostatic Forces
+6.Scaling in Electromagnetic Forces
+7.Scaling in Electricity
+8.Scaling in Fluid mechanics
+9.Scaling in Heat transfer
+
+ 
+
+ 
+
+A Save Paper.
+As Save Trees.
+£ >= Save the World.
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+ 
+
+(7) Materials for MEMS | 3 | Ch. 7(T1), Ref.
+and Microsystems (a)(b)
+
+1. Introduction and Objectives
+
+2. Substrate and wafer
+
+3. Active substrate material
+
+4, Silicon as a substrate material
+
+5. Methods for fabrication of Silicon
+water
+
+6. Silicon compounds
+
+7. Silicon Dioxide
+
+8. Silicon Carbide
+
+9. Silicon nitride
+
+10. Polycrystalline Silicon
+
+11. Silicon Piezo-resistors
+
+12. Gallium A rsenide
+
+13. Quartz
+
+14. Piezoelectric Crystal
+
+15. Polymers
+
+(8) Micro-system | 5 | Ch. 8(T1), Ref. | Understand the basic microfabrication.
+fabrication Processes (a) (b) 1.Photolithography
+2.lon Implantation
+3.Diffusion
+4.Oxidation
+5.Thermal Oxidation
+6.Thermal Oxidation Rates
+7.Oxide thickness by colour
+8.Chemical Vapour Deposition
+9.Physical Vapour Deposition
+10.Deposition by Epitaxy
+11.Etching
+
+Ch. 9(T1), Ref. | 1.Classification of Micro
+(a) (b) manufacturing process
+2.Comparison between Micro
+Manufacturing Process
+
+3.Bulk Micro-manufacturing process
+4 Surface Micro-manufacturing
+5.The LIGA Process
+6.Summary of Micro-manufacturing
+
+(10) MEMS Packaging Ch. 11 | Understand different
+(T1), Ch. 8(T2) | packaging techniques.
+
+(11) Project | 5
+
+work/presentation
+
+(9) Micro-manufacturing
+
+ 
+
+ 
+
+ 
+
+>\ Save Trees.
+
+ 
+
+| Agave the World. innovate
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+Weightage
+Biss Date & Time
+
+Open Book
+
+Continuous
+Project/Term
+throughout the
+Paper&Seminar&
+semester
+| Sreetensn | Open Book
+
+6. Chamber Consultation Hour: To be announced in the class.
+
+ 
+
+7. Notices: ME Notice Boards.
+
+8. Make-up: Make-up will be given on genuine grounds only. Prior application should be
+
+made for seeking the make-up examination.
+
+Instructor-In-Charge
+Dr. Sachin U Belgamwar
+
+ 
+
+Save Paper. am
+; >), Save Trees. |
+te ave the World. te ee
+Please Do Not Print Unless Necessary
+
+ 
+

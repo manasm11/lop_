@@ -1,0 +1,169 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 04.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further specific
+details regarding the course.
+
+Course No : EEE/INSTR F342
+
+Course Title : Power Electronics
+
+Instructor-in-C harge : Rajneesh Kumar
+
+Instructor (s) : Ashish Patel, Dheerendra Singh, H D Mathur, Aditya R Gautam
+
+1. Course Description: This course covers basic power electronic circuits which includes DC-DC converters, Rectifiers
+and Inverters. Steady state analysis of these converters is discussed in details with emphasis on proper selection of
+devices and magnetic components. Mathematical modeling of converter transfer function using various approaches is
+also included for controller design of these converters. Experiments are designed to understand the working of these
+power electronic circuits supported with MA TLAB/SIMULINK based simulation platform.
+
+2. Scope and Objective of the C ourse:
+
+a. Understand the main elements of power electronic circuits
+
+b. Steady-state analysis of basic power electronic circuits like DC-DC converters, rectifiers and inverters
+c. Development of converter transfer function to locate pol-zero for controller design
+
+d. Experimental validation of these power electronic circuits
+
+e. Development of one lab prototype power electronic circuit
+
+3. Text Books:
+T1: N. Mohan, T. Undeland, and W. Robbins, Power Electronics: Converters, Applications, and Design, 3" edit. John
+Wiley & Sons, 2003
+
+T2: Robert W. Erickson, Dragan Maksimovic, Fundamental Power Electronics: 2° edit. Springer International, 2001
+4, Reference Books:
+Ri: J. Kassakian, M. Schlecht, and G. Verghese, Principles of power electronics, 3™ edit. Pearson, 2012
+
+R2: P. Krein, Elements of power electronics, 2™ edit. Oxford university press, 2011
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan
+
+Module No. Lecture
+
+Session
+1. Elements of Power LO-L3
+Electronics
+
+Reference
+)
+
+T2 (4.1-3);
+R1(24.1-3)
+
+ 
+
+2. DC-DC converters:
+Buck, Boost, Buck-boost,
+Flyback, SEPIC, Cuk and
+
+other derived converters
+
+5. Modeling and Control
+
+of power converters
+
+T2(7.1-5,
+8.2-3, 9.1-5)
+
+L29-L35
+
+L36-L40
+
+6. Practical converter
+
+design considerations and
+
+R1(24.1-3)
+T2(14.1-2,
+15.1-2), class
+
+notes
+
+advanced converter
+
+design
+
+6. Evaluation Scheme:
+
+(% )
+
+Tatonasenizms |
+= |
+assignments
+7. Chamber C onsultation Hour: Will be announced
+8. Notices: EEE notice board
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning outcomes
+
+SPST switch realization using semiconductor devices
+(MOSFET, Diode and IGBT) for various converter
+topologies. Analysis of switching losses.
+
+Steady state converter analysis in CCM and DCM with
+
+loss analysis. Converter component design for a given
+
+  
+
+voltage and current ripple
+
+Analysis of converter transfer function using various
+approaches. Effect of negative feedback on the network
+transfer function
+
+Design of filter and coupled inductor; Gate driver,
+Snubber circuits and signal generators. Soft switching
+
+converters
+
+Nature of component
+(Close Book/ Open Book)
+Close book/open book
+Close book/ open book
+During tutorial hours Close book/ open book
+25% During Lab sessions Open book/ open book
+
+9, Make-up Policy: Will be given ONLY for genuine cases with prior permission
+
+2
+ST
+(9)
+
+A BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+= Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+10. Note (if any): Laboratory experiment details will be provided in the Lab during practical sessions.
+
+Instructor-in-charge
+EEE/INSTR F342
+

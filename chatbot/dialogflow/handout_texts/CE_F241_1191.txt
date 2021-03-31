@@ -1,0 +1,156 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part - Il
+Date: 18/01/2021
+
+In addition to part | (General Handout for all course appended to the time table) this portion gives further
+Specific details regarding the course.
+
+Course No. : CE F241
+
+Course Title : ANALYSIS OF STRUCTURES
+Instructor-in-charge : ANSHUMAN
+
+Instructor S N Patel
+
+Tutorial Instructor Anshuman, S N Patel
+
+1, COURSE DESCRIPTION:
+
+Bending moment and Shear force Diagrams for Determinate beams and Frames and Three hinged
+arches, analysis of cables; member forces and deflection in determinate trusses; determination of static
+and kinematic indeterminacy of structures; work and energy principles; analysis of fixed beams,
+continuous beams, indeterminate frames and indeterminate trusses; slope deflection and moment
+distribution methods, Maxwell's reciprocal theorems, rolling loads and influence lines, Muller Breslau’s
+principles, two hinged and fixed arches, analysis of multistory frames, introduction to stiffness and
+flexibility methods.
+
+2. Scope Description of the Course:
+
+The Prime responsibility of a structural engineer is to ensure that structures transmit the service loads
+Safely and efficiently to its foundation. In performing this primary function, in the structure internal forces
+(1.e. bending moment and shear force in beams and, axial force and bending moment in columns) gets
+develop along with the displacements. For the serviceability requirement of the structure the
+displacements must be within limit. The objective of the structural analysis is to determine these internal
+forces and corresponding displacement of the structure.
+
+3. Text Book:
+Hibbler, R. C., Structural Analysis, Sixth Edition, Pearson Education, New Delhi, 2008.
+Refrence Book:
+Kenneth M. Leet, Fundamentals of Structural Analysis, 2/e, Tata Mc Hill, New Delhi.
+
+4. Course Plan:
+
+es | Learning Objective hac. | Topics to be covered cen
+
+Classification of structures, types of loads load
+combinations, idealization of structures, principle
+Basic Concepts of Structural of superposition, Equations of equilibrium,
+analysis Stability, degree of static and _ kinematic
+indeterminacy of beams and frames, stability of
+structures, application of equations of equilibrium
+Analysis of Statically Determinate Structures:
+Analysis of statically Internal forces, sign convention, free body
+
+Determinate Beams and diagram, Bending moment and Shear force
+Frames diagrams for determinate beams and Frames.
+
+Analysis of Statically Types of trusses, assumptions for design,
+
+3. . 4 Classification of coplanar trusses, external and
+Determinate Trusses ; 
+internal stability of trusses, analysis of 2-D trusses
+
+ 
+using method of joints and method of sections,
+zero force members, analysis of compound
+trusses, analysis of complex trusses
+
+Influences line for determinate beams and
+trusses, Maximum and absolute bending moment
+and shear force due to series of moving loads
+
+ae
+Deflection of beams using (i) elastic beam theory,
+Determination of (ii) double integration, (ill) Moment-area, (iv)
+5. | Deflections and Slopes in 5 conjugate beam, (v) energy principals, principle of
+a
+
+Influence lines for Statically
+
+Determinate Structures
+
+Beams and Trusses virtual work, Castigliano’s theorem, determination
+ca u of deflection of trusses, beams and frames using
+virtual work method and Castigliano’s theorem
+
+Characteristics of cables, analysis of cables
+Subjected to concentrated loads and uniformly
+distributed loads, types of arches, analysis of
+three-hinged arches
+
+Analysis of Cables and Arches
+
+Analysis of Statically Indeterminate Structures:
+
+Advantages & disadvantages and Methods of
+analysis of statically indeterminate structures,
+concept of force method, Maxwell Reciprocal
+theorem and Bettis law, Analysis of beams,
+Frames and trusses using force method, Analysis
+of beams using three moment equations,
+Influence lines for statically indeterminate beams
+
++
+Slove Concept of displacement method, slope deflection
+Analysis of Seflection P equations, analysis of beams and frames (with
+Statically and without side sway) using slope deflection
+Indeterminate Method method
+fs Structures a
+
+Analysis of Statically
+Indeterminate Structures by
+Force method
+
+b
+Displacement y Moment Concept of Moment Distribution Method, analysis
+of beams and frames (with and without side sway)
+
+method Distribution
+Method using Moment Distribution method
+
+Approximate analysis of Indeterminate Trusses,
+beams and portal frames, Analysis of building
+frames subjected to lateral loads using Portal and
+cantilever methods
+
+Approximate analysis of
+Statically Indeterminate structures
+
+Stiffness matrix for bar and beam elements,
+Analysis of Truss, beam and Frame structures
+using the Stiffness method
+
+Introduction to Matrix Methods
+of Structural Analysis
+
+ 
+
+5. Evaluation Scheme:
+
+Component | Duration Weightage Date & Time
+W-1
+
+Comprehensive Examination 13/05 FN 8:00 -—11:00
+Hrs
+
+6. Chamber Consultation: To be announced in the class.
+7. Notices: All notices concerning to the course will be displayed on Nalanda/Google Class Room.
+8. Make-up Policy: Make will be granted with prior permission to genuine cases.
+
+ 
+
+Instructor-in-charge
+CE C241
+

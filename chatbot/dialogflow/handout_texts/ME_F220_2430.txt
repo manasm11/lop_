@@ -1,0 +1,168 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Second Semester 2020-2021.
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No. : ME F220
+
+Course Title: Heat Transfer
+
+Instructor-in-charge: P.SRINIVASAN;
+
+Tutorial Instructors: Aneesh.A.M, A.R.Harikrishnan, Ranganayukulu. C
+
+Practical Instructors: Leo Daniel, Diplesh Gautam, Ashish Khare Devendra Kumar Vishwakarma.
+
+1.C ourse Description:
+
+Fundamental concepts of heat transfer; steady state and unsteady state heat conduction; analytical and
+empirical relations for forced and free convection heat transfer; heat exchangers; boiling and
+condensation; heat transfer by radiation; associated laboratory.
+
+2. Scope and Objective of the C ourse:
+
+This course is designed to make the students familiarize with the concepts of heat transfer and its
+applications. As a part of this course, students have to do the experiments to correlate theoretical
+knowledge with the experimental results
+
+3. Text Books:
+T1: JP Holman and Souvik Bhattacharyya, Heat Transfer (SI Edition), McGraw Hill Education, India,
+2011,10" Edition
+
+4, Reference Books:
+
+R1:Incropera, Dewitt, Bergmann and Lavine, Fundamentals of Heat and Mass Transfer, 6‘" Ed., Wiley
+India, 2010, 6" edition.
+R2:F. Kreith & M. S. Bohn, Principles of Heat Transfer, Brooks Cole, 2000, 6" edition.
+
+5. Course Plan:
+
+; Ref. Chap/Sec in
+L
+{ Recapitulate basic concepts of Introduction to heat transfer Class notes
+transport phenomena
+
+2-4 Learn basics of conduction Heat conduction equation 1.1 - 1.2 (11)
+
+; Understand analysis of 1-D steady 1-D steady state heat conduction 2.1 - 2.8 (11)
+state heat conduction
+
+Understand heat transfer from Extended surface heat transfer 2.9 - 2.11 (T1)
+extended surfaces
+10-11 Learn heat transfer analysis of | Lumped system analysis; analytical 4.1 - 4.2 (T1)
+unsteady-state conduction methods of analysis 4.3 - 4.5 (11)
+12-14 Analysis of multi-dimensional Analytical & numerical methods 3.1 - 3.5 (11)
+steady state conduction
+
+15-16 Learn principles of convection Concepts and basic relations in 5.1-5.3 (T1)
+1
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+aaa
+transfer
+
+— Fconvetive heat _
+
+Understand forced convection | Analytical solutions and empirical 5.10,6.1-6.2 (T1)
+heat transfer (internal flow) relations
+
+Understand forced convection | Analytical solution and empirical 5.4 - 5.9, 5.12,
+heat transfer (external flow) relations for forced convection: flat 6.3 - 6.4 (T1)
+plate, cylinders, spheres, tube banks
+
+23-25 | Understand natural convection Analytical solutions and empirical 7.1 - 7.12 (11)
+correlation
+26-29 Learn condensation and boiling bolting dropwise condensation, pool 9.1-9.8 (T1)
+
+ 
+
+30-34 Learn analysis of heat exchangers Types of heat exchangers; LMTD and NTU | 10.1-10.9 (T1)
+method of analysis
+Understand basic laws of Basic laws and nature of thermal 8.1-8.3 (T1)
+35-36 as gs
+radiation radiation
+
+Radiation heat exchange between 8.4 - 8.11, 8.17
+surfaces; radiation shields; radiation (T1)
+network
+
+36-40 Learn principles of Radiation heat
+transfer
+
+6. Evaluation Scheme:
+
+Component Duration Date & Time Nature of component
+
+(Closed Book/ Open
+book)
+
+Mid semester test | 90min | 50) | Open Book
+po
+
+Labreport& Viva | - | 50 |
+
+a
+out of 8)
+
+— =e es
+examination
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+List of Experiments
+
+Following is the tentative list of experiments. The exact list will be announced at the beginning of
+laboratory session along with batch number, turn of each batch etc.
+
+,
+3.
+. | Determination of Temperature -Time history under transient conduction
+.
+7.
+
+0.
+13.
+
+Determination of Emissivity of a test surface
+
+| 8. Determination of temperature distribution in a pin fin under forced convection. (Remote lab)
+
+ 
+
+7. Chamber Consultation Hour: Fridays 5PM to 6PM in PSD/WILP office chamber in the | Floor of Library
+building.
+
+8. Notices: Notices pertaining to this course will be available in Nalanda Portal.
+
+9, Make-up Policy: No make up for any component.
+
+10. Note (if any): It is highly desirable to attend the classes regularly to participate in the discussion and
+understand the course from the practical perspective.
+
+Instructor-in-charge: P.SRINIVASAN
+Course No.: ME F220
+

@@ -1,0 +1,138 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT
+
+ 
+
+Date: 015.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No >MF F341
+
+Course Title : DESIGN OF MACHINE TOOLS
+Instructor-in-C harge : Dr. Sharad Shrivastava
+Instructor(s) : Dr. Sharad Shrivastava
+
+Tutorial/Practical Instructors:
+
+1. Course Description: This course is built upon the premise that the students already has a fairly good
+knowledge of fundamental subjects like Manufacturing Processes, Engineering Materials, Design of Machine
+Elements etc. This course will mainly focused on fundamental principles of machine tool design. Also this
+course will provide exposure to the students on modern development of machine tools like NC/CNC
+machines.
+
+2. Scope and Objective of the C ourse:The Course is intended to focus the student’s attention on the concepts of
+design, analysis and features of different types of machine Tools, different machine elements to make a machine tool
+and new concepts in machine tool engineering.
+
+The course covers introduction to machine tool drives and mechanisms- general principles of machine tool
+design,regulation of speed and feed rates, design of machinetool structures, design of guideways andpower screws,
+design of spindles and spindlesupports, dynamics of machine tools, control systemsin machine tools
+
+The students are encouraged to select seminar topics of current interest and developments in the fields of
+technology of construction of Machine Tools and present them in the class apart from the regular classroom
+learning.
+
+3. Text Books:NK Mehta,” Machine Tool Design and Numerical Control’, second Edition, Tata McGraw Hill book
+Company, (2011)
+
+4, Reference Books:
+R1 SK Basu, DK Pal,’Design of Machine Tools”, Oxford & IBH Publication Co Pvt Ltd, New
+
+Delhi (1995)
+
+R2 Gopal Chandra sen & Amitabha Bhattacharya,”Principles of Machine Tools”, New
+Central Book agency, Calcutta,(1998)
+
+R3 B.L. Juneja, G.S. Sekhon and Nitin Seth, “Fundamentals of Metal Cutting
+
+and Machine Tools”, New Age International Publications, Delhi. 2010
+
+R4 A.B. Chattopadhyay, “Machining and Machine Tools” Wiley-India (2011)
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+1-2
+3-6
+7-1
+
+Understanding the machine tools, their Textbook/Refer | Fundamentals of Machine
+functions ence books/ Tool Design, Design
+
+Lecture notes Considerations, General
+requirements
+
+Understanding the drive systems Textbook/Refer | Review of the mechanisms
+ence books/ for transmission of motion,
+eo Lachire notes principles of Mechanical
+Drives
+8 Understanding the gear box design Design of Speed & Feed
+See
+19-22 Understanding machine tool structural Design of machine Tool
+design structures for forces,
+stresses, and deflection
+28-30 Understanding the functions of guide- Design of Machine Guide
+ways ways, and Power screws,
+Analysis of slides and
+Guides
+31-33 Understanding the machine tool spindles Spindles and spindle
+and supports Supports, Bearings and
+load and deflection
+analysis
+34.37 Overview of all machine tool vibrations Dynamics of Machine
+Tools, Vibrations and
+dynamic rigidity
+38-40 Understanding control systems
+
+6. Evaluation Scheme:
+
+Component Nature of component
+(Close Book/ O pen Book)
+Mid-Semester Test in. CB
+
+Comprehensive CB/OB
+
+ 
+
+Examination
+
+ 
+
+”
+
+7. Chamber C onsultation Hour:To be announced in the class.
+
+8. Notices:All notices concerning the course will be displayed on the mechanical engineering department notice
+board and online on nalanda.
+
+9, Make-up Policy: Make-up will be permitted only in genuine cases with prior permission. No make-up for class
+room assignments/Tutorials/quizzes.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. MF F341
+

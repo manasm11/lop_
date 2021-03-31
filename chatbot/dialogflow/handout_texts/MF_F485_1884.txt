@@ -1,0 +1,274 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 17/01/2021
+
+In addition to Part-I (General Handout for all courses appended to the timetable), this portion gives
+further specific details regarding the course.
+
+Course Code : MF F485
+Name of the Course : Sustainable Manufacturing
+Instructor-In-Charge : KULDIP SINGH SANGWAN
+
+I. Scope and Objective of the C ourse
+Growing awareness and concerns about climate change, energy security and natural resource scarcity led
+
+by the rapid expansion of economic activity in the last two decades have put government and business
+under immense pressure to optimize the natural resources, to increase use of renewable energy and
+recycled material and to reduce the environmental effects involved in the production and consumption of
+goods and services. The primary objective of this course is to provide environmental, economical and social
+perspective of manufacturing processes, systems and tooling including material, energy and toxicity
+analysis during the various phases of product life cycle. A multidisciplinary approach will be undertaken.
+Collection and analysis of real world data from industry will be encouraged.
+
+II. Textbook
+
+1. KS Sangwan, A K Digalwar and Monica Sharma, 2011, Sustainable Manufacturing, EPH, New Delhi (soft
+copy)
+
+III. Reference Papers
+
+1. VK Mittal, 2013, Development and Validation of Drivers for, Barriers to and Stakeholders of Green
+Manufacturing, Phd Thesis, 2013, BITS Pilani
+https://shodhganga.inflibnet.ac.in/handle/10603/25544?mode=full
+
+2. KS Sangwan, Development of a multi criteria decision model for justification of green manufacturing
+systems, International Journal of Green Economics 5 (3), 285-305
+
+3. KS Sangwan, Performance value analysis for justification of green manufacturing systems
+Journal of Advanced Manufacturing Systems 5 (1), 59-73
+
+4. KS Sangwan, Evaluation of manufacturing systems based on environmental aspects using a multi—
+criteria decision model, International Journal of Industrial and Systems Engineering 14 (1), 40-57.
+
+5. Yovana M.B. Saavedra, Ana P.B. Barquet , Henrique Rozenfeld , Fernando A. Forcellinic, Aldo R. Ometto,
+Remanufacturing in Brazil: case studies on the automotive sector, Journal of Cleaner Production, 2013,
+1-10
+
+6. AM King, SC Burgress, W ljomah and CA McMahon, Reducing waste: repair, recondition, remanufacture
+or recycle?, Sustainable Development, Vol 14, 2006, 257-267.
+
+7. Christoph Herrmann; Marcus Mansour, Marc Mateika, Strategic and Operational Life Cycle
+Management — Model, Methods and Activities, Proceedings of the 12th International CIRP Seminar on
+LCE 2005, Laboratoire 3S, Grenoble,France, April 3-5, 2005
+
+8. KS Sangwan, AK Digalwar, V Bhakar, Life Cycle Assessment and Comparison of CRT, LCD and LED
+Monitors, Procedia CIRP, 2015, Vol 29, pp. 433-438.
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+ 
+
+IV. Course Contents
+
+1. Introduction
+
+2. Sustainable
+manufacturing
+implementation
+factors
+
+3. Sustainable
+manufacturing
+design
+
+4. Life cycle
+management and
+assessment
+
+5. End of life (EOL)
+strategies
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Bn ae
+9. Kuldip Singh Sangwan, Vikrant Bhakar, Shilpa Naik and Sylvi Nazareth Andrat, Life cycle assessment of
+incandescent, fluorescent, compact fluorescent and light emitting diode lamps in an Indian scenario,
+Procedia CIRP, Vol 15, 2014, pp 467-472.
+10. S. G. Lee, S. W. Lye and M. K. Khoo, A Multi-Objective Methodology for Evaluating Product End-of-Life
+Options and Disassembly, Int J Adv Manuf Technol (2001) 18:148-156
+11. Nicola Morelli, Developing new product service systems (PSS): methodologies and operational tools,
+Journal of Cleaner Production 14 (2006)
+12. Anil Jindal, Multi-objective Design and Optimization of a Closed-loop Supply Chain Network, and
+Assessment of Collection Methods, Product Recovery Methods and Network Configurations, PhD
+Thesis, 2015, BITS Pilani.
+13. Vikrant Bhakar, development of a sustainability assessment framework for manufacturing industry, PhD
+Thesis, 2018, BITS Pilani.
+
+Learning Objectives
+
+Overview, WEEE, triple bottom
+concept of — environment,
+economy and society
+
+Drivers for, barriers to, and
+stakeholders of sustainable
+manufacturing
+
+Eco-innovation, design for
+environment, design for
+disposal, design for energy
+efficiency, design for material
+efficiency, sustainable
+materials, sustainable energy
+Strategic and operational
+evaluation of technologies
+using life cycle concept, MET
+analysis, environmental
+
+impact assessment, various
+impact assessment models,
+End-of-life strategies
+product definition,
+logistics
+
+and
+reverse
+
+Learning Outcomes
+
+To understand the effect of
+manufacturing on sustainable
+development in terms of
+environmental, economic and social
+impacts.
+
+To find and analyze the drivers,
+barriers and stakeholders.
+
+To prioritize the drivers, barriers
+according to industry, government
+and expert perspectives.
+Classification of stakeholders.
+
+To understand the importance of
+design for various sustainability
+elements.
+
+To understand the concept and
+importance of life cycle
+management.
+
+To do life cycle assessment of
+products and processes based upon
+end-point and mid-point categories.
+To understand the 3R concepts from
+design and operational perspectives.
+
+ 
+
+Number
+
+of
+
+Lectures
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+ 
+
+innovate
+
+Please Do Not Print Unless Necessary
+ 
+
+ 
+  
+  
+  
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Number
+Learning Objectives of
+Lectures
+
+6. Sustainability To develop critical factors, resource
+
+assessment Readiness assessment and | perspective and assessment models
+
+sustainability assessment
+framework
+
+7. Circular economy | objectives, design and | To develop a framework and critical
+and sustainable framework of a circular | factors for design of a circular
+manufacturing economy economy
+
+8. Sustainable Integrated product policy, | To develop PSS business models
+business models sustainable product service
+
+systems, green factories
+9. Sustainable Integration of pre- To develop integrated supply chain
+supply chains manufacturing, manufacturing | mathematical models
+
+and post-manufacturing
+
+activities for sustainability
+10. Industry 4.0 and To understand the — sustainable
+sustainable Role of industry 4.0 in manufacturing from Industry 4.0
+manufacturing sustainable manufacturing perspective
+
+11. Case studies To practice life cycle To develop life cycle assessment
+assessment on LCA softwares models using case studies.
+f
+
+12 Sustainability Integrating sustainability at To understand the role
+Games the strategy level using sustainability viz-a-viz other business
+business game in teams strategies
+
+V. Evaluation Scheme and Schedule
+
+EC Component Duration | Weightage | Date, time, venue
+No. (minutes) (%)
+
+4 [Project | | 40 | Continuous evaluation
+
+Comprehensive exam
+
+VI. Chamber Consultation Hour: To be announced in the first class.
+
+ 
+
+Vil. Notices concerning the course: All notices concerning the course will be displayed on the Nalanda.
+Vill. Make-up Policy: Make-up will be permitted only in genuine cases with prior permission.
+
+IX. Grading: If a student gets less than the 20% of the toper marks then he/she is liable to get an NC grade
+
+Instructor-In-Charge
+MF F485
+
+Save Paper.
+*~ Save Trees.
+* Agave the World. A ee oe
+
+Please Do Not Print Unless Necessary
+
+ 
+

@@ -1,0 +1,170 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT (PART II)
+
+ 
+
+Date: 18/01/2021
+In addition to Part-I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+Course No. : MSE Go512
+
+Course title : Manufacturing Planning & Control
+Instructor-in-charge : Divyansh Patel
+
+Course description
+
+Generalized model of production systems, types of production flows, Life cycle concepts, Facilities
+location and layout planning, A ggregate and batch production planning, Inventory systems, Materials
+requirements planning, Elements of monitoring and production control.
+
+Objective
+
+The objective of this course is to impart important decision making processes and analytical tools in
+design, planning and control of manufacturing / service processes. At the end of the course the
+students shall be able to establish routes and schedules for work that will ensure the optimum
+utilization of men, materials and machines in a manufacturing / services.
+
+Scope
+
+= Familiarise fundamental concepts in production / operations management
+
+= Understand the decision making process in design, planning and control of manufacturing /
+service systems
+
+= Develop skills for decision making in conversion process / manufacturing systems
+
+Text books
+
+T Russell R. S. & Taylor B. W., “Operations Management”, International Student Version, 7/e,
+John Wiley and Sons (Asia) Pte. Ltd., 2011
+
+Reference books
+
+Ri. Heizer, Jay Render, Barry Munson, Chuck - Operations management sustainability and
+supply chain management (2020, Pearson)
+
+R2. Reid and Sanders - Operations Management 
+R3. Chase, R.B., Aquilano, N.J., and Jacobs, F.R., “Operation Management for Competitive
+Advantage”’, gh Edition, Tata McGraw-Hill, Delhi, 2002.
+
+R4. Krajewski, L.J., and Ritzman, L.P., “Operations Management: Strategy and Analysis”, 6"
+Edition, Pearson Education Asia, India, 2003.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Course plan
+
+Module No.
+
+Introduction to Students will familiar with the need of
+Operations, Production Planning and Control in
+Operational Industry. Operational DecisionDecision-Making Making Tools: Decision Analysis
+Tools: Decision
+
+Analysis
+
+Students will able to find out the
+design requirements of a product and
+able to convert them into engineering
+specifications.
+
+Product planning
+
+Students will able to find out the
+Process planning ee ar of a process and
+Students will able to the design the
+layout for different manufacturing
+environments.
+
+Capacity and layout
+
+planning
+
+Student will be familiar with the
+inventory classification methods and
+control methods.
+
+Inventory
+
+management
+
+Student will able to develop aggregate
+A ggregate planning planning and solve it for a specific
+environment.
+Student will be familiar with various
+Resource planning analytical tools used in resource
+planning and project management.
+Student will be familiar with various
+analytical tools used in resource
+
+Project management
+planning and project management.
+
+ 
+
+oo
+1
+Student will be familiar with different
+forecasting methods and also able to
+5 Forecastin T 12 assess the effectiveness of a
+J forecasting method in a _ specific
+environment.
+_
+_
+_
+ 
+         
+    
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+, AUGS/ AGSR Division
+
+Module No.
+Students will able to analyse
+
+10 Scheduling T 17 scheduling issues and leam different
+analytical tools related to scheduling.
+
+Evaluation scheme
+
+Evaluation Duration Weightage Date & Time
+omponent
+
+25% (50 Marks) - Closed/Open Book
+
+120 Min 35 % (70 Marks) | 30/06/2021 | Closed/Open Book
+
+sF Pa
+
+  
+
+Case Presentation/
+
+0 .
+
+Review/Assignment
+
+0 _ . ‘
+mone
+
+Chamber consultation hour: To be announced in the first class.
+
+ 
+
+Notices: All notices related to this course will be put on the Nalanda.
+
+Makeup policy: Make up will be permitted only in genuine cases with prior permission
+
+Instructor-in-charge
+MSE G512
+

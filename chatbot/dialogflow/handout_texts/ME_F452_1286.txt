@@ -1,0 +1,117 @@
+Birla Institute of Technology & Science, Pilani
+Hyderabad Campus
+
+ 
+
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout Part II
+Date: 01-01-2021
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : MEF452
+Course Title : Composite materials and design
+Instructor-in-Charge : Faizan Mohammad Rashid
+
+Scope and Objective of the C ourse:
+
+Composite Materials have gained considerable importance over the years due to their outstanding mechanical
+properties, less weight, flexibility, ease of fabrication, corrosion resistance, impact strength and fatigue
+resistance. Introduction to composites, concepts of reinforcement, strengthening mechanisms, fibrous
+reinforcements, matrix materials, micro-mechanical aspects of composites, manufacturing methods, composite
+production design methods, design of tensile members, pressure vessels, storage tanks, and other chemical
+process equipment made of FRP, design of joints, damage of composites by impact, FRP grids, recent
+development in manufacturing of composites and technologies.
+
+Textbooks:
+1. Composite materials, K.K. Chawala, 2nd ed., (1987) Springer-Verlag, New Y ork.
+Reference books
+1. Analysis and Performance of Fiber Composites - BD Agarwal, L J Broutman and
+K Chandrashekhara, Wiley, 3™ Edition, 2006
+2. Mechanics of composite materials, Robert Jones, Taylor & Francis (2"™ Edition).
+
+Course Plan:
+
+Chapter in
+Learning objectives Topics to be covered the Text
+; Book
+Definition and Introduction, applications and
+1-2 constituents of classification of composites fibers and Chi1-T1,R1
+9
+
+composites matrices, distribution of constituents,
+
+Tvpes of Reinforcements; Glass, Carbon, Aramid ,
+3 1B metallic and non-metallic fibers, Ch2-T1,R1
+reinforcements ;
+Manufacturing of fibers
+
+; Types of matrix : Ch3-T1,
+Polymers, metals and ceramics Ch2-R1
+
+ 
+. Effect of interface on Interfaces, Wettability, Interactions and Ch4-T1,
+8-9 ' ; bonding at interfaces, Tests to measure
+composite behaviour |.
+interfacial strength
+various composites yup, Dag J‘ a Ch2-R1
+and preformed molding composites
+Strenath and modul Micromechanics of composites; Behavior
+13-16 sf aunidirections i. of unidirectional lamina, Predictive Ch10-T1,
+composi models: Longitudinal modulus and Ch3-R1
+posite 4: ;
+longitudinal strength and other properties
+Application of basic | Important terminologies in composites:
+17.99 _| Stress-strain relations to | 3D stress-strain relations; Isotropic, Chi11-T1,
+different class of transversely isotropic, orthotropic Chs-R1
+materials materials, analysis of orthotropic lamina
+
+Failure of orthotropic Transformation of stresses and strains Ch1L-TH,
+Maximum stress, Maximum strain and
+lamina Deny a Ch5-R1
+Maximum work (Tsai-Hill) criteria
+
+Strain field in a laminate
+96-32 Analysis of multi-layer | Resultant forces and moments in a Chi1-T1,
+composite laminated composite Stiffness matrix of Ch6-R1
+laminate, Special laminate sequences:
+Failure of composites due to longitudinal
+, i. ; Ch12-T1,
+33-36 Failure criteria tension and compression and out of plane
+Ch9-R1
+loadino
+Strengthening mechanisms in composite
+37-41 Design of composites | Design procedures, design of tensile Chi4-T1,
+for various loads members, Design of pressure vessels and Ch9-R1
+storage tanks
+
+Evaluation Scheme:
+
+Component Duration Sade Date & Time NEUTE @
+(% ) Component
+on experiments
+Xamination
+
+Chamber C onsultation Hour:
+To be announced in the class, Chamber: NAB 6020E
+
+ 
+
+ 
+
+   
+Notices: All notices related to this course will be put on CMS only.
+
+Make-up Policy:
+
+Make-up will be granted ONLY in genuine cases with prior permission. The request application for make-up
+test must be reached to the Instructor-in-charge before commencement of the scheduled test (documentary proof
+is essential).
+
+ 
+
+INSTRUCTOR-IN-C HARGE
+
+ 
+

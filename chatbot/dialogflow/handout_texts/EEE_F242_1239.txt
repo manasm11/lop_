@@ -1,0 +1,287 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 04.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE/INSTR F242
+
+Course Title : Control Systems
+
+Instructor-in-C harge : Dr. B.K. Mukherjee
+
+Instructor(s) : Dr. B.K. Mukherjee, Dr. H.O. Bansal
+
+Tutorial/Practical Instructors: Dr. B.K. Mukherjee, Dr. H.O. Bansal, Dr. K.K. Gupta, Dr. P. Mishra,
+Dr. A.R. Gautam, Mr. A. Jahagirdar
+
+1. Course Description: Modeling and classification of dynamical systems, Properties and advantages of
+feedback systems, time-domain analysis, frequency-domain analysis, stability and performance analysis, State
+space analysis, controller design.
+
+2. Scope and Objective of the Course: Feedback or automatic control is an essential feature of numerous
+industrial processes, scientific instruments and even commercial, social and management situations. A
+thorough understanding of the elementary principles of this all-embracing technology is of great relevance for
+all engineers and scientists in general and Electrical & Electronics engineers in particular. This course tries to
+bring out the basic principles of Feedback Control Systems.
+
+3. Text Books: Nagrath I. J. and M. Gopal, Control Systems Engineering, New Age Publishers
+
+4, Reference Books:
+(i) Kuo, B. C., and Golnaraghi, F., Automatic Control Systems, John Wiley & Sons, 8" Ed, 2003.
+
+(ii) | K. Ogata, Modern Control Systems, Pearson Education, 4th Ed., 2002
+(ii) | Drof, R.C., and Bishop, R. H., Modern Control Systems, Addison Wesley, 7“ Ed, 1995.
+
+5. Course Plan:
+
+1. Introduction | Introduction; Different types of Ch.1 of General understanding of the
+
+(Lec1-3) systems and _ signals; Various} Textbook, | concept of control systems;
+terminologies; Open loop and closed | Lecture Notes | familiarization with various
+loop control; A_ brief history; terms and their significance;
+Examples from various fields familiarization with various
+
+application domains.
+
+2. Mathematical | Introduction to math modelling; Ch. 2 & 3 of
+
+Modelling Modelling of electrical and Textbook, | Learning how to derive
+
+(Lec 4-10) mechanical systems; Block diagram | Lecture Notes | mathematical models and
+representation and simplification; transfer functions of
+Properties of feedback control electrical, mechanical,
+
+electromechanical systems;
+
+Understanding block diagram
+
+representation and
+
+simplification; Mathematical
+
+ 
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+ 
+
+3. Control
+systems
+Components
+(Lec 11-16)
+
+4, Introduction
+to Discrete-time
+systems
+
+(Lec 17-18)
+
+5. Introduction
+to State Space
+Modelling
+
+(Lec 19-20)
+
+6. Time Domain
+Analysis
+(Lec 21-28)
+
+7. Root Locus
+Technique
+(Lec 29-31)
+
+8. Frequency
+Domain
+Analysis-I
+(Lec 32-34)
+
+9, Frequency
+Domain
+Analysis-II
+(Lec 35-39)
+
+10. Introduction
+to Design and
+Concluding
+Remarks
+
+(Lec 40)
+
+Pilani Campus
+
+AUGS/ AGSR Division
+
+ 
+
+AC and DC electrical components
+such as armature and field
+controlled DC servomotors; AC
+servomotor; Stepper motor;
+synchro; Hydraulic and pneumatic
+components
+
+Representation of Discrete Time
+systems; Sampling and
+reconstruction.
+
+Introduction to State Space
+modelling approach; Examples;
+Comparison with Transfer Function
+approach; [nterconversions between
+transfer functions and state space
+models
+
+Stability determination using R-H
+criteria; Applying R-H criteria to
+Discrete Time systems; V arious test
+signals and time response of 1st and
+2nd order systems to them; Time
+domain specifications and their
+
+expressions for prototype 2nd order
+
+systems; Steady state errors;
+
+Introduction to PID and Lead/Lag
+pe controllers
+
+Concept of root locus; Method of
+
+drawing root locus plot; Various
+
+examples
+
+Concept of frequency domain and
+comparison with time domain;
+Frequency domain specifications;
+Polar plot; Gain and Phase margins
+
+Bode plot; Transfer function
+identification from Bode plot; Nonminimum phase systems; Nyquist
+Stability criterion
+
+Various classical control
+architectures; Lead, Lag controller
+design philosophy from Bode plot;
+A brief overview of further topics
+on Control Systems
+
+Ch.4 of
+Textbook,
+Lecture Notes
+
+Ch.11 of
+Textbook,
+Lecture Notes
+
+Ch.12 of
+Textbook
+(initial parts),
+Lecture Notes
+
+Ch. 5,6 &11
+of Textbook,
+Lecture Notes
+
+Ch.7 of
+Textbook,
+Lecture Notes
+
+Ch.8 & 9 of
+Textbook,
+Lecture Notes
+
+Ch.8 & 9 of
+Textbook,
+Lecture Notes
+
+Ch.10 of
+Textbook,
+Lecture Notes
+
+ 
+
+ 
+
+understanding of properties of
+closed loop control systems
+
+Learning about various
+control systems components
+and their use in various
+examples; Forming block
+diagrams and deriving
+transfer functions
+
+Learning about mathematical
+representation of Discrete
+Time systems vis-a-vis
+Continuous Time systems
+Learning about State Space
+representation of dynamic
+systems vis-a-vis transfer
+function representation
+
+Learning how to carry out
+stability and transient
+response analysis of dynamic
+systems to different
+excitations; Understanding
+the effects of PID type
+controllers
+
+To draw root locus for
+various systems and
+therefrom infer information
+on time response and stabili
+To learn how to obtain
+various frequency response
+plots of systems and how to
+use them for stability and
+performance analysis
+
+Do
+
+Getting a flavour of how to
+design classical controllers
+and a flavour of more
+advanced aspects of the area
+of control engineering
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Boot open Book)
+30% | TEST 1>
+"
+Examination
+Sa =e
+Home Assignment
+
+7. Chamber Consultation Hour: To be announced in the class
+
+8. Notices: All notices will be displayed on NALANDA
+
+9, Make-up Policy: Makeup will be granted to extremely genuine cases only.
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE/INSTR F242
+

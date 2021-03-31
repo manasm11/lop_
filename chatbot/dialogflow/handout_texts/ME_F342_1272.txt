@@ -1,0 +1,119 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : ME F342
+
+Course Title : COMPUTER AIDED DESIGN
+
+Instructor-in-C harge : Murali Palla, murali.palla@ pilani.bits-pilani.ac.in
+Instructor(s) : Murali Palla, Amit Rajnarayan Singh, Amol Marathe
+
+T utorial/Practical Instructors: Deshmankar Atharv Pramod (RS)
+
+1. Course Description: CAD software and CAD hardware. Mathematical modeling of parametric curves, surfaces
+and solids, and their computer simulation on spreadsheets and using specialized solid modeling packages. CAD/CAM
+data exchange. Introduction to finite element analysis and FEM practice on a specialized CAE package. Rapid
+prototyping. Students will be required to do several assignments and one CAD project. (Reproduced from Bulletin)
+
+2. Scope and Objective of the C ourse:
+
+(a) Geometric transformations and projections.
+(b) Curves and Surfaces.
+
+(c) Solid modeling.
+
+(d) Finite element method.
+
+Objectives:
+1. Develop intuitive understanding of geometry and topology of shapes
+2. Mathematical modeling
+3. Programming and Modeling of CAD data.
+
+3. Text Books:
+
+T1. Ibrahim Zeid, Mastering CAD/CAM, McGraw Hill.
+
+T2. Lecture notes provided by the instructor.
+
+T3. Introduction to Finite Element Method by JN Reddy, McGraw Hill.
+
+4, Reference Books:
+R1. Anupam Saxena and Sahay, Computer Aided Engineering Design, Springer Publications.
+R2. Computer Graphics and Geometric Modeling by David Solomon, Springer Publications.
+
+5. Course Plan:
+
+Introduction to Python, Geometric T1& T2 Develop intuition.
+transformations and projections. Mathematical analysis.
+Affine transformations, Projective Program in computer.
+
+transformations, 3D rotations
+
+2. Curves and Surfaces: T1,T2,& R1 | Develop intuition.
+Bezier curves, B-Splines, NURBS Mathematical analysis
+Tensor surfaces, Coon’s surface patch, Program in computer.
+Generalized sweep surfaces.
+Curvature and Isomet
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Solid Modeling, Constructive Solid Develop intuition and
+Geometry, Boundary Representation, program in computer.
+Euler Characteristic
+Software: OpenSCAD, gmsh
+Finite element method. Mathematical analysis
+1. Direct Stiffness Method and modeling in
+2. Weighted residual methods, computer.
+Galerkin method, FEM for 1D
+systems.
+Software: FEniCS
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ Open Book)
+OB
+"
+Examination
+
+Tutorial Tests Best two out of three
+25
+
+Assignments Approx. 1 TBA OB
+week for
+each
+assignment
+
+7. Chamber Consultation Hour: TBA
+8. Notices: Nalanda
+
+9, Make-up Policy: Provided only for emergencies at the discretion of I/C. No makeup for Tutorials since
+best 2 of 3 to be considered.
+
+ 
+
+10. Note (if any): High standards of academic honesty is expected from all the students. The assignments of
+the course are to be done using Python program. Plagiarism is strictly discouraged in any form. Any detection
+of plagiarism will lead to zero in the full component of the exam.
+
+Instructor-in-charge
+Course No. ME/MF F342
+

@@ -1,0 +1,248 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MEL G632
+Course Title : Analog IC Design
+Instructor-in-C harge : Anu Gupta
+Instructor(s) 
+Tutorial/Practical Instructors: 
+1. Course Description: Basic Analog IC Design Issues, Analog Layouts, MOS Switch-- Charge Injection,
+Current And Voltage Biasing and Reference Generation Circuits, Common Mode Feedback Circuit, Replica
+Bias, Design, Analysis and Synthesis of Single StageAmplifiers, Differential Amplifiers, Operational
+Amplifiers and Operational Transconductance A mplifier Design, Low PowerOPAMP , OPAMP/ OTA design
+in Subthreshold Operation region, Frequency Compensation, Current Mode Analog Circuit Design, NoiseAnalysis and Estimation In Amplifiers, emerging trends.
+
+2. Scope and Objective of the C ourse:
+
+This course aims at thorough understanding of the behavior of analog circuits and systems. The course focuses
+on basic concepts in Analog IC design; different Design techniques for designing of analog and mixed-signal
+VLSI circuits. Performance characterization is also envisaged using intuitive analysis and simulation
+techniques. The simulation/ layout of linear integrated systems using EDA tools like Cadence, mentor graphics
+is also included.
+
+Objectives of the Course:
+
+e Understand analog IC design issues, MOS device models, impact of scaling on performance, amplifier
+characterization.
+
+e Learn techniques to set DC bias, common mode feedback, replica bias, current/ voltage mirrors and
+reference design, types of amplifiers and quiescent point location
+
+e Understand small signal analysis and synthesis of different single/ multi stage amplifiers, OPAMP,
+OTA and their design & characterization with and without feedback
+
+e Current mode circuit design
+
+e Noise/ distortion analysis in amplifiers, and low noise amplifier design
+
+e Use of EDA tools in design/ characterization of amplifiers, analog layout techniques.
+
+3. Text Book:
+Design of Analog CMOS Integrated Circuits, Author: Behzad Razavi, Publisher: TATA McGRAW
+Hill 2001
+
+4. Reference Books:
+Ri. — Analysis and Design of Analog Integrated Circuits
+
+Author : Paul R. Gray & Robert G. Meyer
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Publishers : Wiley (International edition)
+
+R 2. Analog Integrated Circuit Design
+Author : David Johns & Ken Martin
+
+Publishers : John Wiley & Sons 1997.
+
+R 3. Analog VLSI Design — NMOS and CMOS
+
+Author : Malcom R. Haskard & lan C. May
+
+R 4, Analog VLSI: signal and Information Processing
+Author : Mohammed Ismail, Terri Fiez
+
+Publishers : MCGRAW-HILL International Edition, 1994.
+
+R5 CMOS Analog Circuit Design
+Author : Phillip E. Allen & Dogulas R. Holberg
+
+Publishers : Harcourt Bruce Jovanovich College Publishers, 1987
+
+R6. Design of analog Integrated Circuits and Systems
+Author : K. R. Laker & Willy M. C. Sansen
+Publishers : MCGRAW-HILL International Edition, 1994.
+
+R7. IEEE Journal of Solid St. Circuits and other Journals.
+
+R8 ~~ Analog MOS Integrated Circuits for Signal Processing
+Author : R. Gregorian & G .C Temes
+
+Publishers : Wiley (International edition, 1986)
+ 
+
+5. Course Plan:
+
+Approx.
+No. of
+
+Lectures.
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+CMOS MIXED SIGNAL CIRCUIT DESIGN
+
+Author : R . Jacob Baker
+
+Publishers : IEEE Press (Wiley Inter-science 2002)
+
+Module
+
+Introduction
+
+DC Biasing
+
+Amplifiers
+
+Noise
+
+FG Gf
+=
+
+Advanced Current
+voltage and current reference
+
+Lecture sessions
+
+Introduction, two port networks,
+brief overview of MOS models
+for Analog Circuits MOS
+Switch, charge injection Noise
+
+Biasing/
+generation Circuits
+
+Single Stage Amplifiers,
+frequency response of
+amplifiers
+
+Source Coupled Amplifiers
+
+Noise/ distortion --analysis and
+modeling
+
+Reference
+to text
+book/ref
+book
+
+ 
+
+Learning Outcomes
+
+MOSFET models in active ,
+subthreshold region, switching
+performance of MOSFET
+device
+
+setting DC bias, stable current/
+voltage reference circuits design
+
+Analysis and synthesis of single
+stage amplifiers, low/ high
+frequency response
+
+Analysis and synthesis of
+Differential amplifier -common
+mode, differential mode, slew
+mode
+
+Noise origin, modeling,
+analysis and estimation in
+amplifiers, low noise amplifier
+design
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Operational | Design of Operationl =~=O~OY*S~S ~ | OPAMP, OTA - OTA - design,
+amplifiers- | Amplifiers and operational analysis and characterization
+open/ trans-conductance amplifiers-- with and without feedback
+closed loop | low voltage/ low power,
+subthreshold region design.
+Gm/ Ip method, Gain, PSRR,
+CMRR, CMEB, SR, Adaptive
+bias, Linearity enhancement,
+Offset, etc.low/ high frequency
+small signal analysis.
+
+ 
+
+Op-amp, frequency response ,
+Frequency Compensation
+
+Current Current mode amplifiers IEEE Designing circuits with current
+mode papers input signal
+circuit
+Layout Analog Layouts - MOSFET, | Chap-13, | Layout techniques under PVT
+techniques /| Capacitors, Resistors 18 variations
+Emerging | Overview of emerging trends- | IEEE Current design research
+trends optional papers
+
+6. Evaluation Scheme:
+
+} Component } Duration | Weightage Nature of component
+(Close Book/ O pen Book)
+
+Analog design project / Spread
+
+take home weekly lab- throughout the
+continuous
+
+assignments semester
+
+ 
+
+eo
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Laboratory / or Take home assignments: Home assignment/ lab work shall be assigned every week.
+
+7. Chamber Consultation Hour: To be announced in the class. Alternatively, student can contact IC and fix
+up a meeting time.
+
+8. Notice: Notice will be displayed on EEE Notice Board and NALANDA
+
+9. Make-up: Make-up will be given only on genuine reasons. Prior permission is necessary.
+
+10. Note (if any): 
+Instructor-in-charge
+Course No. MEL G632
+

@@ -1,0 +1,133 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT (PART II)
+Date: 17.01.2020
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : ME F441
+Course Title : Automotive Vehicles
+Instructor-in-C harge : Dr. Saket Verma
+
+1. Course Description:
+
+Automotive vehicle systems, vehicle performance; internal combustion engines; analysis and design of vehicle
+components. Experimental or theoretical investigation of problems selected from the field of automotive
+vehicles. Brief description of electric and hybrid electric vehicles.
+
+2. Scope and Objective of the C ourse:
+
+This course has been designed to make the students familiar with the fundamentals of automotive vehicles.
+It deals with the principle of operation and performance of internal combustion engines, along with working,
+analysis and design of various components of automotive vehicles. In addition to that current development
+and future scope of automotive vehicles will also be discussed.
+
+3. Text Books (T.B.):
+1. Joseph Heitner, Automotive Mechanics — Principles and Practice, - Affiliated East West Press, 2nd
+edition, 1980.
+2. N.K. Gin, Automotive Mechanics, Khanna Publishers, 1996.
+
+4. Reference Books (R.B.):
+
+1. J.B. Heywood, Internal Combustion Engine Fundamentals. Mc Graw Hill Book Co. New Y ork.
+1988.
+
+2. V.Ganeshan, Internal Combustion Engines, Tata McGraw-Hill, 2nd edition, 2003.
+
+3. Kripal Singh, Automobile Engineering, - Vol. 1 & II, Standard Publishers & Distributors, 1995.
+
+4, Stan C. Alternative propulsion for automobiles. Springer; 2017
+
+5. Course Plan:
+
+Learning Objectives No of Lecture Reference
+Hour C hap./Sec.# (Book)
+
+Introduction and Overview 2 Class notes
+
+Thermodynamics of Prime Movers: Ideal air standard cycles, T.B. 1: Chapter 3,
+
+fuel-air cycles and actual cycle; ignition and combustion in spark R.B. 1: Chapter 1,
+
+ignition and diesel engines; construction of I.C. engines R.B. 2: Chapter 1-5
+Engine Design and Operating Parameters: [mportant engine R.B. 1: Chapter 2,
+
+characteristics; geometrical properties; brake torque, power and R.B. 2: Chapter 17
+efficiencies, design and performance data.
+
+The Air and Fuel System: Carburetion, engine mixture T.B. 1: Chapter 8,
+requirements, simple carburetor. calculation of air fuel ratio, fuel T.B. 2: Chapter 3,
+injection system in petrol and diesel engines
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+R.B. 2: Chapter 810
+
+The Power Train: Flywheel, friction clutches, torque T.B. 1: Chapter 14converters, transmissions and driveline, types of driving shafts 20, T.B. 2: Chapter
+and joints, 5-6,
+
+The Cooling System: V ariation of temperature distribution, T.B. 1: Chapter 10,
+theory of engine heat transfer and correlations, parameters T.B. 2: Chapter 2,
+
+affecting engine heat transfer, air-cooled systems, types of R.B. 2: Chapter 14
+water-cooling systems radiators, fans
+
+The Lubrication Systems: Causes of engine friction, function T.B. 1: Chapter 6,
+
+of lubrication, mechanism of lubrication, journal bearing R.B. 2: Chapter 13
+lubrication, types of lubrication systems, lubrication of engine
+
+components.
+
+components, analysis of drum and disk brakes. T.B. 2: Chapter 8,
+suspension types and design
+
+Engine Emissions and C ontrol: Exhaust system, emissions
+from IC engines, emission norms, emission control strategies. R.B. 1: Chapter 11
+Advances in Automotive Vehicles: Modern IC engines and R.B. 4: Chapter 4
+advances, hybrid electric vehicles, electric vehicles, fuel cell Class notes
+vehicles.
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(Minutes) (% ) (Close Book/ Open Book)
+
+Mid-SemesterTest | 90 | 30. | TBA Open Book
+20
+
+Projects and Dates to be Open Book
+Seminars announced in the
+class
+
+Open Book
+Examination
+
+7. Chamber Consultation Hour: Will be announced by instructor in the class.
+8. Notices: Notices will be displayed in Nalanda. The students should also check their mails regularly.
+
+9, Make-up Policy: Make-up will be given only to the genuine cases for Mid Semester and Comprehensive
+exams only. The request application for make-up test must reach the Instructor-in-charge one day before the
+commencement of scheduled test (documentary proof is essential).
+
+10. Quizzes: There will be two quizzes. One based on the syllabus before Mid Semester and other based on
+the syllabus after Mid Semester. No makeup in any circumstance for the objective quizzes.
+
+Instructor-in-charge: Saket Verma
+Course No. ME F441
+

@@ -1,0 +1,526 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Second Semester 2020-2021
+C ourse Handout
+
+Date: 12/01/2021
+
+In addition to Part I (General Handout for all courses appended to the Timetable), this portion gives
+further specific details regarding the course.
+
+Course No. : CHE F418
+Course Title : Modelling and Simulation in C hemical Engineering
+Instructor-in-C harge : SRINIVAS APPARI
+
+1. Course Description
+
+The Modelling and Simulation of Chemical Engineering processes is a subject of major importance for the
+knowledge of unitary processes of transport and kinetics. Basically, it deals with three aspects, namely;
+modelling of chemical engineering processes, parameter estimations and application of numerical methods for
+solution of models. In this course, first chapter is devoted to introduction of the course and discusses the process
+modelling and need of simulation. Subsequently it follows the parameter estimation, tools of simulation,
+development of models, classification of models, unit models of unit process, models of mass transfer
+equipment, heat transfer equipment, reactors, and application of numerical methods for solutions of models.
+
+2. Scope & Objective
+
+This course is designed to have detailed understanding of process simulation, tools of simulation, parameter
+estimation, models and classification of models, alternate classification of models, mathematical modelling.
+The primary objective of the course is to formulate mathematical models for mass transfer, heat transfer, fluid
+flow operations and reaction engineering aspects. It also caters the role of simulations and simulators in
+industrial applications by covering in-depth knowledge of modular & equation-solving approaches in
+simulation, decomposition of network and convergence promotion.
+
+3. Text Books
+TB Babu B.V.., "Process Plant Simulation", 1%* Ed., Oxford University Press, 2004.
+
+4. Reference Books:
+
+Rl Luyben W. L., "Process Modeling Simulation and Control for Chemical Engineers", 2°¢ Ed., McGraw
+Hill, 1990.
+
+R2 Jenson V G, Jeffreys G V, “Mathematical methods in chemical engineering’, Academic press,
+Elsevier, second Ed, 2015
+
+R3 Aris R., "Mathematical Modeling, Vol. 1: A Chemical Engineering Perspective (Process System
+Engineering)", Academic Press, 1999.
+
+R4 Husain, A., “Chemical Process Simulation”, Wiley Eastem, New Delhi, 1986.
+
+a Save Trees.
+~~’Save the World. innovate Evel (=\ 0-4
+
+Please Do Not Print Unless Necessary
+
+fo
+
+g
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+   
+      
+      
+   
+ 
+  
+
+3. Course Plan
+Module No Lecture session Reference Learning
+Chap./Sec. outcome
+(Text Book/
+Reference
+Book)
+
+1. Introduction L. 1.1. Introduction to Ch. 1.1, 1.2 and | Understand the
+process modelling and Ch. 2.1 of TB, importance of
+simulation, Process R4 mathematical
+synthesis and process modeling and
+analysis, Process simulations
+modelling, Deterministic
+vs stochastic processes
+
+2. Process Modelling | L. 2.1. Physical modeling | TB- Ch. 2.2 — Understand the
+and mathematical 2.3, R4 modeling
+modeling concepts
+L. 2.2. Chemical system | TB- Ch. 2.4,R4 | Understand the
+modeling formulations and
+
+laws in modeling
+
+L. 2. 3. Fundamental Ri- Ch. 2.2, R4 | Understand the
+laws: Total continuity mass and
+and component component
+continuity equations with balances for
+examples various
+situations
+L. 2. 4. Energy balance R1- Ch. 2.2, Able to perform
+equations and momentum the energy
+balance balance
+equations for
+CSTR and PFR
+3. Classification of L. 3. 1. Variables TB- Ch. 3.1 to Understand the
+mathematical concepts, classification 3.3, R4 various variables
+modeling based on state of the and its
+process and type of the classifications
+process
+L. 3. 2. Boundary
+conditions and black box
+principle
+
+     
+  
+ 
+
+  
+  
+
+L. Ch. 3.3 to 3.6,
+R4
+
+Understand the
+importance of
+boundary
+conditions for
+solving the
+model
+4. Chemical L. 4. 1. solvent extraction | TB- Ch. 4.1 — Able to perform
+system 4.2, R2 the modeling of
+modeling: simple mass
+Models in transfer
+mass transfer operation
+operations systems
+
+     
+ 
+
+       
+ 
+   
+   
+   
+    
+
+a Save Trees.
+~~’Save the World. innovate Evel (=\ 0-4
+
+Please Do Not Print Unless Necessary
+
+fo
+
+g
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+L. 4.2. CSTR modeling | TB- Ch. 4.5 to Able to perform
+4.6, R2 the modeling of
+CSTR
+
+L. 4.3. Gas absorption TB- Ch. 4.9, R2 | Able to perform
+modeling the modeling of
+absorption
+system
+L. 4.4. Multi stage TB- Ch. 4.10, R2 | Able to perform
+distillation modeling the modeling of
+distillation
+column
+Chemical L. 5. 1. Steady state heat | TB-Ch.5.1,R2 | Able to
+systems conduction through a formulate the
+modeling: hollow cylindrical pipe conduction heat
+Models in transfer of a
+heat transfer cylindrical
+system
+
+a liquid the modeling of
+maturing tank processes
+
+L. 5. 4. Heat transfer TB- Ch. 5.5, R2
+through extended
+Surfaces
+
+L. 5. 5. Temperature TB- Ch. 5.6, R2
+distribution in a
+transverse cooling fin of
+triangular cross section
+L. 5.6. heat transfer in
+tubular gas preheater
+
+L. 5. 7. Heat loss through | TB. Ch. 5.8, R2
+pipe flanges
+
+Chemical L. 6. 1. Continuity TB- Ch. 6.1, R2 | Able to develop
+modeling:
+
+ 
+
+ 
+
+     
+     
+ 
+ 
+  
+
+ 
+ 
+
+    
+ 
+
+          
+    
+  
+  
+
+  
+
+TB- Ch. 5.7, R2
+
+ 
+     
+  
+
+systems equation for fluid flow the continuity
+Fluid flow given system
+
+equation fora
+Operations L. 6.2. Flow through a TB- Ch. 6.2, R2 | Understand the
+packed bed modeling of
+packed systems
+
+Chemical L. 7.1. Reaction with TB- Ch. 7.1, R2 | Able to perform
+
+systems diffusion in a tubular the modeling of
+
+modeling: reactor& Non Isothermal non ideal reactor
+Reaction reactors
+
+engineering L. 7.2. Reaction with heat | TB- Ch. 7.2, R2 | Able to perform
+transfer in a packed bed the nonreactor isothermal
+modeling of PFR
+
+a Save Trees.
+~~’Save the World. innovate Evel (=\ 0-4
+
+Please Do Not Print Unless Necessary
+
+fo
+
+g
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L. 7.3. Gas absorption
+with reaction
+
+TB- Ch. 7.3, R2
+
+ 
+
+L. 7.4. Reactors in series- | TB- Ch. 7.4, R2
+I- Isothermal
+
+TB- Ch. 7.5, R2
+
+L. 7.5. Reactors in senesII- Non isothermal
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Able to perform
+the modeling of
+
+absorption with
+reaction
+
+Able to perform
+the modeling of
+CSTRs in series
+Able to perform
+the modeling of
+CSTRs in series
+
+   
+
+  
+    
+ 
+
+8. Modular
+approaches
+and equation
+solving
+
+L. 8.1. Modular
+approaches to process
+simulation
+L. 8.2. Equation solving
+approach: order of
+equation sets
+
+TB- Ch. 11.2, R4
+
+L. 8.3. Tearing and SWS
+algorithm
+
+TB- Ch. 11.2,
+R4, R4
+
+   
+
+Decompositio TB- Ch. 12.1, R4
+
+n of networks
+
+L. 9.1. Tearing algorithm,
+Algorithm based signal
+flow graph
+
+   
+
+L. 9.2. Barkley and
+Motard algorithm
+
+TB- Ch. 12.2, R4
+
+L. 9.3. The basic tearing | TB- Ch. 12.2, R4
+
+algorithm
+
+L. 9.4. Kehat and
+Shacham algorithm
+
+TB- Ch. 12.3, R4
+
+Save Paper.
+mee S Save Trees.
+£ >= Agave the World.
+
+Please Do Not Print Unless Necessary
+
+TB- Ch. 11.1, R4 | Able to simulate
+the various
+equations
+
+with multiple
+reactions
+
+Able to identify
+the ordering and
+disjoining the
+equations
+
+Able to perform
+the tearing and
+equations and
+SWS algorithm
+Able to
+understand the
+various
+algorithms for
+solving
+equations
+Able to
+understand the
+various
+algorithms for
+solving
+equations
+Able to
+understand
+tearing algorithm
+for solving
+equations
+
+Able to
+understand the
+Kehat and
+Shacham
+
+ 
+   
+  
+    
+    
+ 
+
+algorithms for
+solving
+equations
+
+Pe
+
+innovate
+
+ 
+
+achieve
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L.9.5.M & Halgorithm | TB- Ch. 12.3, R4 | Able to
+understand M
+&H algorithm
+for solving
+equations
+
+10. Convergence | L. 10.1. Newton’s TB- Ch. 13.1 Able to select
+promotion and | method, Direct the suitable
+physical and | substitution method, method to solve
+thermodynami | wegstein method the set of
+C properties equations
+
+L. 10.2. Eigen value TB- ch. 13.1 Able to select
+
+methods, Quasi newton the suitable
+
+method method to solve
+the set of
+equations
+
+L. 10.3. Physical and TB- Ch. 13.2 Understand the
+thermodynamic sources to get
+properties the data
+
+. Specific L. 11.1. Auto thermal B- Ch. 14.1, R4 | Understand the
+purpose ammonia synthesis modeling and
+simulation reactor ( simulation of a
+and dynamic ammonia
+simulation synthesis reactor
+
+(carried out these | L. 11. 2. Thermal TB- Ch. 14.2, R4 | Understand the
+simulations on cracking operation modeling and
+DETCCHEM/ simulation of a
+COMSOL? thermal cracker
+AspenHysis) L. 11.3. Design of shell | TB- Ch. 14.3, R4 | Understand the
+and tube heat exchanger modeling and
+simulation of a
+Shell and tube
+heat exchanger
+
+ 
+
+6. Evaluation Scheme
+
+; (Minutes) component
+- =
+
+Open Book
+
+15 Close / Open
+ee
+| p10 Openbook
+Assignments (2) p05 Openbook
+Examination Open Book
+*Total FIVE quiz tests will be conducted. Out of these, the performance in best THREE will be considered
+for final evaluation.
+
+ 
+
+a Save Trees.
+~~’Save the World. innovate Evel (=\ 0-4
+
+Please Do Not Print Unless Necessary
+
+ 
+
+fo
+
+g
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+“Project will be on modeling of chemical engineering systems using coding/ commercial/ open
+source softwares.
+
+Important:
+
+1. Chamber consultation hour: It will be announced in the class. Prior appointment via email or
+discussion in class is encouraged.
+
+2. The notices, if any, conceming the course will be displayed on the Google
+Classroom/Nalanda only.
+
+3. Make-up will be granted for genuine cases only. Proper certificate from authenticated
+doctor, say from the BITS Medical Center, must accompany make-up application (only
+prescription or vouchers for medicines will not be sufficient). Prior permission of IC is
+compulsory. No make- up will be granted for the tutorial tests.
+
+Instructor-in-charge
+CHE F418
+
+Save Paper.
+am Save Trees.
+~ “$$ave the World. innovate
+
+Please Do Not Print Unless Necessary
+
+    
+

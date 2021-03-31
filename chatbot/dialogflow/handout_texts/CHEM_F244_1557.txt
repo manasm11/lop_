@@ -1,0 +1,177 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+AUGS/AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+Course Handout (Part IJ)
+
+Date: 18.01.2021
+
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives further specific details regarding this course.
+
+Course No. : CHEM F244
+Course Title : Physical Chemistry III
+Instructor-in-charge : RAM KINKAR ROY
+
+Scope and objective of the course: This course is designed in continuation to the Physical chemistry courses I and II, already offered to the
+students. Physical Chemistry III course is composed of two parts. In the first portion, students would be exposed to the molecular symmetry,
+principles of group theory, and its application in molecular spectroscopy. The second portion provides a comprehensive survey of various
+approximation methods in quantum chemistry.
+
+Course Description: Symmetry - symmetry operations, point groups, reducible and irreducible representations, character tables, SALC,
+degeneracy, vibrational modes IR-Raman activity identification; stationary state perturbation theory; virial and Hellmann-Feynmann theorems;
+polyatomic molecules: SCF MO treatment, basis sets, population analysis, molecular electrostatic potentials, configuration interaction, Moller
+Plesset perturbation theory; Density Functional Theory: Hohenberg-Kohn theorems, Kohn-Sham self consistent field approach, exchange
+correlation functional; molecular mechanics.
+
+Text Book (TB): TB-1: “Chemical Applications of Group Theory”, F. Albert Cotton, Wiley Student Edition, Third Edition. TB-2: “Quantum
+Chemistry”, Ira N. Levine, PHI Learning Private Limited, Sixth Edition, 2012.
+
+Reference Books (RB): “Quantum Chemistry”, Donald A McQuarrie, University Science Books (First Indian Edition 2003, Viva Books Private
+Limited)
+
+ 
+
+innovate
+
+ 
+
+A Save Paper.
+gy. Save Trees.
+~~ “4Save the World.
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+AUGS/AGSR Division
+
+ 
+
+Course Plan:
+
+Gl a _—
+
+— Module 1: Molecular Symmetry and symmetry group
+Definitions and Properties of a group, examples of groups, TB-1 2.1- 2.4 The symmetry elements and the
+Theorems of Group | subgroups, classes corresponding mathematical
+Theory operators will be leamed. The
+Symmetry elements | Plane, center of inversion, proper axis, and TB-1 3.1 —3.9 recipe of determining
+and operations improper axis, product of symmetry symmetry group of given
+_ operations, point groups molecule will be learned. The
+
+Application of Dipole moments, optical activity -13. effect of symmetry group on
+symmetry operations optical properties of molecules
+
+- Group Theory Symmetry Point Group, Symmetry TB-1 3.11 — 3.14 will be understood.
+classification of molecules
+
+Module 2: Representation of Groups
+Equivalent and Unitary representation, reducible TB-1 4.2 —4.5 Mathematical aspects of
+
+reducible representation, transformation operators. symmetry groups will be
+representation learned in more details. The
+
+9-11 Irreducible The “Great Orthogonality Theorem”, TB-1 4.2 —4.5 geal. orth ogonality theorem
+, a ay: will be introduced along with
+Pa representation characters, criterion for irreducibility, character Class notes its applications in quantum
+tables and their construction chemistry and molecular
+12-13 | Representation and | Invariance of Hamiltonian operator under TB-15.1—5.3 spectroscopy.
+quantum mechanics | transformation, direct product representation,
+vanishing integrals
+14-15 | Symmetry adapted Projection operators, construction of SALCs TB-1 6.1 —6.3
+a linear combination using projection operators.
+
+(SALC)
+
+16-19 | Molecularvibrations | Normal coordinates, vibrational levels, IR TB-1 10.1 — 10.8
+118 Re [oe Ranney saacon es |
+|__| Moduie 3: Electronic structure of polyatomic molecules: (a) Theorems SSS
+Theorems of Virial theorem and Chemical Bonding, TB-2 14.1 — 14.7 Concepts of kinetic energy,
+molecular quantum | Hellmann-Feynman theorem, Electrostatic potential energy and its
+mechanics theorem components will be revisited in
+the light of the theorems in
+molecular quantum mechanics.
+| | Module 4: Electronic structure of polyatomic molecules: (b) Molecular Orbital treatment
+Approximation The Hartree SCF Method and Hartree-Fock
+Theorem of Many SCF Method for many electron atoms
+Electron A toms
+24-29 | Molecularelectronic | SCF-MO treatment, basis functions, population | TB-2 13.15, 15.1 — Computational aspects of
+structure analysis, molecular electrostatic potential, 15.5,15.6-15.9 | Hartree-Fock will be learned in
+calculations localized MOs, SCF-MO treatment of H20 detail. The basis sets and their
+features will be introduced.
+30-32 | Configuration Configuration state functions, occupied and TB-2 11.3, 16.1, Concepts of size-consistency
+Interaction virtual molecular orbitals, excitation energy class notes and size-extensivity will be
+calculation. understood
+
+33-34 | Stationary state Perturbation treatment of non-degenerate and TB-2 9.1 — 9.7 Degenerate perturbation theory
+perturbation theory degenerate states. will be learned. A pplication of
+
+B Save Paper.
+°\Save the Wore
+
+ 
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+ 
+
+ 
+
+AUGS/AGSR Division
+35-37 | Moller— Plesset Many body perturbation theory, electron TB-2 16.2 non-degenerate perturbation to
+Perturbation theory correlation effects, Mgller— Plesset Hartree-Fock wavefunction will
+perturbation of 2™, 3 and 4" order be learned.
+
+a Module 5: Electronic structure of polyatomic molecules: (c) Alternate approaches
+Valence-Bond Coupling of electrons, bond eigenfunction, TB-2 16.8
+STUDY | approach application of Valence-Bond treatment to
+different polyatomic molecules
+38-42 | Density Functional Hohenberg-K ohn Theorem, Kohn-Sham TB-2 16.4, class Basic concepts of DFT will be
+Theory method, exchange correlation functional, notes understood.
+hybrid functional
+
+Evaluation Scheme: (Total 200 Marks)
+Continuous 0 (each) To be announced in
+
+Comprehensive 120 40 07/5 FN
+Examination
+
+> Assignment Tests, Quiz Tests, Computational assignments, etc.
+
+ 
+
+ 
+
+Chamber Consultation Hours: To be announced in class.
+Notices: Notices, if any, concerning the course will be displayed on nalanda.bits-pilani.ac.in.
+Make up policy: Make up request would be considered only for genuine cases.
+Instructor in charge
+
+CHEM F244
+
+ 
+
+B Save Paper.
+\ Save the World
+
+innovate
+
+ 
+
+Please Do Not Print Unless Necessary
+

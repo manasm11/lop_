@@ -1,0 +1,188 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F346
+Course Title : Data Communications and Networks
+Instructor-in-C harge : HARSHAVARDHAN S
+
+Instructor(s) :
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Communication Concepts; Data and Voice Communications; Hardware Systems and
+Configurations; Network Topologies and Design Aspects; Protocols; Networking Local Area Networks;
+Network Security and Management; Emerging Trends in Communications.
+
+2. Scope and Objective of the Course: A communication network is one of the fastest growing areas today.
+The course introduces the concepts and mechanisms underlying the modern telecommunication systems and
+networks. The course is designed in such a way that the course is accessible to students without any special
+technical background in this area. The OSI model is used as a framework to introduce different protocols
+and standards. The course will prepare the student for advanced courses in the areas: telecommunication
+switching systems, computer networks, and internetworking etc.
+
+3. Text Books:
+Behrouz A. Forouzan, Introduction to Data Communications and Networking, oth Edition, McGraw- Hill
+Publishing Company Ltd., New Delhi, 2013.
+
+4, Reference Books:
+I. William Stallings, Data and Computer Communications, Seventh Edition, Pearson Education, Delhi.
+
+II. Kurose and Ross, Computer networking: A Top-Down A pproach, 6th Edition, Pearson Education.
+III. | Bertsekas and Gallager, Data networks, 2nd Edition, Pearson Education, Delhi.
+
+IV. Alberto Leon-Gracia, Indra Widjaja, Communication Networks: Fundamental Concepts and Key
+Architectures, Second Edition, Tata-McGraw Hill, 2004.
+
+5. Course Plan:
+
+Data Communications - Components, Data 1
+Representation, Data Flow
+
+icati To introduce the basic protocols and
+, standards used in networks. To get the
+Network Criteria, Physical Structures, Network overall idea of network models and
+Protocols, Standards, Standard Organizations &
+Internet Standards
+
+1
+1.4
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+47 Layered Tasks, The OSI model, Functions of 11.95 22 To describe the functions of different
+Physical layer network models (OSI and TCP).
+
+Functions of Data link layer and Network layer 3
+3
+1
+4
+
+ 
+
+Functions of Transport, Session and Presentation 5
+layer
+Function of A pplication layer, TCP/IP Protocol Ter
+Suite
+
+Signal forms and their characteristics. 3.1, 3.2, 3.3 | To learn the different forms of signals
+
+Transmission Impairment, Data Rate limits, and their characteristics.
+Need of multiplexing, Classification of FDM, To learn different multiplexing and
+WDM, Synchronous TDM spread spectrum techniques
+Statistical TDM, Spread Spectrum, Transmission 6.1, 6.2, Ch
+|
+classification 8. network classification.
+18-20 To learn different error detection
+
+Line Coding, Pulse code modulation, Delta 1142.43 To learn the digital transmission and
+modulation, Transmission modes sn analog to digital conversion
+Linear block codes techniques in the received data.
+Cyclic codes, Checksum 10 .4, 10.5
+Framing, Flow Control and Error Control, 11.1,11.2,11 | To learn the protocols for data link
+Protocols, Noise less channels 3, 11.4 control.
+Noisy channels, HDLC 11.5, 11.6
+3
+
+oe 12.1,12.2 To learn different types of multiple
+23-24 Random access, Controlled access, Channelization
+12. access techniques.
+
+Project 802, Standard Ethemet To analyze the working of Ethernet
+(Wired LAN) and different speeds in
+
+Changes in the standard, Fast Ethernet, Gigabit 13.3, 13.4,
+Ethernet
+Ethernet 13.5
+
+KO
+—
+i)
+i)
+
+27-29 IEEE 802.11 (Wireless Ethemet) To learn and understand the different
+: wireless (IEEE 802.1 and Bluetooth)
+Bluetooth (Complex technology For Small wireless
+
+LAN) 14.2 LAN techniques.
+
+. 17.1, 17.2 To understand SONET and
+30-31 Architecture, SONET layers, SONET frames a
+17.3 multiplexing through SONET.
+
+STS multiplexing, SONET networks, Virtual 17.4,
+tributaries 17.5,17.6
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+To understand the frame relay and
+32 Basic Concept of Frame Relay and ATM Ch-18
+ATM
+Need of network layer, IPv4 addresses, IPv6 11 108 To explain the logical addressing in
+addresses a the network layer
+. 23.1, 23.2, To learn different process in transport
+35-36 Process to process delivery, UDP, TCP
+23.3 layer
+— Name space, Domain Name Space, Distribution of | 25.1, 25.2, To learn the different application layer
+Name Space 258 protocols.
+
+ 
+
+Remote login, Electronic Mail and File Transfer, rh. 56
+HTTP, WWW
+Digitization of audio and video, and their To explain the different Multimedia
+39-40 . 29.1, 29.2 ee
+compression transmission in communication
+
+OO
+OO
+oO
+os
+
+Message Security and User Authentication 31 its applications. To learn the security
+advancements in networking
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+Mid-Semester Test <TEST 1> Close Book/Open Book
+2h
+
+40 <TEST C> Close Book/Open Book
+
+ 
+
+co | |e
+
+Examination
+
+Quiz === | ~S = ~~] ~—15) | Spread across semester_| Close Book/Open Book |
+Assignment [= [15 | Willbeannounced [Open Book
+
+ 
+
+7. Chamber Consultation Hour: To be announced by the Instructor-in-charge.
+8. Notices: Notices concerning this course will be displayed on nalanda.bits-pilani.ac.in.
+9, Make-up Policy: Make-up would be granted only for genuine cases with prior permission
+
+Instructor-in-charge
+Course No. BITS F346
+

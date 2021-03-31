@@ -1,0 +1,370 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT (New student)
+Date: 10.03.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No > PHY F111
+
+Course Title : Mechanics, Oscillations and Waves
+Instructor-in-Charge: Srijata Dey
+
+Instructor(s): Rishikesh Vaidya, D. Bandyopadhyay, Kaushar Vaidya
+
+Tutorial Instructors: Anshuman Dalvi, Biswanath Layek, D. Bandyopadhyay, D.D. Pant, Kaushar Vaidya,
+V. Manjuladevi, Niladri Sarkar, Tapomoy G. Sarkar, Sandipan Dutta, Srijata Dey.
+
+1. Course Description: The first half of the course deals with the applications of Newton’s laws to the
+systems of particles and the study of linear and rotational motion using polar coordinates and physics of
+non-inertial reference frames. The second half deals with oscillatory motion, coupled oscillations and
+waves. There will be three lecture hours and one tutorial hour per week. Whereas the lectures would
+mostly focus on concepts and illustrative examples tutorial hour will be used to discuss representative
+problems from the chapters. Tutorial will follow the lectures as closely as possible.
+
+2. Scope and Objective of the Course: Mechanics, Oscillations and Waves is a foundation course in Physics
+that is mandatory for all the first degree students.
+
+3. Text Books:
+T1: An Introduction to Mechanics by Kleppner & Kolenkow, Tata McGraw-Hill Indian Edition, 1999
+
+T2: Vibrations and Waves, by A.P. French, CBS Publishers and Distributors, Inc., first Indian edition 1987.
+
+4. Reference Books:
+(a) Physics, Vol.1, by Halliday, Resnick, & Krane, 5‘ Edition, John Wiley & Sons, Inc., 2002
+(b) The Physics of Waves and Oscillations by N K Bajaj, Tata McGraw-Hill 1984.
+ 
+
+ 
+
+5. Course Plan:
+
+1. Foundations of
+Newtonian Mechanics
+and Polar
+Coordinates.
+
+3.Work and Energy
+
+4.Angular Momentum
+and Fixed Axis
+Rotation
+
+5.Non-inertial Frames
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Topics from Text Book 1 (T1) : Kleppner & Kolenkow
+
+Module Number Lecture /Tutorial Session. Learning Outcome
+
+T1: Sec. 1.9 in
+Chapter 1;
+Chapter 2 and
+problems
+related to polar
+coordinates in
+Chapter 2.
+
+L1: Critical overview of Newton’s
+laws
+
+L2: Introduction to motion in plane
+polar coordinates
+
+L3: Illustrative examples on polar
+coordinates
+
+L4: Extended systems and motion of
+center of mass
+
+L5: Conservation of momentum its
+applications and impulse
+
+L6: Mass varying systems and their
+applications
+
+T1: Chapter 3
+
+L7: Work energy theorem and
+concept of potential energy
+
+L8: Conservative and nonconservative forces.
+
+L9: Physics from energy diagrams
+L10: Oscillatory systems and
+Stability analysis
+
+T1: Chapter 4
+(except section
+4.14 and
+problems
+related to
+section 4.14)
+
+L11: Angular Momentum and
+Torque in a fixed axis rotation
+
+L12: Momentum of inertia and
+dynamics of pure rotation.
+
+L13: Dynamics of Rotation and
+
+T1: Chapter 6
+
+translation
+L14: Conservation of Angular
+Momentum
+L15: Angular Oscillations and
+
+Stability analysis
+
+L16: Galilean transformations,
+uniformly accelerated frames and
+pseudo forces
+
+L17: Principle of equivalence
+
+T1: Chapter 8
+
+L18: Physics in rotating coordinate
+system
+L19: Illustrative problems
+
+1. Critical appreciation of Newton's laws
+
+2. Given a motion of a body involving circular
+geometry identify the radial and tangential
+components of forces and draw a free body
+diagram.
+
+3. Solve second order linear differential
+equation with constant coefficients through
+simple guess work.
+
+1. Description of an extended system
+(discrete or continuous) in terms of motion of
+center of mass.
+
+2. Formulating momentum conservation
+(when applicable) with appropriate velocity
+components referring to inertial systems.
+
+3. Formulating and solving the equation of
+motion of a mass varying system.
+
+1. Application of work energy theorem for
+conservative systems.
+
+2. Calculation of power for non-conservative
+system
+
+3. Constructing energy diagrams and
+extracting physical insights.
+
+4. Stability analysis and finding frequency of
+small oscillations.
+
+1. Finding angular momentum and torque
+about various choices of fixed axis.
+
+2. Examining and exploiting conservation of
+angular momentum to find quantity of interest.
+3. Solving problems involving rotational and
+translational motion about fixed axis.
+4. Finding frequency of small
+oscillations.
+
+ 
+
+angular
+
+1. Learning to formulate and solve a problem
+from both inertial and non-inertial reference
+frames.
+
+2. Understanding the relevance of non-inertial
+
+frames, principle of equivalence and _ their
+connection to physics of tides.
+
+ 
+ 
+
+6. The Free Vibrations
+of Physical System.
+
+7.Forced Oscillator
+and Resonance
+
+8.Coupled Oscillators
+and Normal Modes
+
+9.Normal Modes of
+Continuous Systems
+
+10.Progressive Waves
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Topics from Text Book 2 (T2) : A.P. French
+
+L20: Simple harmonic motion (SHM) | T2: Chapter 3
+for different physical systems
+
+L21: SHM equation
+
+L22: The decay of free vibrations
+
+L23: Effect of very large damping
+
+L24: Undamped oscillator with | T2: Chapter 4
+harmonic forcing
+
+L25: Forced oscillator with damping
+
+L26: Effect of varying the resistive
+
+term
+
+L27: Power absorbed by a driven
+
+oscillator
+
+L28: Velocity and power resonance
+
+L29: Two coupled pendulums T2: Chapter 5
+L30: Normal coordinates, Normal
+
+modes, normal frequencies.
+
+L31: Illustrative problems
+
+L32: Forced oscillations of two
+
+coupled oscillators
+
+L33: Many coupled oscillators
+
+L34: The free oscillations of | T2: Chapter 6
+stretched strings
+
+L35: Normal modes of a stretched
+
+string, forced oscillations of a
+
+stretched string
+
+L36: Progressive waves in one | T2: Chapter 7
+dimension
+
+L37: Superposition, motion of wave
+
+pulses of constant shape
+
+L38: Phase and group velocity
+
+L39: Energy and its transportation
+
+by a wave
+
+1. Finding angular frequency of different
+oscillating systems.
+
+2. Solving SHM equation using complex
+exponential.
+
+3. How the free vibrations get modified by
+including the dissipative effects.
+
+4. Calculating the quality and amplitude of
+damped systems.
+
+1. Distinguish between natural and driving
+frequencies.
+
+2. Finding the amplitude of a forced oscillator
+as a function of driving frequency.
+
+3. Finding average and maximum power input
+to maintain the oscillations.
+
+1. Finding equation of motion of coupled free
+systems.
+
+2. Calculation of normal mode frequencies.
+3. Finding equation of motion of coupled
+forced systems
+
+4, Determining normal modes and their
+frequencies for N coupled oscillators.
+
+1. Calculating linear density of a uniform sting
+2. Finding the permitted frequencies for the
+free vibrations in strings.
+
+3. Finding the driving frequency for the
+amplitude resonance of vibrating string.
+
+1. Identifying different types of waves.
+
+2. Distinguish particle, phase and group
+velocities in wave motion.
+
+3. Applying the relationship between phase
+velocity and group velocity. Finding the
+energy transported by a wave.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+Duration | Weightage Date & Nature of component
+(%) Time (Close / Open Book)
+, T
+
+BA
+BA
+
+15 min. 26.66 Open/ Closed
+
+Each student must accept the invitation to join the Google classroom for his/her Lecture section
+and Tutorial sec. The Tutorial Tests will be conducted in the classroom of each Tut. Section and
+not in any lecture section.
+
+ 
+
+7. Online Consultation Hour: To be announced in the tutorial class.
+8. Notices: Streamed on the classrooms of lecture classes/Tutorial sections.
+
+9. Make-up Policy: As per Institute rules.
+
+Instructor-in-charge
+Course No. PHY F111
+

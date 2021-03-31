@@ -1,0 +1,142 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+AUGS/ AGSR Division
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No - PHY F421
+Course Title : Advanced Quantum Mechanics
+Instructor-in-C harge : Rakesh C houbisa
+
+1. Course Description: This course will cover advanced topics of quantum mechanics. The course will start
+with a quick recapitulation of the basics. Then it will discuss some topics which a Master student is expected
+to know: such as symmetries, time-dependent perturbation, scattering, and indistinguishable particles. This
+course will give a glimpse of an alternate formulation of quantum mechanics (path integral formulation) and
+will also extend the study of quantum mechanics in the relativistic regime. This course will also time to time
+highlight some applications of quantum mechanics.
+
+2. Scope and Objectives of the C ourse:
+
+e Quantum mechanics of time-dependent systems will be discussed
+
+e The scattering of quantum particles will be discussed
+
+e The role of symmetries in quantum mechanics will be emphasized (concept of group theory will be
+introduced)
+
+e Quantum mechanics of indistinguishable particles will be discussed (discussion on Bosons and
+Fermions)
+
+e The path integral formulation of quantum mechanics will be introduced
+
+e Quantum mechanics in the relativistic regime will be discussed
+
+3. Text Books: Modern Quantum Mechanics (2 ed.) by J. J. Sakurai and J. Napolitano, Pearson
+
+4, Reference Books:
+J. Quantum Mechanics (4" ed.) by L. I. Schiff, McGraw-Hill
+2. Principles of Quantum Mechanics (2™ ed.) by R. Shankar, Springer
+3. Quantum Mechanics: Fundamentals (2¢ ed.) by K. Gottfried and T. -M. Yan, Springer
+4. Lectures on Quantum Mechanics by G. Baym, Westview
+5. Group Theory and Quantum Mechanics by M. Tinkham, McGraw-Hill
+
+5. Course Plan:
+
+1. Recapitulation | L1.1-1.2 State vector, opera- Class notes Students will get a chance to
+of basics tor: wave function, observa- refresh their memory
+bles; Schrodinger equation
+
+2. Approximate L4.1 Variational Methods TB. Chap. 5.4 Students will learn how to apmethods L4.2-4.3 The WKB Method R2. Chap. 16.2 proximately solve quantum
+
+L4.4-4.7 Time-dependent Per- | TB. Chaps. 5.5- | mechanical problems which
+turbation Theo 9.9 are not analytically solvable
+3. Scattering theo- | L5.1-5.2 Scattering amplitude | TB. Chaps. 6.1- | Students will learn about this
+ry L5.3 The Born approximation | 6.7 very important process in the
+L5.4 Partial wave analysis quantum mechanical regime
+L5.5 Eikonal approximation
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+AUGS/ AGSR Division
+
+L5.6 Low energy scattering
+Lo.7 Resonance scattering
+4, Symmetries L2.1 Transnational Symmetry | TB. Chap. 4 Students will get an underL2.2-2.4 Rotational Symmetry | R1. Chap. 4 standing of the role of symmeL2.5-2.6 Discrete Symmetries | R2. Chaps. 11-12 | tries and will learn how to exL2.7-2.8 Gauge Symmetries TB. Chap. 2.7 ploit it to simplify a problem
+5. Alternative L3.1-3.2 Path Integral Formu- | TB. Chap. 2.6 Students will get a glimpse of
+formulation lation R2. Chap. 8 this alternative formulation of
+Quantum Mechanics
+
+6. Identical parti- | L6.1 Permutation symmetry TB. Chaps. 7.1- | Students will learn how to
+cles L6.2 Symmetrization postulate | 7.5 solve multi-particle quantum
+L6.3 Two electrons system systems
+
+L6.4-6.5 Multiparticle states
+7. Relativistic L7.1 Introduction TB. Chaps. 8.1- | Students will get an exposure
+quantum Mechan- | L7.2 The Dirac equation 8.4 of the relativistic particles in
+ics L7.3 Symmetries of the Dirac | R3. Chap. 13.3 the quantum regime
+
+equation
+
+L7.4 The central potential
+
+L7.5 The electromagnetic in
+teraction of Dirac particles
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open
+ee
+
+Mid-Semester Test | 90 Min. | Min.
+
+Comprehensive oe 7 [$< FN
+Examination
+
+Tutorials pf Will be announced inthe | Total four tests will be
+class.
+
+conducted, of which
+Assignments | S| OSS
+
+7. Chamber C onsultation Hour: Will be announced in the class.
+
+best three will be
+counted.
+
+  
+
+8. Make-up Policy [Strict]: Strictly no make up for the tutorials. If the student is unable to appear for the
+Regular Test/Examination due to genuine exigencies**, the student must refer to the procedure for applying
+for Make-up Test/Examination. [**Sickness leading to hospitalization and out-of-station with prior
+permission from/intimation to the IC]
+
+9, Note (if any): It shall be the responsibility of the individual student to be regular in maintaining the self
+study schedule as given in the course handout and attend lectures. Mid Semester Test and Comprehensive
+Examination are according to the Evaluation Scheme given in the Course Handout.
+
+(Rakesh C houbisa)
+Instructor-in-charge
+Course No. PHY F421
+

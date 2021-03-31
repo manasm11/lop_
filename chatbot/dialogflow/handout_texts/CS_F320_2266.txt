@@ -1,0 +1,245 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout Part II
+Date: 16/01/2021
+
+In addition to part-I (General Handout for all courses appended to the timetable) this
+portion gives further specific details regarding the course.
+
+Course No. : CS F320
+
+Course Title : Foundations of Data Science
+Instructor-in-charge : NAVNEET GOYAL (goel@)
+Course TA : Ayushi Gaur (p20190023@ )
+
+Catalog Description
+
+Data Science is the study of the generalizable extraction of knowledge from data. Unprecedented
+advances in digital technology during the second half of the 20th century and the data explosion
+that ensued in the 21% century is transforming the way we do science, social science, and
+engineering. Application of data science cut across all verticals. A data scientist requires an
+integrated skill set spanning mathematics, probability and statistics, optimization, and branches of
+computer science like databases, machine learning etc. The course aims at providing the
+mathematical and computer science foundations required for data science.
+
+Text & Reference Books:
+T1. Foundations of Data Science - Avrim Blum, John Hopcroft, Ravi Kannan, January, 2018.
+R1. Machine Learning: An Algorithmic Perspective — Stephen Marsland, CRC Press,
+2e, 2015.
+R2. Pattern Recognition & Machine Learning — Christopher M Bishop, Springer, 2006.
+R3. An Introduction to Data Science — Jeffrey Saltz and Jeffrey Stanton, Sage Publications,
+September 2017.
+
+LECTURE PLAN (42)
+
+ee Re
+Lectures | Reference
+Course Overview & . Motivation/course objectives T1-—Ch. 1
+Introduction to Data . Some motivating applications Class Notes +
+Science . Data Dimensionality web resources
+. Types of Data
+High-dimensional data . Characteristics of High-dimensional data | 4 T1—Chs. 2, 3
+& Curse of a. Law of large numbers
+Dimensionality b. Geometry of HD
+c. Vectors in HD
+d. Gaussians in HD
+. Curse of Dimensionality (CoD)
+a. Sparsity
+b. Nearest Neighbor search
+c. Concentration of Lp-norm
+. Dimensionality Reduction Techniques —
+PCA & SVD
+
+ 
+Frequentist vs. Bayesian
+approach to Probability
+
+Probability
+Distributions and
+Mixture Models
+
+O ptimization
+Techniques
+
+Function
+Approximation
+Techniques
+
+Tensors
+
+Machine Learning
+Basics
+
+Markov Chain Monte
+Carlo (MCMC)
+Methods
+
+Probabilistic G raphical
+Models
+
+Class Notes +
+https://sites.go
+ogle.com/site/
+bayestutorial/
+R2—Ch.2,
+Appendix B
+
+. Frequentist Approach
+
+. Bayesian Approach
+
+. Pnor to Posterior — Bayes’ Theorem
+
+. MLEvs. MAP
+
+. Exponential family of distributions
+(Beroulli, Beta, Binomial, Dirichlet,
+Gamma, & Gaussian)
+
+. Mixture Models — Mixture of Gaussians
+
+. Unconstrained/Constrained optimization
+
+. Convex Optimization & Lagrange
+Multipliers
+
+. Quadratic Programming
+
+. Primal/dual
+
+. Kemels
+
+. Gradient Descent & its variants
+
+. Basis Functions
+
+. Splines
+
+. Mixture Models
+
+Class Notes
+
+R1: Chs. 5,7
+
+. Introduction to Tensors
+
+. Tensor Algebra
+
+. Tensor Calculus
+
+. Modeling multidimensional data using
+Tensors
+
+. Supervised Learning
+a. Regression (polynomial, linear basis
+function models)
+b. Classification (Naive Bayes, Decision
+Tree, SVM, NN)
+
+. Unsupervised Learning
+a. K-means Clustering
+b. Expectation Maximization Clustering
+c. Self-Organizing Maps (SOMs)
+
+. Anomaly Detection
+
+. Machine Learning, Function Estimation,
+& Optimization
+
+. Model Underfitting & Overfitting
+
+. Model Selection & Complexity
+a. Occam’s Razor
+b. VC dimension
+c. Structural Risk Minimization
+d. Bias Variance Decomposition
+
+1. Gibbs Sampling 2.
+2. Metropolis Hastings Algorithm
+
+1. Markov Models
+2. Hidden Markov Models (HMM)
+
+http://web.iitd.
+ac.in/~pmvs/c
+ourses/mcl702
+/tensors.pdf
+
+T1—Chs. 5,7
+R1 — Chas. 24.8,12,14
+R2—Chs.
+1,3,9
+R3—Ch. 18
+
+ 
+
+T1: Ch. 4
+R1: Ch. 15
+R2: Ch. 11
+
+3. Bayesian Belief Networks (BBN)
+4, Markov Random Field (MRF)
+
+ 
+Time-series Data & . Importance & Characteristics of time Class Notes +
+Analytics series data web resources
+. Sources of time series data
+. similarity Metrics & Dynamic Time
+Warping
+. Multi-variate Time Series Data — IoT
+Data
+. Time Series analytics:
+a. Regression
+b. Classification
+c. Clustering
+d. Anomaly Detection
+
+Big Data & Big Data 1. Introduction to Big Data Analytics T2 —Ch. 20
+Analytics 2. Big Data- sources & applications
+
+{Manon sn vane social Media Data
+Frameworks 2. Seatac web resources
+
+Data Visualization . Visualization Foundations T2 —Chs.
+. Visualization Pipeline 12,13
+. Scalar, Vector, & Tensor Visualization
+. Visualization Techniques for Spatial,
+Geospatial, & Time-series Data
+. Role of SOMs in Data Visualization
+
+Evaluation Scheme:
+
+Date (Time)
+TBA
+TBA
+13/05 (FN)
+
+ 
+
+ 
+
+Labs. on R: No structured lab. sessions, but students will be provided with Lab. sheets
+on important topics.
+
+Notices: All notices will be uploaded on NALANDA only.
+
+Chamber Consultation Session: Online session once a week (M-10). Interested
+student(s) need to inform aprioni if a session is required.
+
+Makeup Policy: To be granted only in case of serious illness or emergency.
+
+Email Policy: Communication through email is highly discouraged. If you want to
+discuss anything, attend the chamber consultation session. Academic queries/doubts can
+be posted on NALANDA (a discussion forum will be created)
+
+Plagiarism Policy: If any student is found involved in any kind of plagiarism in any of
+the evaluation components, the matter will be directly reported to the Examination
+Committee.
+
+NC Policy: Students securing 10% or less marks will get an NC grade. Students in the
+[10-15%] bracket are also likely to get NC.
+
+Instructor-in-charge
+CS F320
+

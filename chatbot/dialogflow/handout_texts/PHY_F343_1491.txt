@@ -1,0 +1,367 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+ 
+
+Course Handout Part-I]
+15 January 2021
+
+Course Number : PHY F343
+Course Title : NUCLEAR AND PARTICLE PHYSICS
+Instructor-in-charge: BISWANATH LAYEK
+
+Course Description:
+
+The course is designed to give a pedagogical overview and some working knowledge of theoretical
+(mainly) and experimental aspects of Nuclear & Particle Physics. Knowledge of quantum
+mechanics and basics of special relativity are essential to understand the topics covered in this
+course. This course will prepare/motivate students to take advanced courses either in Nuclear and/or
+Particle Physics, later on, in their career in preparation for pursuing active research in these areas.
+
+Objective and Scope of the C ourse:
+
+e Understanding the basic concepts behind the various Nuclear & Particle Physics
+phenomenon, structure and constituent of the nuclei.
+
+e This course will enable the students to understand the general properties of nuclei, physics
+behind nuclear processes e.g., alpha decay, beta decay, nuclear scattering, nuclear fission,
+fusion etc.
+
+e It will finally prepare the students to take advanced course in the area of Nuclear
+Physics/Particle Physics and help them in making career in teaching/research in the above
+fields.
+
+Text and reference books :
+
+(Note : For the topics on nuclear physics, you are advised to purchase the book by D .C.
+Tayal)
+
+3. Text Book: (I) Theoretical Nuclear Physics; J. M. Blatt & V. F. Weisskopf, Dover Publications,
+New Y ork
+
+(II) Introduction to Elementary Particle Physics, David J. Griffiths, 2"¢ Revised Ed., Wiley, 2008
+4, Reference Book:
+
+(I) Nuclear Physics by D. C. Tayal by Himalaya Publishing House, 5“ Edition 2008 (purchase
+this book, if possible)
+
+Save Paper.
+-_ i Trees.
+£ * ~s$ave the World. innovate re Te lead
+
+Please Do Not Print Unless Necessary
+
+ 
+ 
+
+(II) Nuclear Physics; S. N. Ghoshal, $. Chand Company Ltd.
+
+Pilani Campus
+Instruction Division
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+(II) Quarks and Leptons: An Introductory Course in Modern Particle Physics, F. Halzen and A.
+Martin, Wiley, 2008
+
+5. Course Plan: In the reference column CN stands for Class Notes.
+
+course and finally
+
+2. Addition of
+A ngular Momentum
+
+3. General
+Properties of Nuclei
+
+ 
+
+LI: os introduction of _
+course inview of its
+necessity in the context of
+fundamental physics, the
+course structure will be briefed
+to have an idea what are on
+offer
+
+L2-L3: Angular
+momentum (spin and orbital)
+algebra: A brief review
+
+L4-L6: Nuclear size,
+charge, spin, magnetic
+moments, binding energies, || CN
+packing fraction and
+separation energy
+
+Textl :
+
+L7-L8 : Nuclear electric
+dipole moment, quadrupole
+moment, calculation of
+quadrupole moment
+spherically symmetrical &
+
+ 
+
+ve the World.
+
+Chapter- I,
+
+ee will be able to
+understand how does
+this course fit into the
+overall scheme of
+fundamental physics
+
+Possible values of
+nuclear spin can be
+realized through the
+‘addition’ of spin of its
+constituents, namely
+proton & neutron and
+can be compared with
+observations of nuclear
+spin.
+
+This gives an overview
+of the general static
+properties of the nuclei.
+Derivation of mass and
+binding energy formula
+etc.
+
+a
+
+achieve
+
+ 
+
+innovate
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ellipsoidal charge distribution
+
+A, Semi-empirical || L9- L10: Bethe-Weizsacker Ref1 : Students should
+
+Mass Formula Nuclear Mass formula and its Chapter— |} appreciate that
+applications in understanding 9.6 importance of binding
+the fission, nuclear decay, energy curve which is
+concept of mirror nuclei & its the heart of nuclear
+application, physics
+
+5. Deuteron L11 - L12 : Deuteron as a two] Textil It is devoted to the study
+Problem body problem, Its radial wave}} (Chap-II) on}} of nuclear force via the
+function using central Deuteron solution of Deuteron as
+potential Problem and || a two body problem.
+Nuclear
+
+L13: Quadrupole and Force
+
+magnetic moments of the
+deuteron
+
+Ref. (I) and |] It enables them to learn
+L14-L16. Nuclear CN basics of nuclear
+scattering, scattering scattering processes
+amplitude, cross-sections, (which is another way to
+phase shift & partial wave get information about
+analysis, optical theorem& nuclear force among its
+low energy n-p scattering, constituents), low
+Scattering length & spin energy n-p scattering
+dependence of n-p scattering and physics involved in
+these.
+
+7. Radioactive L17-L18 : Energetics of Text/Ref. | |
+Decay of Nuclei : || alpha decay, Geiger’s law, |} Chap on Leaming about physics
+A Ipha decay Geiger-Nuttal Law & Nuclear _ || involved in the alpha
+
+Gamow’s theory of alpha and beta decays.
+decay Gamow’s theory of
+
+alpha
+
+ 
+
+a
+
+   
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+    
+    
+   
+   
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+8. Radioactive L19-L21: Energetics of betal| Text/Ref.
+Decay of Nuclei : || decay, energy and angular Chap on
+Beta decay momentum conservation in Nuclear
+
+beta decay, Pauli’s Neutrino |} alpha & beta
+
+hypothesis, Fermi’s theory of || Decays
+
+beta decay, selection rules,
+
+allowed and forbidden
+
+transitions, Fermi & Gamow
+Teller types of beta decays
+
+.Pauli’s neutrino
+hypothesis in the contex
+of beta decay . Fermi’s
+
+theory of beta decay
+
+Ref. Chap on |/Enable them to become
+L22 - L23 : Nuclear Reactions, familiar by the concepts
+Nuclear Fission & Fusion, of nuclear fission &
+Criticality Condition fusion and various types
+of nuclear reactions.
+
+10. Nuclear Shell L24 : Nuclear stability and Ref.: Chap |} It gives the concept of
+
+Model existence of magic numbers, |! on Nuclear || existence of magic
+Independent Particle Nuclear || wodels numbers related to the
+shell Model stability of the nuclei.
+
+11. Relativistic L25: A brief review of It tells how to solve
+Kinematics relativistic kinematics, problems related to
+conservation of energy- relativistic nuclear
+momentum in non-relativistic |} Text-II, CN || collisions using
+and relativistic collisions conservation of four
+momentum and concept
+of special relativity.
+
+12. Subatomic L26-L31: Brief history of
+‘Particles’, Classification of It gives a brief history
+particles based on interaction about particles and
+(strong, EM, & weak) , development of particle
+
+. Text-II, CN
+
+various quantum numbers & physics. It also gives
+conservation laws, Gell- ways of classification of
+Mann’s eightfold-way of particles.
+Hadrons.
+
+Save Paper.
+me Save Trees.
+7 ASave the World.
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+Outcomes of DIS
+quarks, ‘Fitting’ quarks inside experiments & Quark
+the hadrons. Model of hadrons
+Text-II, Ref- |} enable them to know
+II, CN the constituents of the
+
+hadrons as per the
+modern particle physics
+perspectives.
+
+L34-L35: Introducing the Understanding or
+concept of flavor symmetry explaining various
+
+and it’s consequences. Ref-II kinematic properties of
+Understanding eightfold-way hadrons by imposing
+within flavor symmetry. flavor symmetry.
+
+L36 - L37: Construction of Phenomenological
+hadron wave-function and understanding of
+introducing ‘color’ degree of magnetic moments of
+freedom. hadrons within quark
+Text-II .
+model. The necessity of
+color and it’s dynamical
+
+role in strong
+
+     
+
+interactions.
+
+Evaluation Scheme:
+
+Evaluation Duration Weight Date, Time || Nature of
+Component & Venue
+
+(%)
+Tutorials/Quiz - 4 en | Lect/Tut Hour |}Open Book
+
+0
+Mid Term Test <TEST> Open Book
+
+Save Paper. | 5 om
+ae) Save Trees. |
+f >= ASave the World. nn CE aT
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+a
+
+Notices: Notices/assignments/solutions etc. will be displayed only on Google Classroom.
+
+ 
+
+ 
+
+Make-up Policy: No Make-up for tutorial tests. Make up for regular tests will be granted to
+genuine cases only with prior intimation to / permission (if possible) from me.
+
+Instructor-in-Charge
+
+BISWANATH LAYEK
+
+PHY F413
+
+ 
+
+Save Paper. >
+>), Save Trees. 4
+gm ve the World. Tae) oe Total -]
+
+Please Do Not Print Unless Necessary
+

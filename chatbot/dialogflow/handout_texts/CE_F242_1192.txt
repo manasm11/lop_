@@ -1,0 +1,206 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020 - 2021
+C ourse Handout Part-II
+Date: 16-01-2021
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives further specific details
+
+regarding the course.
+Course No. : CE F242
+Course Title : CONSTRUCTION PLANNING & TECHNOLOGY
+
+Instructor-in-charge :G MUTHUKUMAR
+Lecture Instructors :G.Muthukumar, Mukund Lahoti
+Tutorial Instructors : Mukund Lahoti (Sec 1), Shreyas Pranav (Sec - 2)
+
+1 Course Description: The course deals with planning techniques, engineering economy, valuation including estimation
+& costing, system design, construction methodologies ranging from small buildings to large infrastructure projects,
+construction technologies including recent advancement. Relevant Indian Standard codes of practices will be given
+
+emphasis.
+
+2 (a): Scope of the C ourse:
+The scope of the course is to know the various aspects of construction planning and management right from the
+
+knowledge of various activities till the estimation, costing, valuation, tendering etc., Though this course covers wider
+
+infrastructure projects, the primary focus will be on building and road infrastructure.
+
+2(b): Objectives of the course:
+To understand the different construction projects and basic objective of project management [Module - I]
+
+To understand the project management techniques (CPM and PERT) [Module - IT]
+
+To analyze the various requirements of manpower and other resources | Module-IIT]
+
+To analyze the various control methodologies keeping in line with project requirements [Module-IV ]
+To get exposed to construction contracts and tenders [Module-V |
+
+To estimate the quantity and rate of different building components (including materials) [Module VI]
+To discuss the various aspects of valuation of properties [Module VII]
+
+To highlights various aspects of construction quality and safety with case studies [Module VIII]
+
+To understand the best practices of construction management [Module IX]
+
+3 (a). Text Book:
+> TI. Gupta R. (2015) “Construction Planning & Technology”, CBS Publishers, New Delhi.
+
+> T2. Punmia, B.C. (2008). “Building Construction’, Laxmi Publication Pvt. Ltd., New Delhi.
+
+VV VV VV VV WV
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+3 (b). Reference Books:
+
+R1. Kumar Neeraj Jha, Construction Project Management, Pearson India publications
+
+R2. K.K. Chitkara Construction Project Management, Tata McGraw Hill publications.
+
+R3. David Pratt, Fundamentals of Construction Estimates, 3™ edition, Cengage publications.
+
+R4. Albert Lester, Project Management, Planning and Control, 7" edition, BH (Elsevier) publications
+
+R1. Relevant B.I.S Codes and SP-7, [National Building code (NBC) of India, - latest versions — two volumes]
+
+VVVV V
+
+4, Course Plan
+
+Lec.
+
+Introduction to Construction Industry To get overall exposure about construction
+
+Construction Project categories management principles
+
+management Project classification
+Project Life cycle
+Project participants
+Project Management and Functional
+Management
+
+Project Scheduling Project Networking Techniques
+
+with CPM and Construction of Project Network
+
+PERT Path of the project along with various
+steps
+Determination of critical path and
+activities, crashing of network
+
+Resource Planning Planning construction manpower
+
+including time Planning construction materials
+
+planning Project construction equipment including
+selection of equipment, introduction to
+NPV
+
+Construction costs & construction budget
+
+To understand various construction
+activities and
+
+To evaluate the comprehensive details of
+the various key planning operations
+(manpower, materials, equipment)
+
+system and EVM Resources productivity control methodology to be adopted for a project
+Project cost control
+Project Time control
+Earned V alue Management
+Tenders, contracts, Types of contracts.
+and Dispute Contracts terms and conditions, special
+resolution clauses, terminologies
+Dispute cases, termination, liquidation,
+incentive, JOC,
+Discussion on actual tender document
+Estimation of Cost aspects of various projects (Case
+various building studies), pricing of various activities
+components (earthwork excavation, equipment etc)
+Types of estimates
+
+Activity wise cost estimates (case studies)
+
+7 Construction e Valuation, engineering economy
+Valuation
+
+To get the adequate confidence in
+preparing tender documents including
+overview of costs.
+
+To get the hold on estimation, costing,
+pricing of major components/activity.
+
+ 
+
+Planning control Project control methodology To  idealize the correct control
+
+To comprehend the various guidelines and
+specifications in the valuation of buildings
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Discussion on guidelines on valuation of
+
+immovable properties (standard practice,
+
+specifications, methods)
+Construction Construction quality To understand the quality and safety
+quality and safety Inspection, Quality Assurance aspects of construction
+
+Cost of quality and ISO standards
+
+Causes of low labor productivity
+
+Accident Causation Theories
+Safety and Health Management system
+Research results in safety management
+Best practices of fe Construction companies’ best practices. To acknowledge the best practices
+Construction Introduction to Building Information adopted by construction giants.
+Management Modeling (BIM)
+Failures of projects
+
+ 
+
+5. Evaluation Scheme:
+
+Tutorials (Best 4 out of 6) -— 2 ,
+buffers and hence no makeup 10% Total Evalue Tate 4 OB/CB
+feasible X 2.9 = 10%)
+
+End Semester Project (BIM
+
+Software based _ Revit 15% ar ale: N re ot sa.
+GroupWise) eet ea PL
+Comprehensive Examination C
+
+6. Mid Semester Grading [Mid Sem. +4 Tutorials] = [35+10 = 45]; The entire course will be for 200 marks [Mid
+Sem - 70 marks + Tut — 20 marks + Project — 30 marks + End Sem 80 marks]
+7. Chamber Consultation Hour: Saturday 12 Noon— 1PM
+
+ot
+
+o
+
+8. Reading assignments will be given as and when necessary
+
+9. Notices: Notices will be sent through your BITS mail only.
+
+Instructor-in-charge
+CE F242
+

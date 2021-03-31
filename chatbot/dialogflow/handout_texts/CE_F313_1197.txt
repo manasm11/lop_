@@ -1,0 +1,300 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 20.01.21
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F313
+
+Course Title : Foundation Engineering
+
+Instructor-in-C harge : Ravi Kant Mittal (ravimittal@ pilani.bits-pilani.ac.in) Mb.9887692025
+Instructor(s) :
+Tutorial/Practical Instructors: Ravi Kant Mittal
+
+1. Course Description: General requirement for satisfactory performance of shallow foundations, general, local and punching
+shear failures, bearing capacity, settlement, tilt and rotation of foundations, proportioning of Shallow Foundations, footings on
+layered soils and slopes, Deep foundations, capacity of single and group Piles, laterally loaded pile, Earth Pressure theories,
+Retaining structures, design and checks for stability, Stability of slopes, Introduction to Ground Improvement Techniques and
+geosynthetics with applications, Introduction to machine foundations for different type of machines, Introduction to geotechnical
+earthquake engineering and liquefaction of soils, computer applications in foundation design.
+
+2. Scope and Objective of the Course: The main goal of this course is to provide an in-depth understanding regarding
+different types of foundations. Complete analysis of foundations and retaining structures (Shallow foundations, pile foundations,
+machine foundations, retaining walls, slope stability etc.) considering all geotechnical aspects is included. Emphasis will be given
+on complete coverage of code of practices for various types of foundations and retaining structures. Geotechnical earthquake
+engineering, Ground improvement techniques, reinforced earth walls, geosynthetics applications increased tremendously therefore
+given due consideration.
+
+3. Text Books: TB1. Murthy, V. N. S. (2010) “Geotechnical Engineering: Principles and Practices of Soil Mechanics and
+Foundation Engineering”, CRC Press, Taylor & Francis Group, First Indian Reprint, 2010.
+
+TB2. Das B M and Sivakugan, N. (2019) Principles of Foundation engineering, Cengage Learning, 9" edition.
+
+4, Reference Books:
+
+R1. Gopal Ranjan, and A. S. R. Rao, “Basic and Applied Soil Mechanics”, New Age Int. Publishers, 3rd edition, 2015
+R2. Kaniraj, S.R. “Design Aids in Soil Mechanics and Foundation Engineering”, Tata McGraw Hill, 1988.
+
+R3. Gulhati, SK, and Datta, M. “Geotechnical Engineering”, Tata McGraw-Hill Publishing Company Ltd, 2005.
+
+R4. McCarthy (2014) Essential of Soil Mechanics and Foundations, 7“ edition, Pearson
+
+R5. Relevant BIS, IRC codes and International code of practice
+
+5. Course Plan:
+
+General General principles, concepts, requirement | 3 Chapter 2, 3 T2, | Selection and design
+requirement j|for _ satisfactory performance of NBC (National | requirement for shallow
+for shallow | foundations, Types of foundations, Building _Code)- | foundations
+foundations selection and their specific applications. 2016, IS 1904, R1,
+
+Interpretation of geotechnical testing, R2
+
+selecting foundation design parameters
+
+from laboratory and field tests
+Bearing Failure mechanism, generalized bearing 6, 7, T2, 12T1,|Leaming to find
+capacity and | capacity equation, local and punching shear 1S6403, IS8009- | Bearing capacity of
+allowable failures, corrections for size, shape, depth, parti, Shallow foundations in
+bearing water table, compressibility, Effect of load different cases
+pressure of eccentricity and inclination etc., Selection
+
+of shear strength parameters, Bearing
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ee 1S6403, | Learning procedures to
+IS8009-partl, R1, | find allowable bearing
+R2 pressure for shallow
+
+foundation
+
+capacity analysis of footings on onlayerd | |
+foundation soils.
+
+Different approaches for determination of
+allowable soil pressure for choesionless and
+
+   
+
+cohesive soils from lab and field tests (SPT,
+CPT, etc.).
+
+  
+
+Proportioning | Load combination, Proportioning of
+
+of footings isolated footings, strip, rectangular and
+trapezoidal combined footings,
+proportioning of footings subjected to
+combined vertical, moment and horizontal
+loads
+
+Deep Types of deep foundations and their
+
+Foundations- | applications, selection, general
+
+bearing requirements, driven and bored piles, pre
+capacity and | cast and cast in-situ piles, under-reamed
+
+settlement piles, pier and well foundations, Indian
+
+case histories.
+
+Load carrying capacity of piles by
+
+different methods, load tests, settlement
+
+14T1,8T2 Leaning how to
+Class notes proportion shallow
+foundations
+
+   
+
+ 
+
+15 T1, 182911 Learning Deep
+Foundations
+classification, selection,
+and their applicability
+and construction
+
+ 
+ 
+    
+ 
+
+15 TB, 182911 Learmming different
+methods to find Piles
+capacity and settlement
+
+for single pile and pile group.
+12T2, Learning procedures to
+1S2911, analyses laterally
+
+Laterally Various methods for laterally loaded pile
+loaded Pile analysis
+loaded Pile
+
+Earth Various Heres for computation of earth 11 T1, Learning different
+pressures pressures, Pressure theories, IRC:6, 7-R1 approaches of earth
+theories Coulomb and “Nankine approaches, smooth pressures theories
+and rough walls, inclined backfill, depth of
+tension crack, lateral pressure due to
+surcharge loads
+Earth Classification and selection of different
+retaining type of retaining walls. Analysis of
+structures different types of retaining walls, stability
+condition, Advantages and applications of
+reinforced earth walls, Indian case
+histories,
+Dynamic Dynamic properties of soil, using
+Properties of | laboratory and field tests. Evaluation and
+Soil interpretation of geotechnical reports,
+selecting foundation design parameters
+from laboratory and field tests. Code of
+practices.
+Machine General requirements and design criteria foundation. Stiffness and damping parameters,
+Analysis and design of block foundations
+for reciprocating machines, Limitations of
+BIS code of practices
+Geosynthetic | Introduction to designing with
+S geosynthetics, for various applications
+
+17T2, 19 T1, R5, 8- | Selection and analysis
+of retaining walls,
+
+R1, R2, R3, IS 5249 | Evaluation of dynamic
+Properties of Soil
+
+Analysis and design of
+
+R2, R3, IS 2974 foundations for
+different type of
+machines.
+
+ 
+
+17 T2, R3, IRC | Learning Geosynthetics
+codes, notes applications
+benefits
+
+such as foundation, GRS wall & slopes,
+roads, drainage and filtration.
+
+   
+  
+   
+
+Pilani Campus
+AUGS/ AGSR Division
+
+Soil stabilization and ground improvement
+techniques for difficult or problematic
+ground conditions, anti-liquefaction
+measures, Dynamic compaction, Vibro
+techniques, preloading, vertical drains,
+PVD, stone columns, grouting, micropile
+etc., Successful case histories.
+
+improvement
+techniques
+
+Introduction
+
+Basics of soil dynamics, seismic design
+to guidelines for foundations and
+
+geotechnical
+earthquake
+engineering
+
+geotechnical structure, liquefaction of soil,
+screening criterion, evaluation of
+liquefaction potential.
+
+T otal
+
+5T2, Ch 15 R4, 21
+T1, 16 R1, 29, 30,
+31R3, IRC
+guidelines, IS
+13094, IS 15284:
+Part 1,2, other IS
+codes and notes
+
+Class notes,
+1S1893-part1-2016,
+code of practices,
+Ch.12 R4,
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning ground
+improvement
+techniques principles,
+
+advantages, limitations
+
+and selection.
+repair/strengthening
+measures for
+foundations
+
+Learning basic concepts
+of geotechnical
+earthquake engineering
+and liquefaction of soils
+
+Stability of | Stability of slopes, limit equilibrium 10 T1, IRC-75 Methods of Stability of
+slopes methods, methods of slices, highway slopes
+embankments
+i
+
+6. Evaluation Scheme:
+
+(Yo )
+AUGSD
+
+ 
+
+120 Min. A0 Will be announced by
+AUGSD
+30 Continuous during class
+and/ or take home
+7. Consultation Hour: To be announced in the class
+8. Notices: Notices will be sent to your BITS email id only.
+
+9, Make-up Policy: Make-up would be granted only for genuine cases with prior permission.
+10. Note (if any): Reading assignments will be given whenever necessary.
+
+2
+44 |
+
+Nature of component
+(Close Book/ O pen Book)
+
+Open Book
+Closed Book
+
+Open Book
+
+Instructor-in-charge
+Course No.
+

@@ -1,0 +1,520 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+Course Handout (Part-lIl)
+Date: 14/01/2021
+
+In addition to Part | (General Handout for all courses appended to the Time Table), this portion gives
+further specific details regarding the course.
+
+Course No. : CHE F413
+Course Title : Process Plant Safety
+Instructor-in-Charge : P C Sande
+
+1. Course Description:
+
+Role of safety in society; Engineering aspects of process plant safety; Chemical hazards and worker
+safety; Hazardous properties of chemicals; Safety aspects in site selection and plant layout; Design
+and inspection of pressure vessels; Storage, handling and transportation of hazardous chemicals;
+Risk assessment methods; Toxic release; Fire and Explosions; Safety audit; Emergency planning and
+disaster management; Case studies.
+
+2. Scope and Objective:
+
+e This course deals with various safety aspects encountered in the chemical process industries.
+
+e The primary objective of this course is teach important technical fundamentals for proper
+assessment of the risks posed by hazardous chemicals and continuous care during their
+manufacturing, processing, treatment, packaging, storage, transportation, use and sale.
+
+e We will apply the concepts and principles learned in the course to analyze numerous cases
+of ‘real world’ chemical process incidents/accidents.
+
+e This course provides guidance for developing industrial safety procedures and equipment
+designs.
+
+3. Prescribed Text Book:
+
+T1 Crawl D.A., and J.F. Louvar, “Chemical Process Safety: Fundamentals with Applications”,
+Prentice Hall PTR, Englewood Cliffs, New Jersey, 3 ed., 2012.
+
+4. Reference Book:
+
+R1 Trevor Kletz, “What went wrong? Case Histories of Process Plant Disasters”, 4" edition, Gulf
+Professional Publishing, 1999.
+
+R2 Sanders R.E., “Chemical Process Safety: Learning from case Histories”, ButterworthHeinemann, Boston, 1999.
+
+gy. Save Trees.
+f= SSave the World. oe
+
+Please Do Not Print Unless Necessary
+
+iN Save Pane a
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+5. Course Plan
+
+hema Lecture Session Reference Learning Outcomes
+
+1. L1.1 Introduction and discussion of | 1.8 (T1) e Understand the
+Introduction | the course content; Recent and : | importance of
+ta rt xamples
+to chemical __ | historical cases of process from RL. R2 safety standards in
+srocess accidents; role of safety programs ' chemical process
+in industry; engineering ethics and and News industri P
+safety professional standards; articles. industries.
+e Internalize the
+1.1-1.2 fecsional ethi
+(T1) professional ethics
+
+and standards in
+
+L1.2 Accident and loss statistics, chemical industry.
+acceptable risk; public perceptions | (71)
+about safety; Natural of accident
+process and inherent safety;
+2. L2.1 Introduction to Toxicology; 2.1-2.4 (T1) Understanding the
+Toxicology Toxicological studies, Dose versus toxicology in
+response biological
+organisms and
+
+L2.2 Models of does: response 2.5- 2.8 (T1) , ,
+. Thrachold toxicology studies.
+rves, relative toxicity; Thresho
+
+4 we romeny Understand the
+
+limit values
+dose versus
+response models
+for toxicants.
+
+L3.1 Introduction to government http://labou e Recognize
+regulations for worker safety r.gov.in/ind
+
+ 
+
+ 
+
+3)
+
+Industrial government
+
+hygiene and ustrial- regulations.
+
+Industrial Hygiene: anticipation
+
+personnel ° Identify,
+
+and identification safety
+safety health
+
+anticipation, and
+
+evaluation of
+3.1 (T1)
+
+L3.2 Industrial Hygiene: Evaluation | 3.3 (T1)
+A Save Paper. ;
+
+various safety
+
+    
+
+ 
+
+gy. Save Trees.
+f= SSave the World. oe
+
+Please Do Not Print Unless Necessary
+
+ 
+Pilani Campus
+Instruction Division
+
+ 
+
+L3.3 Industrial Hygiene: Control 3.4 (T1)
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+aspects of
+
+industrial hygiene.
+
+ 
+
+4. L4.1 Introduction to source 4.1-4.3 (T1); e
+Source models; Flow of liquid through a Read Cases
+models hole; Flow of liquid through a hole | from: 13.1in a tank 13.2 (R1);
+Chapter 2
+(R2) e
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+L4.2 Flow of liquid through pipes;
+Pipe failures
+
+L4.3 Flow of gases or vapors
+through holes
+
+L4.4 Flow of gases or vapors 4.6 (T1);
+
+through pipes; Pipe failures 9.1 (R11)
+
+L4.5 Flash liquids; liquid pool
+
+evaporation or boiling; Realistic (T1)
+and worst-case releases;
+
+conservative analysis
+
+L4.6 Review and discussion of L4.1-L4.5
+source models
+
+5. L5.1 Introduction to toxic release 5.1-5.2
+Toxic Release | and dispersion models; Parameters | (case 10)
+and affecting dispersion (T1)
+Dispersion
+Models
+L5.2 Pasquill-Gifford Model, (Cases | 5.2 (case
+11-15); dense gas dispersion 11)-5.4 (T1);
+5.3 (T1)
+
+ 
+
+A Save Paper.
+ge, Save Trees.
+£°* Save the World.
+
+Please Do Not Print Unless Necessary
+
+Understand
+various aspects of
+source models for
+cause of
+accidents.
+Understand the
+safety aspects in
+flowing liquid,
+gas/vapor
+through holes
+from tanks, and in
+pipes.
+
+Identify the
+causes of pipe and
+tank failures, and
+methods to
+mitigate those
+failures.
+
+Understanding
+the release and
+dispersion of toxic
+material.
+
+Study various
+dispersion models
+and parameters
+affecting
+dispersion.
+
+Pe
+
+innovate Flea a) oa]
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+L5.3 Dense gas transition to 5.5-5.7 (T1) e Apply the toxic
+neutrally buoyant gas; Toxic effect release models to
+criteria; effect of release mitigate
+momentum and buoyancy, release consequences.
+mitigation
+
+L5.4 Review and discussion of L5.1-L5.3
+Dispersion Models
+
+6. L6.1 Introduction to fires and 6.1-6.12 Distinguish
+
+Fires & explosions; Flammability (T1), between fires and
+
+Explosions characteristics; explosions
+Understand the
+
+ 
+
+L6.2 LOC and inerting, 6.5-6.12 flammability
+Flammability diagram, ignition (T1) characteristics of
+energy, autoignition, adiabatic liquids and
+compression, ignition sources, Vapors, 8aS
+sprays, and mists mixtures and the
+dependence on
+L6.3 Explosions—Detonation and 6.13 (T1) temperature and
+deflagration, confined explosions, pressure.
+Blast from overpressure, TNT - Understand
+equivalency, TNO Multi-Energy various factors
+Method effecting the fires
+Understand the
+L6.4 Explosions —Energy of 6.13 (T1) details of
+chemical explosions, Energy of explosions; their
+mechanical explosions, missile causes, methods
+damage, blast damage to people, to measure the
+Vapor cloud explosions, Boiling- resulting damage.
+liquid expanding vapor explosions
+
+L6.5 Review and discussion of Fires | L6.1-L6.4
+and Explosions
+
+a L7.1 Inerting: Purging 7.1 (1)
+
+ 
+
+ 
+
+Save Paper.
+gy. Save Trees.
+f= SSave the World. oe
+
+Please Do Not Print Unless Necessary
+   
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+Instruction Division
+
+L7.2 Static Electricity
+
+L7.3 Controlling static electricity 7.3 (T1)
+
+7.4-7.7 (T1)
+
+8.1-8.2 (T1)
+
+8.3-8.4 (T1)
+
+9.1-9.4 (T1)
+
+L7.4 Explosion-proof equipment
+and instruments; ventilation;
+
+sprinkler systems; other concepts
+
+for prevention of fires and
+explosions.
+
+L8.1 Background of chemical
+reactivity; Reactive chemical
+hazards identification and
+awareness
+
+L8.2 Characterization of reactive
+chemical hazards; controlling
+reactive hazards
+
+L9.1 Relief concepts and
+Definitions; Location of reliefs;
+Relief types and characteristics
+
+L9.2 Relief scenarios; Data for
+reliefs sizing; Relief systems
+
+L10.1 Hazards Checklists, Hazard
+Surveys; Fire & Explosion Index,
+
+* ASave the World.
+Please Do Not Print Unless Necessary
+
+11.1-11.2
+(T1)
+
+Understanding
+various concepts
+and strategies to
+prevent fires and
+explosions.
+
+Understand the
+background and
+case histories of
+chemical
+reactivity hazards
+Understand the
+characterization
+of reactive
+chemical hazards,
+and study the
+design principles
+for controlling
+these hazards.
+
+e Understand the
+
+concepts of
+pressure relief
+systems and their
+installation and
+design criteria to
+prevent or mitigate
+hazards
+
+Understand the
+methods of hazard
+
+Pe
+
+ 
+
+innovate Flea a) oa]
+   
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+L10.2 Hazard and Operability 11.3-11.5 identification using
+Hazard (HAZOP) studies; Safety Reviews; (T1) checklists and
+Identification | Other methods for hazard surveys.
+identification such as Human Error, Understand the
+FMECA HAZOP studies,
+safety reviews ina
+chemical process
+Familiarity with
+concepts of human
+error and FMECA
+methods for
+hazard
+identification.
+
+11. L11.1 Review of Probability Theory | 12.1 (T1) Review the
+Risk probability
+
+L11.2 Event Trees 12.2 (T1)
+
+assessment mathematics and
+
+L11.3 Fault trees: Theory 12.3 (T1) its use in safety
+Understand two
+L11.4 Fault trees: case study 12.3 (T1) probabilistic
+
+L11.5 QRA and LOPA: Theory 12.4 (T1) methoos: event
+trees and fault
+
+L11.6 QRA and LOPA: case study 12.4 (T1) trees
+Understand the
+
+L11.7 Review and discussion of L11.1-L11.6
+Risk Assessment
+
+concepts of QRA
+and LOPA
+
+12. Static electricity, Chemical 14.1 -14.4 Study major
+reactivity, System designs, (T1), accidents and case
+
+Self-Study: procedures, List of Major accidents histories, apply
+
+Case (1970-1998) cases knowledge gained
+
+histories and studies
+from the course to
+
+Major from
+analyze the cases.
+
+accidents reference
+R1
+
+iN Save Pane a
+
+gy. Save Trees.
+f= SSave the World. oe
+
+Please Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+Componens imtes) |g | ORE TINE | Rem
+
+(Minutes) (%)
+
+L Oe
+
+*[assprsematons | || chm
+class presentations take home
+
+3. | Mid-SemesterTest_ | = 90 | 30% ~~ || TBAbyAUGSD | CB+OB
+
+4. TBA by AUGSD
+
+*date will be announced in the class
+
+Class activities
+
+ 
+
+Course Policy:
+
+e Mid Semester Test and Comprehensive Examination are according to the Evaluation Scheme
+given in the Course Handout.
+
+e If the student is unable to appear for the Regular Test/Examination due to genuine
+exigencies, the student must refer to the procedure for applying for Make-up
+Test/Examination (see Academic Regulations-2015). Final decision rests with IC.
+
+Project reports and Presentation:
+
+e The deadline for the report and date of presentations: to be announced in the class.
+e Further guidance will be provided during the lectures.
+
+Pedagogy: mode is adapted for online platform and might include film or video clips/ role play
+or dialogue/ case studies/ breakout sessions etc.
+
+Instructor-in-charge
+CHE F413
+
+ 
+
+iN Save Pane a
+
+gs. Save Trees.
+for Asave the World. innovate Te
+
+Please Do Not Print Unless Necessary
+
+ 
+

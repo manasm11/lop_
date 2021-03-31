@@ -1,0 +1,220 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout Part II
+Date: 16/01/2021
+
+In addition to part-I (General Handout for all courses appended to the timetable) this portion gives further
+specific details regarding the course.
+
+Course No. : CS F407
+
+Course Title : ARTIFICIAL INTELLIGENCE
+Instrutor-in-charge : NAVNEET GOYAL
+Course Description
+
+Artificial Intelligence (AI) is a field of computer science that attempts to build technology to inculcate human
+cognition in computer systems. A primary goal of AI is to build intelligent entities to mimic the attributes of
+human intelligence such as problem solving, reasoning, planning, uncertainty handling, learning etc. The course
+introduces students to a large collection of algorithms and techniques for building these intelligent entities. By the
+end of the course, the students should have a general knowledge of the field of AI. They should be able to
+recognize when and how to use AI techniques to solve problems. The students should also be able to evaluate new
+techniques they encounter.
+
+This course covers the issues and techniques involved in the creation of computer systems that display intelligent
+behavior. The following are among the topics that we will cover: AI search techniques, Game Playing, Planning,
+Knowledge Representation, Reasoning under Uncertainty and Reinforcement Learning.
+
+Text Book:
+
+TB. Stuart Russell and Peter Norvig.
+
+Artificial Intelligence: A Modern Approach, Pearson, 4e, Prentice Hall
+
+Reference Books:
+
+R1. Deepak Khemani. A First Course in Artificial Intelligence, McGraw Hill Education (India), 2013.
+
+R2. Stefan Edelkamp and Stefan Schroedl. Heuristic Search: Theory and Applications, Morgan Kaufmann, 2011.
+
+LECTURE PLAN (42 lectures)
+
+Topic Topic Details No. of Chapter
+Lectures | Reference
+
+Section 1: Introduction (6 lectures)
+
+Overview Introductory, Foundational, and Historical Ch.1-TB
+perspectives of Al
+
+Ubiquitous AI Some iferntdonareldsegines success stories of AI from P| eect papers Notes &
+different iferntdonareldsegines P| eect papers papers
+
+The Turing Test: 1. Turing test & its importance Ch.1—TB +
+Variants and Milestones | 2. Turing Test Variants Class Notes +
+3. Milestones web resources
+Agents, Environments, | 1. Types of Agents & Environments Ch. 2-—TB
+& Interactions 2. Rational Behavior
+3. Performance Measure, Environment,
+Actuators, Sensors (PEAS)
+
+ 
+Section 2: Problem Solving (12 lectures)
+
+Search 1. Problem solving agents 10 Chs. 3-5 —-TB
+2. Search algorithms
+3. Uninformed search strategies
+o Breadth-first search
+o Depth-first search
+o Depth limited search
+o Iterative deepening depth-first
+search
+. Informed search strategies
+o Greedy best-first search
+o A* algorithm
+. Heuristic functions
+. Time & space complexity of search
+algorithms
+. Local search algorithms
+o Hill climbing
+o Simulated annealing
+o Local beam search
+o Genetic Algorithms
+. Search in Complex Environments
+. Adversarial search & Games
+Game theory
+Optimal Decisions in games
+Heuristic Alpha-Beta Tree
+Search
+Monte Carlo Tree Search
+Stochastic games
+Partially observable games
+Limitations of game search
+algorithms
+1. Definition
+2. Modeling real-world problems as CSP
+3. General purpose heuristic
+4. Constraint propagation
+5
+6
+7
+
+ 
+
+i)
+
+C onstraint Satisfaction Ch.6- TB
+
+Problems (C SPs)
+
+. Backtracking search for CSPs
+. Local search for CSPs
+. Structure of problems
+
+Section 3: Knowledge, Reasoning, & Planning (8-2 lectures)
+
+Knowledge Logic & Inference Chs. 7-9 —-TB
+Representation & 1. Knowledge-based agents
+
+Reasoning . Propositional logic
+
+ 
+
+2
+3. First-order logic (FOL)
+4. Inference in FOL
+o Forward chaining
+o Backward chaining
+o Resolution
+5. Theorem proving & model checking
+6. Knowledge engineering in FOL
+Knowledge Representation
+1. Ontological Engineering
+2. Categories & objects
+3. Event calculus
+4. Reasoning system for categories
+9. Reasoning with default information
+Planning
+1. Classical planning
+2. Heuristics for planning
+3. Hierarchical planning
+4, Planning in non-deterministic domains
+Section 4: Dealing with Uncertainty (6 lectures)
+
+Ch. 10—TB
+
+Ch. 11—TB
+
+ 
+
+Quantifying . Bayesian probability & Bayes’ theorem Chs. 12-13 - TB
+Uncertainty and . Naive Bayes’ model
+Probabilistic Reasoning | 3. Bayesian Belief Networks (BBN)
+. Semantics of BBNs
+. Inference in BBNs
+Probabilistic Reasoning | 1. Inference in temporal models Ch. 14- TB
+
+over Time . Hidden Markov Models (HMM)
+. Kalman filters
+. Dynamic Bayesian networks
+
+Section 5: Learning (9 lectures)
+
+Machine Learning 1. Supervised learning 5 Ch. 19- TB
+2. Un-supervised learning
+3. Ensemble learning
+
+Reinforcement . Motivation Ch. 22 + web
+Learning (RL) . Exploration vs. Exploitation tradeoff resources
+
+. Markov Decision Process (MDP)
+
+. Action and state spaces
+
+. Q-Learning Algorithm
+
+. Inverse Reinforcement Learning (IRL)
+Section 6: Recent Topics in AI (3 lectures)
+Recent Topics 1. Responsible Al
+
+2. Explainable Al
+
+  
+
+ 
+
+Research papers
+& web resources
+3. Privacy preserving AI
+4. EdgeAl
+
+  
+Evaluation Scheme:
+
+Date (Time)
+TBA
+TBA
+11/05 (FN)
+
+Notices: All notices will be uploaded on NALANDA only.
+
+Chamber C onsultation Session: Online session once a week (T-10). Interested
+student(s) need to inform aprioni through NALANDA if a session is required.
+
+Makeup Policy: To be granted only in case of serious illness or emergency.
+
+Email Policy: Communication through email is highly discouraged. If you want to
+discuss anything, request/attend the chamber consultation session. Academic queries/doubts can
+be posted on NALANDA (a discussion forum has been created on the course page)
+Plagiarism Policy: If any student is found involved in any kind of plagiarism in any of
+the evaluation components, the matter will be directly reported to the Examination
+Committee.
+
+NC Policy: Students securing 10% or less marks will get an NC grade. Students in the
+[10-15%] bracket are also likely to get NC.
+
+ 
+
+Instructor-in-charge
+CS F407
+

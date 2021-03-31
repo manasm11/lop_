@@ -1,0 +1,410 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+Instruction Division
+
+ 
+
+SECOND SEMESTER, 2020-2021
+Course Handout (Part Il
+Date: 18-01-2021
+
+In addition to part | (General course Handout for all courses appended to the time table) this portion gives
+
+further specific details regarding the course.
+
+Course No.: HSS F236
+Course title: Symbolic Logic
+Instructor-in-charge: ANUPAM YADAV
+
+Scope and Objective:
+
+A study of the propositional and quantification logic to understand and use the basic symbolic procedures
+to analyze the nature and assess the status of deductive arguments
+
+Text Book: Copi, Irving M., Symbolic Logic, 5“ Edition, Pearson Education, 1979 (Indian Reprint, 2014)
+
+Reference Books:
+
+R1. Carney, J.D, Introduction to Symbolic Logic, Englewood Cliffs, N.J., 1970
+
+R2. Copi, Irving M, Introduction to Logic, Pearson Education, 13° Edition, 2009
+
+Course Plan:
+
+Module
+No.
+1. Introduction to logic: the
+
+nature of logical reasoning,
+the structure and soundness
+
+of arguments.
+
+2. Traditional Aristotelian
+Logic — Categorical
+propositions, their relations,
+
+A Save Paper.
+ge. Save Trees.
+£°* Save the World.
+
+Lecture Session
+
+L1.1.-1.4
+1.1 Subject matter of logic
+
+1.2 Logical reasoning and Key
+
+concepts
+
+1.3 Representing the structure of
+arguments
+
+1.4 Relation between — truth,
+validity and soundness of
+
+arguments.
+
+L2.1-2.6
+
+2.1. Nature of Categorical
+
+Reference
+
+Please Do Not Print Unless Necessary
+
+Learning Outcomes
+
+Understanding the nature
+of inferential reasoning,
+types of reasoning. Learning
+major vocabulary, analyzing
+the nature of arguments
+and the relation between
+
+truth and validity.
+
+Understanding the nature
+of categorical propositions,
+
+  
+
+their divisions and relations
+
+ 
+  
+
+innovate
+ 
+
+Syllogistic reasoning, rules,
+fallacies and testing
+syllogisms by Venn diagram.
+
+3. Introduction to Symbolic
+Logic and its concerns,
+symbolic representation of
+natural language and
+arguments containing
+compound statements.
+
+4 The role of truthfunctional logic,
+constructing truth-tables,
+determining the validity and
+invalidity of arguments.
+Argument forms, statement
+forms and determining the
+logical status of the
+statements.
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+propositions, quantity and quality.
+2.2. Distribution of terms and its
+importance in syllogism
+
+2.3. Square of opposition and
+inferences.
+
+2.4 Categorical Syllogism, rules,
+fallacies and validity of syllogisms.
+
+2.5. Venn diagram
+2.6 Testing syllogisms by using
+Venn diagrams.
+
+L3.1-3.6
+
+3.1 The nature of symbolic logic
+and its concerns
+
+3.2 symbolizing natural language,
+simple and compound statements
+3.3 - 3.5
+connectives:
+
+Truth-functional
+conjunction,
+material
+
+disjunction, negation,
+
+implication and bi-conditional
+3.6 Truth-values of compound
+statements
+
+L4.1-4.6
+
+4.1 — 4.2 constructing truth-tables
+and checking the validity of
+arguments mechanically
+
+4.3 argument forms to identify
+the formal features and checking
+their validity
+
+4.4 — 4.5 Statement forms: their
+formal nature and classification as
+tautologies, contradictories and
+
+contingent.
+
+4.6 testing the logical status of
+statement forms.
+
+TB, Ch. 1
+
+TB, Ch. 2
+
+TB, Ch. 2
+
+Please Do Not Print Unless Necessary
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+Instruction Division
+
+opposition.
+Understanding __ syllogistic
+reasoning and validity of
+syllogisms in accordance
+with
+
+usage of Venn technique to
+
+rules. Knowing the
+
+test syllogisms.
+
+Understanding the
+importance of symbolic
+
+logic and symbolic
+representation of natural
+language to find out the
+logical features, learning to
+compose compound
+statements and arguments,
+analyzing the nature of
+truth-functional compound
+and
+
+truth
+statements
+determining — their
+
+values.
+
+To use truth-table method
+to test the validity-invalidity
+of arguments,
+understanding the formal
+nature of arguments and
+their
+and
+
+statements,
+classification
+determining the _ logical
+
+status of statement forms.
+
+ 
+
+ 
+
+innovate
+ 
+
+5. Formal proof of validity,
+Rules of Inference, Rules of
+Replacement, Conditional
+proof and proving Invalidity
+
+6. Indirect method of proof
+(reductio ad absurdum) and
+Shorter Truth Table Method
+to check validity of
+arguments and the status of
+the statements
+
+7. Quantification Theory,
+Relation between
+propositional and predicate
+logic, Universal and
+existential quantifiers,
+Modern square of
+opposition
+
+8. Quantification Rules,
+proving Validity and
+Invalidity of the arguments
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+Instruction Division
+
+L5.1-5.6 Understanding the rules of
+
+5.1 — 5.2 formal proof of validity: | TB, Ch.3 | Inference and rules of
+
+Elementary Valid argument forms, replacement and applying
+
+determining the validity — of them to prove the validity
+
+arguments of the arguments, to use
+conditional proof as a tool
+to check the validity of the
+
+arguments. Also proving the
+
+5.3-5.4 Rules of Replacement and
+using them to prove the validity of
+arguments
+
+invalidity of without using
+
+5.5 Conditional Proof truth tables and formal
+
+5.6 Proving Invalidity proofs.
+
+L6.1-6.3 Understanding to employ
+6.1 Indirect proof reduction ad absurdum as
+method to assess the
+6.2 — 6.3. Shorter Truth Table | TB, Ch. 3 |
+_ validity of the arguments
+Method to check the validity and
+and the status of the
+the truth status of the statements oo
+statements drawing insights
+from truth table technique.
+
+L7.1-7.4 Understanding how _ to
+
+7.1- 7.2 Quantification theory and | TB, Ch.4_ | S¥mbolize statements that
+
+symbolization involve quantifiers, knowing
+
+- the nature and function of
+7.3. Quantifiers: Universal and quantifiers, the relation
+Existential -_
+between propositions
+
+7.4 Modern Square of opposition involving quantifiers
+according to the square of
+opposition and comparing it
+with the traditional square
+
+of opposition.
+
+L8.1-8.4 Understanding the nature
+8.1 — 8.2 Quantification Rules TB,Ch.4 | OF quantification rules and
+a applying them to. prove
+
+8.3 Proving Validity by using these
+. arguments involving
+
+additional rules - ,
+
+quantifiers. Knowing to
+8.4 Proving Invalidity by assigning prove the invalidity of
+
+ 
+
+ 
+
+innovate
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+Pilani Campus
+Instruction Division
+
+truth-values certain arguments
+assigning truth-values.
+
+9. Symbolizing Relations and 1-9. Understanding how to
+Attributes of binary 9.1 Symbolizing relations , Ch. symbolize the statements
+involvin relations and
+
+relations 9.2 Attributes of Binary relations
+check the attributes of
+
+relational statements.
+
+ 
+
+ 
+
+Upon completion of the course students will have
+e Aclear understanding of the nature of logical reasoning and its correctness
+e The knowledge of determining the validity of the arguments by using various laws and tools
+
+e The knowledge of traditional Aristotelian logic and advancements in deductive logic through
+modern symbolic logic
+
+e An understanding about the importance of symbols and symbolization to carry out deductive
+reasoning and the relevance of logic to other disciplines.
+
+Evaluation Scheme:
+
+Evaluation Duration Weightage/ Date, Time & Venue Remarks
+Marks
+Component
+
+Mid Semester Test 90 Minutes To be announced =
+
+Report / To be announced
+Assignment/Presentation
+Quiz
+
+Comprehensive Examination 120 Minutes 15/05/2021 FN =
+
+Chamber Consultation Hour: To be announced in the class.
+
+ 
+
+Makeup Policy: Make-up components will be allowed provided there would be a documentary proof to
+support the case.
+
+Instructor-in-charge
+HSS F236
+
+ 
+
+4 Save Paper.
+Save Trees.
+P= ‘Save the Worl.
+
+innovate
+
+Please Do Not Print Unless Necessary
+

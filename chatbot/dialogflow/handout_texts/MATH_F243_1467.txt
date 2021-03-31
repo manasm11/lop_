@@ -1,0 +1,150 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No : MATH F243
+
+Course Title : Graphs and Networks
+Instructor-in-C harge : Krishnendra Shekhawat
+Instructor(s) ‘
+
+Tutorial/Practical Instructors: K rishnendra Shekhawat
+
+1. Course Description: This course begins with the basics of Graphs, i.e., it starts with the Simple Graphs
+and types of Graphs. Then it discusses the Isomorphism in Graphs along with the Euler & Hamiltonian
+Graphs. After that it talks about Trees and Spanning Trees, Connectivity, Cut Set and Shortest Path, Matrix
+representation of Graphs, and Maximal Flow in a Network. At the end, it discusses Graph Colouring,
+Independence number and Chromatic Number.
+
+2. Scope and Objective of the Course: The importance of graph theory can never be exaggerated
+considering the wide range of its applications, from social sciences to electrical engineering and computer
+science to management. The rigorous foundation of the subject is thus desirable. The objective of the course
+is, in addition to logical foundations, theoretical developments and development of the basic skills to tackle
+problems in Graph theory. It also aimed at understanding how various problems arising from real life or
+sciences as well as recreational puzzles can be converted to graph theoretic problems like shortest paths,
+network flows, chromatic numbers, connectivity etc.
+
+3. Text Book: G. Agnarsson and R. Greenlaw, Graph Theory Modeling, Applications and Algorithms,
+Pearson Education, 2007.
+
+4, Reference Books:
+
+R1 Gary Chartrand and Ortrud R. Oellermann, Applied and Algorithmic Graph Theory, McGRAW-HILL
+International Editions, 1993.
+
+R2 Narsingh Deo, Graph theory with applications to engineering and computer science, PHI 1993.
+R3 Douglas B. West, Introduction to Graph Theory, Pearson Education India, 2015.
+R4 Gary Chartrand and Ping Zhang, Introduction to Graph Theory, Tata McGRAW-HILL Edition 2006.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+(Sections)
+Graphs Applications history and basic concepts
+L2 Definitions of Graphs, Degree and 1.4 to 1.6 (1.5 of of Graph Theory
+
+Regular Graphs, Degree Sequence, Havel Rl)
+Hakimi Theorem
+
+L3 Subgraphs, Complete Graphs, 1.7 to 1.9
+Bipartite graphs, Directed Graphs
+
+2. Connected L4-L5 Path and Cycles, Connected 2.1, 2.2, 2.7 Introduction to the
+Graphs and Graph | Graphs, Strongly Connected Digraphs, Connected Graphs and
+Isomorphism Cut Vertex, Cut Edge related properties, along
+
+L6-L7 [isrilreees eile of Graphs, Graph 2. 281026 to 2.6 with the Isomorphism of
+[isrilreees eile Graphs
+
+3. Graph Trees L8 Tree and its equivalent definitions Familiarize with the
+3.1, 3.2 concept of (Graph) Tree
+along with some particular
+
+L9 Distance, Radius, Diameter, classes of Trees
+Eccentricity, Centre
+
+L10 Rooted Trees, Binary Trees 3.6 to 3.8
+
+4, Spanning Trees | L11-L12 Spanning Trees and Forests in 4.1 to 4.5 Familiarize with the
+Graphs, Adjacency and Incidence Matrix concept of Spanning Trees
+
+L13 Counting of Spanning Trees, 4.6, 4.7 and with the Matrix
+Minimal Spanning Trees representation of Graphs
+9. Graph Algorithms | L14- L15 BFS and DFS Algorithms, 13.4, 13.5, 13.7 Introduction to some of
+Dijkstra’s Shortest Path Algorithm the well known Graph
+Algorithms
+6. Eulerian and L16-L19 Eulerian and Hamiltonian 9.2 to 5.5 Learn about some more
+Hamiltonian Graphs | Graphs, Related Algorithms, Travelling Fundamental Properties of
+Salesman Problem Graphs and related
+Algorithms
+
+7. Connectivity and | L20-L21 Cut Set, Edge and Vertex 6.1 to 6.3 Introduction to the
+Flow Connectivity, Separable and Non- Connectivity of Graphs
+Separable Graphs and to the concept of
+
+L22-L25 Network Flows, Minimum cut, 6.4, 6.5 Network Flow along with
+Menger’s Theorem its A pplications
+
+ 
+
+8. PlanarGraphs | L26-L29 Planar Embeddings, Euler’s 7.1 to 7.5 Introduction to the Planar
+Formula, Kuratowaski Theorem, Testing Graphs along with the
+Planari necessary and sufficient
+7.6, 7.9 conditions for checking
+Planari
+9.Graph Coloring | L31-L35 Bipartite and Multipartite Sections 8.1 to Familiarize with the
+graphs, Chromatic Number, Bounds on 8.4 concept of Graph
+Chromatic Numbers, Chromatic Partition, Coloring along with
+Planar Map Coloring and Four-Color Chromatic number and
+Theorem well-known Four-Color
+Theorem
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+10. Matchings L36-L38 Independence and Domination 10.1, 10.2, 11.1 Familiarize with the
+of Vertices, Vertex and Edge Coverings, Independence number,
+Independence Number, Dominance Dominance number and
+Number, Edge Covering Number Matchings along with its
+Bipartite Graphs , Matching Number
+6. Evaluation Scheme:
+Component Duration | Weightage Date & Time Nature of component
+Co) ta lose Book/ O pen Book)
+
+ 
+
+ 
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+8. Notices: NALANDA web-site would be used to post course material as well as notices.
+
+9, Makeup: Prior permission is needed for makeup; makeup will only be given if sufficient evidence is
+available for not being able to appear for Quizzes/Midsem/C ompre.
+
+10. Note (if any):
+
+Krishnendra Shekhawat
+Instructor-in-charge
+Course No. MATH F243
+

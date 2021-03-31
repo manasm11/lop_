@@ -1,0 +1,135 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 14.03.2021
+
+In addition to Part I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+Course Number : BITS F114
+
+Course Title : General Mathematics II
+
+Instructor-In charge :TRILOK MATHUR
+
+jd
+
+. Course Description:
+I. Polar coordinates, Function of several variables, multiple integrals, V ector valued functions.
+II. Complex functions and their analyticity.
+III. First order and second order ordinary differential equations, Laplace transformations and how to
+solve initial value problems of ordinary differential equations.
+
+NO
+
+. Scope and Objective of the C ourse:
+
+The course is for Pharmacy students keeping in mind the importance of Calculus and Differential
+equations in every branch of Science and Engineering. Functions of several variables appear more
+frequently in scientific problem than functions of a single variable. Their derivatives are more interesting
+because of the different ways in which the variables can interact, while differential equations of both
+homogeneous and non- homogeneous also plays a vital role in Engineering and Sciences.
+
+3. Text Books:
+T1-For module 1-4: Thomas, Weir, M.D., and Hass, J.: Thomas Calculus, 14" Edition,
+
+Pearson Education.
+T2-For module 5-8: Kreyszig: Advanced Engineering Mathematics, Wiley- India.
+
+4, Reference Book:
+Stewart, J. (2009): Calculus with Early Transcendental Functions, 1‘ Edition, Cengage
+
+learning.
+
+5. Course Plan:
+
+Module No Learning Outcomes
+
+Lecture 1-2: Vector valued functions and | 13.1 (T1) Difference between real valued
+Space curve and vector valued functions
+
+2. Lecture 3-5: Introduction to polar co- | 11.3-11.4 | Understanding the Polar coordinates, Relation between Cartesian | (T1) ordinate system and its
+and polar, Polar curves (without advantages
+sketching)
+
+3. Lecture 6-14: Function, Limit, | 14.1-14.8 | Study of the calculus of function
+Continuity, Partial derivatives, Chain | (T1) of several variables,
+rule, Directional derivatives, Extreme
+values and Saddle point,
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Lecture 15-17: Double integral 15.1-15.2 | Set & evaluate double integrals
+(T1)
+
+Lecture 18-22: Complex number, root | 13.1-13.4 | Difference between Analytic
+and functions, Derivative and Cauchy | (T2) and differentiable function
+Riemann equations and A nalyticity
+Lecture 23-27: Introduction (Degrees
+and Order), Linear first order ordinary
+differential equations, Linear differential
+equations, Separable and Exact ordinary
+differential equations
+
+Lecture 28-33: Second order linear
+homogeneous Ordinary differential
+equations, Cauchy-Euler Ordinary
+differential equations, non-homogeneous
+Ordinary differential equations.
+
+Lecture 34-37: Laplace transformations,
+Solutions of initial value problems
+through Laplace transformations
+
+ 
+
+ 
+
+How to solve the first order
+Ordinary differential equation
+
+Solution of the second order
+ordinary differential equations
+
+Solutions of Ordinary
+differential equations and
+Laplace Transformation
+
+ 
+
+6. Evaluation Scheme:
+
+Weightage % Date & Time Nature of component
+Mid-Semester Exam a To be announced later | Open book
+
+Quizzes (2) and 30 Min 30/3 (Q-1), 13/4 (A-1) | Open book
+
+Assignments (2) for each 18/5 (Q-2), 1/6 (A-2)
+quiz
+
+Comprehensive Exam | 120 Min 21/6, 3.00- 5.00PM | Open book
+
+ 
+
+7. Chamber C onsultation Hour: To be announced in the class.
+8. Notices: All announcements in relation to the above course will be put up on Nalanda.
+
+9, Make up: Prior permission must be taken in advance for makeup of all components.
+
+Instructor In-C harge
+BITS F114
+

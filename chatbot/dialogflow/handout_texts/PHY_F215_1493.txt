@@ -1,0 +1,297 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHY F215
+
+Course Title : Introduction to Astronomy & Astrophysics
+Instructor-in-C harge : Kaushar Vaidya
+
+Instructor(s) : Kaushar Vaidya
+
+T utorial/Practical Instructors: NA
+1. Course Description:
+
+This course is an introductory course in Astronomy and Astrophysics. The course covers all the topics in
+the field of stellar astrophysics, and selected topics in the Galactic Astronomy.
+
+2. Scope and Objective of the C ourse:
+
+This course will mainly introduce a student to the field of Stellar Astrophysics. The course will begin with a quick
+review of the history of Astronomy, followed by a discussion of basic concepts of Observational Astronomy, and
+familiarize a student with various tools of Astronomy such as telescopes, detectors, and techniques involved in multiwavelength astronomy.
+
+The course shall deal with topics in Stellar Astrophysics in four broad categories: Stellar atmospheres (outer layers of
+stars), Stellar interiors and Stellar Structure, Stellar Evolution, and End States of Stars.
+
+Stellar atmospheres are the only directly observable layers of stars. We can study stellar atmospheres by obtaining
+spectra of stars. In this course, we will learn how to interpret stellar spectra using the laws of Physics. We will learn
+how to derive abundances of elements in the stellar atmospheres from stellar spectra as well as how to obtain different
+estimates of the “surface” temperatures of stars.
+
+We cannot observe interiors of stars directly. We build models of stars using the basic observations of stars and check
+our models against some of the unique observations possible only for our closest star (the Sun). In stellar structure and
+interiors, we will study how stars produce their energy, how they maintain their equilibrium, how they transport
+energy in their interiors as well as to the outside. We will make use of the most detailed observations of our closest
+star, the Sun, to check if our models are correct (i.e. the energy production by nuclear fusion, the radiative/convective
+structure of star, the temperature profile etc.)
+
+If we had only one star at our disposal to study and learn about the working of stars, we certainly would not be able to
+make a headway. The theory of stellar evolution, which is one of the most successful theories of Astrophysics, is a
+study of stellar systems, such as star clusters to know different stages in stars' evolution. As stars evolve, they
+undergo changes in their cores as a result of nuclear fusion. These changes demand that star constantly makes
+adjustments to remain in mechanical and thermal equilibrium, as well as maintain its output. Eventually stars exhaust
+their core Hydrogen which marks the end of stars main-sequence life. Stars consume their nuclear fuel at different
+rates and have their main-sequence lifetimes as varied as a few million years (the most massive stars) to tens of
+billions of years (the lowest mass stars). Star clusters provide us samples of stars that are similar to one another in
+terms of their chemical abundances, kinematics, and distance from the Sun. In stellar evolution, by studying these
+collective, coeval, samples of stars, we will learn about the various stages that stars would go through post mainsequence, and see the observational correspondence for each of these phases.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Most stars would end as white-dwarfs, some stars would end as neutron stars, and a small fraction of stars would end
+up as black holes. In neither of these phases, would star produce any nuclear energy. Moreover, a strange form of
+
+pressure would support stars in these end phases against gravity. We will learn about the strange physical properties
+of stars when they are in their end states. Apart from studying the physics of these objects, we will also learn about
+how these objects are observed.
+
+3. Text Books: "An Introduction to Modern Astrophysics" by Bradley Carroll & Dale Ostlie, Second Edition,
+Pearson (Addison Wesley), 2007
+
+4, Reference Books: "The Physical Universe" by Frank Shu, University Science Books, 1982
+"Astrophysics For Physicists” by Arnab Rai Choudhuri, Cambridge University Press, 2010
+
+9. Course Plan:
+
+Lecture Topics to be Learning Outcome Reference
+Number covered
+
+1. History History of The Big Questions of Ancient Astronomy Chapter 1
+Astronomy
+
+2. Concepts in Celestial Mechanics; How to label a celestial object, a star ora Ch.1 (S 1.3);
+Astronomy Distances in galaxy by its coordinates Ch. 3 (S 3.1, 3.2,
+Astronomy; 3.6)
+Magnitude Scale; Different coordinate systems and their pros
+
+Color-index and cons
+
+Parallax method of determining distances
+to the nearest stars
+
+Magnitude scale to relate the apparent
+brightness of stars
+
+Color-index and its use as a temperature
+
+indicator
+
+3. Telescopes 4-5 (2) Basic Optics; Optical Important parameters in designs of Chapter 6
+
+Telescopes; Radio telescopes
+
+Telescopes;
+
+Infrared, Ultraviolet, Different kinds of detectors
+
+X-ray, and Gamma
+Ray Astronomy Multi-wavelength Astronomy and their use =
+4. Stellar Spectra Maxwell-Boltzmann Using results from Statistical Mechanics Chapter 8
+
+distribution, branch of Physics, learning how to
+
+Bolzmann equation, determine average velocity for a large
+
+Saha equation, number of particles
+
+Formation of
+
+Spectral Lines,H-R Determining probabilities of particles being
+
+Diagram, Luminosity in different excitation levels in an atom
+
+ 
+ 
+
+5. Stellar
+Atmospheres
+
+6. Interiors of
+
+Stars
+
+ 
+
+10-13 (4)
+
+14-21 (8)
+
+Description of
+Radiation Field,
+Stellar Opacity,
+Radiative Transfer,
+Transfer Equation
+
+Hydrostatic
+Equilibrium,
+Pressure Equation
+of State, Stellar
+Energy Sources,
+Energy Transport,
+Main Sequence
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+using Boltzmann equation
+
+Determining probabilities of particles being
+in different ionization levels using Saha
+equation
+
+Spectral line formation
+
+Different kinds of spectra, classification of
+stars into nine classes
+
+The most important diagram of stellar
+astrophysics: H-R diagram
+
+Definitions of radiation field: specific Chapter 9
+
+intensity, flux, energy density
+
+How to write an expression for loss in
+intensity due to absorption processes
+
+How to write an expression for gain in
+intensity due to emission processes
+
+Transfer Equation and special solutions
+(Interpretation of Kirchoff’s laws)
+
+Different contributors to
+
+absorption/emission: bound-bound, bound
+free, free-free transitions, electron
+scattering
+
+Learning concepts such as Local
+Thermodynamic Equilibrium (Mean Free
+Path, Temperature Scale Height)
+
+How pressure-gradient (gas and radiative) Chapter 10
+
+balances the weight and ensures stability of
+stars
+
+Energy sources of stars: gravitational,
+chemical, nuclear
+
+p-p chain and CNO chain of Hydrogen
+fusion
+
+Binding Energy per nucleon
+Energy Transfer: Radiation and convection
+
+Stellar Models: Stellar Structure Equations,
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Solar Interiors, Solar Evolution of Sun on the main-sequence Chapter 11
+Neutrino Problem,
+Solar Atmospheres Solar neutrino problem, its solution, and
+
+implications
+
+Solar atmospheres: Photosphere,
+Chromosphere, Corona
+
+Solar Magnetic Cycle, sunspots
+
+8. Stellar 25-27 (3) Stages of Stellar Subgiant branch, Red giant branch, Chapter 13
+Evolution Evolution, Stellar Asymptotic giant branch, Horizontal
+Clusters branch, Planetary nebulae
+Stellar Clusters, Open clusters, Globuler
+clusters
+
+9. Stellar 28-30 (3) Evolution of massive Two kinds of Supernovae Chapter 15
+Evolution stars, Supernovae,
+Gamma-Ray bursts Gamma-Ray bursts
+
+10. 31-35 (4) | White Dwarfs, The case of Sirius-B Chapter 16
+Chandrasekhar
+Degenerate Limit, Neutron Stars, White dwarfs
+Remnant Stars Pula
+Fermi Energy
+The physics of degenerate matter
+The Chandrasekhar limit
+Cooling of White dwarfs
+Neutron Stars
+Pulsars
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+Mid-Semester Test <TEST 1> Closed/Open
+<TEST C> Closed/Open
+in. 30
+
+ 
+
+Comprehensive 3h
+Examination
+
+Weekly Quiz _10Min. | 30 | Throughout | Closed
+
+ 
+
+7. Chamber C onsultation Hour: TBA
+8. Notices: On Nalanda.
+
+9, Make-up Policy: Very Strict. Only to the most genuine cases as judged by the IC.
+4
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No.
+

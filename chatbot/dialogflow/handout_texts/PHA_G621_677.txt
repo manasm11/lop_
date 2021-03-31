@@ -1,0 +1,133 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 12.03.2021
+
+In addition to part | (General Handout for all courses appended to the Time table) this portion gives further specific
+details regarding the course.
+
+Course No : PHA G621
+
+Course Title : ADVANCED MEDICINAL CHEMISTRY
+Instructor-in-Charge : HEMANT R JADHAV
+
+Practical Instructors : Amritansh Bhanot, Amit Sharma, Prashant Auti
+
+1. Scope and Objective of the Course:
+
+This course is designed to familiarize the students to improve their knowledge of medicinal chemistry by learning
+how to take a rational, physical, chemical, organic approach to drug design and drug development in relation to the
+chemistry of drug action. Emphasis is also made on planning and designing of molecules to enhance their medicinal
+activity.
+
+2. Text Book: Donald J. Abraham and David P. Rotella (Editors), ‘Burger's Medicinal Chemistry, Drug Discovery, and
+Development’, Wiley, Seventh Edition, Volumes 1 to 3, 2010.
+
+3. Reference Books:
+1. RB Silverman and M W Holladay, ‘The Organic Chemistry of Drug Design and Drug Action’, Elsevier, 3" Ed,
+2014.
+2. GL Patrick, ‘An Introduction to Medicinal Chemistry, Oxford Univ Press, 6" Ed, 2017.
+3. Mike Lancaster, ‘Green Chemistry: An Introductory Text’, RSC, 3 Ed, 2016.
+
+Besides the above, relevant information on the topics are also available in following:
+e Annual Reports in Medicinal Chemistry - Academic Press Inc, Various volumes.
+
+e Journal of Medicinal Chemistry-ACS-Different Volumes.
+
+e Chemical Reviews-ACS-Various Volumes
+
+4. Course Plan:
+Noaule Lecture Session Reference | Learning outcomes
+
+Introduction, drug design process, difficulties Vol 3: Ch 3; Overview of drug design
+encountered RB 1:Ch1
+
+Drug discovery methods such as Me too drugs, analog TB Vol1: Ch | Methods of drug
+design, Peptidomimitics, Diversity oriented synthesis, etc | 4, 6, 15; Vol discovery
+2:Ch4
+
+Rational drug design including Target identification, Vol 2: Ch6, Drug development
+target validation, lead optimization, preclinical 7 RB 1:Ch_ | Process in Industry
+experiments
+
+Protein drug interactions and their uses in drug design aI 2:Ch3 Use of Drug-receptor
+interactions
+
+Solid-phase organic synthesis — solid support, linker TB Vol1:Ch | Combinatorial chemistry
+method, deconvolution method with examples; Solution | 8; RB 2: Ch methods and components
+phase organic synthesis 16
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Prodrugs, Advantages, carrier linked prodrugs, Bio Vol 3: Ch 6; How to make Prodrugs
+precursors, Tripartate prodrugs, mutual pro drugs, RB 1: Ch9
+prodrug design
+
+7 Bioisosters, Bioisosterism in drug design, Case studies RB 1: Ch2 Bioisosterism as method
+and methods of drug modification
+
+2D QSAR: descriptors, process and statistical methods; TB Vol 1: Ch | Evolution of Computer
+3D QSAR: CoMFA process, comparison of other 3D QSAR | 1, 13 Aided Drug Design
+methods; Applications of both the methods
+
+Pharmacophore modeling: ligand based and structure TB Vol1: Ch | Design drugs using
+Sst esaatntton || Pmapareralg
+oe Structure aided drug design: Molecular modeling:
+inspection, virtual screening, de novo generation; 9, 15, 16 molecular modeling
+related examples
+5. Evaluation Scheme:
+or ee ose Bok/ Open ook)
+(%) (Close Book/ Open Book)
+(meteneweres me tren
+book
+
+ 
+
+Comprehensive 120 Min. 24/6/2021 AN Closed book and/or open
+Examination book
+
+Continuous assessment® | | 25 |
+
+ 
+
+*Continuous assessment will be based on theory covered and will be in terms of home assignments, quizzes,
+projects, laboratory, viva-voce, presentations, etc. Exact topics and number will be announced in class.
+
+** It is strongly advised that all students prepare their own notes and relevant information from lectures, text and
+reference books as given in handouts. Only notes and books (given in hand out) will be allowed for consultation
+during open book assessments. Photocopies of any material, written or printed will not be permitted due to
+copyright issues.
+
+*** Recent developments in the area/topic will be discussed in class and hence some information may differ from
+the information in text or reference material. Such discussions held in class will be considered as primary source of
+information in assessments and hence students are expected to take note.
+
+6. Chamber Consultation Hour: Room No. 3170 X, Time to be announced in class.
+
+7. Notices: Notices concerning the course will be displayed on the Pharmacy Group Notice Board only.
+
+8. Make-up Policy: Generally make-up will be considered for regular students only. It is solely dependent on the
+‘genuineness’ of the circumstances. The make-up application should be personally given to instructor-in-charge.
+
+9. Note (if any): Students are advised to read, collect additional information on the above mentioned topics. All
+evaluation components are equally important, irrespective of weightage. Hence, students failing to attend scheduled
+classes, or absenting themselves in one or many of the evaluation components, may become ineligible for obtaining
+a valid grade at the end of the semester. Attendance in all lectures and assessments are equally important as they
+are all integral components of learning, irrespective of weightage and may be taken into consideration during
+grading.
+
+Instructor-in-Charge
+Course No. PHA G621
+

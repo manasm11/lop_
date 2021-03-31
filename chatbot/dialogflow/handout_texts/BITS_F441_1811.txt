@@ -1,0 +1,212 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 17.01.2021
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No. : BITS F441
+Course title : ROBOTICS
+Instructor-in-charge : B.K. ROUT
+
+1. Scope and Objective of the course
+
+Robotics is an interdisciplinary area ranging from mechanical & electrical component design to advanced
+sensor technology, incorporating computer systems and Artificial Intelligence (AI). With advances in AItechniques & computational power in recent years, it has become one of the most interesting areas for
+multidisciplinary research, with lots of commercial applications already in market.
+
+The included subject matter, aims at developing thorough understanding of Robotics & its applications
+in a unified and coherent manner; preparing students of engineering discipline for industries’ requirements
+and applied research in the field. It will also make students capable of handling robot manipulator tasks in
+real, as well as in simulation environment.
+
+2. Text Book:
+T1. Mittal, R.K. and Nagrath, I.J., Robotic and Control, Tata McGraw Hill, New Delhi, 2003.
+Reference Books:
+
+a) Fu,K.S., Gonzalez, R.C., and Lee, C.S.G., Robotics Control, Sensing, Vision and Intelligence, McGraw
+Hill, 1988.
+
+Craig, J.J., Introduction to Robotics: Mechanism & Control. Addison Wesley, 1986.
+
+Paul, R.P., Robot Manipulator: Mathematics Programming & Control. MIT Press, 1981.
+
+Groover, M.P., Industrial Robotics Technology, programming & Application, McGraw Hill, 1986
+Siegwart, R. , Nourbakhsh, I.R. , Scaramuzza, D., Introduction To Autonomous Mobile Robots, 2nd
+Edition, PHI, New Delhi
+
+Geese
+
+@
+
+J ournals to be Referred:
+
+IEEE Trans. Robotics & Automation.
+
+IEEE Trans. System Man & Cybemetics
+
+IEEE Trans. Automatic Control
+
+International Journal of Robotics Research
+
+ASME Trans. on Dynamics Measurement & Control.
+ASME Trans. on Mechanical Design
+
+ROBOTICA
+
+Robotics and computer Integrated Manufacturing
+
+Veecrtew
+
+eS,
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+4, C ourse Plan
+
+Lectures reference
+1. Introduction Chapter 1 To eee ee the state of the art
+development in the areas of
+Robotics
+
+2. Transformations Chapter 2 To understand and apply the
+and Mapping Linear Algebra to transform
+and map the description of the
+object in 3D space from one
+frame of description to
+another. Exposure to rigid
+body mechanics.
+Chapter 3 To learn the methods to
+develop kinematic models of
+Industrial Manipulator
+working in 3D workspace.
+(A pplication of DH
+A |gorithm)
+
+Chapter 4 To learn and apply the
+methods learnt to change the
+description available in
+Workspace to Joint space.
+
+Chapter 5 Develop the mathematical
+models to obtain the velocity
+and angular velocity of endeffector which performing a
+task and vice versa.
+
+Chapter 6 Develop and apply the
+methods learnt to develop
+forward and Inverse dynamic
+model of manipulator.
+
+Chapter 7 Learn and develop the
+methods to develop
+traj ectories to perform a task
+in workspace.
+
+Chapter 6 To understand the
+(Ref. Book : Fu,Lee) | technologies involved in
+design of sensors and
+Actuators.
+Chapter 10 (Ref. To learn the methods required
+Book : Fu,Lee) to control the joints of
+Chapter 5 (Ref. Book | manipulator. How to design
+: Fu, Lee ) feedback and feedforward
+controllers.
+
+3. Forward
+Kinematics
+
+4. Inverse
+Kinematics
+
+5. Differential
+Kinematics and
+Statics
+
+6. Dynamics
+
+7. Trajectory
+Planning
+
+8. Sensors &
+Actuators
+
+9. Robot
+Manipulator Control
+for motion
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Noof | Text t Book Chapter | Le Chapter | Learning outcome
+L ectures reference
+
+10. Mobile Robotics TEACH your Learn the design aspect of
+
+(Kinematics and Instructor mobile robots
+
+Dynamics) &
+
+Navigation.
+
+11. Laboratory MATLAB Experiential Learning
+
+Classes (CRIS) for Assignment/
+
+Demonstration and Robotics Tool Box/ | Self study and study based on
+
+Practice and Robot ABB 1410 the assignments and
+
+Programming. programming / Homework given in class.
+MATLAB Simulink | Learn the methods to program
+Control System the manipulator available at
+Toolbox CRIS
+
+Total LectureHous | 43 |
+
+5. Evaluation Scheme
+
+MIDSEMESTER
+ets) wa
+
+ 
+
+ 
+
+ 
+
+Quiz/A ssignment/ ae 30 Will be TAKE
+Seminar/Report/ announced in the | HOME or
+Presentation, class CLASS
+Software & Lab ASSIGNME
+Assgn erc. NT
+
+** (Unstructured) Submission dates will be announced in the class.
+
+6. Chamber Consultation Hours, will be announced in the class. Chamber No is 2225, FD —II.
+Makeup policy is very strict and applicable for only genuine reasons and prior intimation.
+
+7. Notices: All notices regarding the course will be put up on Google class room. Lack of active
+participation in the class will lead to award of NC report.
+
+Instructor-in-C harge
+BITS F441
+

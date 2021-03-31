@@ -1,0 +1,103 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus,
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18/01/2021
+
+In addition to part I (General Handout for the course append to the time table) this portion gives further
+specific details regarding course.
+
+Course No. : PHY F241
+Course Title : Electromagnetic Theory II
+Instructor in charge : Madhukar Mishra
+
+1. Course Description : The course constitutes the second half of a comprehensive course on electromagnetic theory. It
+covers the following main topics - Review of Maxwell’s equations, Conservation Theorems of Electrodynamic systems,
+Electromagnetic radiation, Relativistic formulation of electrodynamics, Radiation damping
+
+2. Scope and objective : The course will take as staring point Maxwell’s equations, which form the core of
+electrodynamics, and go through certain implications of these equations, namely, conservation theorems for an
+electromagnetic system, electromagnetic radiation. It will also include the relativistic formulation and corrections of
+classical electrodynamics.
+
+3. Text Book:
+
+David Griffiths, J., Introduction to Electrodynamics, PHI Learning Private Limited, 3™ Ed., 2010.
+
+4, Reference Books :
+
+Reitz & Millford, Foundations of Electromagnetic Theory, Narosa Pub. House, 3™ Ed., 1997.
+
+J D Jackson, Classical Electrodynamics, 3 rd Edition, Wiley Student Edition
+
+5. Course Plan:
+Number Objectives (C hap/Sec)
+1 Introduction, Review of | Review of Maxwell’s equations in free space, Class notes
+Maxwell’s equations wave propagation equations
+Conservation laws in Poynting theorem and conservation of energy, Sec. 8.1, 8.2
+Electromagnetic systems | Maxwell stress tensor, conservation of linear and
+angular momentum
+
+Potentials and Fields Potential formulation of Maxwell’s equations, Sec. 10.1 — 10.3
+Gauge transformations, Retarded potentials,
+Lienard — Wrechert potential, Fields of a moving
+point charo
+
+14-20 Radiation from a point Radiation ‘Tom an accelerated point charge, Sec. 11.2
+charge Radiation reaction
+
+21-29 Dipole Radiation Electric dipole radiation, Magnetic dipole Sec. 11.1
+radiation, radiation from arbitra
+
+29 — 33 Special theory of Basic postulates of relativity, Lorentz Sec. 12.1
+relativity transformations and structure of space-time
+34 — 36 Relativistic dynamics of | Generalization of Newton’s equations of motion, | Sec. 12.2
+
+a point particle Energy and momentum of a particle, Relativistic
+kinematics
+
+37 —40 Covariant formulation of | 4- vectors and tensors, Electromagnetic field Sec. 12.3
+classical tensor and transformation of electromagnetic
+electrodynamics fields, Covariance of Maxwell’s equations
+
+ 
+6. Evaluation Scheme:
+Evaluation Duration Weightage (% ) Date, Time & Nature of
+Component Venue Component
+
+Mid-Sem. Test 90 minutes | 30% To be communicated | Closed/Open Book*
+by AUGSD *(Open, if itis
+conducted in online
+mode)
+
+4 Tutorial Tests 20 minutes | (Best three out of To be announced a Closed/Open Book*
+(each of 20 Marks) | (each) four Tut. Tests) 20 week before the test *(Open, if itis
+(Announced) % conducted in online
+mode)
+2 Assignments Each equivalent to 1 | To be announced a Open Book
+(Each of 15 Marks) Tutorial Test; 10% | week before the
+submission of
+assignment
+Comprehensive To be communicated | Closed/Open book*
+Examination by AUGSD *(Fully Open, if itis
+conducted in online
+mode, otherwise
+partly open)
+
+ 
+
+7. Chamber C onsultation Hour: Tuesday; 5:00 PM — 6:00 PM.
+Feel free to drop an email to IC (madhukar@ pilani.bits-pilani.ac.in), in case of any issue/doubt/query.
+
+8. Notices: All the notices will be displayed on Google C lassroom/Nalanda/Email.
+
+9, Make-up Policy: Very strict Make up policy will be followed. It will be given only in very genuine cases
+like, serious illness/hospitalization or visiting out of Pilani due to any urgent work.
+
+Instructor-in-charge
+PHY F241
+

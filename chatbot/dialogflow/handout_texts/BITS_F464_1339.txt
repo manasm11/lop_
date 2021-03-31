@@ -1,0 +1,248 @@
+Birla Institute of Technology and Science, Pilani
+Pilani Campus
+Academic Undergraduate Studies
+
+ 
+
+ 
+
+Department of Computer Science & Information Systems
+Second Semester: 2020-2021
+Course Handout: Part-II
+
+Date: 15/01/2021
+
+In addition to part-| (General handout for all courses appended to the timetable) this portion gives further specific details
+regarding the course:
+
+Course No. : BITS F464
+Course Title : Machine Learning
+Instructor-in-Charge — : Kamlesh Tiwari, (Kamlesh.tiwani@ pilani.bits-pilani.ac.in)
+
+1. Objective and Scope of the Course
+
+Computers have always been perceived as an intelligent machine. However, for a very long time, machine intelligence was
+challenging to achieve. Recent developments in statistical techniques, availability of large volume of data, and compute power
+have sufficiently advanced the state-of-the-art o realize such a machine soon. Data as a fuel leads, to knowledge discovery in
+databases (KDD) and artificial intelligence (Al). Machine learning plays a central role here by devising methods for automated
+discovery of appropriate systems for very complex tasks that are not possible otherwise. The process of making the algorithm
+better based on data is typically called as learning and is the prime subject matter of this course. We would see algorithms that
+allow itself to learn patterns and concepts from data without being explicitly programmed. This course will introduce some of
+the principles and foundations of Machine Learning algorithms, along with their real-world applications. This course would be of
+introductory nature, and would not expect any prior exposure of machine learning from its audience. However, experience in
+programming would be useful. The course will cover major approaches to learning, namely, supervised, unsupervised, and
+reinforcement. The topics covered would include regression, decision trees, support vector machines, artificial neural networks,
+Bayesian techniques, Hidden Markov models, genetic algorithms etc. Some advanced topics like active and deep learning will
+also be covered if time permits.
+
+2. Course Material
+Text Book:
+
+e [TB]: Tom M. Mitchell, Machine Learning, The McGraw-Hill Education(India) 2013.
+
+Reference Books:
+
+e [R1]: Christopher M. Bhisop, Pattern Recognition and Machine Learning, Springer, 2006.
+
+[R2]: N.J. Nilson, Introduction to Machine Learning, Stanford,
+Online Link http://robotics.stanford.edu/people/nilsson/mlbook.html
+
+[R3]: D. Michie, D.J. Spiegelhalter, C.C. Taylor, Machine Learning, Neural and Statistical Classification,
+Ellis Horwood publishers, Online Link http://www.amsta.leeds.ac.uk/~charles/statlog/
+[R4]: Trevor Hastie, Robert Tibshirani, Jerome Friedman, The Elements of Statistical Learning, Springer, 2009.
+Online Link http://statweb.stanford.edu/~tibs/ElemStatLearn/printings/ESLII\ print1l0.pdf
+[R5]: Hal Daume III, A Course in Machine Learning, 2015. online Link http://ciml.info/
+[R6]: Kevin Murphy, Machine Learning: A Probabilistic Perspective, MIT Press, 2012
+Online Link https://mitpress.mit.edu/books/machine-learning-0
+
+[R7]: lan Goodfellow, Yoshua Bengio, Aaron Courville, Deep Learning,
+Online Link http://www.deeplearningbook.org/
+
+ 
+
+  
+  
+
+Save Paper.
+S. Save Trees.
+£* Agave the World.  
+Please Do Not Print Unless Necessary
+
+ 
+ 
+
+Birla Institute of Technology and Science, Pilani
+Pilani Campus
+Academic Undergraduate Studies
+
+ 
+
+ 
+
+3. Course Plan
+
+Lecture Topic(s) to be discussed Learning Objective
+1 Introduction to Machine Learning TB[Ch-1] To be able to identify
+
+Self-Study + R1[Ch- problems where ML can
+Probability theory, Decision theory, Information theory, 2], TB[Apdx-C], be applied and
+Linear Algebra R7[Ch-1+2+3] appreciate the progress
+
+of the field.
+
+ML Basics, Performance Evaluation, Bayesian Learning, TB[Ch-6], R7[Ch-3], To predict using simple
+MAP Hypothesis, ML Hypothesis, Bias-variance class notes, linear model. Explore
+Decomposition the hypothesis space.
+Constrained optimization, Lagrange Multipliers, SSD, R1[Apdx-E], class To explore ways to get
+Mixture of Gaussians, Expectation Maximization (EM), notes insights from the data.
+Curse of Dimensionality, PCA and SVD, Eigenfaces
+
+9-13 Concept Learning, Minimum Description Length (MDL),
+Hidden Markov Models (HMM) notes hypothesis space.
+
+14-15 Non-linear Models: Model Selection & Decision Trees, TO explore
+Ensemble Classifiers — Random Forest, Instance-based interpretable models
+Learning, K-NN, Case-based Reasoning
+
+Unsupervised Learning: Mixture Models, K-means How to summarize
+
+Clustering, Self-organized Maps (SOM) data.
+
+Bayesian Learning Techniques: Bayes optimal classifier, R1[Ch-4], TB[Ch-6], To learn Bayesian
+Gibbs Algorithm, Naive Bayes Classifier R7[Ch-5], Classification.
+
+Liner Models for classification: Discriminant Functions, R1[Ch-3] Learning to _ classify
+Probabilistic Generative Classifiers, and Probabilistic unseen data.
+Discriminative Classifier. Liner Models for regression:
+
+Linear basis function models, Bayesian linear regression.
+
+Logistic Regression.
+
+Graphical Models: Bayesian Belief Networks, PAC TB[Ch-6], TB[Ch-7], How only observation
+Learning, SOM, VC-Dimension and Monte Carlo Class Notes can be used to build
+Simulation models.
+
+25-26 Margin/Kernel Based Approaches: Support Vector R1[Ch-7], Class Learning how
+Machines Notes transformation help
+
+27 Ensemble Methods: Bagging and Boosting How to combine
+Genetic Algorithms: Hypothesis space search, Genetic TB[Ch-9] How nature have
+programming, Models of evaluation & learning inspired the learning.
+
+Reinforcement Learning: Q Learning, Non-deterministic TB[Ch-13] Power of hit and trial
+rewards & actions, Temporal difference learning, methods.
+Generalization
+30 Learn better sampling.
+31-33 Neural Networks, Multilayer Perceptron, Network Learn hierarchical
+training, Error back-propagation, TB[Ch-8], TB[Ch-6] classification
+
+Deep Learning: Speech Recognition, Sequence Learning, R7[Ch-12], Class Handle series
+RNN Notes
+
+36-38 Deep Learning: Image Retrieval, Computer Vision, CNN R7[Ch-9], Class Learn vision and speech
+Notes
+
+39-40 Generative models: Autoencoders (VAE), Auto-Encoders, R7[Ch-14+20], Learn making
+Class Notes something unseen
+
+e
+
+—N
+
+NO
+©
+
+Ce)
+
+ 
+
+ 
+
+    
+
+Save Papert.
+ame. Save Trees.
+£ ~ “*$$ave the World. innovate Erle
+
+Please Do Not Print Unless Necessary
+
+ 
+Birla Institute of Technology and Science, Pilani
+Pilani Campus
+Academic Undergraduate Studies
+
+ 
+
+ 
+
+4. Learning outcome
+Students who complete this course would be able to
+1. Understand the problems where machine learning could be applied.
+2. Formulate/model entitled problem in hand as a machine learning problem.
+3. Determine the effectiveness of the proposed solution.
+4. Comprehend and tune the model parameters to get better systems.
+
+5. Evaluation Scheme
+
+Evaluation | EvaluationComponent = sis
+
+SNe Evaluation Component |Mid-SemesterTest: =  —————sdC Test: | Men per Book (Expected duration 90 “open 800k (eee omni)
+
++ Submissions: 10% Ask for any 7 to be evaluated. Marks in
+Expected to conduct 14 labs (one per week) on important best 5 would be counted.
+ML problems. Coding would be done in Python.
+
+Class Project: Would be evaluated based on quality of
+Would be done individually. A list of problem statements data, preprocessing, model accura cy,
+would be provided. You would collect data, train model, get work done and report.
+
+results and submit report.
+
+Assignment: 5% One on learning Latex and another on
+Two in number. notes scribing.
+
+Term Project: Would be evaluated based on the
+Could be done individually or in groups of two/three. A list of report/viva/presentation.
+
+titles would be provided by the instructor. You would read
+
+and present the paper. Could require coding to understand
+the topic and re-generate results.
+
+| 6. | Comprehensive Exam: 05 May 2021 Open Book (Expected duration 120 Min)
+
+ 
+
+6. Honor Code
+
+No form of plagiarism shall be tolerated (we would be using appropriate software tools). Student shall be awarded ZERO
+marks and case may be reported to the appropriate committee of the Institute for appropriate action. Every component
+is individual until specifically specified.
+
+7. Notices
+
+All notices would be put on NALANDA and course website: www. ktiwari.in/ml.
+
+8. Make-up Policy
+
+To be granted only in case of serious illness or emergency on case by case basis for Comprehensive Exam only.
+
+9. Chamber Consultation Hours
+
+Tuesday 10-11 AM (google meet link on course website)
+
+Instructor-in-Charge
+
+ 
+
+ 
+
+Save Paper.
+a mine Trees.
+g Save the World. nna
+
+Please Do Not Print Unless Necessary
+
+ 
+

@@ -1,0 +1,194 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MATH F342
+
+Course Title : DIFFERENTIAL GEOMETRY
+Instructor-in-C harge : PRADIPKUMAR H. KESKAR
+Instructor(s) : PRADIPKUMAR H. KESKAR
+
+Tutorial/Practical Instructors: PRADIPKUMAR H. KESKAR
+
+1. Course Description:
+
+The course studies geometric objects like curves and surfaces in the 3- dimensional space. Topics include plane and space
+curves, Serret-Frenet frame and curvature and torsion of curves, global properties of curves, first and second fundamental
+forms of surfaces, normal, principal and Gaussian curvatures of surfaces, Gauss’ Theorema Egregium and geodesics on
+surfaces.
+
+2. Scope and Objective of the C ourse:
+
+The objective of this course is to provide a systematic exposition of the essential concepts of modern differential
+geometry, and an understanding and appreciation for the intrinsic beauty of these concepts, as well as their deep
+relationships to computer and physical Sciences. The under current is to generalize and reinforce the classical subject
+in a moder way.
+
+3. Text Books:
+Somasundaram, D — Differential Geometry A First Course, Narosa Publishing House (2005)
+
+4, Reference Books:
+1. Pressley, A — Elementary Differential Geometry, 2"¢ Edition(Corrected Print), Springer (2012)
+2. Gray A, Abbena E, Salamon S — Modern differential geometry of curves and surfaces with MATHEMATICA, 3”
+Edition, CRC Press (2006)
+3. Oprea, J] — Differential Geometry and Its Applications, Mathematical A ssociation of America(2007)
+4, Bar, Christian - Elementary Differential Geometry, 1° South Asian edition, Cambridge University Press (2011)
+
+5. Course Plan:
+
+1. Theory of Space | L 1-3 Space curve, Parametrization, Examining the curves in
+Arc Length, Tangent & Osculating Space and surface along
+Plane, Normal, Binormal. with tangent, normal,
+
+L4-5 Curvature, Torsion, Behavior of Sec. 2.1, 2.3 of curvature, asymptotes.
+curve at a point RI
+
+L 6-8 Contact between curve and
+
+surfaces, Osculating circle and sphere, 1.10-1.13
+
+Spherical curvatures, Involutes and
+
+Evolutes.
+
+ 
+ 
+
+Fundamental
+Form
+
+3. Geodesics on a
+Surface
+
+4, Second
+Fundamental
+Form
+
+5. Fundamental
+Equation of
+Surface Theory
+
+6. Evaluation Scheme:
+
+L 9-11 Representation of surface,
+Curves, Tangent plane and surface
+normal
+
+L 12-13: General Surfaces of
+Revolution, Helicoid, First
+Fundamental Form
+
+L 14-17: Direction Coefficients,
+Families of Curves, Orthogonal
+Trajectories, Isometric
+Correspondence
+
+L18-19: Geodesics and their
+differential equation, Canonical
+geodesic equations
+
+L20-22: Geodesics and its normal
+properties, Existence Theorem
+
+L23-24: Geodesics Parallel. Geodesics
+Polar Coordinates and curvatures.
+
+L25-27: Gauss-Bonnet Theorem,
+Gaussian Curvatures, Surface of
+constant curvature
+
+L28-29: Second Fundamental Form,
+Classification of points, Principle
+curvatures.
+
+L30-31: Lines of curvature, Dupin
+indicatrix, Developable surfaces
+
+L32-33: Developable with space
+curves, Minimal surfaces,
+
+L34-35: Ruled Surfaces, Three
+Fundamental Form
+
+L36-37: Tensor equation, Gauss
+Equations
+
+L38-39: Weingarten Matrix,
+Mainardi-C oddazzi equation
+
+L40-41: Parallel surfaces,
+Fundamental Existence theorem
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Parameterization of
+curves and the
+properties of surfaces.
+
+2.10-2.14
+
+Canonical geodesic
+equations and its normal
+properties
+
+3.8-3.10
+3.11-3.13
+
+Maximum and
+minimum curvatures
+along a given direction.
+
+4.11-4.12
+
+Fundamental Equation
+of surface, Gauss
+equations.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+(% ) (Close Book/ O pen Book)
+-Mid-SemesterTest | ss | S330, | TBA
+Examination
+each
+informed (refer NALANDA)
+7. Chamber C onsultation Hour: To be announced in class
+
+8. Notices: NALANDA website
+
+9, Make-up Policy: No make ups for in class quizzes, buffer quizzes will be given instead. For mid-semester
+and comprehensive examinations, make up will be provided only in genuine cases when permission is granted
+in advance.
+
+10. Note (if any): Practice Problems will be assigned periodically. They must be worked out to understand the subject.
+Students are expected to consult the Reference books as advised in the class room.
+
+ 
+
+ 
+
+Instructor-in-charge
+Course No. : MATH F342
+
+WW
+

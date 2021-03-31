@@ -1,0 +1,281 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course title: Management Science
+Instructor-in-charge: DR. RAJESH MATAI
+Course No.: MBA G545
+
+Course No :
+Course Title :
+Instructor-in-C harge
+
+Instructor(s) : NA
+T utorial/Practical Instructors: NA
+
+ 
+
+1. Course Description: Management Science A pproach to Problem Solving, Linear Programming (LP):
+Model Formulation and Graphical Solution, Linear Programming: Computer Solution and Sensitivity
+Analysis, Linear Programming: Modelling and Applications, Linear Programming: The Simplex Method,
+Transportation and Assignment Problem, Integer Programming (IP) and Goal Programming (GP), Waiting
+Lines and Queuing Theory Models, Simulation Modeling etc.
+
+2. Scope and Objective of the C ourse:
+Management Science aims to solve decision-making problems that confront and confound managers in real
+
+life by developing mathematical models of those problems. The course will be built on basics of mathematical
+modelling skills and then will focus on real life Applications and Solutions using software. Students will
+develop decision-making skills as outcome of this course. This course has become very significant in today’s
+era of Analytics and today it is also called Prescriptive A nalytics.
+
+3. Text Books:
+T1. Taylor, Bemard W.; Introduction to Management Science, Pearson Education, India, 9" Edition, 2008.
+
+T2. Render, B., Stair, Jr., R.M., Hanna, M.E., and Badri, T.N.; Quantitative Analysis for Management,
+Pearson Education, India, 10" Edition, 2011.
+
+4, Reference Books:
+
+R1. Frederick S. Hillier and Mark S. Hillier; Introduction to Management Science: modeling and case
+studies approach with spreadsheets, McGraw-Hill Irwin, 5" Edition. 2019.
+
+5. Course Plan:
+
+Chapter 1(T1) | The Management
+; Management Science Process
+Science A pproach
+to Problem Solving
+
+Linear Chapter 2 (T1) | Model Formulation, A
+aa Maximization Model,
+(LP): Model Graphical Solutions of
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Formulation and
+Graphical Solution
+
+Linear Programming
+Models, A Minimization
+
+(ii) Linear
+
+Programming:
+
+Computer
+Solution and
+Sensitivity
+Analysis
+(iii) Linear
+
+Programming:
+
+Modeling and
+Applications
+
+(iv) Linear
+Programming: The
+Simplex Method
+
+ 
+
+Chapter 3 (T1)
+
+Chapter 4 (T1)
+Chapter 8 (T2)
+
+Chapter 9 (T2)
+
+Model, Irregular Types
+
+of Linear Programming
+Problems,
+Characteristics of Linear
+Programming Problems
+Computer/ Software
+Solution, Sensitivity
+Analysis
+
+   
+
+A Product Mix Problem,
+A Diet Problem, An
+Investment Problem, A
+Marketing Problem, A
+Transportation Problem,
+A Blend Problem, A
+Multiperiod Scheduling
+Problem, A Data
+Envelopment A nalysis
+Problem, A Production
+Scheduling Problem, An
+Employees Scheduling
+Problem, Other Linear
+Programming
+Applications
+
+Convert LP constraints
+to equalities with slack,
+surplus, and artificial
+variables, Set up and
+solve LP problems with
+simplex tableaus,
+Interpret the meaning of
+every number ina
+simplex tableau,
+
+Recognize special cases
+such as infeasibility,
+unboundedness, and
+degeneracy, Use the
+simplex tables to
+conduct sensitivity
+analysis
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+18-21 Chapter 10
+(T2)
+
+(i) Transportation
+and Assignment
+
+Problem
+
+(ii) Integer 22-26
+
+Programming (IP) Chapter 11
+and Goal (T2)
+Programming
+
+(GP)
+
+(III) 27-30 Chapter 14
+(i) Waiting Lines (T2)
+
+and Queuing
+
+Theory Models
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Structure special LP
+problems using the
+transportation and
+assignment models, Use
+the northwest comer,
+VAM, MODI methods
+for solving
+transportation problem,
+Solve assignment
+problems with the
+Hungarian (matrix
+reduction) method
+
+Understand the
+difference between LP
+and Integer
+Programming, Using
+Software to solve
+Integer Programming
+Problems (IPP), Some
+IP Applications, A pply
+the branch and bound
+method to solve IPP,
+
+Solving Goal
+Programming Problems
+(GPP) graphically, Goal
+Programming with
+Weighted Goals, Using
+Software for solving
+GPP
+
+Waiting Line Costs,
+Characteristics of a
+Queuing System,
+Single-Channel Queuing
+Model with Poisson
+Arrivals and
+Exponential Service
+Times (M/M/1),
+Multichannel Queuing
+Model with Poisson
+Arrivals and
+Exponential Service
+Times (M/M/m),
+Constant Service Time
+Model (M/D/1), Finite
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Population Model
+(M/M/1 with Finite
+Source), Some General
+Operating Characteristic
+Relationships
+
+(ii) Simulation Chapter 15 Introduction,
+
+Modelling (T2) Advantages, and
+Disadvantages of
+Simulation, Monte Carlo
+Simulation, Simulation
+of a Queuing Problem,
+Role of Computers in
+Simulation
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+Book)
+Close
+Examination
+CaseAnalysis | | Open
+
+Case Analysis: Cases will be assigned time to time. Students must read the case assigned, do proper analysis
+and come fully prepared for discussions in class. It is highly desired that students must attend all classes and
+contribute in case discussions.
+
+Mini Project: Students will take any real Management Science problem and do projects in groups. At the end
+of semester, all groups will give presentation and submit report.
+
+7. Chamber C onsultation Hour: Friday after class.
+
+8. Notices: All notices of this course will be displayed on the Department of Management Notice Board or
+Online.
+
+9, Make-up Policy: Make-ups may be allowed only in genuine cases with prior permission of I/C.
+10. Team Formation: Students have to give mini-project presentations in a team. Teams will be formed by
+Instructor.
+
+
+

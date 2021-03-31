@@ -1,0 +1,257 @@
+  
+
+A INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 03.03.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE Fill
+
+Course Title : Electrical Sciences
+Instructor-in-C harge : Karunesh K Gupta
+Instructor(s) : Arnab Hazra, Sharda Tripathi
+
+Tutorial/Practical Instructors: Harshavardhan S, Karri Babu Ravi Teja, Shishir Maheshwari,
+K.K.Gupta, Rahul Kumar, Sandeep J oshi, Praveen kumar A. V, Anantha K Chintanpalli, Ashish
+Patel, Samatha Benedict, Kishor Bhaskarrao Nandapurkar.
+
+1. Course Description: Course covers basic passive circuit elements, dependent and independent sources,
+network theorems, circuit analysis techniques and response of first and second order circuits. Introduction to
+three - phase circuits, magnetic circuits, transformers, basics of rotating machines. Semiconductors operation of diodes, zener diodes, bipolar junction transistors and field effect transistors. Biasing techniques
+and applications of diodes and transistors. Introduction to operational amplifiers and applications.
+Introduction to Digital Electronics.
+
+2. Scope and Objective of the Course: The principal objective of this course is to teach the principles of
+three different aspects of electrical sciences: (1) Circuits (2) Electronics and (3) Electromagnetics, to the
+student composed of mixed disciplines.
+
+3. Text Books:
+Leonard S. Bobrow and Navneet Gupta, ‘Foundations of Electrical Engineering’, Oxford University Press,
+Asian Edition, 2015.
+
+4, Reference Books:
+Vincent Del Toro, ‘Electrical Engineering Fundamental’, Prentice Hall, 1989.
+Robert L. Boylestad, L. Nashelsky, ‘Electronic Devices and Circuit Theory’, Pearson, 2009.
+
+5. Course Plan:
+
+Module Lecture Coverage Ref. (TB) | Learning Outcome
+No.
+
+Basic - Voltage and current sources, Students will learn basic circuit
+elements basic circuit components , elements and the laws of electrical
+and laws Kirchhoff’s current law science to solve basic electrical
+
+(KCL), Kirchhoff’s voltage, circuits
+law (KVL), Instantaneous
+power, Inductors, C apacitors
+
+ 
+INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Independent and dependent Students will learn independent and
+sources, Source dependent sources, source
+transformation transformation
+
+Circuit Nodal analysis, Mesh analysis Students will be able to solve circuits
+analysis by nodal and mesh analysis
+principles
+
+ 
+
+6-8 Network theorems ( 2.4,2.6 Students will be able to solve circuits
+Thevenin’s theorem, Norton’s using network theorems.
+theorem, Maximum power
+transfer theorem,
+Superposition theorem)
+
+ 
+ 
+
+Time 9-12 Transient response of first and Students will be able to perform time
+second order circuits (natural domain analysis of first and second
+and forced response) order circuits.
+
+AC 13-14 Time-domain analysis, Students will learn concept of phasor,
+analysis Waveforms, form factor, phasor algebra, frequency domain
+Phasor representation of analysis of AC circuits.
+alternating quantities, j
+operator and Phasor algebra,
+Frequency-domain analysis
+
+Average power, apparent Students will learn concepts of power
+power and complex power in AC circuits.
+
+domain
+analysis
+
+ 
+
+Three phase circuits (Y and A Students will learn concepts of three
+connections) phase circuits (Y and A connection)
+
+Frequency
+response
+
+Frequency response, Filters Students will be able to perform
+(Low Pass, High Pass and frequency domain analysis of circuits
+Band Pass), Resonance and and learn resonance and filters.
+Quality factor
+
+Diodes 23-25 Basics of semiconductors, PN 6.2, Students will study basics of
+junction, J unction diode, Ideal | (partly) semiconductors, diodes and their use
+diode and applications 6.3,6.4, in various electronic circuits.
+
+and
+resonance
+
+ 
+
+(rectifiers and clippers)
+  
+ 
+
+Bipolar
+Junction
+Transistor
+S
+
+FieldEffect
+Transistor
+s (FET)
+
+Operation
+al
+amplifier
+
+Magnetic
+circuits
+and
+transform
+ers
+
+Introducti
+on to
+machines
+
+Pilani Campus
+AUGS/ AGSR Division
+
+Zener diode (its model and
+application as voltage
+regulator and clipper)
+
+Basic operation and
+characteristics of BJ T
+
+Operation and characteristics
+of JFET and MOSFET
+
+Basics of operational amplifier
+and its application
+
+Introduction to digital
+electronics
+
+Analogy between electrical
+and magnetic circuits, B-H
+curves
+
+Lenz’s law, Transformers,
+Ideal transformer
+
+Basics of rotating machines
+
+13.1-13.2
+
+(partly)
+13.3, 13.4
+
+13.6-13.7
+
+13.8, 13.9
+
+15.1-15.2
+
+(partly)
+
+A INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Students will learn applications of
+zener diodes in electronic circuits.
+
+Students will learn the construction
+and operation of bipolar junction
+transistors
+
+Students will learn construction and
+operation of field effect transistors
+
+Students will learn opamp circuits
+and their applications. Students will
+also be introduced to digital
+electronics.
+
+Students will learn the fundamental
+concept of electromechanics,
+magnetic circuits and transformers.
+
+Students will learn basic concepts of
+transformers, ideal transformer
+
+Students will learn physical structure
+and operation of DC/AC machines
+
+ 
+
+6. Evaluation Scheme:
+Component Duration | Weightage Date & Time Nature of component
+we (Close Book/ O pen Book)
+
+Mid-Semester Test 90 Min. Will be announced by Open Book
+AUGSD
+
+20 Min 30 Open Book
+
+Will be announced in
+class
+ee Closed Book
+
+120 Min.
+
+Quizzes
+
+ 
+  
+
+A INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Examination |
+7. Chamber C onsultation Hour: To be announced in the class
+8. Notices: All notices of this course will be displayed on the Nalanda only
+
+9, Make-up Policy: No make-up will be given for surprise quizzes, however for other components; makeup will be given ONLY in cases of sickness (hospitalization) or urgency for going out of station. In such
+case student must produce the sufficient proof or must have taken the prior permission from the IC.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE F111
+

@@ -1,0 +1,144 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 20.01.2021
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BITS F449/ ECON F413
+Course Title : FINANCIAL ENGINEERING
+Instructor-in-C harge : ARUN KUMAR VAISH
+Instructor(s) : ARUN KUMAR VAISH
+
+Tutorial/Practical Instructors: NA
+
+1. Course Description:
+
+The Financial Engineering Concentration encompasses the design, analysis, and construction of financial
+contracts to meet the needs of enterprises. It involves the development and creative application of financial
+theory and financial instruments to structure solutions to complex financial problems and to exploit financial
+Opportunities.
+
+2. Scope and Objective of the C ourse:
+
+The objective of the course is to provide knowledge about preliminary understanding of financial
+engineering tools and techniques in the present market environment such as applications of Future &
+Options for hedging, asset price dynamics and use of simulation in decision making. Financial Engineering
+is a multidisciplinary field involving financial theory, the methods of engineering, the tools of mathematics
+and the practice of programming. The course on financial engineering would enables students to respond to
+the professional requirements particularly related to investment banking, financial management, treasury
+Operations, asset management, risk management, consulting and capital markets etc.
+
+3. Text Books:
+T1. Salih N. Neftci, Principles of Financial Engineering, Academic Press Publishers, 2009
+
+4, Reference Books:
+Ri. David A. Dubrofsky and Thomos W. Miller, Jr., Deivatives Valuation and Risk Management, Oxford
+
+Unversity Press.
+R2. David G. Luenberger, Investment Science, Oxford University Press
+R3. Futures, Options and Other Derivatives by John C Hull, 8" Edition, Prentice Hall
+
+R4. Derivatives Principles and Practice by Rangarajan K. Sundaram and Sanjiv R. Das, McGraw Hill
+Education (India) Private Limited, New Delhi
+
+5. Course Plan:
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Understanding the concept of
+financial engineering, its tools and
+techniques etc.
+
+Understanding financial players
+and markets and instruments and
+related conventions.
+
+3 4-6 Class notes To know about the fixed income
+securities.
+
+Class notest Chap3 & 4 of T1 + | Understanding the concepts of
+R3 derivatives. Determination of
+Forwards and Futures prices,
+
+ 
+
+Chap 5 & 13 of T1+R1+R3 + Understanding the concepts of
+class notes Swaps and their different types and
+USES.
+
+To know about the Wiener process
+and Ito’s Lemma
+
+Chap 8&10 of T1, + R3 plus Understanding the concepts of
+class notes Options Pricing, Option
+mechanics, options engineering
+and its application.
+
+aon 33 Chap 13-15 of T1 +R3+ class UnderstandingV olatility swaps,
+
+notes Smiles and volatility trading.
+
+— 38 Estimating volatilities and
+
+correlations
+R3 +class notes
+
+11 39-42 Chapter 11&12 UnderstandingV -a-R, Learming
+Tools of financial engineering in
+
+pricing and application of
+
+fundamental theorems
+
+6. Evaluation Scheme:
+
+ 
+
+  
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Component Duration Weightage| Dat Date »&Time | N; Time Nature of component
+
+(% ) (Close Book/ O pen
+
+Book)
+
+rr
+
+eee [ap
+Examination
+
+ 
+
+om One . re vet
+Out Of 3 (One Buffer, each
+No seen
+Study of Selected
+research articles and
+presentations thereof
+
+7. Chamber C onsultation Hour: 11 AM -Thursday
+
+8. Notices: A I] notices will be displayed on Department of Management Notice Board
+
+9, Make-up Policy: Make-up will be given only on genuine cases and on prior approval.
+10. Note (if any):
+
+ 
+
+Instructor-in-charge
+Course No. BITS F449/ ECON F413
+

@@ -1,0 +1,228 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+SECOND SEMESTER 2021-2022
+C ourse Handout Part II
+
+Date: 18/01/2021
+
+In addition to part -I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+LPTU : 3003
+
+Course No. : ME F340
+
+Course Title : Introduction to Sports Engineering
+
+Instructor-in-Charge : M.S. Dasgupta
+
+Team of Instructors — : Pintu Modak, Rajesh P Mishra, Dr. Achint Nigam, K P Venkatesh,
+
+1. Course Description: The course essentially prepares engineering students to utilize their existing
+technical knowhow for sports applications. Specific focus is on Mechanics, Materials, Design principles
+and data analysis. The course introduces students to sports biomechanics, analysis of human movement
+in sports, Force and motion analysis using various standard techniques, sensors, data analysis and
+performance measure. Sports equipment and surface property affecting performance and injury.
+
+2. Scope & Objective: This is an introductory course to impart knowledge and skill set related to working
+with human in sports engineering application. Understanding human movement pattern and
+performance measurement. Understand, assess and analyze effect of equipment, sports surfaces and
+environment on sports performance. Use of ergonomic concepts, image processing, smart sensors and
+data analysis in sports engineering. Standard techniques of evaluation and testing of sports equipment
+and sports surfaces and appreciation of business around sports industry.
+
+3. Learning outcome: On successful completion of this course, students will be able to:
+
+a) Explain what is sports engineering application domain.
+b) Demonstrate how to frame a sports engineering related problem and apply suitable engineering
+solution.
+c) Assess effect of sports surfaces and equipment on sports performance.
+d) Demonstrate use of information technology tools for performance analysis.
+4. Text Books:
+(T1) Sport and exercise biomechanics - P. Grimshaw, New Y ork: Taylor & Francis, 2007
+(T2) Introduction to Sports Biomechanics: Analysing Human Movement Patterns, 2nd edition by Roger
+Bartlett, Routledge Publishing, 2007
+5. Reference Books:
+
+ 
+
+i Save Paper.
+ae Save Trees.
+£P© Save the World.
+
+(R1) Materials in sports equipment — Mike Jenkins, Woodhead Publishing 2003 UK
+(R2) Kinesiology: Scientific basic of human motions, By Katharina F Wel’s and Kathryn Luttgens, 6th
+Edition, Philadelphia
+
+ 
+
+ 
+
+ 
+(R3) The Science and Engineering of Sport Surfaces Edited by Sharon Dixon, Paul Fleming, Iain James,
+
+Matt Carré
+
+(R4) Database systems: a practical approach to design, implementation and management (5th edition),
+
+Connolly, Thomas M. and Carolyn E. Begg, Addison-Wesley 6" Edition, 2015
+
+(R5) The Routledge Handbook of Ergonomics in Sport and Exercise Youlian Hong, 2014
+
+Routledge
+
+6. Course Plan:
+
+Module
+3
+B
+
+—_
+
+ 
+
+ 
+
+ 
+
+Lecture | Chapter,
+session Section
+duration | (Book)
+nour
+Sports and Technology
+Introduction to Sports engineering and ch 7 2
+sustainability
+Objectives and scopes. of _ sports Sen 1 2
+engineering
+Connecting engineering with — sports
+development.
+Human Movement Patterns
+Defining human movements Sec: 1 5 3,4
+Some fundamental movements and
+Movement patterns, qualitative and
+quantitative methods
+Ergonomics and Anthropometry
+Introduction to ergonomics, system design se 2,5
+and task analysis
+Introduction to anthropometry and _ its See: 5 3
+application in sports.
+Anthropometry measures and
+anthropometric techniques
+Performance Analysis of Sports
+Movements Sen
+What is Performance Analysis of Sport? 1,2,4,6
+Quantitative and Qualitative Analysis,
+Sports Performance Data and Information
+Computer application in sports
+Computerized Performance Analysis
+Systems and AI
+Business around Sports Reading
+Introduction to sports as a product and material
+a service. Pricing and promotion will be
+strategies in sports marketing. supplied
+Sports Infrastructure and Surfaces R3
+Basics of sports Infrastructure. Sec:1,2,3
+Planning design and management of R5
+sports infrastructure. History and Sec:6
+development of sports Surfaces, surface
+Classification and _ characterization,
+surface test methods. Sports Surfaces
+
+ 
+
+b iM heen we
+
+Learning outcome of
+module
+
+Learning fundamental
+skills that Engineering
+students require to
+understand sports
+movements. Technology
+and sports ethics.
+
+Learning human
+
+movement patterns and
+their analysis
+
+Learning basic human
+factors in engineering
+design
+
+Learning modern
+computing technology and
+its use 1n sports
+performance analysis
+
+Learning about marketing
+opportunities of sporting
+events and business around
+Sports.
+
+Learning key aspect of
+sports infrastructure
+surface development,
+testing and effect on
+performance
+
+ 
+
+ 
+ 
+
+and Performance. Chemistry of Sports oe
+surface.
+
+Equipment C ase Studies: Visualize situations that
+Materials and design of sports products engineers need to analyze
+
+— balls, tennis rackets, cricket bats, and appreciate in Sports
+bicycles, running shoes, pole vaults, engineering problem and
+surfaces and training equipment case scope of business around
+studies and measurements sports
+
+ 
+
+4, Evaluation Scheme:
+
+. Weightage Duration .
+Evaluation Component (Minutes) Date of Evaluation
+As announced in the
+
+Timetable
+
+Mid Semester Test
+
+ 
+
+ef wo
+Take home
+i t
+assignments 35
+°
+
+Comprehensive 3
+Examination
+
+Chamber Consultation Hour: To be announced in the class.
+
+As announced in the Timetable
+
+Notices: Notification in Nalanda.
+
+Make-up policy: Make-up for Midsem, Compre, only to take care of exigencies.
+
+ 
+
+ 
+
+i Save Paper.
+ae Save Trees.
+£P© Save the World.
+

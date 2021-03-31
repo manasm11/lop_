@@ -1,0 +1,263 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part IT)
+11/03/2021
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course
+
+Course No. : PHA G537
+Course Title. : Parenteral Product Development
+Instructor-in-charge : Dr. Anupama Mittal
+
+1. Course Description:
+
+Introduction to parenteral product & their types, products characteristics; Vehicles requirement for
+Parenteral Products manufacturing; Formulation & process consideration for development of parenteral
+products; Introduction & understanding of various aspects of unit operation in parenteral product
+manufacturing; Critical Quality attributes of Parenteral Product; Various Sterilization techniques for
+parenteral products; Understanding of key requirements for aseptic processing; Understanding of
+Lyophilization techniques of stable product development; Regulatory consideration for safety assessment
+of Parenteral Products; Packaging requirement for Parenteral Drug Products; Regulatory perspective for
+Complex Injectable products development and filing.
+
+2. Scope and Objective of the course:
+
+This course will provide overview on parenteral product development & designed for students to understand
+critical aspect of parenteral product development and manufacturing. This course covers basic information,
+understanding and application of key operations followed during parenteral product manufacturing like
+lyophilization, aseptic processing, & filtration along with Quality Assurance, control & packaging
+requirement. This course also covers regulatory consideration for parenteral product assessment with
+respect to safety for intended application.
+
+3. Learning outcome:
+
+e Complete understanding of formulation, process, manufacturing and packaging aspect of
+parenteral drug product
+
+e Complete understanding, importance & application of lyophilization process
+
+e Knowledge of critical quality attributes in parenteral product development.
+
+e Knowledge of regulatory expectation for safety assessment of parenteral products
+
+4, Text Books:
+
+1, Niazi SK, “Handbook of Pharmaceutical Manufacturing Formulations — Sterile Products” INforma
+healthcare, New Y ork, 2nd Edn, Vol. 6, 2009.
+
+2. Akers M.J., Sterile Drug Products: Formulation, Packaging, Manufacturing and Quality, CRC Press,
+1st Edition, 2010.
+
+Reference Books:
+
+1. Sandeep Nema, John D. Ludwig, “Pharmaceutical Dosage Forms: Parenteral Medications”, Vol. 1-3,
+CRC Press, 3rd Edition, 2010.
+
+2. Adeboye Adejare “Remington: The Science and Practice of Pharmacy” Pharmaceutical Press, 23nd
+Edition, 2020.
+
+3. Parenteral Drug Association (PDA) Technical Reports.
+
+4. U.S. Pharmacopeia, U.S. Pharmacopeial Convention Inc., Rockville, MD, 43rd Edn., 2020.
+5. Course Plan:
+
+Learning Objectives Topic to be covered Ree
+1
+3
+4
+7
+
+Parenteral Drug oroduct Introduction, Historical Perspective, T2 Ch1-3
+JP Characteristics & Types R1(V1) Ch1
+
+e Aqueous - Key requirement for High
+Vehicles for Parenteral Quality water system (W FI) for T2 Ch6
+Products parenteral product R1(V1) Ch5
+e Non-aqueous solvents
+
+0.
+-2
+e Formulation development - Selection &
+optimization of various excipients like
+Buffers, antioxidants, surfactants, pH
+Formulation & process adjusting agents, tonicity modifiers, etc.
+P to obtain desired quality attributes T2 Ch5, 6, 8
+-6 development of
+Process development — Key R1(V1) Ch4, 5
+parenteral products
+consideration for process development
+and control of parameters like
+temperature, light, oxygen, hydrolysis,
+-9
+
+etc.
+Introduction & understanding of various
+; + ecm 2 aspects of parenteral product
+oe manufacturing unit operations like T2 Ch 12
+Manufacturin dispensing, compounding, filling, R1(V 2) Chi
+J stoppering, sealing, inspection, labelling
+& packaging
+
+e Microbiological — Bioburden, BET,
+
+Introduction, understanding &
+compendial requirement for various
+quality attributes like T2 Ch 27, 28,
+' e Physical — Surface Tension, Viscosity, 29 30
+10-15 | Ciitical Quality attributes Particulate Matter, Color, Clarity, etc. 1/2) Ch5, 6,
+of Parenteral Product e Chemical — Assay, Impurities, content | 7
+of functional excipients, etc. R1(V3) Cho
+Sterility, CCIT, etc.
+
+T2 Ch 17, 18
+R1(V 2) Ché, 9,
+
+e Terminal Sterilization — Dry Heat and T1Ch4
+
+moist heat Sterilization, Cycle
+
+e Selection of sterilization method —
+
+Sterilization techniques Decision Tree
+
+are for parenteral products
+
+ 
+25-29
+
+30-33
+
+34-36
+
+37-39
+
+Aseptic Processing
+
+Lyophilization of
+Parenterals
+
+Regulatory consideration
+for safety assessment of
+Parenteral Products
+
+Packaging requirement
+for Parenteral Drug
+Products
+
+development, D-value determination,
+validation, Indicator, Minimum
+Maximum load
+Filtration — Types of filters like
+Cartridge, Capsule, Depth, Membrane
+filters, etc.; Filter Material of
+Construction like PES, PVDF, Nylon,
+PTFE, etc.; Modes of filtration — Series
+filtration, Parallel filtration, etc.; Filter
+validation studies.
+Basic understanding and application of
+other techniques like Ethylene oxide
+sterilization, Gamma Sterilization, Ebeam sterilization, X-ray sterilization,
+etc.
+
+e Understanding of key requirements for
+aseptic processing like
+
+e Personnel, Equipment and building
+requirement
+
+e Cleaning, disinfection & sterilization
+requirement — CIP, SIP, VHP, etc.
+
+e Media fill trials — overview and
+approaches
+
+e Introduction — Principle
+
+e Application of Freeze Drying
+
+e Formulation aspects of freeze dried
+products
+
+e Development of Lyophilization Cycle
+and Controls
+
+e Key challenges and defects in
+lyophilized product
+
+e Design and Key components lyophilizer
+
+e Understanding of various tests needs to
+be done to assess safety of parenteral
+products like
+
+e Extractable and Leachable Study
+
+e Elemental impurity assessment
+
+e Glass Delamination Study
+
+e Shelf life assessment using stability
+studies
+
+e Introduction to various type of
+packaging system for parenteral drug
+product
+
+T2 Ch 21
+T1Ch4
+
+T2 Ch 20
+R1(V2) Ch15
+USFDA
+Guidelines
+Class notes
+
+R1(V3) Ch10
+T2 Ch6
+
+USP
+Chapters
+
+T2 Ch6
+R1(V1) Chi,
+12,13
+R1(V3) Ch5
+Class notes
+
+ 
+e Innovation in Drug Device
+Combinations - Prefilled syringes, Pen
+devices, cartridges system, etc.
+
+ 
+
+e Regulatory consideration with respect to
+Regulatory perspective design, development and filing strategy
+for Complex Injectable for complex injectable products like Class notes
+products Nanoparticles, liposomes, microspheres,
+nanosuspensions, etc.
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time
+(% )
+
+Mid-semester Test As give in timetable
+Quizzes/Seminars/A ssignments fo |
+
+ 
+
+73/06 AN
+
+7. Chamber Consultation Hour: Every Thursday (03:00- 04:00 pm)
+8. Notices: Notices, if any, concerning the course will be displayed on the Nalanda.
+
+9, Make-up Policy: The facility of make-up test is meant to take care of ‘Unavoidable’ absence
+from scheduled tests. It 1s expected that the students will “keep faith” in this respect and avoid
+any misuse of this useful feature.
+
+10. Note (Gif any): --
+Instructor-in-C harge
+PHA G537
+

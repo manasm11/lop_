@@ -1,0 +1,543 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part-l (General Handout for all courses appended to the time table) this
+portion gives further specific details regarding the course
+
+Course No. : CS F422
+Course Title : Parallel Computing
+
+Instructor-in-Charge: Hari Babu K (email: khari)
+
+Course Website: https://canvas.instructure.com/courses/2517982
+1. Scope and Objective:
+
+This course is an introduction to techniques for development of parallel software
+systems and the requisite foundations. The scope includes an overview of underlying systems
+architectures and program design principles but the primary coverage is on software
+development methodologies with emphasis on development for commodity distributed
+systems: clusters of multi-core workstations. The course objective is to enable students to
+understand and leverage commonly available forms of parallelism at the architecture level (e.g.
+pipelining, multiple cores, clusters) and at the systems level (i.e. shared memory and threads
+or message passing and processes) to build parallel systems and applications with predictable
+performance.
+
+2. (a) Text Book:
+
+T'1. Ananth Grama, Anshul Gupta, George Karypis & Vipin Kumar Introduction to Parallel
+Computing, Second Edition, Pearson Education, First Indian Reprint 2004.
+
+2. (b) Reference Books:
+
+R1.M.J. Quinn, Parallel Computing : Theory & Practice, McGraw Hill Inc. 24 Edition 1994.
+R2. Maurice Herlihy and Nir Shavit. The Art of Multiprocessor Programming. Morgan
+Kaufmann 2008.
+R3.J. Hennessey and D. Patterson, Computer Architecture: A Quantitative Approach,
+Morgan Kaufmann, 5" Edition.
+R4. lan Foster, Designing and Building Parallel Programs. Online Publication by
+Addison Wesley. (available at lan Foster's website at Argonne National Lab).
+R5. Kai Hwang, Geoffrey C. Fox, Jack J. Dongarra. Distributed and Cloud Computing.
+From Parallel Processing to the Internet of Things. Morgan Kauffman (Elsevier)
+2002.
+
+(AR) Additional reading in the form of papers from journals / conference proceedings or articles
+from other sources will be prescribed by the instructor. See course website for specific reading per
+lecture / topic.
+Pilani Campus
+
+ 
+
+ 
+
+3. Course Plan:
+
+AUGS/ AGSR Division
+
+a. Modules and Learning Outcomes
+
+Introduction to Parallel
+Processing, Parallel Computing
+Architectures, and Parallel
+Systems
+
+Parallel Algorithms and
+Programming
+
+Performance Models, Metrics
+and Techniques
+
+Software Design for Parallel
+Systems
+
+Programming for Shared
+Memory Multi-Processors and
+Messaging Passing Systems
+
+b. Lecture Schedule
+
+Theme Learning Outcomes (The
+student should be able to)
+
+understand and
+leverage architectural
+features (such as pipelining,
+multi-threading,
+and multiple processors) for
+developing parallel
+programs.
+design parallel algorithms
+using conceptual models
+(e.g. PRAM)
+
+(1) understand performance
+characteristics of parallel
+algorithms / programs and
+the factors that affect them
+(2) analyze performance of
+
+parallel algorithms /
+programs
+(3) apply performance
+
+improvement techniques
+on parallel algorithms /
+programs
+
+apply software design
+methodologies (e.g.
+Foster’s variant of taskgraph approach) to design
+parallel programs
+implement parallel
+algorithms on shared
+memory multi-processor
+systems, messaging
+processing systems, or
+hybrid systems
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Prior Knowledge (assumed)
+
+Computer Organization —
+Von Neumann Architecture,
+Memory Hierarchy and
+Caching, Locality.
+
+Data Structures and
+Algorithms - Algorithm
+Design Techniques, Basic
+Sorting algorithms and
+Graph Algorithms.
+
+Operating Systems -Tasks,
+Processes and Threads;
+Scheduling;
+
+Data Structures— Linked
+Lists, Stacks/Queues,
+Hashing; Concurrency Mutual Exclusion,
+Synchronization, and
+Deadlocks.
+
+Module
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ee
+Computational Models - Sequential vs. Concurrent
+
+1 M1 Execution, Logical vs. Physical Concurrency.
+
+Physical Concurrency — Intra-Processor Concurrency. f=
+
+Intra-Processor Concurrency — Pipelining- Structure and R3 (Appendix
+Operation - Implementation Issues. C:C1-C4)
+
+T1 (Sec
+
+2.1.1); T1
+
+(Sec. 3.6.5);
+
+R3 (Appendix
+
+Intra-Processor Concurrency — Pipelining- Hazards.
+3 M1 . .
+Instruction Level Parallelism. Performance Factors.
+
+Intra-Processor Concurrency - Superscalar Architectures.
+Implementation Issues. Instruction Level Parallelism.
+Performance Factors and Limitations.
+
+ 
+
+C: C1-C4)
+
+R3 (Sec. 3.13.4, 3.7,
+3.10)
+
+ 
+
+Intra-Processor Concurrency - VLIW Architectures Performance Factors. Compilers for VLIW Architectures:
+Scheduling and Optimization.
+
+Aside: Memory Hierarchy - Memory Bandwidth
+Requirements, Memory Hierarchy - Motivation, Locality of
+Reference, Inclusion Principle, Performance.
+
+| 6a | M1 | Shared Memory Parallelism: Multi-threaded architectures.
+
+[se |v [inion ne fan
+M1 , . a AR
+Introduction and Motivation
+
+Shared Memory Parallelism - Multi-core architectures - A
+
+7 M1 few examples - General Principles, Design Parameters
+and Components.
+Shared Memory Parallelism — Multi-processor Architectures
+M41 - Symmetric Multiprocessing / Uniform Memory R3 (Sec. 5.1Architectures vs. Distributed Shared Memory / NUMA, 5.3)
+Caching and Cache Coherence in Shared Memory Systems.
+
+ 
+
+ 
+
+Forms of Parallelism - Introduction: Forms of Parallelism 
+Different Characterizations (Synchronous vs. Asynchronous, R3 (Sec.1.2
+10. M4 Shared Memory vs. Message Passing, Custom-made vs. Sec. 4.1- ,
+
+Commodity). Flynn’s Taxonomy - SISD, SIMD, MISD, 4.3):AR
+
+MIMD;Software Level Version of Flynn's Taxonomy: SPSD, a
+
+SPMD,MPSD, MPMD; Parallel vs. Distributed Systems.
+
+ 
+
+Spectrum of Parallelism - Instruction Level to Task Level to
+10.b M1 service Level. Abstractions for Sequential and Parallel
+Computing - Mapping of Tasks to Systems.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Message Passing Model: - Abstractions for Sequential vs.
+Parallel Computing. Shared Memory Parallelism vs.
+
+11 M1 Distributed Memory Parallelism. Introduction tO the T1. (Sec. 6.1)
+Messaging Passing Paradigm of Programming: SPMD vs.
+MPMD, Synchronous vs. Asynchronous Programming.
+
+Da M1 Parallel / Distributed Computing: Clusters: Computing R5 (Sec. 2.1);
+Model; Structure and Components: Characterizations AR
+2b M1 Clusters: Cluster Interconnects — Examples and Performance . (Sec. 2.2);
+Aspects.
+Clusters: Cluster Middleware - Single System Image - . — 2.3)
+Features.
+Clusters: Cluster Middleware - Single System Image - . —_ 2.3)
+Implementation Support in Hardware.
+
+Clusters: Cluster Middleware - ClusterOS: Single System
+| - Impl tation in OS K | or Gluing L ,;
+mage - Imp emen ation in S erne or uing | ayer R5 (Sec. 2.4)
+Resource Pooling and Provisioning - Scheduling, Load
+, , , AR
+Balancing, and Process Migration — Examples Cluster
+Operating Systems
+Clusters: Cluster Middleware - Single System Image —
+, . a. R5 (Sec.
+Implementation Support in Application Layer / User Level. 6.3.2)
+Case Study: GFS —
+Message Passing Model: Communication Primitives (send T1. (Sec
+and receive for Point-to-Point communication). Syntax and 6 5 1)
+Semantic Issues. _
+Communication Primitives: Blocking Operations: Non16.a buffered Mode: Protocol - Different scenarios. Idling T1 (Sec 6.2.1)
+Overhead. Deadlock Scenarios.
+
+ 
+
+14
+
+15.a
+
+15.b
+
+16.b
+
+ 
+
+Communication Primitives: Blocking Operations: Buffered
+Mode: Protocols: with and without Communication
+; T1 (Sec 6.2.1)
+Hardware- Different scenarios- Idling Overhead. Deadlock
+Scenarios: Tagged Messaging.
+
+16.c Communication Primitives: Non-Blocking Operations. T1 (Sec 6.2.2)
+
+The Message Passing Interface (MPI): Primitives for Message
+Passing - Blocking vs. Non-Blocking, Buffered Messages and AR
+User Level Buffering; Collective / Group Communication
+
+Computational Models - Random Access Machine (RAM) R1 (Sec 2.1Model and Parallel RAM Model 2.2)
+
+  
+
+Computational Model: PRAM: Variants of PRAM Concurrent Memory Access Models: EREW, CREW, CRCW. R1 (Sec 2.2)
+Simulation of Priority CRCW by EREW.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+computational Model: PRAM: Algorithms - Complexity and R11 (Sec 2.2)
+
+ee PRAM Algorithms - Task Spawning Model and Cost. R1 (Sec 2.3)
+PRAM Algorithms: Design Techniques: Parallel Reduction R1 (Sec 2.3)
+Example: Summation: Algorithm and Analysis.
+R1 (Sec 2.3)
+
+& T1 (Sec
+3.6.1)
+
+ 
+
+Parallel Reduction - Reduction Template. Speedup and
+Efficiency. Divide-and-Conquer — Data Parallelism.
+
+Aside: Declarative Programming: Functional Style
+Programming and List Operations: map and fold
+
+Parallel Programming: Parallel Iterations and Realizing map
+20.b on PRAM. Parallel implementation of fold using the
+reduction template. The map-reduce paradigm. Examples.
+
+  
+
+Computational Model - Complexity - Work vs. Cost, Number
+of operations, Cost-optimality, Number of processors,
+Brent's Theorem Examples.
+
+R1 (Sec 2.4),
+T1 (Sec 5.5)
+
+NO
+—
+
+T1 (Sec 2.2,
+5.1-5.2,
+5.4,5.7)
+
+Parallel Computing and Performance - Speedup : Amdahl’s
+Law, Multi Core as a special case;
+
+Parallel Computing and Performance - Multi-Threading and
+Latency Hiding; Non-linear Speedup; Scaled Speedup(Gustafson’s Law) and Iso-efficiency.
+
+Parallel Systems: Program Structuring and Software Design. R4 (Sec 2.1),
+Software Architecture — Principles of Modularity: Cohesion T1 (Sec 3.1),
+and Coupling. Introduction to Foster’s Design Methodology. | AR
+
+Foster's Design Methodology — Partitioning Phase - Basic
+Decomposition Strategies: Domain Decomposition and Task
+Decomposition - Examples.
+
+R4 (Sec 2.2),
+T1 (Sec. 3.2)
+
+Design Methodology — Partitioning Phase - Further Examples
+- Recursive Decomposition, Exploratory Decomposition,
+Checklist for Partitioning.
+
+R4 (Sec 2.2),
+T1 (Sec. 3.2)
+
+Foster's Design Methodology — Communication Phase Different Forms of Communication: Local vs. Global,
+Structured vs. Unstructured, Static vs. Dynamic,
+Synchronous vs. Asynchronous Communication. Examples.
+Checklist for Communication.
+
+R4 (Sec 2.3),
+T1 (Sec. 3.3)
+
+NO
+NSN
+
+No No No N NO
+oO uw ~ WW NO
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Foster’s Design Methodology: Agglomeration — Heuristics,
+Granularity, Impact of Granularity on Performance,
+Granularity and Execution Environment. Replication Patterns
+and Examples, Checklist for Agglomeration.
+
+R4 (Sec 2.4),
+T1 (Sec. 3.5,
+5.3)
+
+R4 (Sec 2.5),
+
+T1 (Sec. 5.4)
+
+ 
+
+Foster’s Design Methodology: Mapping — Static and Dynamic
+29 M4
+Mapping; Strategies.
+30 M4, M3 Scheduling and Load Balancing — Techniques, Issues, and AR
+Performance
+
+R4 Sec. 3.7),
+T1 (Sec.2.4.22.4.5, 2.5,
+3.5)
+
+ 
+
+Mapping, Interconnects, and Communication Overheads
+
+ 
+
+Mapping: Techniques for commodity computing
+
+environments: Clusters of Multi-core Computers; Processes T1 (Sec. 2.7),
+and Threads. Decomposition and Mapping. Implementation | AR
+
+Issues. Granularity and levels of mapping.
+
+T1 (Sec. 7.1,
+7.7, 7.9)
+
+Designing with Threads. Thread based programs: Creation,
+Decomposition of Tasks to threads. Thread Cancellation.
+
+Designing with Threads — Shared Data and Shared memory —
+34.a M5 AR
+Issues. Memory Management issues.
+34.b MS Shared Memory Programming — Properties: Liveness and R2 (Sec 1.1Safety. Mutual Exclusion. 1.3)
+
+Shared Memory Programming — Mutual Exclusion and T1 (Sec. 7.5,
+35.a M5 Synchronization, Synchronization Primitives, Locking. 7.8); R2(Sec.
+Properties of Locking. 2.1-2.4)
+35 b M5 Mutual Exclusion: Locking: Locking and Fairness — Lamport’s | R2 (Sec. 2.5Algorithm; Implementation Issues and Efficiency. 2.8)
+Locking: Locking in Multiprocessor Systems: Spin Locks vs.
+
+36 M5 Blocking Locks; Test-and-Set Locks - Implementation Issues Cache Coherence and Bus Contention.
+
+37 MS Locking: Spin Locks with Backoffs and Spin Locks with R2 (Sec. 7.4Queues. Reentrant Locks. Reader-Writer Locks. 7.5)
+Shared Memory Data Structures - Sequential Consistency,
+, . a. R2 (Sec. 3.138 M4 Real-Time Order, and Linearization. [Readings R2 Sec. 3.1 to 3.5)
+3.5]
+
+  
+
+ 
+
+ 
+
+R2 (Sec 7.1 7.3)
+
+Shared Memory Data Structures: Locking Frameworks:
+, . ; . R2 (Ch. 9), AR
+Coarse-Grained vs. Fine-Grained Locking: Lock Coupling
+
+ 
+
+40-42 | M4,M5_ | Select Advanced Topics
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+4. Evaluation
+4a. Evaluation Scheme:
+
+Assignments (3) 3 to 4 | Bto4weeks | TakeHome Home
+
+Mid-Term Test (90 25% ee 1>
+minutes) Partly Open Book
+
+Comprehensive Exam 35% SERS
+(180 minutes)
+Partly Open Book
+
+ 
+
+4b. Make-up Policy:
+No Make-up will be available for Assignments or Term Project under any condition.
+
+Prior Permission of the Instructor-in-Charge is usually required to get make-up for the mid-term
+test.
+
+Prior Permission of (Associate) Dean, Instruction is usually required to get make-up for the
+comprehensive exam.
+
+A make-up shall be granted only in genuine cases where - in the Instructor’s / Dean’s judgment
+- the student would be physically unable to appear for the test/exam. Instructor’s / Dean’s
+decision in this matter would be final.
+
+4.c. Fairness Policy:
+
+- Student teams are expected to work on their own on assignments / term project.
+
+- Allstudents are expected to contribute equally within a team.
+
+- Individual contributions should be identified and documented in qualitative and quantitative
+terms by the team members. The instructor’s assessment regarding the contributions of team
+members would be final.
+
+-  Anyuse of unfair means in quizzes, assignment or test/exam will be handled strictly. The
+minimum penalty would be loss of full weight of the component. Students involved in
+such activity are liable for further sanctions including being formally reported to the
+Unfair Means committee and being subject to penalties enabled by Unfair Means Rules
+of the Institute:
+
+o Unfair means would include copying from or enabling copying by other students; or
+copying / borrowing material from the Web or from other sources of information (where
+not permitted) including all electronic sources.
+
+Students are allowed to consult/discuss with other students/teams for the take-home
+assignments or term project but such consultation/discussion should be explicitly
+acknowledged and reported to the instructor prior to evaluation
+
+5. Consultation Hours: See course website.
+6. Notices: All notices concerning this course will be displayed on the course website only. Official
+email will be used to communicate.
+
+Instructor —In- Charge
+CS F422
+

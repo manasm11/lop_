@@ -1,0 +1,104 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2018-2019
+
+Course Handout (Part-II)
+Date: 15/01/2021
+
+In addition to part I (General handout for all courses appended to the timetable) this portion gives further details regarding the
+course.
+
+Course Number : PHY F243
+
+Course Title : Mathematical Methods of Physics
+Instructor-in-Charge : R.R. Mishra
+
+Scope & Objective of the Course:
+
+This course covers some special mathematical techniques used in physics. It covers vectors and tensors, linear vector spaces,
+complex variables and contour integration, Sturm-Liouville problem of ordinary differential equations, partial differential
+equations of physics.
+
+Text Book:
+
+Mathematical Methods for Physicists, G.B. Arfken, H.J. Weber and F.E. Harris, 7“ Ed.
+Elsevier, 2013
+
+Reference Books:
+
+Mathematics for Physicists, Philippe Dennery and Andre Krzywicki, Dover Books, 1996
+
+Course Plan
+
+Lecture No. | Learning Objectives Topics to be C overed Learning Outcome! Reference to Text
+and Reference Book
+1—
+Bn
+
+Review of Vector he Del operator, Gradient, Divergence [Io give a quick Ch 3 (3.1 — 3.6)
+Algebra and Vector and Curl operations on scalars and review of vector
+Calculus ectors, Use of Kronecker Delta, Levi- _jalgebra and calculus.
+
+Civita symbol and Einstein summation
+
+convention in proving vector identities.
+
+4
+12
+
+Tensors in Cartesian |Scalar, vectors and tensors under o learn Ch. 4 (4.1 — 4.4)
+and curvilinear rotation of coordinate axes, Tensorsin __ transformation of
+coordinates. general curvilinear coordinates. tensors and tensor
+
+13-17 Calculus of Variation.
+maxima, More general variations.
+
+18-21 ector Spaces | Linear vector spaces, inner product and
+Gram-Schmidt orthogonalization, Linear |concepts of vector
+operators, Self adjoint and unitary
+operators, Matrix representation of
+operators.
+
+22—25 ector Spaces II Eigenvalues and Eigenvectors of linear [To be able to find
+operators, diagonalization of matrices. _ eigenvalues and
+
+ 
+patric p
+
+Complex variables _ {Singularities of a complex function, 0 be able to Ch. 11 (11.6 — 11.8)
+Calculus of residues, Evaluation of calculate definite
+definite integrals, Branch points and integrals by using
+branch cuts. contour integration
+
+Partial differential
+equations. Laplace, Poisson, Wave and Heat
+equation.
+
+Green Functions Green functions in one, two and three
+dimensions. partial differential
+equations by Green
+function technique.
+
+ 
+
+Evaluation Scheme
+
+valuation C omponent Duration §—*([Weightage ~=3—SsDate & Time ature of Test
+Mid- Semester Test 90 Minutes losed Book
+
+partly open
+Tutorial Tests (3) and Home 30% (15+15) Fo be announced Posed Book
+Assignments (4) minutes each utorial Tests
+Chamber C onsultation Hour: To be announced in the class.
+Notices: Notices and solutions will be displayed only on PHY SIC S/FDIII notice board.
+
+Make-up Policy [STRICT] No Make-ups for tutorial tests. Make up for regulartests will he given only to gent
+(i) Sickness leading to hospitalization, (ii) out-of-station with prior intimation to / permission from the IC.
+
+ 
+
+    
+
+Instructor-in-C harge
+PHY F243
+

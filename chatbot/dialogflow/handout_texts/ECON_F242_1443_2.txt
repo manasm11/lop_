@@ -1,0 +1,277 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+In addition to part I (General Handout for all courses appended to the Timetable) this portion gives further specific
+details regarding the course.
+
+Course No : ECON F242
+
+Course Title : MICROECONOMICS
+Instructor-in-C harge : GEETILAXMI MOHAPATRA
+Tutorial Instructor : GEETILAXMI MOHAPATRA
+
+1. Course Description:
+The course is designed to give emphasis on the application of real life examples on various fundamental issues of
+Microeconomics.
+
+2. Scope and Objective of the C ourse:
+
+This course extends the tools of modern microeconomic theory and discusses their application to utility and demand;
+production functions and cost; pricing of output under perfect competition, monopoly, oligopoly, etc.; pricing of
+productive services; Inter-temporal decision-making; equity, general equilibrium; externalities and public goods. An
+attempt has been made to provide an analytical and quantitative background in the fundamentals of microeconomic
+analysis.
+
+3. Text Books: Snyder, Chirstopher and Walter Nicholson, Microeconomics Theory: Basic Principles and
+Extensions, Cengage Leaming, India Edition (2012 by South-Western).
+
+4, Reference Books:
+R1. Koutsoyiannis A, Modern Microeconomics, The MacMillan Press Ltd, Hong Kong, 1982.
+R2. Jeffrey M Perloff, Microeconomics, Pearson Education, Addison Wesley Longman (Singapore) Pte. Ltd.,
+Delhi, Fourth Edition, 2007
+
+5. Course Plan:
+
+Module No. Lecture Session Reference | Learning outcomes
+
+Introduction Economic Models of economic Models
+L3.1: Axioms of Rational Choice and the Chapter 3 Modeling of individual behavior;
+concept of utility Measurement of utility; Utility
+L3.2: Utility functions for different functions for different
+Preferences Preferences
+L4.1; Utility maximizations and corner Chapter 4 Determination of optimal
+solutions behavior of consumers; Utility
+Module II: L4.2;: Lump sum principle Maximization
+Economic L4.3:; Expenditure functions
+theory of L5.1; Demand functions, factors relating to | Chapter5 Derivation of demand curve,
+choice, change in demand change in it due to changes in
+L5.2: Calculation of income and prices and income, Compensated
+substitution effect Demand Curve, Elasticities,
+L5.3: Compensated demand curves and Slutsky Equation, Revealed
+functions Preference Theory
+L5.4; Revealed Preference theo
+
+L6.1: Gross substitutes and complements Chapter 6 Understanding Demand
+L6.2: Composite commodity theorem Relationships among Goods:
+Complements and Substitutes.
+1
+
+    
+Module III:
+Production
+and Supply
+
+Module IV:
+Competitive
+Markets
+
+Module V:
+Market Power
+
+ 
+
+Module VI:
+Pricing in
+Input Markets
+Module VII:
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+L9.1; Production functions in the short run
+and long run
+
+L9.2: Elasticity of substitution and different
+production functions
+
+L9.3:; Technical progress and its
+measurement
+
+L10.1: Relationship between profit
+maximization and cost minimization
+
+L 10.2: Contingent demand for inputs and
+firm’s expansion path
+
+L10.3:Relationship between short run and
+long run cost curves
+
+L11.1: Relationship between marginal
+revenue and elasticity, concept of mark-up
+L 11.2: Derivation of short-run supply
+function by a price-taking firm
+
+L11.3: Profit maximization and input
+demand
+
+L12.1: Derivation of market demand
+function and supply function
+
+L12.2: Derivation of shape of Long run
+supply function
+
+L 12.3: Application of competitive markets :
+Excise taxes
+
+L12.4: Other Applications of competitive
+markets
+
+L 13.1: Determination of price and output in | Chapter 13
+a general equilibrium setup
+
+L14.1: Monopoly, price and output
+determination and profit calculations
+
+L 14.2: Price discrimination: First degree
+and second degree, two-part tariffs
+
+L 14.3:T hird-degree price discrimination
+L 14.4: Effect of government actions on
+monopoly operation
+
+L 15.1: Price and output decision under
+monopolistic competition
+
+L15.2: Betrand and cournot model
+L15.3: Stackleberg model and dominant
+firm model
+
+L8.1; Game theory and cournot model
+L8.2: Decision tree
+
+  
+
+Chapter 9
+and R1
+
+Derivation of Isoquants; to
+examine the behavior of
+production functions in the short
+run and long run
+
+Measurement of costs in the short
+run and long run; derivation of
+cost functions from production
+relations
+
+Chapter 10
+and RI
+
+The alternative modes of
+optimizing behavior of the firm;
+derivation of the factor demands
+from optimizing behavior
+
+Chapter 11
+
+Estimation of market demand and
+supply functions in the short run
+and long run; market equilibrium
+analysis and profit maximization,
+application of competitive market
+
+Chapter 12
+and R2
+
+ 
+
+The competitive price system,
+General equilibrium and factor
+prices
+
+Study of traditional theory of
+monopoly; price discrimination;
+pricing and output determination
+under monopoly; welfare effects
+of monopoly; cost advantages;
+government actions; two-part
+tariffs
+
+Theories of imperfect
+competition; concept of Duopoly
+and Oligopoly; pricing and output
+determination in Oligopolistic
+competition; co-operative and
+non-cooperative Oligopoly
+models and Stackelberg model;
+The Cournot Solution;
+
+Chapter 14
+
+Chapter 15
+and 8 and R1
+
+ 
+
+L6.1: Concept of monopsony and its Chapter 16 Pricing in Inputs such as Labor
+equilibrium Market
+
+L8.1: Asymmetric information
+
+Market Failure | L19.1: Externality and its solution
+
+ 
+
+L19.2: Public goods and its characteristics
+
+‘ae 18 & | To examine the situations where
+market fails to operate:
+Asymmetric information,
+
+  
+
+externalities and public goods
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+—o ee lose Book/ O pen Book)
+
+Midsemester Test | -s OpenBook = —s
+
+Tutorial test  —s_ | test a | = OpenBook ~—sd | = OpenBook ~—sd
+
+ee 1 ee ae FN) Partly open book
+Examination
+
+7. Chamber Consultation Hour: Tuesday 4 - 5.50PM (6165 — M)
+8. Notices: Students must regularly check their BITS e-mail account for course-related announcements/notices.
+
+ 
+
+9, Make-up Policy: No make-up shall be granted for the tutorial test and students will get one buffer in tutorial test.
+
+Make-up for the mid-semester test and the comprehensive examination shall be granted only in genuine cases. The
+students must avail prior permission or intimate I/C before the exam is held to qualify for the make-up. In any case,
+original proofs justifying the absence will have to be furnished.
+
+10. Note (if any): Students must write correct ID numbers, in all the evaluative components, failing which their
+answer sheets will not be evaluated.
+
+Instructor-in-charge
+Course No. ECON F242
+

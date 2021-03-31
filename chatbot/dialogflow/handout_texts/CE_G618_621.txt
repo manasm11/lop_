@@ -1,0 +1,116 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+FIRST SEMESTER 2018 — 2019
+
+Course Handout Part II
+Date: 12/03/2021
+In addition to part-I (General Handout for all courses appended to the time table) this
+portion gives further specific details regarding the course.
+
+Course No. : CE G618
+Course Title : Design of Multi-storey Structures
+Instructor-in- : ANSHUMAN
+
+scope and Objective of the Course:
+
+Paucity of land in urban areas has limited the horizontal extension of buildings
+used for residential or commercial purposes. High-rise structures are advanced as a
+solution to this problem. The present course intends to impart adequate knowledge
+enabling the students to plan, analyse, design and construct high rise structures either in
+steel, concrete or mix-type of applications. Initially, the various kinds of loads and
+stresses to which the structure is subjected to, will be studied. Various important
+components of tall structures like diaphragms, shear walls, tubular encasements will be
+covered. Analysis and design against lateral loads (wind and earthquake) will also be
+emphasized along with detailing of reinforcements in order to provide ductile and
+efficient buildings.
+
+2 (a) Text book
+
+Tl. Varyani, U. H. (1999). “Structural design of multi-storeyed buildings.” South
+Asian Pub., New Delhi, ISBN 8170031214.
+
+2 (b) Reference books
+
+R1. Taranath, B. S. (1998). “Steel, concrete, & composite: Design of tall buildings.”
+second Edition, Mc. Graw Hill Publishers, New Y ork, ISBN 0070629145.
+
+R2. Smith, B. S., and Coull, A. (1991). “Tall building structures : Analysis and
+design.” A Wiley- Interscience Publication, New Y ork, ISBN 0471512370.
+
+R3. Chopra, A. K. (1996). “Dynamics of structures.” Prentice Hall of India, New
+Delhi.
+
+R4. Beedle, L. S., Editor-in-Chief. (1987). “Advances in tall buildings.” Council on
+Tall Buildings and Urban Habitat, CBS Publishers and Distributors, New Delhi,
+India.
+
+R5. Nash, P. (1989). “Super structures.” Garrett Educational Corporation. ISBN
+0944483372.
+
+R6. Hart, F. et al. (1985). “Multi-storey buildings in steel.” Nichols Publishing,
+Company, ISBN 089397224x .
+R7. Schueller, W. (1996). “The design of building structures.” Prentice Hall, New
+
+Jersy, ISBN: 047101530.
+
+R8. Moreno, J. (1985). “Analysis and design of high rise concrete buildings.” Books
+on Demand, ISBN 060801429X.
+
+R9. Jain, A. K. (1999). “Reinforced concrete — limit state design.” 5" Edition, Nem
+Chand & Brothers, Roorkee.
+
+R10. Fintel, M. (1985). “Handbook of concrete engineering.” 2" Edition, Van
+Nostrand Reinhold Co., New Y ork.
+
+R11. Y. P. Gupta (1995). “High rise structures — design and construction.” New Age
+International (ISBN 8122408370)
+
+3. Course Plan
+
+covered Book
+loads on Structure
+Framing System
+System
+8-9-10 Design of Structural Bracing of Chap 4 & 6 (R2)
+System against Multistoried
+Horizontal Loads building Frames
+“™
+of Diaphragms
+Cha 9 (2
+of Shear Walls Cover Chap-9 (R2)
+Framings
+20-23 Design of Multistoried | Approximate Chap-17(T 1)
+Frames against Lateral | analysis and
+Loads preliminary design
+
+(R2
+(T1
+Loads Frames
+Multistory Frames
+31-36 Design of Steel Steel Towers
+37-38 Introduction to Class Notes
+Structures
+
+39-40 Detailing of various Construction Details | Chap-17 (T1)
+Structural Components
+
+ 
+4, Evaluation Scheme
+
+Weightage Date & Time
+
+Midsem 1.30 hrs 35% CB
+
+Quiz 0H
+a a es
+
+ 
+
+9. Chamber Consultation Hour: To be announced in the class
+6. Notice: Notice if any conceming this course will be displayed on the Notice Board of
+
+Civil Engineering Group.
+
+Instructor-In-C harge
+CE G618
+

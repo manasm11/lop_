@@ -1,0 +1,228 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : ME F485
+Course Title : Numerical Fluid Flow and Heat Transfer
+Instructor-in-C harge : Dr. Shyam Sunder Yadav
+
+Instructor(s) : ---
+Tutorial/Practical Instructors: ===
+
+1. Course Description: This course is an introduction to the various computational techniques for simulating
+fluid flow and heat transfer. We focus on the Finite difference discretization technique on structured C artesian
+grid, Finite volume discretization technique on unstructured grids, Numerical solution of steady and transient
+convection-diffusion equation, Solution techniques for compressible and incompressible Navier-Stokes
+equations, Various methods for solving system of linear equations, Numerical techniques for simulating
+turbulent flows.
+
+2. Scope and Objective of the C ourse: This course is intended to develop the numerical skills for solving
+the equations governing fluid flow, heat & mass transfer and related transport phenomena. The students first
+learn how to derive the governing equation using fundamental laws of mass, momentum and energy
+conservation. Once the equations are derived, the student will learn how to simplify and classify the
+equations mathematically and how to interpret their physical and mathematical behavior. Subsequently the
+course focuses on the different discretization techniques for the governing equations like the finite difference
+and finite volume method. Finally, the students will learn different CFD techniques for compressible and
+incompressible flows and turbulent flows.
+
+As part of this course, the students have to complete a CFD project using an open source flow solver. They
+can write their own code as well in any of the programming languages. Following solvers can be used:
+OpenFOAM, SU2, Gerris Flow Solver, IBAMR, preCICE library, IB2D etc. Any other open source code or
+Ansys Academic version can also be used for the project.
+
+3. Text Books:
+T1: Versteeg and Malajasekra: An introduction to computational fluid dynamics: The finite volume
+method, 2" edition, Pearson
+4, Reference Books:
+R1: JH Ferziger, M Peric, Computational methods for Fluid Dynamics, Springer, 2020, 4™ Edition.
+R2: Numerical Methods in Heat, Mass, and Momentum Transfer
+
+https://engineering. purdue.edu/~scalo/menu/teaching/me608/ME608 Notes Murthy.pdf
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Module No. Lecture re
+
+CFD: been and Impact T1, chapter 1
+
+Derivation of Governing equations of fluid
+
+dynamics T1, chapter 2,
+Classification and characteristics of R1 chapter 1
+governing equations
+
+Forms of equation for compressible flow
+
+Solution techniques for system of linear T1 chapter 5,
+equations R1 chapter 5
+
+Pressure velocity coupling for Lecture notes
+incompressible flows, Need for staggered
+
+grids, Projection method for incompressible
+
+flows
+
+using Finite Difference method
+
+Lax-wendroff and Maccormack scheme Lecture notes
+using Finite different method
+
+Applications of Maccormack scheme
+
+Introduction to Finite difference method, R1 chapter 3
+Finite difference schemes for model
+
+equations, Explicit and Implicit approaches
+
+Consistency, stability and convergence of
+
+numerical schemes, Numerical diffusion
+
+and dispersion, Artificial viscosity
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Learning outcomes
+
+Why CED is important?
+Where it has been applied?
+General CFD work flow
+procedure.
+
+What are the equation which
+govem fluid dynamics? How
+to derive these? What is their
+physical significance? How to
+classify equations into
+hyperbolic, parabolic and
+elliptic types? Characteristics
+of different equation types,
+Forms of governing equations
+suitable for compressible
+flows
+
+Introduction to Finite
+difference method, Finite
+difference schemes for model
+hyperbolic, parabolic and
+elliptic equations, Explicit
+and Implicit approaches,
+Concepts of consistency,
+Stability and convergence,
+Aspects of Numerical
+dissipation and dispersion;
+Artificial viscosity
+
+Solution techniques for
+system of linear equations,
+Various Direct and Iterative
+techniques
+
+Solution of incompressible
+flow problems using Finite
+Difference Method, Lid
+driven cavity problem
+
+Lax-Wendroff scheme and
+MacCormack's scheme for
+compressible Navier-Stokes
+equations, Numerical solution
+of quasi-1D nozzle flow, 2D
+Prandtl- Meyer expansion
+wave
+
+ 
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Introduction to finite volume method T1 chapter 4, 5
+FVM for diffusion equation on
+
+unstructured and structured grids R2 chapter 3,4,5
+FVM for convection-diffusion equation on
+
+structured and unstructured grids
+
+FVM for transient equations
+
+T1 chapter 6, 11
+SIMPLE family of algorithms for R1 chapter 7,8,9
+incompressible flows on structured and
+unstructured grids using FVM
+
+Computational models for Turbulent flows T2 chapter 3,
+R1 chapter 10
+
+ 
+
+6. Evaluation Scheme:
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Introduction to finite volume
+method, Finite volume
+method for steady and
+unsteady convection,
+diffusion equations on
+structured and unstructured
+grids
+
+Pressure correction technique
+for incompressible Navier
+Stokes equations like
+SIMPLE, SIMPLER,
+SIMPLEC, PISO algorithms
+for pressure velocity coupling
+Goveming equations for
+Turbulent flows, RANS
+models, LES, DNS
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+
+Mid-Semester Test
+Comprehensive Exam 3
+
+Objective Quiz 2
+
+As per AUGSD Open book
+As per AUGSD Open book
+
+I
+Objective Quiz 1 Open book
+eave Qu
+20
+
+ 
+
+7. Online C onsultation Hour: Will be decided in the class.
+8. Notices: Personal emails will be sent
+9, Make-up Policy: No makeup for any component
+
+10. Note (if any): You should have a laptop with Ubuntu 18.04 or 20.04 installed along side Windows
+10 which you will use to complete the CFD project. Y ou have to give a live demonstration of the procedure
+you followed while completing the project. Y ou have to submit a project report consisting of the following:
+Abstract summary, Introduction to the problem including the previous works / literature on the problem,
+Governing equations, Procedure followed, Results and discussions and finally, Conclusions.
+
+Instructor-in-charge
+ME F485 NFFHT
+

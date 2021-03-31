@@ -1,0 +1,200 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2019-20
+COURSE HANDOUT
+Date: 09.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHA G 546
+Course Title : Pharmaceutical Biostatistics
+Instructor-in-C harge : Richa Shrivastava
+
+1. Course Description:
+
+This course deals with different types of data, methods for data collection, organization and summarization
+of data, probability distributions, descriptive measures (measures of central tendency and measures of
+dispersion), sampling and estimation of parameters (point estimates and interval estimates), tests of
+hypothesis using parametric (T-TEST and ANOVA) and various non-parametric tests, correlation and linear
+regression. Determining the sample size for a study and estimating Bio-equivalence of pharmaceutical
+products using statistical methods will also be covered. All the topics covered will be related to the field of
+pharmaceutical sciences.
+
+2. Scope and Objective of the C ourse:
+The objective of the course is to impart knowledge on various types of data, determining the descriptive
+
+measures and estimates for a given data. To provide a detailed understanding of various types of parametric
+and non-parametric tests used in statistical analysis of data. The students should be able to select and apply
+an appropriate parametric/non-parametric test for a given data and interpret the results obtained. The
+students will also learn how to determine the sample size for a given study and perform statistical analysis
+and interpretation of data obtained from bio-equivalence studies.
+
+3. Text Books:
+1. Pharmaceutical Statistics: Practical and Clinical Applications, ed: Sanford Bolton and Charles Bon. Fifth
+Edition. (Informa Healthcare, 2007).
+
+4, Reference Books:
+
+1. Biostatistics: Basic concepts and methodology for the health Sciences, ed: Wayne W. Daniel and Chad L.
+Cross. Tenth Edition. (Wiley, 2014)
+
+5. Course Plan:
+
+Module No. | Lecture Session Reference | Learning outcomes
+(Textbook
+chapters)
+
+ 
+
+1 Use of statistics in health sciences, what is Ch. 1 Introduction to
+data, types of data L.S. 1-2 Biostatistics
+
+1
+ 
+  
+ 
+
+Pilani Campus
+AUGS/ AGSR Division
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+==
+
+Importance of organization of data, different
+methods for organization of data, tabular and
+graphical representation of data L.S. 3-7
+
+Measures of description, measures of central
+tendency, measures of dispersion L.S. 8-11
+
+W hat is sampling design? Different
+sampling techniques, randomization in
+sampling, probability distributions, normal
+and standard normal distributions L.S. 12-16
+
+Estimation and confidence interval,
+hypothesis testing, null and alternate
+hypothesis L.S. 17-20
+
+Type I error, Type II error, power of study
+and sample size calculations, L.S. 21-24
+
+When do we use parametric tests, different
+parametric tests like t-test and ANOVA
+(one way and two way) L.S. 25-30
+
+When do we use non-parametric tests,
+different non-parametric tests like Sign Test,
+Signed Rank test, Rank Sum Test, Kruskal
+Wallis Test and Friedman Test L.S. 31-35
+
+How to apply the concept of linear
+regression analysis and correlation in
+analytical method development of drug L.S.
+36-38
+
+How to compare data obtained from bioequivalence studies and interpret the results.
+L.S. 39-40
+
+6. Evaluation Scheme:
+
+Component
+
+Ch. 2 To understand
+
+Class notes organization of data
+
+Ch. 2 To understand
+
+Class notes Summarization of data
+
+Ch. 4, 6
+To understand sampling
+Class notes
+
+Ch. 9 To understand statistical
+
+Class notes inference
+To understand errors in
+statistical hypothesis
+testing
+
+Ch. 7
+
+Class notes
+
+To understand
+parametric testing
+procedures
+
+Ch. 5, 8
+Class notes
+To understand non
+parametric testing
+procedures
+
+Ch. 15
+
+Class notes
+
+To understand linear
+regression analysis and
+correlation
+
+Ch. 7
+Class notes
+To understand statistical
+
+analysis of bioequivalence data
+
+Ch. 11
+
+Class notes
+
+ 
+
+Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester Test <TEST 1> Closed Book
+
+2
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Comprehensive <TEST C> Closed Book +0Open
+fvamnon [APE EO
+As ssignment Class
+
+ 
+
+ 
+
+Post Mid-Term To be announced in the | Open Book
+50 mins
+Assignment class
+
+7. Chamber C onsultation Hour: 6:00 PM-8:00 PM [Email: richa.shrivastava@ pilani.bits-pilani.ac.in].
+
+8. Notices: Notices conceming the course will be displayed on the Pharmacy Department Notice Board
+only.
+
+9, Make-up Policy: Make- Ups are not given as a routine. It is solely dependent upon the genuineness of the
+circumstances under which a student fails to appear in a scheduled evaluation component. In such
+circumstances, prior permission should be obtained from the Instructor-in-Charge. The decision of the
+Instructor-in-Charge in the above matter will be final.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. PHA G546
+

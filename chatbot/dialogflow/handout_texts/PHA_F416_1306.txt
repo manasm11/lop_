@@ -1,0 +1,442 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHA F416
+
+Course Title : Chemistry of Synthetic Drugs
+Instructor-in-C harge : Dr. Vaibhav A. Dixit
+Instructor(s) : Dr. Vaibhav A. Dixit
+
+Tutorial/Practical Instructors: Dr. Vaibhav A. Dixit
+1. Course Description:
+
+Study of the physicochemical and biological properties of drugs and drug-likeness concepts and rules.
+Introduction to Green Chemistry and Toxicology Principles. Historical and modem methods of drug
+synthesis; mechanism of some heterocyclic drug synthesis; study of five and six-membered heterocyclic
+compound synthesis. Classification of C-C bond forming reactions and use in drug synthesis. Named
+reactions will be discussed in brief when appropriate.
+
+2. Scope and Objective of the C ourse:
+
+This course is designed to introduce important chemical and pharmaceutical concepts, and methodologies
+used in the design, synthesis, and development of drugs. The course is divided into four main sections: A )
+Physicochemical, biological and drug-like properties of molecules. B) Organic chemistry reactions used for
+drug synthesis. C) Classical methods of drug synthesis based on the chemical classification of drugs and D)
+Modern drug synthesis methodologies based on different carbon-carbon bond forming reaction types e.g.
+coupling reactions. Design principles, reaction mechanisms, role of catalysts, and solvents will be explained
+when appropriate. Green chemistry principles and the need for the development of environmentally friendly
+processes will be discussed. Representative examples of marketed drugs will be covered throughout the
+course. Students will be encouraged to solve problems in each unit and design their own synthetic
+methodologies for selected drugs. Case studies will be discussed when appropriate.
+
+Prerequisite includes a basic knowledge of IUPAC nomenclature, organic compound classification,
+elementary organic reactions e.g. substitution (SN1 and SN2), elimination (E1 and E2), condensation,
+oxidations and reductions. Concepts like acids-bases, pH, pKa, nucleophile/electrophile, enzyme kinetics
+(Km, Vmax, Ki). Prerequisite courses are PHA F241, PHA F242.
+
+Objectives of the course: After completion of this course the students are expected to:
+
+1. List chemical, biological, and pharmacological properties of drugs and “drug-like” compounds.
+
+2. Perform basic calculations related to like pH, pKa, log P/D, PK-PD properties, Ligand efficiency and
+toxicity metrics. Attempt to identify and prioritize drug-like compounds.
+
+3. Recognize, classify and compare the reactions employed in drug synthesis.
+
+4. List and illustrate basic principles of green chemistry and toxicology.
+
+3. Text Books:
+° Lednicer, Daniel & Lester A. Mitscher The Org. Chem. Of Drug Synthesis Wiley, Vol 1-6, 1999.
+ 
+
+4, Reference Books:
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Synthetic Methods in Drug Discovery, Volume | and 2” Edited by David C. Blakemore, Paul M. Doyle and
+Y vette M. Fobian. RSC, Cambridge 2016. Vol. 1: 455 pp, ISBN 978-1-849-73803-3 and Vol. 2: 517 pp.,
+ISBN 978-1-782-62786-9.
+
+“Foye's Principles of Medicinal Chemistry” by Thomas L. Lemke, David A. Williams, Victoria F. Roche, S.
+William Zito, 7th Edition, 2013, Wolters Kluwer Health/Lippincott Williams & Wilkins. ISBN: 1609133455
+
+Additional references are provided in the “Reference” column of the Course Plan table below. These must
+be consulted (read) by the students in the same week the topic is taught, and discussed in lectures.
+
+5. Course Plan:
+
+Module No. . Reference
+Lecture Session
+
+Scope, objective, prerequisite and
+expectations for successful course
+
+Introduction a
+
+A)
+Physicochemical,
+and biological
+properties of
+drugs and druglikeness measures
+and indices.
+
+chemistry
+reactions used for
+drug synthesis.
+
+ 
+
+completion.
+
+Chemical and druggable space.
+Molecular weight, acid-base
+properties, concept of pH, pKa, logP,
+and logD,
+
+Modulators of biochemical pathways
+and enzymatic reactions examples for
+agonist, antagonists, partial agonist,
+substrate, and inhibitor.
+Pharmacokinetic properties e.g.
+bioavailability, protein binding, Cmax,
+half-life, Vd, ADME(T).
+Pharmacodynamics (PD) properties
+like IC 50, Ki, Lipinski’s rule of five
+(Rod), Ro3, Ro2, LD50, on target and
+off target drug binding, Therapeutic
+index (TI), Drug Toxicity Index (DTI),
+LEI and LLE.
+
+On section A
+
+ 
+
+W hat is green chemistry and
+toxicology? Why it is required? 12principles of green chemistry.
+
+Reactions used by drug discovery
+teams in the 1980s vs 2010s. Overall
+frequency of usage and frequency in
+“production step”. Suzuki—Miyaura,
+SNAr, Grignard, Horner—W adsworth-—
+Emmons, Wittig, alkylation,
+halogenation and reactions. “Click”
+and “cross-metathesis” chemistry.
+
+Learning
+outcomes
+
+  
+   
+   
+ 
+   
+  
+ 
+ 
+
+Introduction to the
+course.
+
+Topics covered in
+PHA F241
+
+Physicochemical
+properties of
+organic compounds
+and drugs.
+
+References in
+PHA F241
+
+Foye's Principles
+
+ 
+
+of Medicinal
+
+Chemistry and Biological
+SwissA DME properties of drugs.
+paper and
+
+software.
+
+Foye's Ref book, | Concepts of drugTox. Res. 2018, | likeness, efficacy,
+and J. Med. ligand efficiency,
+Chem., 2018, 61 | therapeutic and
+(15), pp 6401- Drug toxicity
+6420. indices.
+
+Green Chemistry
+and Green
+Toxicology
+principles.
+
+ 
+ 
+
+ACS website on
+green chemistry.
+
+  
+ 
+ 
+
+  
+
+Med. Chem.
+
+2016, 59 (10), pp | A historical and
+
+     
+ 
+   
+    
+
+4443-4458 and chemical
+
+Organic classification of
+Chemistry by organic chemistry
+Clayden, Greeves | reactions used for
+and Warren, drug synthesis.
+
+ 
+ 
+
+Oxford Univ.
+
+ 
+ 
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Press., and web
+animations.
+
+Green chemistry and reaction quiz
+
+ 
+
+    
+
+ 
+
+ 
+
+Furans (Ranitidine), Pyrrole Text book and
+22-25 | (Tolmetine), Thiophene (Duloxetine) literature
+and Imidazole (Metronidazole).
+Pyridines (Chlorphenamine),
+C) Classical Dihydropyidines (telodipine), Text book and
+methods of drug 26-29 F penulne Helopendol), PEO literature.
+. Pyrimidines (Barbiturates), Pyrazines
+synthesis (Pyrazinamide).
+Indole (Sumatriptan), Benzimidazole
+30-33 (Thiabendazole), Quinolines Text book and
+(Chloroquine), Isoquinolines literature.
+(Roxadustat),
+Heterocyclic reaction quiz
+Importance of C-C bond forming
+D) Modern drug reactions in natural product |
+‘ biosynthesis and drug synthesis. C-H
+wethodologies = activation and BDE. Matrix of C-C
+bond types (hybridization types) e.g. Reference book,
+Sp3-sp3, sp2-sp3. Chem. Rev
+Aldol, Claisen, oe and 2017 117 1 3
+condensations. Cross-Couplings
+stay reactions and general mechanism. E.g. —
+Alkyl-Alkyl Suzuki.
+
+ 
+
+ 
+ 
+ 
+
+Transition metal catalyzed cross
+38-39 | coupling reactions, Pd, Cu, and Fe
+with at least one example each.
+
+Section A, B, C, and D
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Drugs based on
+Five-Membered
+heterocycles.
+
+Drugs based on
+Six-membered
+heterocycles.
+
+Five and Six
+membered
+heterocycles fused
+to a benzene ring.
+
+Classification of CC bond forming
+reactions.
+
+SP3-SP3 C-C bond
+forming reactions.
+
+SP3-SP2, SP3-SP,
+SP2-SP and SP-SP
+C-C bond forming
+reactions.
+
+ 
+
+Course Review MI
+and discussion
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Nature of
+‘ ‘ 0 . component
+Component Duration | Weightage (% ) Date & Time (Close Book/ O pen
+Book)
+Date will be
+, , announced by | Closed book
+Mid term 90 min. 30 AUGSDAGSRD
+
+ 
+
+Will be
+announcedin | Closed book/Open book
+
+Quizzes 30 min.
+
+lectures.
+
+Continuous Expected
+Assessment | submission 10 /#of weeks taken Will be |
+Assignments | deadline: . announced in
+ae for submission
+within 1 lectures.
+week
+Date will be
+, announced by
+Comprehensive exam 2 hr. AUGSD- Closed book/Open book
+AGSRD
+
+Students should note the following important points.
+
+1)
+
+Students are strongly advised to prepare their own class notes using relevant information from lectures,
+text, reference books, and research/review articles given above. These notes are to be prepared/written in
+separate, dedicated notebook for this course and notebooks containing notes from other courses will not
+be allowed during closed book exam/quizzes. These handwritten notes and prescribed text would only be
+allowed for consultation during exams and will be used for assessments of open book components.
+Photocopies of any material (including research/review articles), written or printed will not be permitted.
+Stapled sheets, loose sheets of information written or printed, photocopies of slides used for discussion in
+class will not be allowed.
+
+Slides, web-resources, educational/informative videos, multimedia resources and/or software/databases
+displayed during lectures provide key information for which additional supportive information is expected
+to be collected from these and aforementioned sources. The slides and selected material/information will
+not be shared and hence students are requested/advised to make their own notes during class hour. Recent
+developments in the area/topic will be discussed in class based on their significance to chemistry,
+biochemistry, synthesis and pharmacology of the drugs, besides others, and may differ from the
+information in text, reference material and hence students are expected to take note of such key discussions
+during lectures. Such discussions held in class will be considered as primary source of information in
+assessments.
+
+Quiz(zes) may/will be conducted as a part of evaluation component, at random, during contact hours
+including lectures, tutorial hours, as convenient, with/without prior intimation and hence it is expected that
+the students come prepared to every class on topics covered in earlier lectures. Students are also requested
+to refresh their knowledge in basic organic reactions, chemical and biochemical concepts, and in topics
+and concepts covered in the prerequisite courses.
+
+Mid-Sem. Grading would be done once at least 30-40 % evaluation components are completed.
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+For all evaluation components, information given during classroom instruction, aforementioned text books
+and reference books in the same order, will be considered as correct. Students are advised to follow the
+text, reference material as given in hand-out. All evaluation components are equally important,
+irrespective of weightage. Hence, students failing to attend scheduled classes, or absenting themselves in
+one or many of the evaluation components, may become ineligible for obtaining a valid grade at the end
+of the semester. Attendance in lectures, timely submission of assignments, and quizzes are all equally
+important as they are all integral components of learning, irrespective of weightage and may be taken into
+consideration, during grading.
+
+Hence, students are strongly advised to keep away from absenting themselves from all aforementioned
+contact sessions. Clearing the course would require adequate performance in written quizzes**, tests**,
+and examinations**, separately ( i.e. earning low marks in evaluation components, aforementioned**,
+would not suffice, to clear the course).
+
+Any other adaptive changes in the handout, will be announced in class, if any.
+
+Reading Assignments: Students are advised to read, collect additional information on the above mentioned
+topics as per given schedule.
+
+7. Chamber C onsultation Hour:
+
+Students are advised to attend the majority of the classes (>95 %), read study material, given literature,
+textbooks and reference books on all topics within a week of the topic being covered in the lectures. They
+are also encouraged to ask clarification on major queries on the subject matter within the lecture hours and
+minor (non-urgent) queries can be reserved for consultation hours. Consultation hours will be announced
+in the lectures on weekly/fortnightly basis.
+
+8. Notices:
+
+Notices concerning this course will be displayed on Department of Pharmacy Notice Board. Students are
+advices to check notice board (and Nalanda account/BITS email) regularly.
+
+9, Make-up Policy:
+
+Generally make-up will be considered only for regular students (90% attendance) under very rare
+circumstances based on the genuineness of the case assessed on a case-to-case basis. No makeup will be
+granted for quizzes and all would be considered for evaluation.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. PHA F416
+

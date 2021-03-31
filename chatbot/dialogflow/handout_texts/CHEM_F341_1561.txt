@@ -1,0 +1,121 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHEM F341
+
+Course Title : Chemical Experimentation IT
+
+Instructor-in-C harge : Madhushree Sarkar
+
+Instructor(s) : Inamur R. Laskar, Surojit Pande, Bibhas R. Sarkar, Mrinmoyee Basu,
+
+Prashant U. Manohar
+Tutorial/Practical Instructors: Aishwarya Ramesh, Dhritabrata Pal, Divya Rathore, Jagrity Chaudhary, Mamta
+Devi Sharma, Raichure Pramod Chandrakant, Soumana Joarder, Sumit Kumar Agarwal, Nidhi Deswal, Manisha,
+Aarzoo, Vishakha, Shivani B. Thakkar
+
+1. Course Description: The main aim of the course is to build laboratory skills and to provide hands-on experience
+of various theories by exposure to different kind of experiments covering principles and theories in chemistry. The
+course folds in experiments with macroscopic methodologies, validation of various chemical theories, as well as
+electronic structure calculation using sophisticated models. The course is normally available to students of third year
+and higher levels.
+
+2. Scope and Objective of the Course: The main objective of the course is to expose the students to various
+experimental methods commonly used in Chemistry. The students will carry out a set of experiments in the areas of
+analytical chemistry, inorganic chemistry, nano-chemistry, electrochemistry, physical chemistry, and
+theoretical/computational chemistry.
+
+Techniques to experience: Includes but not limited to Inorganic synthesis techniques, Separation techniques based on
+phasic composition, Analytical techniques such as UV-Vis spectroscopy, FTIR spectroscopy, Spectrofluorimetry,
+Viscometry, Potentiometry, Conductometry, Gravimetry, Titremetry, Basic computation techniques towards
+understanding of electronic structure and molecular dynamics simulation.
+
+3. Text Books: Quantitative inorganic analysis by A. I. Vogel
+4, Further reading: Laboratory Manual
+
+3. Reference Book: P. W. Atkins’ Physical Chemistry Book.
+6. Course Plan:
+
+Topic Experiment
+
+Computational Computation of electronic structure of molecules
+chemistry
+
+Ground and excited state conformational analysis
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Materials science Syntheses and characterization of size-dependent nanomaterials (A u),
+and Catalysis application of nanomaterials in catalysis
+
+Electrochemistry Illustrating the Nernst equation for an electrochemical reaction using hand-held
+potentiostat & quantitative determination of ascorbic acid from citrous fruits by
+cyclic voltammetry
+
+Colloidal and Determination of critical micellization concentration (cmc) of sodium dodecyl
+Surface chemistry sulphate (SDS) using conductometer and spectrofluorimeter
+
+Chemical kinetics Reaction rate and activation energy of the acidolysis of ethyl acetate
+
+Thermodynamics Study the phase behavior in a ternary liquid system
+
+Thermodynamics Determination of the mixing enthalpy of binary fluid mixtures (Acetone and
+water)
+
+Colligative property | Demonstration of dependence of osmotic pressure on molar concentration
+
+Colligative property | Study the depression of freezing point of a solution
+
+ 
+
+7. Evaluation Scheme:
+
+Component Duration Weightage (% ) Mode
+Laboratory Work & Reports 80 % (160 Marks) Continuous
+
+End semester evaluation - 20 % (40 Marks) Quiz
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+8. Make-up policy: According to general guidelines of the institute.
+9. Notice: All notices concerning the course will be displayed in the Nalanda.
+
+10. Laboratory safety: I] Semester 2020-21 will be in online mode. While performing experiments, it is
+MANDATORY to wear personal protective equipments (PPE) in wet laboratory, such as Lab-ooat, Covered shoes,
+
+and Safety goggles (as applicahie).
+
+Madhushree Sarkar
+
+Instructor-in-charge, CHEM F341
+

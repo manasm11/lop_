@@ -1,0 +1,314 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+FIRST SEMESTER 2020-21
+COURSE HANDOUT
+Date: 11.03.2021
+
+In addition to the part I (General Handout for all courses appended to the Time table) this portion gives
+further specific details regarding the course.
+
+Course No : CHE Gd28
+
+Course Title : Introduction to Nano Science and Technology
+Instructor-in-C harge : Krishna Etika
+
+Instructor(s) : Banasri Roy
+
+Practical/Project Instructors: Krishna Etika and Banasri Roy
+1. Course Description:
+
+Nanotechnology promises to be the technology of the future benefitting humanity in a number of ways. This
+course is aimed at preparing students for further industrial or academic work in the field of nanotechnology.
+The objective of this course is to introduce the basics concepts of nanomaterials science and technology with
+special emphasis on synthesis, characterization, and applications of nanomaterials in various fields such as
+electronics, medical, MEMS, photonics, catalysis, energy, and heat transfer. This course will also deal with
+the quantum mechanical aspects of nanomaterials. Furthermore, future directions in nanoscience and
+technology and large scale manufacture and technological issues will also be discussed.
+
+2. Scope and Objective of the C ourse:
+
+The course content has been structured to provide a well-rounded overview of the principles of nanoscience
+and nanotechnology. The course will include common synthesis methods for the nanoparticles, their
+characterization and will also discuss the unique properties of nanomaterials, which makes them an
+attractive material for many applications. Laboratory demonstrations will include nanoparticles synthesis
+and characterization experiments. Emphasis is laid on demonstrating the motivation and use of
+nanomaterials in a variety of applications. This course is aptly suited for any student looking to get hands-on
+training in the widely prevalent field of nanoscience and nanotechnology.
+
+3. Text Books:
+
+TB-1: William A. Goddard, III, Donald W. Brenner, Sergey E. Lyshevski and Gerald J. Iafrate, " Handbook
+of Nanoscience, Engineering and Technology", CRC Press, ed 3 (March 12, 2012) ISBN-13: 978-14398-6016-8.
+
+TB-2: Risal Singh and Shipra Mital Gupta, "Introduction to Nanotechnology”, Oxford University Press, ed
+1 (2016). ISBN-13:978-0-19-945678-9
+
+TB-3: James Murday, B S Murty, P Shankar, Baldev Raj, and BB Rath, "Textbook of Nanoscience and
+Nanotechnology" University Press — IIM; ed 1 (2012) ISBN: 978-81-7371-738-3.
+
+4, Reference Books:
+
+1. Bharat Bhushan, “Handbook of Nanotechnology”, Springer, Germany, 2nd ed., 2006, ISBN 13:
+9783540298557
+
+2. Hari Singh Nalwa, “Handbook of Nanostructured Materials and Nanotechnology”, Academic Press,
+2001, ISBN 13: 9780080533643.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Wy) Pilani Campus
+AUGS/ AGSR Division
+
+uaa nhc
+
+ 
+
+3. Paul Harrison, “Quantum Wells, Wires & Dots, Theoretical & Computational Physics of
+Semiconductors Nanostructures”, John Wiley & Sons, Ltd, 2nd ed., 2006, ISBN 13: 9780470010792.
+
+4. Charles P Poole & Frank J. Ownes, "Introduction to Nanotechnology", Wiley-Interscience; 1st ed.,
+ISBN-13: 978-0471079354
+
+5. T. Pradeep, "A textbook of Nanoscience & Nanotechnology," McGraw Hill India, ist ed., 2015, ISBN
+13: 9781259007323.
+
+6. Course Plan:
+
+Module No/ Topics to be covered Learning Outcomes Chapter
+Module Name in book
+Course introduction, what is le Elaborate the difference TB-14+TB-2+
+
+nanoscience and | between nano and TB-3 +
+nanotechnology? Difference | microscale Notes in
+1 between micro and nano, |e List out the key properties class
+, classification of nanostructured of nanomaterials.
+Introduction materials, unique properties of
+nanomaterials: structural,
+electronic, magnetic, optical,
+mechanical.
+Bottom-up: physical vapor le Discuss various bottom- | TB-1+TB-2+
+deposition (PVD), chemical | up techniques for Sie
+vapor deposition (CVD), sol- nanomaterials synthesis Notes in
+gel, spray conversion, wet class
+chemical synthesis, __ selfassembly
+Top-Down: Mechanical * Discuss various top-down) TB-1+ITB-2+
+3 alloying, equal channel angular} approaches for TB-3 +
+. _ | pressing, high-pressure torsion | nanomaterials synthesis Notes in
+Nanomaterials synthesis (HPT), accumulative roll class
+Techniques: Top-down bonding (ARB),
+Nanolithography
+Techniques used for e Describe the basics of TB-1+TB-2+
+characterization of | various characterization TB 2aet
+nanomaterials: X-ray | _ techniques used for Notes in
+diffraction (XRD), small-angle structure and property class
+X-ray scattering (SAXS), evaluation of
+4 scanning electron microscopy | nanomaterials.
+Nanomaterials (SEM), Transmission electron
+Characterization microscopy (TEM), atomic
+Techniques force microscopy (AFM),
+scanning tunneling
+microscope (STM), Field Ion
+microscope (FIM), 3-D atom
+probe (3DAP),
+Nanoindentation.
+
+5 Basics of quantum physics, e Elaborate the _ basic TB-2+
+Quantum Mechanical | wave mechanics, Schrodinger| physics behind quantum| Notes in
+2
+
+   
+ 
+  
+    
+
+2
+Nanomaterials Synthesis
+Techniques: Bottom-up
+ 
+
+Aspects of Nanomaterials
+
+ 
+
+Carbon-based
+Nanostructures
+
+7
+Nanotechnology
+
+Applications: Electronics
+
+9
+Nanotechnology
+Applications:
+MEMS/NEMS
+
+10
+Nanotechnology
+Applications: Energy
+
+11
+Nanotechnology
+Applications: Catalysis
+
+12
+Nanotechnology
+Applications: Heat
+Transfer
+
+ 
+
+wave equation, concepts of
+quantum well, wire and dots,
+tunneling, applications of
+quantum mechanics in
+nanotechnology.
+
+Synthesis, properties, and
+applications of carbon
+nanostructures: fullerenes,
+carbon nanotubes (CNTs),
+graphene, nanodiamonds, and
+diamond-like carbon (DLC).
+Applications of
+nanotechnology in electronics:
+Basics of semiconductor
+devices, MOSFETs, FinFETs
+
+Application of nanotechnology |
+
+in MEMS: Basics of
+MEMS/NEMS, fabrication
+techniques, working principles
+of accelerometers, and
+actuators.
+
+Basics of fuel cells and
+batteries, nanotechnology
+applications in fuel cells,
+energy storage devices.
+
+Basics of catalysis, synthesis
+of metal and oxide active
+phases, nanoreactors.
+
+Nanofluids: Synthesis,
+characterization, and
+applications relevant to heat
+transfer. State of the art and
+future research directions.
+
+effects exhibited by
+nanomaterials.
+
+Identify various nanostructured forms’. of
+carbon and their synthesis
+and unique properties.
+
+Review = and
+nanotechnology
+applications in electronic
+devices
+
+suggest
+
+Review and
+nanotechnology
+applications in MEMS
+devices
+
+Review and
+nanotechnology
+applications in energy
+storage.
+
+suggest
+
+Review and suggest
+nanotechnology
+applications in catalysis
+
+Review and suggest
+nanotechnology
+applications in heat
+transfer
+
+suggest |
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+TB-14+TB-2+
+
+TB-3 +
+Notes in
+class
+
+Discuss in
+class from
+research
+papers
+
+Discuss in
+class from
+research
+papers
+
+Discuss in
+class from
+research
+papers
+Discuss in
+class from
+research
+papers
+
+Discuss in
+class from
+research
+papers
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ Open Book)
+Quiz Best3 outof4) | 20min | 15) SSS~~SCS*«C@ andlor OB’
+MidSem | (90min | 380 | CBandfor OB
+2
+
+Project Work a 1 ee  *)
+
+ 
+
+7. Online/C hamber C onsultations: Thursdays 3:00-4:00 P.M. or by request.
+8. Notices: The notices will be displayed in Nalanda and/or sent to institute email id of the student.
+9, Make-up Policy: Make-up will be granted for genuine cases only. Certificate from an authenticated
+
+doctor must accompany the make-up application (only prescription or vouchers for medicines will not be
+sufficient). Except for an emergency, for all other cases, prior permission of IC is compulsory.
+
+10. Note (if any): The lecture notes (if any) provided to the students registered in this course is for academic
+purpose only and is considered the intellectual property of BITS Pilani. Such materials should not be uploaded
+
+to any external websites/forums without the permission of the Instructor.
+‘
+
+Instructor-in-charge
+CHE G528
+

@@ -1,0 +1,175 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part IT)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 15/01/2021
+In addition to part-I (General Handout for all courses appended to the timetable) this portion gives further specific
+
+details regarding the course.
+
+Course No. : BIO F215
+
+Course Title : BIOPHYSICS
+Instructor-In-Charge : SHIBASISH CHOWDHURY
+
+:Navin Singh
+
+1. SCOPES AND OBJECTIVE:
+
+The objective of the course is to introduce the students to the concepts of physical principles in the biological
+and biomimetic molecular systems. Properties and conformations of biomolecules like amino acids, proteins,
+nucleotides, nucleic acids as well as biomimetic systems like monolayers and bilayers are to be discussed.
+Related physical phenomena in these systems like structural transitions, protein folding, membrane equilibria
+are to be discussed. Emphasis will also be given to understand the principles of major experimental techniques
+applied to understand these physical problems.
+
+2. Text Book (TB):
+1. Biophysical Chemistry, Part I, Part II and Part III", Charles R Cantor and Paul R. Schimmel,
+W.H. Freeman and Co., New Y ork.
+2. Biological Physics: Energy, Information, Life, Philip Nelson, Chiliagon Science, 2020
+3. Reference Book:
+Principal of Physical Biochemistry” Kensal E. van Holde, W. C. Johnson and P.S. Ho John,
+24 Edi. Pearson Prentice Hall
+
+4, Course Plan
+
+No.
+, , , Chapter-2 of TB7 Self study Basics of thermodynamics, bondings, 2. Text book of
+
+interactions, basics of biomolecules,
+Biochemistry
+
+1 Overall idea of the course Overview of subjects Chapter-1 of TB
+
+9-3 Macromolecules, configuration and | Chapter-1 of RF
+conformation, symmetry
+
+4-7 _ | Biological Macromolecules Protein _ structure: Primary, | Chapter-2 of TBSecondary, Tertiary and Quaternary | 1, Chapter-1 of
+structure of proteins RF
+
+Weak interactions: Intermolecular | Chapter-1 of TB,
+Interactions between the molecules interaction, H-bonding, Chapter-1 and 3
+
+ec
+0
+
+hydrophobic interaction, of RF
+Electrostatic interaction
+
+Chapter-3 of TB,
+0-13 | Biological Macromolecules The Structure of Nucleic acids Chapter-1 of RF2, Chapter-3 of
+
+RF
+
+  
+
+as) Save Trees.
+* Agave the World. —_f
+
+Please Do Not Print Unless Necessary
+
+s
+
+g
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part IT)
+
+Chapter-2 of TB,
+14 Biological Macromolecules Other Biological polymers Chapter-4 of RF-1
+Molecular mechanics, stabilizing | Chapter-3 of RF-2
+15-16 | Molecular Mechanics in Macromolecule | interactions in Macromolecules
+Energy minimization, Molecular | Chapter-3 of RF-2
+17-18 | Simulating macromolecule structures dynamics
+
+The probabilistic facts of life TB2-3.1
+The Boltzmann distribution -3,
+
+Random walk & diffusion TB2-4.
+Entropy & disorder TB2-6.1-6.2
+The II law TB2-6.3-6.4
+Microscopics & Macroscopic world | TB2-6.6
+
+Single Molecule Techniques Optical & Magnetic Tweezers Class Notes
+Atomic Force Microscope
+
+Class Notes
+Elasticity Models of polymers TB2-9.1
+Stretching single molecule TB2-9.2
+Cooperativity TB2-9.4
+The helix coil transition
+
+ 
+
+ 
+
+ 
+
+Thermodynamics of Living Systems
+
+Cooperative Transitions in Biopolymers
+
+TB2-9.5
+Spectroscopic techniques Introduction to Absorption spectro | Chapter-9 of RF
+
+SCOpy
+Introduction to Circular Dichroism
+(CD)
+
+Int
+
+roduction to Fluorescent Chapter-11 of RF
+Spectroscopy
+3. Evaluation Scheme:
+
+Chapter-10 of RF
+
+|
+CO
+i)
+oe)
+i)
+
+ 
+
+Surprise Quizes, | Throughout the semester 30%
+assignements and | distributed in class as well as in
+Seminar tutorial hour
+
+menor |
+
+6. Chamber C onsultation Hours: To be announced.
+7. Notices: Notices, if any, concerning the course will be displayed on the Notice Board of
+Biological Sciences notice board.
+8. Make up Policy: Make up will be given on genuine grounds as determined by the Instructor-in-charge.
+
+ 
+
+Instructor In C harge
+(BIO F215)
+
+A Save Paper. gl
+
+sn Save Trees.
+~ “$$ave the World. innovate Evel (=\ 0-4
+
+Please Do Not Print Unless Necessary
+
+g
+
+ 
+

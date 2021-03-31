@@ -1,0 +1,236 @@
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+SECOND SEMESTER 2020 - 2021
+Date: 18.01.2021
+Course Handout (Part II)
+
+In addition to Part-I (general handout for all courses in the time-table), this handout provides
+specific details regarding the course.
+
+Course No.: ME F461
+
+Course Title: Refrigeration and Air-conditioning
+Instructor-in-charge: Dr. Suvanjan Bhattacharyya
+Co-Instructors; = 3 —~— ----
+1. Course Description: This course will teach the basic principles of refrigeration and air-conditioning to
+students, including the design and analysis of refrigeration and air-conditioning systems.
+
+2. Scop
+
+e and Objective of the Course: The course is designed to give an in depth study of theory of
+
+refrigeration and air-conditioning and their applications. The technique of analysis and design of
+refrigeration and air-conditioning systems will also be discussed.
+
+3. Text
+1
+
+Books:
+
+. Text Books: Arora, C.P. Refrigeration and Air-conditioning, 3rd Ed., McGraw-Hill India,
+2009.
+
+4, Reference Books:
+
+1.
+2.
+3.
+
+e
+
+Pleas
+
+Arora, R.C. Refrigeration and Air-conditioning, Prentice Hall India, 2010.
+Stoecker,W. Jones J. Refrigeration and Air Conditioning 2nd Ed.
+
+Faye C. McQuiston, Jerald D. Parker, Jeffrey D. Spitler, Heating, ventilating and air
+conditioning: analysis and design, 6th ed., Wiley, 2004.
+
+P N Anathanarayanan, Basic Refrigeration and Air Conditioning, 4" Ed., 2013, McGraw-Hill
+Education.
+
+Rajput, R. K. Refrigeration and Air-conditioning, 4“ Ed., 2015, S. K. Kataria and Sons.
+
+Save Paper.
+\ Save Trees.
+
+Asave the World. innovate FTes CoN =)
+e do not print unless necessary
+
+ 
+
+Page 1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+No.
+Introduction and review 1,2 Concepts of Refrigeration and Airconditioning. Unit of _ refrigeration,
+Refrigerants.
+
+Simple Vapour Vapour compression cycle on ph and T-s
+
+Compression diagrams, Vapor compression systems
+
+Refrigeration calculation, Cycles with sub-cooling and
+
+System (Simple VC RS) Superheating, their effects, actual Vapour
+Compression Cycle.
+
+3-6 Refrigerants Designation, comparative study’. of
+refrigerants and their selection, chemical
+and physical requirements, and substitute
+of refrigerants.
+
+7-9 Vapour Absorption Advantages of VARS over VCRS.
+
+Refrigeration System Working principle of simple VARS,
+
+(VARS) practical VARS. Limitations of VARS,
+maximum COP of a VARS, Lithium
+bromide-water System; Aqua-ammonia
+systems.
+
+10-11 Air Refrigeration System 11 Bell-Coleman refrigerator. COP
+(ARS). determination, actual air refrigeration
+Cycle.
+
+Major Refrigeration Compressors: Types; reciprocating, rotary
+Equipment. & centrifugal,
+Condensers: types used in refrigeration
+systems;
+Evaporators: types and heat transfer in
+evaporators.
+Expansion devices: types of expansion
+devices and capillary tubes and ejector
+expansion.
+
+ 
+
+Save Paper.
+he Save Trees.
+£ e ‘Asave the World. innovate Fela) (a=) Te¥=Te |
+
+Please do not print unless necessary
+
+ 
+
+Page 2
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+16 Psychometry of _ air 14,15 and | Basic definitions and principles related to
+conditioning Processes. Class Notes | Psychometry ; Psychometric Charts &
+Their Uses;
+Heating, Cooling, Heating &
+Humidification & Cooling &
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dehumidification processes. A diabatic
+Saturation, Cooling Coils, By-pass Factor.
+
+- 20
+Notes
+Human Physiology Notes Thermodynamics of human body.
+Load calculations. Sensible Heat Factors. Heat Load
+Notes estimation: Simple cases of Cooling and
+Dehumidification.
+Solar C ooling Solar cooling technologies.
+
+36 — 37 Air-conditioning Class Notes | Air-handling units, Cooling Towers.
+equipment.
+
+Non-conventional cooling | Class Notes | ODP, GWP, TWEI
+techniques
+
+6. Evaluation Scheme:
+
+(% )
+Presentation 15 mins. 15 Will be Open book
+announced
+
+Quiz 20 mins. 05 Will be Open Book
+announced (Multiple
+Choice
+Questions)
+
+ 
+
+Mid Semester Test <TEST 1> Closed book
+
+Comprehensive Test 3h (15 +30) <TEST C> Close Book
+and
+Open Book
+
+7. Consultation Hours (Instructor In-charge): Time: 3.00-4.00 PM, Monday.
+
+ 
+
+8. Notices: All notices related to this course will be put on the Nalanda/Email.
+
+Please do not print unless necessary
+
+Page 3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+9, Make-up Policy:
+
+1. Make up will be given to genuine students only, but prior permission is required.
+2. No makeup for lecture test.
+
+10. Note:
+
+I). NC will be given to students obtaining overall marks less than 20% of the total (less than 20 out
+of 100).
+
+Il). Mid-semester grading: It will be announced normally in the month of March. It is done in the
+same manner as that of the final grading.
+
+III). Presentation: One before Mid-semester test and one before Comprehensive test.
+
+IV). Quiz: One quiz (MCQ) would be conducted after mid-semester.
+
+Instructor-i
+Dr. Suvanjan Bhattacharyya
+ME F461
+
+   
+
+Save Paper. , a
+Save Trees.
+
+£ >= \save the World.
+Please do not print unless necessary
+
+ 
+
+innovate achieve
+
+Page 4
+

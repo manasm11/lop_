@@ -1,0 +1,316 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+
+Course Handout Part Il
+
+Date: 15/01/2021
+
+In addition to part -| (General Handout for all courses appended to the time table) this portion
+gives further specific details regarding the course.
+
+LPTU : 2012
+Course No. : ME F218
+Course Title : Advanced Mechanics of Solids
+
+Instructor-in-charge : Prof. M. S. DASGUPTA
+Tutorial Instructors :JjS Rathore, Gaurav Watts, Venkatesh Kadbur Prabhakar Rao
+
+1. Course Description: The course starts with generalized Hooke’s law and three dimensional stress
+strain relations putting emphasis on Materials-Mechanics linkage to elucidate mechanical properties of
+materials. It also includes Energy methods; Torsion of non-circular members; Shear center and
+Asymmetrical bending of beams; Curved beams; Thick cylinders.
+
+2. Scope and Objective of the Course: The course deals with in-depth analysis of some advanced
+topics in Mechanics of Solids, necessary for Mechanical Engineering students, beyond what is
+covered in the common course Mechanics of Solids.
+
+3. Text books:
+T1: “Advanced Mechanics of Materials" - Arthur P., Boresi and R.J. Schinid, John Wiley, 6" Edition.
+Reference books:
+
+R1: “Advanced Mechanics & Solids” - L.S. Srinath, Tata Mc.Graw-Hill Publishing Co. ne Edition, 2003
+
+R2: “Advanced Mechanics of Solids” — Otto T. Bruhns, Springer Verlag, 2003
+R3: “Advanced Mechanics of Materials” — R. Davis Cook and Warren C. Young, Prentice Hall gnd Edition,
+1998.
+
+4. Lecture Plan:
+
+Module Lecture Session Chap/Sec Learning Outcome
+& (Book)
+
+Tutorial Session
+
+ 
+
+ 
+
+ 
+
+i
+AL Save Paper. ; |
+we \ Save Trees.
+£>* ’Save the World. ata
+
+Please Do Not Print Unless Necessary
+ 
+
+Pilani Campus
+
+ 
+
+ 
+
+Review of elementary
+Mechanics of Materials
+and methods of
+analysis, failure analysis
+& properties of material
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Instruction Division
+
+   
+
+Introduction & review of | CH1 (TB1)
+elementary mechanics — of
+solids, methods of analysis,
+
+failures in design.
+
+Tutorial 1
+
+ 
+
+Principle of stationary potential
+energy, Castigliano’s theorem,
+Deflections in statically
+determinate structures and
+statically indeterminate
+structures, applications to
+curved beam treated as straight
+beams.
+
+Tutorial 2
+
+ 
+
+ 
+
+2-4 | Energy methods and |
+applications
+5- | Theories of stress and
+
+9 strain
+
+Stress at a point, stress on an
+arbitrarily oriented plane,
+transformation of stress,
+principal stresses, differential
+equations of motion of a
+deformable body, deformation,
+strain theory, small
+displacement theory
+
+CH2 (TB1)
+
+ 
+
+ 
+
+ 
+
+Save Paper.
+eo Save Trees.
+~“sSave the World.
+
+  
+
+ 
+
+Tutorial 3 & 4
+10- | Linear stress strain Generalized © Hooke’s _Law, CH3 (TB1)
+12 | temperature relations. | anisotropic and isotropic
+
+elasticity, thermoelasticity for
+isotropic materials, Hook’s law
+for orthotropic material
+
+Tutorial 5
+
+ 
+
+        
+
+Quick revision of
+Important
+Concepts in
+
+First level course on
+
+Engg.
+
+mechanics
+CHS5 (TB1) | Ability to
+
+   
+
+identify,
+formulate and solve
+variety problems of
+Statics using energy
+method
+
+ 
+
+Comprehend nuance
+of continuum
+mechanics, its
+
+and
+problem
+
+implications
+numerical
+solving.
+
+stress
+for
+
+Computing
+and strain
+
+anisotropic material
+
+ 
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+  
+ 
+ 
+ 
+  
+ 
+
+  
+
+Torsion of non-circular JTorsion of prismatic bar, Saint CH 6.1-+ Formulation and
+member enant’s Semi-inverse method, | 6.6(TB1) |solution of stress
+linear elastic solutions, Prandtle arising out of torsion
+elastic membrane analogy in a general
+structural member.
+Tutorial 6
+
+    
+
+   
+
+         
+
+     
+ 
+
+Asymmetrical bending — Non-symmetrical loading, CH7.1- | Formulation and
+21 bending and deflection of 7.3(TB1) |solution of stress
+Straight beams arising out O
+
+bending in a general
+
+Tutorial 7 structural member.
+22- | Shear Center for — thin] Shear flow in thin-walled beam | CH 8.1-| Appreciate the
+23 |walled beam cross} cross sections, Shear Center for | 8.3(TB1) | concept of Shear
+
+   
+
+sections channel section. center computation
+
+of same.
+Tutorial 8
+
+  
+
+Curved beams Location of neutral axis, radial CH9.1-9.6 | Appreciate the
+
+25 stress, correction of| (TB1) concept and
+circumferential stress and compute bending
+
+| deflections of curved beams. | stress in a beam with
+
+    
+
+Tutorial 9 finite radius O
+curvature.
+
+ 
+
+ 
+
+   
+
+Save Paper.
+ae. Save Trees.
+£7>* -ASave the World.
+
+ 
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+_ Evaluation Scheme :
+
+Evaluation C t Weightage Duration Date of Evaluati
+valuation Componen (%) (Minutes) ate of Evaluation
+
+Tutorial Evenly spaced throughout the
+30 semester
+
+Comprehensive As announced in the Timetable
+Examination
+
+= Tutorials will be utilized for numerical problem solving under guidance of tutorial instructor
+and the same will be evaluated. Best four performances out of evaluated ones for each
+
+student will be counted for aggregate marks.
+
+ 
+
+Chamber Consultation Hour: To be announced in the class.
+
+Notices: If any, will be displayed in Nalanda.
+
+Make-up policy: No makeup is allowed for Tutorials.
+
+Instructor-in-charge
+
+ME F218
+
+HAL. soe om =
+
+¢© \save we word
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,276 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 14.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BITS F 429
+
+Course Title : Nanotechnology for Renewable Energy and Environment
+Instructor-in-C harge : Krishna Etika
+
+Instructor(s) : Banasri Roy
+
+1. Course Description:
+
+The course introduces the fundamentals of nanoscience and technology and its applications in the areas of
+renewable energy and environment. It includes concepts such as macro vs. nano, physics at the nanoscale
+and unique properties of nanomaterials that make them a viable alternative to conventional materials. This
+course also includes basic fabrication, characterization and working mechanisms of solar cells (i.e., organic,
+quantum dot and dye sensitized solar cells), Fuel cells, batteries and carbon nanotube based energy storage
+devices. Furthermore, aspects of nanotechnology applications in solar cells, nanoelectrodes, catalysts
+systems for fuel cells and batteries are also included. This course further introduces the environmental
+applications of nanotechnology in sustainability, ground water remediation, adsorbents, ecotoxicological and
+toxicity of nanomaterials, transport and fate of nanomaterials and societal implications of nanotechnology.
+
+2. Scope and Objective of the C ourse:
+Nanotechnology promises to be the technology of the future benefitting the humanity in a number of ways.
+This course is aimed at preparing students for further industrial or academic work in the field of nano
+technology with focus on renewable energy and environment sector. The course is divided into 3 modules as
+decribed below.
+
+o Module 1: General introduction to principles of nanoscience and technology
+
+o Module 2: Nanotechnology applications in renewable energy sector
+
+o Module 3: Nanotechnology applications in environmental sector.
+The specific topics covered under each module are listed in the course plan (refer section 5 of this handout).
+
+By the end of this course, the student will be able to:
+o Describe the importance of nanomaterials and the origin of their unique properties.
+o Summarize the fabrication characterization and working of solar cells, fuel cells, batteries, and CNT
+based energy storage devices.
+o List the merits and motivations for using nanomaterials in renewable energy and environment sector.
+o Gauge the applicability of alternate nanomaterials for use in energy and environment sector.
+o Define toxic effect of nanotechnology on environment, relative remediation and precautions.
+
+3. Text Books (TB):
+
+1. James Murday, B S Murty, P Shankar, Baldev Raj and BB Rath, "Textbook of Nanoscience and
+Nanotechnology" University Press — IIM ; ed 1 (2012) ISBN: 978-81-7371-738-3.
+
+2. Javier Garcia- Martinez, "Nanotechnology for the Energy Challenge," Wiley-VCH; ed 1 (March 22,
+2010) ISBN-10: 3527324011.
+
+3. Mark R Weisner & Jean-Y ves Bottero, "Environmental nanotechnology; applications and impacts of
+nanomaterials", McGraw Hill, 2007, ISBN-10: 0071477500.
+
+1
+ 
+
+ 
+
+4. Reference Books (RB):
+1. L. Theodore and R. Kunz, “ Nanotechnology Environmental Implications and Solutions”, Wiley
+Interscience, 2005, ISBN-10: 0471699764.
+2. Nanotechnology Applications for Clean Water, Edited by, N. Savage, M. Diallo, J. Duncan, A. Street, R.
+
+Sustich
+
+5, Course Plan:
+
+1:
+Intoduction to
+Nanoscience
+and
+Nanotechnology
+
+2:
+Nanotechnology
+in Energy Field
+
+L 1: Introduction to nanoscience and
+nanotechnology and classification of
+nanomaterials
+
+L 2-3: Unique properties of
+nanomaterials structural, electronic,
+magnetic, optical, mechanical.
+
+L 4-5: Techniques for nanomaterials
+synthesis
+
+L 6: Quantum confinement and
+basics of Quantum wells, wires and
+dots.
+
+L 7-11: Fabrication, characterization
+working mechanism and
+nanotechnology applications of solar
+cells (i.e., organic, quantum dot and
+dye sensitized solar cells)
+
+L 12-14; Fabrication, characterization
+working mechanism and
+nanotechnology applications in fuel
+cells.
+
+L 15-17: Fabrication,
+characterization working mechanism
+and nano-technology applications in
+batteries.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Learning outcomes
+
+By the end of the module,
+
+student will be able to
+
+oDescribe the importance of
+nano-materials and the
+origin of their unique
+properties.
+
+o List the techniques used
+for synthesizing
+nanomaterials.
+
+o Summarize the concepts of
+quantum confinement in
+nanostructured materials.
+
+By the end of the module,
+
+student will be able to
+
+o Summarize the fabrication
+characterization techniques
+and working principles of
+solar cells, fuel cells,
+batteries, and CNT based
+energy storage devices.
+
+oList the ments and
+motivations for using
+nanomaterials in renewable
+energy and environment
+sector
+
+o Solve elementary problems
+on cyclic  voltametry,
+impedance spectroscopy.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L 18-20: Synthesis and properties of
+carbon nanotubes and their
+application in fabricating energy
+storage devices
+
+L21- 22: Introduction
+
+By the end of the module,
+
+student will be able to
+
+e Explain the application of
+nano materials for
+environmental pollution
+(air, water, and solid)
+control.
+Explain mechanism of
+interaction between
+nanomaterials and the
+pollutants.
+Explain propertynanostructure correlation of
+the nanomaterials and their
+effects on pollutants
+removal.
+
+L23- 24: Environmental fate &
+transport of nanomaterials
+
+L25-30: Nanomaterials for water
+remediation: reactivity, fate &
+lifetime, Delivery & transport issues.
+Nanomaterials as adsorbents:
+Adsorption at oxide nanoparticles,
+Solution interface, Nano materials
+3: adsorbent for water and waste water | TB3
+Nanotechnology | treatment. +] ournal
+in papers +
+L31-35: Nanomaterials for air Class
+pollution and solid waste remediation | notes
+
+Environmental
+field
+
+L 36-40: Toxicity of nanomaterials,
+
+Ecotoxicological impacts of
+nanomaterials, Paradigms in
+nanomaterial toxicity. Provide
+awareness about the social economic
+impact of nanotechnology and to
+
+Define toxic effect of
+nanotechnology on
+environment, relative
+remediation and
+precautions.
+
+handle the techniques effectively,
+enhance the nanotechnology research
+by taking ethics and public opinion
+into consideration
+
+ 
+
+6. Evaluation Scheme:
+
+Mid-Semester Test |
+Comprehensive Exam
+Project W ork
+
+Quiz (Best 3 out of 4)
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class
+
+8. Notices: The notices will be displayed on the Chemical Engineering Group notice board and/or Nalanda
+only
+9, Make-up Policy: Make-up will be granted for genuine cases only. Certificate from authenticated doctor
+from the Medical Center must accompany make-up application (only prescription or vouchers for medicines
+will not be sufficient). Prior permission of IC is compulsory.
+
+e No make up for Quizzes,& Project components
+10. Note (if any): The material/lecture slides (if any) provided to the students registered in this course is
+
+for academic purpose only and is considered intellectual property of BITS Pilani. Such materials should
+not be uploaded to any external websites/forums without the permission of the Instructor.
+
+Instructor-in-charge
+Course No. BITS F429
+

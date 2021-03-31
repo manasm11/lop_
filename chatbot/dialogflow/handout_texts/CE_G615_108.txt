@@ -1,0 +1,323 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 10.03.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE G615
+Course Title : Earthquake Engineering
+Instructor-in-C harge : Ravi Kant Mittal
+
+1. Course Description:
+
+Earthquake Engineering course is mainly aimed to provide procedures and design provisions to be
+considered for earthquake resistant design of different structural components. The course deals with various
+aspects of seismic design, detailing and construction of buildings, bridge, tanks, chimneys, retaining
+structures. Earthquake codes and their provisions are to be studied in-depth.
+
+2. Scope and Objective of the Course: Earthquakes are one of the most destructive forces that nature
+unleashes on earth. Since earthquakes are so far unpreventable and unpredictable, the only course open to us
+is to design and construct the structure in such a manner that the loss of property and life is minimized.
+Objective of the course is to know the various aspects in the analysis, design and detailing in order to
+produce safe and economical EQ resistant structures.
+
+3. Text Books:
+
+T1. Agarwal, P. and Shrikhande, M. (2006), “Earthquake Resistant Design of Structures” Prentice-Hall of
+India.
+
+T2. Jain, A. K. (2016), “Dynamics of Structures with MATLAB Applications” Pearson India Education
+services Pvt. Ltd.
+
+4, Reference Books:
+R1. Duggal, S. K. (2013), “Earthquake Resistant Design of Structures” Oxford University Press.
+
+R2. Saran, S. (2012), “Analysis and design of foundations and retaining structures subjected to seismic
+loads” I K Lee Publishers.
+
+R3. Kramer S.L. (1996), “Geotechnical Earthquake Engineering” Pearson Education.
+R4. Subramanian, N. (2013), “Design of Concrete Structures” Oxford Univ. Press.
+
+Rod. IS: 1893(All parts), 4326, 13827, 13828, 13920, 13938, 16700 and other relevant BIS and International,
+codes
+
+5. Course Plan:
+
+Module Lecture Session No Ref. to Ch. Learning Outcome
+of
+Lec.
+
+Introduction to | Importance and scope of the course, seismic 1T1, EQ resistant design
+
+EQ Engineering | hazard mitigation. concept and economy
+
+seismology and _ the
+importance of
+associated concepts
+
+India and development of seismic zoning map.
+
+ 
+
+Engineering Causes of earthquake, seismic waves, | 2 1,2,T1; Notes | Understanding the basic
+seismology magnitude and intensity, Seismic hazard in introduction to
+ 
+ 
+   
+
+Characterization
+
+Introduction to
+Earthquake
+Resistant
+Design
+
+Earthquake
+analysis of
+Structures
+
+Seismic SoilStructure
+Interaction
+(SSI)
+
+EQ resistant
+analysis and
+design of
+Chimneys and
+other Stack like
+structures
+
+Design of nonstructural
+members
+Non-Engineered
+Structures
+
+Seismic
+Liquefaction
+
+Seismic Design
+of Foundations
+
+EQ resistant
+design of
+Retaining Walls
+
+EQ resistant
+design of
+bridges
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+EQ ground motion parameters, dynamic soil
+properties, and local site effects. Liquefaction
+of soils.
+
+EQ resistant design philosophy, — basic
+principles of EQ _ resistant design, load
+combination, regular and irregular buildings,
+Codal provisions of IS: 1893- 2016 (Part-1) for
+multi-storeyed buildings.
+
+EQ analysis of buildings using equivalent
+lateral load analysis based on approximate
+fundamental natural period of buildings.
+Response spectra of 1S1893-part1.
+
+Mode Superposition method, Modal
+combination rules using absolute sum, SRSS
+and CQC method. Time history method of
+analysis for EQ analysis of multistory
+buildings.
+
+Soil-Structure Interaction (SSI) effects and the
+effect of its inclusion in seismic analysis of
+buildings, chimney, stack like _ structure,
+Guideline in International code of practice
+related to SSI
+
+Seismic design aspects of chimneys, stack like
+structures etc., IS 1893-part4 guidelines
+
+Seismic analysis and design of non-structural
+members, case histories
+
+EQ resistant guidelines and provisions for nonengineered buildings, Improving EQ resistance
+of earthen, stone masonry, buildings.
+
+Phenomena of liquefaction and _ Factors
+Affecting Liquefaction, Various methods of
+evaluation of liquefaction. Anti-liquefaction
+measure. Code of practice.
+Dynamic bearing capacity and
+design of shallow, Codal provisions.
+
+Seismic
+
+Seismic design of deep foundations. Lateral
+load, moment and displacement due _ to
+earthquake, . Plies in liquefiable soil. Codal
+provisions.
+
+Seismic earth pressure, c-o soils, Displacement
+based seismic design consideration for
+retaining structures.
+
+Principles of seismic design of bridges,
+hydrodynamic pressure,
+
+Z
+
+I$:1893Part;
+
+12, 14,15, T1;
+12, T2; 5, R1.
+
+8,12 T2.
+
+16,18 T1; 12
+T2; 1S:1893Part.
+
+1$1893-part42015and
+notes
+
+Chili, T2,
+1$1893Part 4.
+
+. R1;
+1$:4326;
+IS:13827;
+1$:13828.
+2,R2;
+R3;Lec.
+Notes.
+
+9,12,
+
+AR2;Lec.
+Notes.
+
+IS-1893 Part3;
+
+3,7,8,9, 10R2;
+11,R3.
+IS-1893 Part3; 7,
+10,11,R3.
+
+Determining site
+characteristics and
+seismic Hazard.
+
+Understanding basic EQ
+resistant design
+philosophy and_ the
+codal provisions related
+to it.
+
+EQ analysis using
+equivalent lateral load
+analysis
+
+Determination of EQ
+forces using dynamic
+analysis
+
+EQ analysis considering
+SSI.
+
+Understanding the
+guidelines for EQ
+resistant design of
+Chimneys
+
+Basic introduction to
+seismic design of nonstructural members
+
+Earthquake resistant
+design of nonengineered construction
+
+Evaluation of
+liquefaction and
+Remedial measure
+
+Seismic analysis
+&design consideration
+for shallow foundation
+
+Seismic analysis &
+design consideration for
+deep foundation
+
+Seismic Analysis and
+design of retaining
+structures
+
+forEQ
+design of
+
+Provisions
+resistant
+bridges
+ 
+ 
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+EQ resistant | Seismic analysis and design of water/ liquid | 3 1S1893- Part | Understanding the
+design of Water | storage tanks 2and Part4. | guidelines for seismic
+tanks design of Water tanks
+
+Ductile Causes of failure of RCC structures, case | 4 20,T1; Seismic design and
+Detailing of | studies. Concept of ductility, design and 8,R1;1S:1392 | ductile detailing of
+
+Structures and | detailing of Beams, columns, joints as per 0; Ch13, R4. | various elements and
+members 13920, strong columns and weak beams structures
+concept.
+Seismic Retrofit | General Introduction to seismic retrofitting of 13, 14, | Insight on the seismic
+and Isolation Super-structural and sub-structural elements, T2Lec. Notes | retrofitting measures,
+Base isolation, energy dissipation devices seismic protection
+recent advancement
+
+6. Evaluation Scheme:
+
+Weightage (% ) | Date& Time | Nature of component
+——-* lose Book/ Open Book)
+
+Mid Sem. Test - CloseBook
+
+cer Dam | Gate | om
+and project
+
+‘Tempaper _ 10% | Contimous | OB
+
+ea | | cme [oe
+
+7. Chamber C onsultation Hour: To be announced in the class.
+
+ 
+
+8. Notices: Notices will be sent to your BITS email id only.
+
+9, Make-up Policy: Make will be given for genuine cases only.
+10. Note (if any): Reading assignments will be given as and when necessary.
+
+Instructor-in-charge
+Course No. CE G615
+

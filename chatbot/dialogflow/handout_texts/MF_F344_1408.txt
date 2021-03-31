@@ -1,0 +1,161 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout Part II
+Date: 15" Jan 2021
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+Course No. > ME F344/MF F344
+
+Course Title : ENGINEERING OPTIMIZATION
+Instructor-in-charge : RAJESH P MISHRA
+
+Instructor : Aakash C Rai
+
+Tutorial Instructors : Rajesh P Mishra, Aakash C Rai, Sachin U Belgamwar and Murali Palla
+
+1. Scope and Objective of the C ourse:
+
+Engineers, scientists, analysts and managers are often faced with the challenge of making
+trade-offs between different factors in order to achieve desirable outcomes. Optimization is the
+process of choosing these trade-offs in the best way. Optimization problems, having reached a
+degree of maturity over the past several years, are encountered in physical sciences, engineering,
+economics, industry, planning, and many other areas of human activity. Objective of the course is
+to familiarize the students with standard methods of solving optimization problems.
+
+This course deals with details of various aspects associated with optimization. These include
+description of optimization techniques, namely, linear programming and non-linear programming,
+and their applications to various engineering and science disciplines including economics and
+finance. Multi-objective optimization which handles optimization aspects of more than one
+objective is also discussed.
+
+2. Text Book:
+T1 HA Taha, Operations Research: An Introduction, Pearson Education/PHI, 10/E, 2018.
+Reference Books:
+
+R1A. Ravindran, DT Philips and JJ Solberg, Operations Research: Principles and Practice,
+John Wiley & Sons, Singapore, Second Ed., 1987
+
+R2S.S Rao, Engineering Optimization: Theory and Practice, New Age International (P)
+Limited, Third Edition, 1996
+R3 F.S Hillier and GJ Lieberman, Introduction to Operations Research, TMH, 10" Ed., 2013.
+
+R4J.C Pant, Introduction to Optimization: Operations Research, Jain Brothers, New , 6 Ed.,
+2004.
+3. Course Plan:
+
+; . ; Lecture | Ref. To Text
+Learning Objectives Topics to be C overed
+
+ 
+ 
+    
+
+     
+
+To understand the meaning of Introduction to optimization 1-2 T1 (1.1 to 1.4)
+optimization and formulation of
+LPP models and NLPP models.
+Discussion on how to solve two _| Two variable LP model, graphical LP 3-4 T1 (2.1, 2,2, 2.4,
+variables LP models by the solution, selected LP applications, 7.1)
+
+5 )
+
+(2.
+graphical solution procedure. convex set.
+LP model in equation form, transition T1 (3.1, 3.2
+from graphical to algebraic solution.
+
+To obtain an understanding of
+why and how the simplex The Simplex method, generalized 6-8 T1 (3.3, 7.1.1,
+calculations are made and know _ | Simplex tableau in matrix form, Revised 7.1.2, 7.2.1
+how to recognize the special Simplex method. 7.2.2)
+situations. wpe , , ,
+Artificial starting solution, special cases 9-11 T1 (3.4, 3.5)
+in the simplex method.
+
+To understand the concept of Definition of dual problem, duality, 12-13
+duality, how to read and interpret | primal-dual relationships.
+the solution of dual problem and
+relate the dual solution to the
+primal solution and to explain
+how post optimal analysis can be
+used by a decision maker. Post optimal analysis.
+
+To formulate transportation and Definition of transportation problem, the
+
+assignment problems as LPP and | transportation algorithm.
+how to solve these problems. The assicnment model.
+
+Economic interpretation of duality,
+additional Simplex algorithms (Dual
+Simplex and Generalized Simplex).
+
+T1 (5.1, 5.3)
+
+T1 (5.4)
+
+  
+
+To understand multiples Goal programming formulation. 19
+
+objectives optimization and how | Goal] Programming algorithms: the
+
+to solve multi objective weights method and the preemptive
+optimization.
+
+ 
+
+method.
+
+ 
+
+To understand the integer Formulation of IP problems, B&B and - T1 (9.1, 9.2)
+
+programming (IP) problem and Cutting-plane method for solving IP
+
+its efficacy. problems.
+Unconstrained problems, convex and 23-24 T1 (20.1,
+concave functions. Appendix D.4)
+Unconstrained algorithms: Direct-search 25-26 T1 (21.1)
+
+, , and gradient methods.
+To solve nonlinear programming
+
+problems. Constrained problems. 27-28 T1 (20.2)
+Constrained algorithms: quadratic 29-30 T1 (21.2.2,
+programming. Appendix D.3)
+Genetic algorithm. 31-32
+4, Evaluation Scheme:
+
+Weightage
+
+Component Duration Marks (% ) Date & Time Remarks
+Mid-semester 1.5 hours 105 35 OB
+Evaluative
+tutorials (best 3 Common hour 60 20 OB
+out of 4)
+
+Comprehensive 2 hours 155 A5 OB
+
+OB — Open Book
+3. Make-Up Policy: Only genuine cases will be entertained (Prior permission will be needed for
+
+make up, usually make-up will be held within a week after the regular test). No make-up will be
+given for evaluative tutorials. Best three evaluative tutorials out of four will be considered.
+
+6. Problems: Students are strongly advised to work out all the problems in the text-book and do
+similar problems from the reference books. It is also strongly recommended that the students
+should try out the algorithms on computers to get a better understanding of the subject.
+
+7. Chamber Consultation Hours: To be announced in the class by the respective Instructors.
+
+8. Notice: All notices regarding the course will be put up on NALANDA only.
+9. NC will be given to students obtaining overall marks less than 15% of the total (less than
+45 out of 300).
+
+INSTRUCTOR-IN-CHARGE
+(ME F344/MF F344)
+

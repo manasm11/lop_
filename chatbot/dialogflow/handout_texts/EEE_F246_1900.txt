@@ -1,0 +1,123 @@
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F246
+
+Course Title : Electrical and Electronic Circuits Laboratory
+Instructor-in-C harge : Sujan Y enuganti
+
+Instructor(s) : Tulsi Ram Sharma
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Experiments in Electrical sciences, Electronic devices, motors, transformer windings,
+machine windings, electronic circuits and signals, systems etc.
+
+2. Scope and Objective of the Course: A thorough understanding of the elementary principles of Electrical
+and Electronics circuits and Signals and response of Systems to signals is fundamental to Electrical, Electronic
+and Instrumentation Engineers. This Laboratory course gives hands-on experience to the theoretical concepts
+covered in the theory course.
+
+3. Text Books:
+R1: Fundamentals of Electrical Engineering by Leonard S. Bobrow
+
+R2:Laboratory Experiments manual of Electric and Electronic Circuits Lab
+4, Reference Books: Nil
+
+5. Course Plan:
+
+Introduction to electronics laboratory: (a) The students should be able to
+Passive and active components (hb) identify various electronic
+Measurement equipment components and can get hands on
+various basic measurement
+equipment
+
+2 Applications of diode
+Understand the role of diodes in
+various practical applications
+
+Design of DC power supply The students will be able to
+design and develop DC power
+supply circuits for various
+applications
+(a) Venfication of Kirchhoff's laws The students will be able to
+
+a
+
+(b) Verification of Superposition theorem implement and verify all the
+
+(c) Verification of Thevenin's theorem theroems in practical which will
+give them a better understanding
+
+ 
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+(a) Verification of Norton’s theorem The students will be able to
+
+(b) Verification of Maximum power transfer implement and verify all the
+
+theorem theroems in practical which will
+give them a better understanding
+
+Determination of sensitivity of LVDT R2
+Understand how an LVDT works
+and how this transducer can be
+integrated to develop various
+Sensors.
+
+7 Measurement of electrical variables in single R2 The students will be able to
+phase circuits measure electrical variables in
+single phase circuits practicall
+
+Speed control of DC motor using PWM R2
+
+method Understand how a DC motor can
+be controlled using the PWM
+method and_ its practical
+applications.
+
+6. Evaluation Scheme:
+(% ) (Close Book/ Open Book)
+ae | oe
+report
+eo [eee cena
+Quiz)
+
+ 
+
+TBA
+Lab Project & | TBA Open Book
+presentation
+Comprehensive 30% TBA
+exam(Lab viva)
+
+7. Chamber Consultation Hour: Chamber consultation hours of Instructors will be announced separately.
+
+ 
+
+8. Notices: All notices of this course will be displayed in Nalanda.
+
+9, Make-up Policy:
+
+10. Note (if any): Lab Make-up will be granted for genuine reasons; only when prior-permission is obtained
+from Instructor-in-charge.
+
+Instructor-in-charge
+Course No. EEE F246
+

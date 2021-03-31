@@ -1,0 +1,206 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020 — 2021
+
+Course Handout part II
+Date : 17th January 2021
+
+In addition to part — I (General Handout for all courses appended to the timetable), this portion gives
+further specific details regarding the course.
+
+Course No. : ME F433
+
+Course title : SOLAR THERMAL PROCESS ENGINEERING
+Instructor-in-Charge: Dr. Manoj Kumar Soni
+
+Scope and Objectives:
+
+Renewable energy sources have lately acquired a prominent place in energy policy decisions of
+countries all over the world. Sun is an inexhaustible source of clean energy which can be converted
+into useful heat and electrical energy in solar thermal and photovoltaic systems. Solar Thermal
+Processes play important role in these systems.
+
+This course aims at enabling students to explore opportunities for research & development in the
+challenging area of solar thermal systems for various applications, by gaining exposure to the
+principle of their operation, construction, manufacturing technologies, system and components
+design & sizing, and analysis of techno-economic performance of the systems. The course offers
+ample opportunities for planning self-study, application of knowledge gained to practical situations,
+and honing skills required for undertaking independent study and research. Students are
+encouraged to engage with authentic web-resources of Government (MNRE) and other leading R &
+D Institutions for consolidating individual understanding.
+
+Text Book:
+1. “Solar Energy: Fundamentals, Fundamentals & Applications”, H.P. Garg, J. Prakash, First
+Revised Edition, Tata McGraw Hill., (2000).
+
+Reference Books:
+
+1. “Solar Engineering of Thermal Processes”, John A. Duffie, William A. Beckman, Third
+edition, John Wiley & Sons, (2006)
+
+2. Concentrating Solar Power Technology: Principles, Developments and Applications edited
+by K Lovegrove, W Stein, Woodhead Publishing, 2012
+
+3. MNRE publications and research papers (will be shared during class)
+
+ 
+
+innovate
+
+ 
+
+A Save Paper.
+Ze Save Trees.
+f= ‘Save the World.
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+M Reference Learning outcomes
+No.
+1 Class Notes Introduction: World and India solar energy
+resources. Brief overview of solar thermal systems.
+2
+3
+5
+6
+
+ 
+
+TB Chapter 1 Solar Radiation and Solar Collectors:
+
+Ri Chapter 1, 2.1- | Extraterrestrial solar spectrum. Beam, diffuse and
+
+2.16 global solar radiation. Calculation of total solar
+radiation incident on a tilted collector surface. Solar
+collector types — non-concentrating and focusing
+collectors.
+
+TB Appendix Heat Transfer in Solar System Components : Heat
+(Heat Transfer) transfer modes: conduction, convection, thermal
+radiation. Conduction in plane and _ cylindrical
+walls: temperature distribution and heat transfer
+rate. Convection: natural and forced. Heat transfer
+coefficient and heat transfer rate for laminar and
+turbulent flow of fluid. Overall heat loss coefficient
+of a solar collector.
+TB Appendix Thermal Radiation: Black and grey bodies.
+(Heat Transfer) Thermal radiation laws _ (Planck’s,  StefanR1 Chapter 3.1- Boltzmann and_ Kirchhoff's laws). Optical
+3.7, 3.10, 4.1-4.4, properties of solid surfaces: absorptivity,
+4.7-4.10 reflectivity, transmissivity and emissivity. Energy
+exchange by radiation between two grey surfaces
+with simple geometry: two parallel planes, convex
+body and enclosure.
+TB Chapter 2.1- Non-Concentrating Solar Collectors: Flat plate and
+2.6, 3.8-3.12 evacuated glass tube collector: thermal analysis,
+R1 Chapter 6.1- performance (collector heat output rate and
+6.4, 6.11-6.12,6.16, | efficiency). Collector types used for heating water
+6.17, 6.23, 6.24 and air. Design calculation (examples).
+TB Chapter 3.1- Concentrating Solar Collectors: Concentrating
+3.10 collector types: line and point focus concentrators
+R1 Chapter 7.1, with receivers. Thermal analysis of parabolic
+7.2, 7.12, 7.16 trough concentrator.
+Performance and efficiency of concentrating
+collectors. Tracking mechanisms. Applications:
+
+ 
+
+solar process heat and power generation systems.
+
+ 
+
+innovate
+
+ 
+
+Save Paper.
+< ale Trees.
+> “Save the World.
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+Module | Lecture Reference Learning outcomes
+No. Session
+
+7 26-32 TB Chapter 16.1- | Thermal Energy Storage: Sensible and latent heat
+16.5 storage systems. Storage media: liquid and solid;
+R1 Chapter 8.1- phase-change materials (PCM). Storage capacity,
+8.10 rates of storage charging and discharging, storage
+operation cycle.
+
+33-40 TB Chapter Solar Thermal Systems: Solar water and space
+
+ 
+
+4,8,9,10,12,14 heating and cooling (active and passive) systems:
+
+R1 Chapter 12-17 | types, components, load calculation, solar fraction,
+fossil-fuel back up, system heat output, collector
+and storage sizing. Solar drying and sea (brackish)
+water distillation. Solar thermal power generation:
+solar energy to power conversion cycles,
+concentrator types, system useful power output,
+fossil-fuel back-up, heat storage. System design
+calculations (examples). Solar thermal system
+economics.
+
+9 | 41-42 pf Review session
+
+Evaluation Scheme:
+Existing:
+
+Evaluation Duration Weightage | Date & Time Rem.
+Component
+
+pProject | 8% | Take Home
+
+evaluation
+MidSemTest* |90Min [25% | id Ontine
+
+e All the notices related to this course will be put up Nalanda only.
+
+e Chamber consultation hours: Discussed in the class
+
+e Make-up will be granted for genuine cases only. Certificate from authenticated doctor from the
+Medical Center must accompany make-up application (only prescription or vouchers for medicines
+will not be sufficient). Prior permission of IC is compulsory.
+
+ 
+
+ 
+
+Instructor-in-Charge
+ME F433
+
+ 
+
+— Trees.
+~$Save the World. innovate
+
+Please Do Not Print Unless Necessary
+
+A Save Paper. Pe
+
+ 
+

@@ -1,0 +1,170 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F243
+
+Course Title : Soil Mechanics
+
+Instructor-in-C harge : NISHANT ROY
+
+Lecture Instructor : Nishant Roy
+
+Tutorial Instructors : Nishant Roy, Anuj Adhikary
+
+Practical Instructors : Nishant Roy, Kamalesh Kumar, Ankit Singh Mehra, Raghavendra K
+
+Raya, Anuj Adhikary, Danish Fayaz
+
+1. Course Description: Soil Formation and Composition, Index Properties, Soil Classification, Soil Structure,
+Compaction, Effective Stress, Permeability, Seepage, Stress due to Applied Load, Consolidation, Shear
+Strength, Settlement A nalysis, Soil Exploration, Important Case Histories, Software for Geotechnical Analysis
+
+2. Scope and Objective of the Course: Soil Mechanics deals with the study of soil as foundation/construction
+material, its behavior and engineering properties under stresses. The present course is intended to cover the most
+essential aspects of soil as an engineering material. The fundamental concepts in soil mechanics will be presented
+and their application to the analysis and design of various geotechnical structures will be highlighted.
+
+On successful completion of the course, the student will be able to:
+
+e Develop a fundamental understanding of the behavior of the soil
+
+e Understand the procedure for the characterization of soil
+
+e Appreciate the importance of effective stress principle and its application for the stability assessment of
+Geotechnical Structures
+
+e Appreciate the role of compaction in earthwork for highways, railways, airports and other retaining
+
+structures
+
+Assess the rate of flow of water through soil and its implication on the stability of the infrastructure
+
+Assess the magnitude and the rate of consolidation settlement
+
+Compute the shear strength of soil
+
+Develop the skill-sets required to take up further study in Geotechnical Engineering
+
+3. Text Books:
+
+T1. Muni Budhu. “Soil Mechanics and Foundation’, Third Edition, Wiley India, 2016.
+
+T2. Gopal Ranjan, and A. S. R. Rao. “Basic and Applied Soil Mechanics”, New Age International Publishers,
+3rd Edition, 2016.
+
+4, Reference Books:
+R1. J.A. Knappett and R.F. Craig. “Craig’s Soil Mechanics”, CRC Press, 8th Edition, 2012.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Lecture General idea of the course
+
+. Geological origin and soil
+I; Soil F —__— Formation and Types of Soil, Soil Distribution T1,T2 formation, soil deposits of
+and C omposition in India India
+
+Constituents of Soil, Three Phase and Two Phase diagram and index
+: Phase System, Grain Size Distribution, Coarse properties of soils, Different
+am Soll Grained and Fine Grained Soil, Influence of TL, Ta, EPL soil classification systems
+Classification ; .
+Water on Soil Behavior
+
+mineral and behavior of soil
+Importance of Soil Compaction, Proctor Laboratory and field
+IV: Compaction Compaction, Field Compaction, Quality T1, T2, PPT compaction
+Control Tests
+Effective Stress Principle, Total Stress, Pore Effective stress principle, total
+Darcy’s law, permeability of
+VI: Permeability and Darcy’s law, Permeability Tests, Seepage, T1.T2. PPT soil and its measurement,
+
+Seepage Flow Net Analysis, Quick Condition aa" Seepage forces, flow net, and
+filter design
+
+VII: Stress due to Boussinesq equations,
+er Stress Distribution due to A pplied Load T1, T2, PPT Newmark chart, and
+Applied Load : ;
+Westergaard’s equation
+
+Components of total
+settlement, compressibility,
+Terzaghi theory of
+consolidation, consolidation
+test, settlement computation,
+Components of settlement,
+immediate settlement,
+secondary consolidation
+settlement, vertical sand
+drains
+Stress at a point, coulomb
+equation of shear strength,
+Shear Stress, Drained and Undrained Shear T1. 12. PPT shear strength measurement,
+Strength, Mohr-Coulomb, Laboratory Tests a" shear strength of clays and
+sands, p-q diagram, pore
+pressure parameters
+
+Open excavation, boring,
+X: Soil Exploration Soil Investigations and Reports T1,T2 subsurface sounding,
+geophysical methods
+
+II: Index Properties
+
+VIII: Consolidation One-dimensional consolidation, settlement,
+and Settlement rate of consolidation, laboratory and field T1, T2, PPT
+Analysis consolidation, Vertical drains
+
+IX: Shear Strength
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester Test <TEST 1> | OpenBook —_—si
+
+C omprehensive ee <TEST C> Open Book
+xamination
+
+| Tutorials Open Book
+
+(Quiz)
+
+ 
+
+7. Chamber C onsultation Hour: Saturday (10-11 am)
+
+8. Notices: Notices, if any, will be communicated by e-mail.
+
+9, Make-up Policy: Genuine cases will be considered provided it is intimidated before the examination.
+10. Note (if any):
+
+Instructor-in-charge
+Course No. CE F243
+

@@ -1,0 +1,281 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No. : PHA F244
+
+Course Title : Physical Pharmacy
+Instructor-in-C harge : ANUPAMA MITTAL
+Instructor(s) : None
+
+Practical Instructors: Sudeep Phukale, Arihant K Singh, Moumita Basak, and Nikita Hinge
+
+1. Course Description: The course describes the relevance of various physiological, physico-chemical and
+biopharmaceutical properties of drug with respect to drug absorption, dosage form design, pre-formulation
+studies and therapeutic efficacy. It also discusses the various underlying principles involved in designing of
+particular dosage form.
+
+2. Scope and Objective of the Course: This course deals with the applications of physiochemical principles
+like solubility, pKa, crystal structure, polymorphism etc. to formulation and stability of the API in different
+drug delivery systems. It also includes discussion on the surface properties, kinetics and rheology.
+
+3. Text Books: Patrick J Sinko and Yashveer Singh. "Martin’s Physical Pharmacy and Pharmaceutical
+Sciences". Lippincott Williams & Wilkins, 6" Edition, 2009.
+
+4, Reference Books:
+
+(i) David B. Troy and Paul Beringer, " Remington: The Science and Practice of Pharmacy, Lippincott
+Williams and Wilkins; 21 Edition, 2005.
+
+(ii) Liberman, H and Lachmnan, L, Theory and Practice of Industrial Pharmacy". CBS; 4“ Edition, 2013.
+
+(iii) Liberman, H and Lachman, L, "Pharmaceutical dosage forms": Tablets V ol.2, Marcel Dekker, New Y ork,
+1980.
+
+(iv) Liberman, H and Lachman, L, "Pharmaceutical dosage forms": Disperse systems Vol.1, Marcel
+Dekker, New Y ork, 1987.
+
+5. Course Plan:
+
+No./T opics Chap/Sec
+Physical Pharmacy | Introduction and A pplication. properties in dosage form designing
+
+Preformulation studies, Understanding of each of the
+2-6. Polymorphs, Molecular optimization, pKa mentioned properties in depth, their
+solubility, pH, determination, Crystallinity and | Ref (ii) determination and their role in
+
+pKa, Log P etc. polymorphism, hygroscopicity, designing the dosage form fora
+partition coefficient. particular A PI.
+
+Powder characterization Measurement of particle size and size
+7-10. Micrometrics | (Particle size, measurement & | 2(a) ch 16 distribution, significance of density,
+analysis), Types of powder porosity and flow of powders in
+
+1
+
+ 
+ 
+
+11-15. Rheology Introduction
+
+16-18.
+Determination of
+Surface tension
+
+19-21. Adsorption
+at interfaces
+
+21-24 Diffusion &
+Dissolution
+
+25-28 Kinetics
+
+29. Stability testing
+
+30-32 Colloids
+
+33-34. Suspensions
+
+35. Emulsions
+
+densities and quantitative
+estimation, flow properties of
+powders.
+
+Concept of viscosity,
+Newtonian and NonNewtonian systems,
+Thixotropy, Rheopexy,
+Temperature dependence of
+viscosity, single-point and
+multi-point viscometers and
+viscoelasticity, application of
+viscosity in delivery systems.
+
+Surface and interfacial tension,
+surface energy, determination
+of surface tension
+
+Adsorption isotherms, types of
+adsorption, surface-active
+agents and classification,
+Hydrophilic-hydrophobic
+balance (HLB), Electrical
+properties at interface.
+
+Principles of diffusion &
+dissolution, different
+dissolution apparatuses,
+Mathematical models &
+applications to drug release
+
+Order of reactions & its
+determination & factors
+affecting the order of reaction
+
+Different types of stability
+testing and recommended
+conditions for stable
+formulations
+
+Types and applications of
+colloids in pharmacy &
+molecular weight determination
+Evaluation of physical stability,
+electrical properties and
+formulation of suspensions
+Types, properties, evaluation of
+stability and formulation of
+emulsions.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+dosage form designing and
+packaging.
+
+Significance of rheological behavior
+in dosage form designing,
+measurement of viscosity for both
+Newtonian and Non-Newtonian
+systems. Selection of appropriate
+viscometer for a given fluid.
+
+Significance of surface tension in
+dosage form designing and
+knowledge of various methods for
+determining surface tension
+
+Applications of adsorption at
+solid/liquid interfaces in pharmacy,
+how to reduce surface tension if
+required and selection of proper
+surfactant for a given application.
+
+Significance of diffusion &
+dissolution in release of drug from
+the dosage form, selection of
+dissolution apparatus depending upon
+the type of dosage form, modeling of
+release kinetics.
+
+Projecting shelf life of an API and
+how to control factors responsible for
+degradation of formulations during
+storage.
+
+Significance of different types of
+Stability testing in dosage form.
+
+Properties of colloids and their
+importance and their applications in
+pharmacy
+
+Application of the above discussed
+physicochemical properties in
+formulation of suspensions.
+Application of the above discussed
+physicochemical properties in
+formulation of emulsions.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+36-38. Classification of complexes (a) ch 11 Applications of complexes in dosage
+Complexation and method of analysis form designing
+
+6. Evaluation Scheme:
+
+0
+
+Multiple Quizzes will
+Assignment/Surprise , be conducted and
+Quiz #Seminar Is During the lecture hours average will be taken
+for final total
+
+ 
+
+ 
+
+Comprehensive Exam 12/05/19 CB/OB or both
+
+Laboratory attendance
+Tuesday (H1-2)/ .
+Laboratory component 2h/week 29 is must and no makeThursday (H10-11) . ;
+up will be given
+
+‘Students are strongly advised to prepare their own notes based on class lectures and relevant information from textbook
+and reference material, as only these notes would only be allowed for consultation during assessments of open book
+evaluation components. Photocopies of any material, written or printed will not be permitted. Stapled sheets , loose
+sheets of information written or printed will not be allowed.
+
+ 
+
+*Slides used during class hours provide key information for which additional supportive information is expected to be
+collected from sources aforementioned. Recent developments in the area/topic will be discussed in class based on their
+significance to healthcare delivery and hence some information on therapeutic benefits and toxicity effects, besides
+others, may differ from the information in text, reference material and hence students are expected to take note of such
+key discussions during contact hours. Such discussions held in class will be considered as primary source of information
+in assessments.
+
+* Quiz(zes) may/will be conducted as a part of evaluation component, at random, during contact hours including lecture,
+tutorial hours, as convenient, with/without prior intimation and sometimes outside class contact hours ( for both theory
+and practical) and hence it is expected that the students come prepared to every class on topics covered in earlier contact
+hours. Regular classes will be held in designated tutorial hour to maintain continuity.
+
+7, Mid-Sem. Grading would be done once at least 30-40 % evaluation components are completed.
+
+8. All evaluation components are equally important, irrespective of weightage. Hence, students failing to
+attend scheduled classes, or absenting themselves in one or many of the evaluation components, may
+become ineligible for obtaining a_ valid grade at the end of the semester. Attendance in lectures, tutorials
+and practicals are all equally important as they are all integral components of learning, irrespective of
+weightage and may be taken into consideration, during grading.
+
+Hence, students are strongly advised to keep away from absenting themselves from all
+aforementioned contact sessions. Clearing the course would require adequate performance in
+written quizzes**, tests**, examinations**, and in practical (laboratory) components, separately (
+i.e. procuring low marks in evaluation components, aforementioned**, other than laboratory
+practicals, would not suffice, to clear the course).
+
+3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+9, Any other adaptive changes in the handout, will be announced in class, if any.
+
+10. Reading Assignments: Students are advised to read, collect additional information on the above
+mentioned topics as per given schedule.
+
+11. Chamber consultation hours: Wednesday 03:00-04:00 pm.
+12. Notices: Notices concerning the course will be displayed on NALANDA only.
+
+13. Make-Ups: Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS OF
+THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In
+such circumstances, prior permission should be obtained from the Instructor-in-Charge. In no case the
+
+make-up letter be slipped inside the chamber of the Instructor-In-Charge. The decision of the Instructorin-Charge will be final.
+
+Instructor-in-charge
+PHA F244
+

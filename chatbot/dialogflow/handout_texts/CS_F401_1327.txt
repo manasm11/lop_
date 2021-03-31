@@ -1,0 +1,161 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CS F401
+
+Course Title : Multimedia Computing
+Instructor-in-C harge : MUKESH KUMAR ROHIL
+Instructor(s) : None
+
+Tutorial/Practical Instructors: None
+
+1. Course Description: Introduction to multimedia; media & data streams; text, graphics, image, color-science, audio,
+animation, video and other media types, graphics, image, video & audio file formats; image & video processing, synthesis of
+sound signal; text, graphics, and image coding & compression, video & audio codecs, media integration, access to multimedia,
+spoken language interface; algorithm vs. architecture based approaches, storage technologies multimedia documents,
+multimedia user interfaces, multimedia databases, multimedia communication systems, multimedia synchronization,
+multimedia operating systems, multimedia applications architecture and future directions.
+
+2. Scope and Obj ective of the C ourse: The aim of this course is to introduce the concepts of multimedia computing
+techniques as used for various data streams, multimedia networks, operating systems and architecture. Emphasis will be given
+to theoretical, algorithmic and advanced architectural aspects of multimedia system design. After successful completion of the
+course students should be able to apply the concepts and techniques to various problem domains concerned with multimedia
+based applications and solutions.
+
+3. Text Books:
+T1: Ze-Nian Li & Mark S. Drew, "Fundamentals of Multimedia", Pearson Education, 2004
+
+T2: Steinmetz R & Nahrstedt K, “Multimedia: Computing, Communication & Applic ations”, Pearson Education, 2001
+
+4, Reference Books:
+
+R1. Rao KR & Hwang JJ, “Techniques & Standards for Image, Video & Audio Coding”, PH-PTR ,95
+R2. Jeffcoate J, “Multimedia in Practice — Technology & Applications”, PHI, (Indian Reprint 1998)
+R3. Fred Halsall, “Multimedia Communications”, Pearson Education, Indian Print, 2001
+
+5. Course Plan:
+
+Module Lecture Reference Learning outcomes
+No. Sessions
+oo Multimedia: Definitions, Applications, Multimedia
+
+01
+02
+03
+O5
+
+: »6 Audio: Fundamentals of Audio & Speech Processing
+:3 and coding
+
+Tools
+Media and Streams, Multimedia System Architecture
+
+Image: Representation, Formats & Processing
+
+Bl W) NI) Fr F&F
+
+An introduction to Color Science, Color Models in
+images & video
+
+Fundamental Concepts in Video
+
+ 
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage
+
+(%o )
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+ 
+
+Reference Learning outcomes
+T2: 6.1, 6.2, Need for compression in multimedia, A classification of
+T1: 10, 11,
+:
+Tae + Class Notes
+T2: 9.1, 9.2,
+Multimedia Operating Systems: Process Management
+Class Notes
+T2: 9.5, 9.7 Multimedia Operating Systems: File System & Disk
+T2: 11.1, Multimedia communication systems: Application,
+11.2, 11.3, Transport subsystems, QoS, Resource
+11.4 Management & the trends
+T2: 12.1, Multimedia Database Management Systems(MDBMS):
+12.2, 12.3, Characteristics, Data Analysis, Data Structure &
+12.4 Operations
+Synchronization: Notion of synchronization,
+Presentation Requirements, Reference Model
+& Specification
+
+Date & Time
+
+Nature of component
+(Close Book/ Open Book)
+
+As per AUGSD Notice
+
+Comprehensive
+Examination
+
+Quiz
+
+=
+
+<TEST C>
+Tuesday, May 11, 2021
+(EN)
+Wednesday, Feb 17, 2021
+02:00 PM to 02:25 PM
+
+Open Book
+Open Book
+
+ 
+
+Project/A ssignment 15 days 15% Details will be displayed Open Book and Take
+later home
+
+7. Chamber Consultation Hour: W-8 (03:00 PM — 03:50 PM), Via Google Meet.
+2
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+8. Notices: will be displayed on the course web-page hosted on Nalanda server (On-campus LMS).
+
+9, Make-up Policy: Make-up may be granted only in genuine cases if student has given prior information of his/her
+reason of absence from the regular examination/test.
+
+10. Note (if any): If the marks- histogram emerges as not skewed, then a student getting marks, say marks m
+out of maximum marks, MM, such that (MM*m/Acut) < 15*(MM/100), where Acut is the cutoff
+(recommended as per the histogram) for A grade, may be recommended to be reported an NC.
+
+Instructor-in-charge
+Course No. CS F401
+

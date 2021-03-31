@@ -1,0 +1,184 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT
+Date: 16.01.2021
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F419
+Course Title : CHEMICAL PROCESS TECHNOLOGY
+Instructor-in-C harge : SMITA RAGHUVANSHI
+
+1. Course Description:
+
+Process synthesis concepts for flow sheet generation - Unit operations and unit processes, General principles
+applied in studying a chemical industry; Chemical processes based on agricultural and raw materials - sugar,
+starch, alcohol, cellulose, etc; Selected technologies for chemicals from inorganic chemical industry covering
+contact process, fertilizer, chloral alkali, cement and lime; Natural product industry covering manufacture of
+oils, soaps, detergents, paper and pulp, Coal and various coal-chemicals, Petroleum and petrochemical
+products, Raw materials and principles involved in the production of olefins and aromatics, Acetylene,
+Butadiene and typical intermediates from olefins and aromatics such as ethylene glycol, ethyl benzene, phenol,
+cumene and DMT/PTA, Dyes and pharmaceuticals.
+
+2. Scope and Objective of the C ourse:
+
+The aim of the course is to bring alive the concepts forming the basis of the Chemical Process Industry and to
+give a solid background for innovative processes. The main focus would be on the raw materials, development
+of flow sheets, synthesis and detailed analysis of the processes. The course begins with the coverage of refinery
+based operations, followed by steam reforming process and syn gas production based processes. The course also
+introduces various development in homogeneous & heterogeneous catalyst based processes. The portion covers
+process intensification & other process development. The course also deals with few traditional processes such
+as sulphuric acid production, nitric acid production and various other processes. It enables the students to
+integrate the fundamental knowledge learnt in other courses and apply the same in various application based
+processes. It helps them to apply this knowledge and understanding in the industrial processes.
+
+3. Text Books:
+TB: "Moulijn A J., Makkee, M., Diepen, A V., "Chemical Process Technology, 2nd Edition" Wiley, 2013.
+
+4, Reference Books:
+
+R1: Rao M G., Sittig M., "Dryden’s Outlines of Chemical Technology for the 21st Century", East W est Press,
+3rd Ed., 1997.
+
+R2: Austin G T., Shreve R.N., "Shreve’s Chemical Process Industries", McGraw Hill, 5th Ed., 1984.
+
+R3: Research Papers from Refereed Journals / Resources- Chemical Engg World, Chemical Industry Digest,
+Chemical Weekly, etc.
+
+R4:; Dynamic addition of reference material will be shared.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module Lecture session Reference Learning Outcomes
+Number
+
+1. Overview of L1.1 -1.2 To understand about chemical
+the course; Introduction to the course, Chemical | Chi & Ch2T1 | industry and a detailed
+A bout chemical Industries, Structure of chemical understanding of various
+industry & Oil industry, Raw materials used processes
+sector development resources
+13 lectures L1.4 — 1.6 Oil refinery-an overview, Ch3- T1
+Physical and Thermal Processes,
+
+Catalytic Processes, Treatment of
+refinery gas streams
+
+L1.7 — 1.10 Cracking reactions, Ch4-T1
+Kinetics involved, Industrial Process,
+Product Processino
+
+L1.11 — 1.13 Production of Syn gas,
+coal gasification, purification and
+adjustment of synthesis
+2. Sulphuric | L 2.1 —2.3 Chamber process, Contact | ChIIA - R1, To understand the
+acid process | process, Modern sulphuric acid Ch7-T1 chronological development in
+3 lectures production Plant, Catalyst deactivation the sulfuric acid production
+(Inorganic bulk chemicals)
+3. Ammonia L3.1-L3.3 Ammonia oxidation Chil E- R1, To understand the
+process processes: Mono Pressure and Mixed Ch7-T1 chronological development in
+3 lectures pressure processes the Nitric acid production
+ganic bulk chemicals)
+
+ 
+
+ 
+   
+ 
+
+4, Methanol L4.1-4.2 Methanol production process | Ch6- T1 To understand the production
+of bulk chemicals and
+synthetic fuels derived from
+
+production
+process
+2 lectures
+5. Catalysts | L5.1—5.3 To understand the concept To understand about
+based processes of homogeneous catalysis Chi10-T1 homogeneous and
+5 lectures L 5.4 —5.5 To understand the concept heterogeneous catalysts system
+of heterogeneous catalysis
+
+6. Catalytic L6.1 — 6.2 Introduction, Micro Ch14-T1 To understand the concept of
+reactors reactors, Structured catalytic reactors intensification of process
+2 lectures
+7. L7.1 — 7.3 Conversion process, Ch13-T1 To understand the
+Biotechnology fermentation technologies, enzyme biotechnology processes
+based processes technolog}
+
+fuels for conversion of biomass
+8. Pulp & paper L 8.1 — 8.2 Kraft Process, sulfite Chill F, R1 To understand the pulp and
+making process | Process, Mechanical Pulping; Paper paper production processes
+
+ 
+
+ 
+
+2 lectures making, Production of lignin
+chemicals
+
+  
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+10. Cement L 10.1 Dry and wet cement Chilk, T1 To understand the cement
+process manufacturing processes manufacturing processes
+1 lecture
+11. Scaled up L 11.1-11.2 Introduction, Pilot Chi5-T1 To finally conclude with
+process plants/mini plants, scale up concepts overall process development
+2 lectures
+
+6. Evaluation Scheme:
+
+ 
+
+ 
+
+Component Duration | Weightage Date & Time Nature of component |
+(% ) (Close Book/ Open
+Book)
+
+Mid- Semester Test <TEST 1> OB
+
+Comprehensive 3h 40 <TEST C> OB
+Examination
+
+Surprise quiz (Best 4 15 min During lecture hour (3 OB
+out of 6) will be conducted
+before mid-sem and 3
+will be snectee after
+mid-sem)
+Seimae | leteu [mean |
+(Two Assignments ) 5% +5% ) one after mid sem
+
+7. Consultation Hour: Consultation hour will be decided while conducting the class.
+
+  
+
+8. Notices: All Notices would be put up on Google class room.
+
+9, Make-up Policy:
+Make-up will be granted for genuine cases only. Prior permission of IC is compulsory. No make up for class
+based quiz component and assignments; if any.
+
+10. Note (if any):
+e Students have to adhere to the class timings and participate in the class room discussion.
+
+Instructor-in-charge
+Course No. CHE F419
+

@@ -1,0 +1,182 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT
+
+ 
+
+Date: 11.03.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : DE G514
+
+Course Title : Fracture Mechanics
+Instructor-in-C harge : Dr. Sharad Shrivastava
+Instructor(s) : Dr. Sharad Shrivastava
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Types of failure, Types of fracture, Modes of fracture, Fracture criteria, Energy release rate,
+Stress intensity factor (SIF), Linear elastic fracture mechanics, environmentally assisted cracking (EAC), Weibill
+fracture statistics, Plane stress and plane strain, Elastic plastic analysis through J-integral, Crack tip opening
+displacement, R-curve, Test methods, Fatigue failure, Mixed mode crack initiation and growth, Crack detection
+through NDT.
+
+2. Scope and Objective of the Course:The conventional design is based on yield point. However, it has been
+found that often a structural component fails even when the worst loaded point is well within the yield stress. Thus
+the design, based entirely on avoiding yielding is not adequate for certain cases. Fracture mechanics is based on
+implicit assumption that there exists a crack in the structural component. The crack may be inside the material or at
+the subsurface.
+
+3. Text Books:Prashant Kumar, Elements of Fracture Mechanics, Tata McGraw-Hill Publishing Company Ltd., New
+Delhi, 2009.
+4, Reference Books:
+
+1. T. L. Anderson, Fracture Mechanics: Fundamentals and Applications, 3 Edition, CRC Press.
+2. E. E. Gdouto, Fracture Mechanics: An Introduction, 2"? Edition, Springer.
+
+3. D. Broek, Elementary Engineering Fracture Mechanics, 4“ Edition, Springer.
+
+5. Course Plan:
+
+Background Textbook/Refer | Kinds of failure and
+ence books/ history
+Lecture notes
+
+Energy release rate Textbook/Refer | Dilemma of Griffith,
+
+ence books/ Surface energy, Griffith’s
+Lecture notes
+
+realization
+
+Griffith’s analysis,
+Mathematical
+
+ 
+ 
+
+15-17
+18-20
+
+21-24
+
+Stress intensity factor (SIF).
+
+Environmentally Assisted Cracking (EAC)
+
+Plane stress and Plane strain
+
+Elastic plastic analysis
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Application of the
+principle of superposition,
+Crack in a plate of finite
+dimensions, Edge cracks,
+Embedded cracks, Case
+studies
+
+Critical stress intensity
+factor, Fracture toughness
+and design, Fracture
+morphology and Failure
+Analysis. Stress corrosion
+cracking (SCC), Stages of
+SCC, v-K diagram, Weibull
+analysis, Weakest link
+model
+
+Further investigation of
+effects on environment on
+crack growth, Small crack
+effect, Cracking
+morphology, Variable
+influencing EAC, Hydrogen
+embrittlement
+
+Definition of plane stress
+and plane strain,
+Conditions and
+requirements, Relation
+between G and Kin plane
+stress and plane strain
+conditions
+
+Relevance and scope, Path
+independence,
+
+Further discussion on JIntegral, Crack tip opening
+displacement (CTOD),
+Relationship between
+CTOD, K; and G, for small
+scale yielding, Equivalence
+between CTOD and J
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+EEE
+
+Fatigue failure Terminology, S-N curve,
+Crack initiation, Crack
+propagation
+Effect of an overload,
+Crack closure,
+
+Mixed mode crack initiation and growth Fracture surface, Mixed
+mode crack propagation
+
+ 
+
+ 
+
+criteria, Crack growth.
+
+Crack detection through NDT Radiography, Ultrasonics,
+acoustic emission,
+
+acousto-ultrasonics
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ O pen Book)
+MidSenesterTest | 90Min | 30. =[ SSCS CE
+ffamnaion | |
+Examination
+
+0
+
+0
+—
+
+Assignments/Projects Pf UB
+
+7. Chamber C onsultation Hour:To be announced in the class.
+
+ 
+
+8. Notices: All notices concerning the course will be displayed on the mechanical engineering department notice
+
+board and online on nalanda.
+
+9, Make-up Policy: Make-up will be permitted only in genuine cases with prior permission. No make-up for class
+room assignments/quizzes.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. DE G514
+

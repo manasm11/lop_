@@ -1,0 +1,263 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2018-2019
+COURSE HANDOUT
+Date: 16-01-2021
+
+In addition to part I (General handout for all courses appended to the timetable) this portion gives
+further details regarding the course.
+
+Course No. : CHEM F336
+Course Title : Nanochemistry
+Instructor-in-charge : INAMUR RAHAMAN LASKAR
+
+1. Course Description: Introduction, importance of nanoscience, chemistry behind nano;
+Instruments to be used for characterizing nanomaterials; Diversity in nanosystems: chemical aspects
+of metallic, semiconducting nanomaterials, nanocomposites, carbon nanotubes and fullerenes, selfassembled monolayers, monolayer protected metal nanomaterials, core-shell nanomaterials;
+Applications of nanomaterials in nanobiology, nanosensors and nanomedicines, hands on
+experience in laboratory.
+
+2. Course Objectives: This is an elective course for chemistry discipline. Throughout the
+semester we will discuss the properties of nanomaterials and its dependence on shape, size,
+and functional groups, which enable us to employ nanomaterials for device applications.
+Applications are limited in the fields of biology, sensors, medicine, and machines.
+However, in this course we will try to address the most important concepts and applications of
+Nanochemistry in recent research.
+
+By the end of the semester, you will be able to:
+- Learn the importance and properties of nanomaterials
+- Gain the idea of synthesis and characterization of nanomaterials
+- Study semiconductor nanoparticles and nanocomposite materials
+- Investigate different nano systems, carbon nanotube, fullerenes etc.
+- Learn various application of nanomaterials in catalysis, biological, and device application
+- Learning of laboratory techniques of central importance to explore the idea of nanosystem
+e Synthesis of mono- and bimetallic nanoparticles
+e Synthesis of magnetic (Fe304) nanoparticle
+e Role of a stabilizer during the synthesis of nanoparticle
+
+3. TextBook: T. Pradeep, Nano: The Essentials, Understanding Nanoscience and
+Nanotechnology, Tata McGraw-Hill Publishing Company Limited, New Delhi, 2007.
+
+4, Reference Book: (1) T. Pradeep, A Textbook of Nanoscience and Nanotechnology, Tata
+McGraw-Hill Publishing Company Limited, New Delhi, 2012.
+
+(2) G. Cao and Y. Wang, Nanostructures and Nanomaterials: Synthesis, Properties, and
+
+Save Paper.
+gy. Save Trees.
+>= Save the World. Es ee
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Applications, 2nd edition, World Scientific Series in Nanoscience and Nanotechnology, Vol 2, 2011
+(3) C. P. Poole Jr. and F. J. Owens, Introduction to Nanotechnology, Wiley Int. science 2003.
+(4) Nanomaterials, B. Viswanathan Narosa Publishing House, New Delhi
+
+9. Course plan:
+
+Mod Lecture Session Topics to be covered Learning Refere
+ve outcomes
+
+Introduction Nano the beginning, concept, e Why nano? RI and
+importance
+
+e Historical
+
+landmark in (Will
+
+nanoscience and be
+
+nanotechnology annou
+nced
+in the
+class)
+
+Metal nanoparticles: Syntheses, properties of monolayer |e Different T1 and
+syntheses, and polymer capped metal methods to make Rl
+characterization, and_ | nanoparticles, Mie theory, nanomaterials
+properties controlling the size and (Will
+composition of the metallic cores of | ® Principle be
+nanoparticles, Anisotropic metal properties to annou
+nanoparticle, Nanostructure: 2D explore need
+array, 3D Superlattice, Bimetallic | nanomaterials in the
+
+Ds class)
+nanoparticles e Size and Shape
+dependent
+nanomaterials
+
+e Core-shell and
+alloy nanomaterials
+
+Instruments for the Electron microscopes, Scanning e Identification of
+characterization of probe microscope, X -ray objects in the nano
+nanomaterials diffractometer domain
+
+e Modern
+advances in the
+techniques to
+characterize
+nanomaterials
+
+Save Paper.
+, Save Trees.
+£ = \Save the World. — fg _
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+semiconducting Quantum dots, Electronic structure, | e Discovered T1 and
+nanoparticles: Semiconductor nanoparticle, properties of 1
+Syntheses, properties, | Optical properties quantum dots and
+and characterization quantum
+
+confinement
+
+e Optical,
+
+photophysical,
+
+ 
+
+photochemical, and
+biological
+properties of
+quantum dots
+
+R
+Nanocomposite W hat are composite materials; e Development of | T1 and
+materials Classification of nanocomposites: | supported R1
+Nonpolymer based nanomaterials
+R
+
+nanocomposites; Polymer based
+
+composites; Biocomposites e Stabilization of
+nanoscale material
+
+using polymer
+
+Sell-assembled Monolayers on gold, patterning e Various kinds of | T1 and
+monolayers monolayers, Langmuir Blodgett monolayers 1
+films, Applications of films in
+
+LED, Non-linear optical properties | ¢ Properties and
+application in
+nanotechnology
+
+Carbon nanotubes syntheses, Structures, physical e Different T1 and
+properties, Electronic properties, properties of Rl
+Mechanical Properties and carbon nanotube
+
+applications
+
+e How to fill and
+
+use of carbon
+
+nanotube
+
+Fullerenes Syntheses and purification, e Discovery of T1 and
+
+Properties, Nanostructured fullerens and Rl
+fullerene films, Applications in relation to the
+electrocatalytic aspects and development of
+photoelectrical conversion of light | nanoscience
+
+energy
+e Usual and
+
+unusual properties
+of fullerens
+
+Save Paper.
+gy. Save Trees.
+** “Save the World. innovate achieve ~—siea
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+Nanoparticles in Introduction of nanoparticles in e Recent
+catalysis catalysis, Methods of preparation of | advancement in
+supported metal nanoparticles, nanoscience and
+Applications of nanomaterials in nanotechnology in
+various fields of catalysis, sensoric | catalysis,
+and photoelectrochemical photocatalysis, and
+applications sensoric application
+36- | Nanoparticles in Colloidal gold bioconjugates, Metal | e Interaction T1 and
+Al Biological and cluster conjugates, DNA and between Ri
+biomimetic nanoparticles, DNA recognition, biomolecules and
+applications Biomimetic applications: nanonanoparticles
+Carbohydrate- protein interactions,
+Nanomaterials in drug delivery e Nanosystems
+systems used for diagnostic
+and therapeutic
+application
+
+6. Evaluation Scheme:
+
+Tutorial test 10 -15 min
+
+Seminars
+
+ 
+
+7. Chamber C onsultation Hour: To be announced in the class.
+
+8. Make-Up: Make up would be considered only for regular students having genuine reasons.
+No make-up will be given for seminar.
+
+9, Notice: Notices, if any, concerning the course will be displayed on the in Nalanda website only.
+10. Note (if any): NIL
+
+INAMUR RAHAMAN LASKAR
+Instructor-In-C harge
+CHEM F336
+
+Save Paper.
+Save Trees.
+£®© \save the Wort. innovate achieve —_—iead
+
+Please Do Not Print Unless Necessary
+
+ 
+

@@ -1,0 +1,527 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+AUGS/AGSR Division
+
+ 
+
+ 
+
+ 
+
+Date: 08-Feb-2021
+COURSE HANDOUT (PART II
+
+In addition to part I (General Handout for all courses appended to the Timetable), this portion
+
+gives further specific details regarding the course.
+
+Course No. : BIO F243
+
+Course Title : GENETICS
+
+Instructor-in-Charge : MANOJ KANNAN
+
+Instructor : SHILPI GARG
+
+1. Scope and objectives of the course:
+
+The course aims at presenting concepts of modern genetics and its applications in biotechnology.
+
+Beginning with a background of classical genetics including basic models of inheritance,
+
+microbial and phage genetics, the course moves on to molecular genetics - structure and function
+
+of nucleic acid, mutations, DNA repair and recombination, that will provide the basis for
+
+understanding expression and regulation of genes in prokaryotes and eukaryotes, human
+
+genetics and genomics, non-nuclear inheritance and population genetics. Finally, the course also
+
+presents selected applications of these topics in the field of biotechnology.
+
+2. Text Book:
+
+Tamarin, Robert H. Principles of Genetics (7/e). New Delhi: Tata McGraw-Hill, 2002.
+
+3. Reference Books:
+
+ 
+
+Klug, William S., et. al. Concepts of Genetics (10/e). Chennai: Pearson India Education
+Services Pvt. Ltd., 2019.
+
+Das, H.K. (ed.). Gene and Its Engineering. New Delhi: Wiley India Pvt. Ltd., 2014.
+Brooker, Robert. Genetics: Analysis and Principles (4/e). New York: McGraw-Hill, 2011.
+
+Hartwell, Leland et. al. Genetics: From Genes to Genomes (International edition). New
+York: McGraw-Hill, 2004.
+
+Cummings, Michael R. Human Genetics (India edition). New Delhi: Cengage Learning
+India Pvt. Ltd., 2009.
+
+Freifelder, David. Microbial Genetics (2/e). New Delhi: Narosa Publishing House, 2009.
+
+ 
+
+innovate
+
+ 
+AUGS/AGSR Division
+
+ 
+
+Lecture Session Details
+
+Lecture 1: Getting introduced to
+genetics
+Introduction to genetics;
+
+orientation to the course
+
+Lectures 2-4: Mendel and Extensions
+to Mendel
+
+Basic modes of heredity;
+Mendelian genetics and its
+extensions: gene interactions,
+
+multiple allelism
+
+Lectures 5-6: Other inheritance
+patterns
+Sex-linked Inheritance; human
+
+pedigree analysis
+
+Lectures 7-9: Linkage and mapping in
+Eukaryotes
+
+Diploid mapping; two point test
+cross, three point test cross;
+haploid Mapping (tetrad analysis);
+
+somatic crossing over
+
+Lectures 10-12: Linkage and mapping
+
+in Prokaryotes
+
+Bacterial transformation: detection,
+
+competence, DNA uptake and
+
+transformation mapping; bacterial
+
+conjugation: Hfr transfer,
+recombination in recipient cells,
+
+and conjugation mapping
+
+ 
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+ 
+
+Learning Outcomes
+
+e To construct crosses from the given
+
+problem statement
+
+e To predict phenotypes and
+genotypes of a given cross, as well
+
+as the probability of each outcome
+
+e To infer what is the underlying
+gene interaction that operates
+
+resulting in the given phenotype
+
+e To be able to infer the type of
+inheritance (dominant/recessive;
+autosomal/sex-linked) given a
+pedigree chart
+
+e To construct pedigree chart from
+
+the given problem statement
+
+e To be able to designate gene
+symbols in Drosophila
+
+e To calculate the map distances
+between loci, given the offspring
+
+data of diploids and haploids
+
+e To be able to differentiate between
+the various modes of gene transfer
+
+in bacteria and phages
+
+e To calculate the map distances
+
+between genes in bacteria
+
+innovate Feleual civic}
+
+ 
+ 
+
+ 
+
+  
+  
+ 
+   
+    
+  
+ 
+
+AUGS/AGSR Division
+
+Lectures 13-15: Phage genetics
+Genetic recombination in phages;
+
+Fine structure of T4 rII locus;
+
+Transduction: DNA transfer, cotransduction, linkage mapping,
+
+mapping by co-transduction
+
+Lectures 16-18: Chemistry of Gene
+Nucleic acids and their structures;
+supercoiling DNA replication in
+
+prokaryotes and Eukaryotes
+
+Lectures 19-22: Gene Expression
+principles
+
+Transcription in prokaryotes and
+eukaryotes; RNA splicing and
+RNA editing; translation in
+
+prokaryotes and eukaryotes
+
+Lectures 23-25: DNA: Mutation,
+Repair and Recombination
+
+Fluctuation test and genetic fine
+
+structure; Spontaneous vs. induced
+
+mutations; DNA repair, damage
+reversal, excision repair and
+double strand break repair;
+
+Recombination
+
+Lectures 26-29: Regulation of gene
+expression in Prokaryotes
+Operon model: lac and trp
+
+operons;
+
+Lytic and lysogenic cycles in phage
+
+lambda; post-transcriptional
+
+regulation
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+e To calculate co-transduction
+frequencies and hence estimate the
+relative gene order between
+
+bacterial genes
+
+e To compare and contrast the
+mechanisms and machinery of
+replication, transcription and
+translation between prokaryotes
+
+and eukaryotes
+
+e To learn about various types of
+
+mechanisms how mutations occur
+
+e To predict the type and
+consequences of mutations at the
+
+protein and organism level
+
+e To understand the control circuity
+operation in operons
+
+e To predict whether a given operon
+will be inducible or repressible, or
+
+constitutive, given the host
+
+genotype
+
+  
+
+ 
+
+innovate
+
+ 
+ 
+   
+
+AUGS/AGSR Division
+
+Lectures 30-32: Organization of
+genetic material in eukaryotes
+Packaging of DNA in eukaryotes;
+repetitive and unique sequences;
+split and overlapping genes;
+
+genome organization
+
+Lectures 33-35: Regulation of gene
+expression in Eukaryotes
+
+Control of transcription in
+eukaryotes; chromatin remodeling
+and epigenetics; transposable
+
+elements; cancer genetics
+
+Lectures 36-37: Non-nuclear
+inheritance
+Maternal effects and cytoplasmic
+
+inheritance
+
+Lectures 38-39: Recent advances in
+genetics
+
+Guest lectures may be held
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+e To compare and contrast the gene
+structure and genome organization
+
+of eukaryotes and prokaryotes
+
+e To understand the varying layers of
+control that exist in eukaryotic gene
+
+expression
+
+e To understand how combinatorial
+
+control works in eukaryotes
+
+e To understand how non-nuclear
+inheritance differs from the typical
+
+Mendelian inheritance patterns
+
+e To know the relative strengths and
+weaknesses of various model
+organisms used by modern genetics
+
+researchers
+
+ 
+
+ 
+ 
+ 
+
+Evaluation
+Component
+
+weightage)
+90 min. 50 (25%) 01-Mar-2021
+9:00 to 10:30 AM
+60 (30%) | 01-May-2021 FN
+
+60 (30%) See Note (i) below
+10 (5%) See Note (ii) below
+
+pe 20 (10%) Po. See Note (iii) below
+Up to 4
+See Note (iv) below
+
+ 
+
+Mid-semester Test
+
+ 
+ 
+
+Comprehensive
+Examination
+
+Team-based
+
+   
+
+Learning activities
+
+  
+ 
+    
+
+Learning Portfolio
+Class Participation
+
+and Initiative
+
+Bonus credit
+marks (2%)
+
+    
+
+ 
+
+innovate
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+AUGS/AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+Notes:
+
+(i) Teams have the power to drive powerful forms of learning, more than individuals working
+alone and even more than groups. Hence a substantial part of the work in this course will be
+done in teams. Team-based Learning includes both individual components and team-based
+components as detailed below:
+
+e Individual Readiness Assessment Tests (iRATs) = 20 marks
+e Team RATs (tRATs), Team Project and Peer evaluation = 40 marks
+
+The adjusted team score would incorporate the peer evaluation multiplier as well.
+
+(ii) A Learning Portfolio is an in-depth analysis of yourself as a learner in a particular learning
+situation, in this case — in this course. In the second half of the course, you will be asked to
+create a learning portfolio. The structure of a Learning Portfolio is as follows:
+
+e Reflective Narrative (5-10 pages)
+e Appendices: Documents, etc., that support that comments about learning discussed in
+
+the Narrative
+
+Key Questions to be addressed in the narrative:
+
+1. WHAT did you learn in this course?
+a. Of the major learning goals for the course, and you will honestly describe to what
+
+degree you believe you achieved each one.
+
+b. What Foundational Knowledge did you acquire? Application? Integration, etc.
+
+2. HOW did you learn?
+a. What helped you learn? What didn’t?
+
+b. What does this tell you about yourself as a learner? About the learning process
+itself?
+
+3. What is the VALUE to you, of what you learned?
+a. For your: Personal life? Social interactions? Civic responsibilities? Professional
+
+life?
+
+4. Whatis your PLAN for FUTURE LEARNING?
+a. WHAT ELSE do you want to learn?
+
+b. HOW would you learn THAT?
+
+(iii) In-class quizzes (using Socrative tool) will be held regularly throughout the semester. Giving
+these and showing active participation during the classes (say, by asking questions and
+responding to the instructor, interacting across the teams during the TBL sessions) would
+
+count toward the Class Participation and Initiative.
+
+innovate
+
+ 
+6.
+
+as
+
+10.
+
+ 
+
+LT
+ly
+
+A BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+= AUGS/AGSR Division
+
+ 
+
+ 
+
+ 
+
+(iv) Visiting during chamber consultation hour, appraising the instructor personally of one’s
+learning and progress are some items that qualify for fetching bonus credit. Any other act or
+gesture that demonstrates one’s proactive approach would also be counted, subjected to the
+
+discretion of the instructor.
+
+Academic Conduct Policy:
+It is expected that all students follow the highest standard of academic practice when
+
+participating in any evaluation component. Having a zero-tolerance for academic dishonesty,
+any case of misconduct, however minor, will be dealt with appropriately, and may be reported
+
+to the Examination Committee for necessary administrative action.
+
+. Grading Policy:
+
+Award of grades would be guided by the histogram of marks and course average. If a student
+does not give sufficient opportunity for being assessed by the instructor, either by missing an
+evaluation component (listed in the Evaluation Scheme specified in item 5) entirely, or by not
+applying oneself to the task seriously, he/she may be awarded ‘NC’ report. For a student on the
+
+borderline of two grades, the bonus credit would be used for increasing the grade, if required.
+
+. Make-up Policy:
+
+If a student misses any of the evaluation components due to a genuine reason (serious medical
+causes leading to hospitalization, personal/family emergencies or absence from classes due to
+official purposes) there exists a provision to apply for make-up. Due to their nature, make-up for
+in-class activities cannot be sought. However, in case of a genuine case, Prior permission must be
+taken from the Instructor-in-Charge whenever possible, before applying; otherwise, he must be
+informed at the earliest after missing the component. The decision to grant make-up is taken by
+
+the Instructor-in-Charge and shall be final.
+Chamber consultation hour: To be announced in class by the instructors.
+
+Course Announcements and Notices:
+
+All announcements regarding the course will be made in the lecture classes or by email.
+
+Instructor-in-Charge
+BIO F243
+
+innovate
+
+ 
+

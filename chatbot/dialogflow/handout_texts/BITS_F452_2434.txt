@@ -1,0 +1,213 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER, 2020-2021
+
+Course Handout
+14/01/2021
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details
+regarding the course.
+
+Course Number : BITS F452
+
+Course Title : Blockchain T echnology
+
+Instructor-in-charge : Dr. Amit Dua (amit.dua@ pilani.bits-pilani.ac.in)
+
+Instructor(s) : Dr. Ashutosh Bhatia (ashutosh.bhatia@ pilani.bits-pilani.ac.in)
+
+1. Scope and Objective of the course
+
+The recent developments in the Blockchain have led to its pervasive influence, especially in Cryptocurrencies,
+Insurance, Energy and Trade, Finance, Healthcare, Supply Chain, and any other critical fields. With the
+widespread acceptance of cryptocurrencies and Blockchain as its core technology, both academia, and industry,
+are seeing enormous opportunities. Blockchain technology can be used to develop solutions involving noneconomic transactions. Some of them include IoT, distributed cloud storage, supply chain management,
+medicine, ownership, and royalty distribution, and decentralized autonomous organizations. This course provides
+a comprehensive understating of essential concepts involved in blockchain technology and its applications. The
+course provides fundamental understandings of Blockchain architecture, cryptocurrencies (especially Bitcoin),
+Smart contracts, Consensus algorithms, Permissionless and Permissioned blockchains, and the development of
+Decentralized A pplication using Ethereum and Hyperledger. The registered students will become confident in
+understanding the existing applications and develop complete end-to-end solutions to the practical problems using
+the Blockchain concepts. The case studies discussions and projects enable students to assimilate the concepts
+better. Finally, the course will also shed some light on the current advancements in the Blockchain and few topics
+beyond blockchains such as DAG-based distributed ledgers.
+The objectives of the course are
+
+1. To provide acomprehensive understating of foundational and other essential concepts involved in
+
+blockchain technology.
+2. To introduce the concept and development process of decentralized applications pertaining to number of
+verticals such as finance, supply chain, governance etc. through both theory and practical.
+3. To introduce the current advancements in the Blockchain and few topics beyond blockchains such as
+
+DAG-based distributed ledgers.
+
+2. Text Book
+TB: Imran Bashir, Mastering Blockchain: Distributedledger technology, decentralization, and smart
+contracts explained, 2nd Edition, Packt Publishing, 2018
+
+3. Reference Book(s)
+R1: Narayanan, Arvind, Joseph Bonneau, Edward Felten, Andrew Miller, and Steven Goldfeder. Bitcoin
+and cryptocurrency technologies: a comprehensive introduction. Princeton University Press, 2016
+
+4. Lecture Plan
+  
+
+ST
+oo
+Ge
+ye
+
+Pilani Campus
+AUGS/ AGSR Division
+
+sonia:
+session
+
+13-18
+19-21
+
+Module Learning Outcome
+
+Overview of Blockchain
+Technology
+
+Introduction to computing
+models and P2P networking
+
+Foundational Concepts
+Blockchain Data Structure
+
+Blockchain Characteristics
+
+Other Consensus
+Mechanisms
+
+Smart Contracts and
+Ethereum
+
+Private and Consortium
+based Blockchain:
+Hyperledger
+
+Case studies/ Enabling
+Technologies and
+applications
+
+28-33
+
+34-40
+
+5. Evaluation components
+Component
+
+Duration
+
+a 2
+pO OB
+
+po Quiz, | minutes | 0B
+Seminar | 20 mimutes_ | OB
+
+Defining Blockchain and Distributed Ledger,
+Blockchain Properties Decentralized,
+Transparent, Immutable and secure.
+Blockchain A pplications. Types of
+Blockchain: Public, private, and consortium
+based blockchain, When to use, and when not
+to use Blockchain, History of Blockchain.
+Centralized, Decentralized and Distributed
+Systems, Decentralization vs distributed, P2P
+systems, propertied of P2P systems, P2P
+communication architecture. P2P network
+applications: File sharing, P2P network for
+blockchain
+Cryptographic Hash Functions, Digital
+Signatures, Public Keys as Identities, Hash
+Pointers and Hash chain and Merkel tree,
+Consensus mechanisms
+Decentralized Identity management,
+Transactions, incentivising and mining.
+Distributed Consensus (PoW ), Cryptocurrency
+as the first blockchain application. Mechanics
+of Bitcoin, Bitcoin Scripts, Storing and Using
+Bitcoins, Mining in Bitcoin.
+Proof of storage, proof of stake, proof of
+deposit, proof of bum, proof of activity.
+algorithms for adjusting difficulty and
+retargeting. Limitations of Bitcoin, alternative
+cry ptocurrencies.
+History, Purpose and types of smart contracts,
+Introduction to Ethereum, bitcoin vs Ethereum
+stack. P2P network in Ethereum, consensus in
+Ethereum, scripts in Ethereum, Smart
+contracts (Ethereum Virtual Machine).
+Developing and executing smart contracts in
+Ethereum. State and data structure in
+Ethereum.
+Need for the consortium. Hyperledger stack,
+Multichainblockchain. Innovation in
+Hyperledger, smart contracts, and distributed
+applications in hyperledger.
+Application of blockchain in privacy and
+security, loT and smart cities, Business and
+Industry, Data management, e-Governance
+
+DelKs & Mode
+
+Time
+
+Weightage(% )
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Reference
+
+TB:Ch1
+R1: Ch0,1
+
+TB: Ch1
+
+TB: Ch4
+R1: Ch 2,3,4,5,6
+
+TB: Ch6, 7,8
+R1: Ch 11
+
+TB: Ch9
+
+TB: Ch 10,11
+R1: Chi1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+Comprehensive Exam 3 Hrs. <TEST C> | Partly Open
+
+6. Make-up Policy
+
+Make-up will be granted strictly on prior permission and for genuine reasons only.
+
+7. Chamber C onsultation Hours:
+Amit Dua TUESDAY 4-5 PM
+Dr. Ashutosh Bhatia MONDAY 5-6 PM
+
+8. Notice: All the notices will be put up on NALANDA only.
+
+Instructor in C harge
+BITS F452
+

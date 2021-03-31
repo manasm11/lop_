@@ -1,0 +1,231 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2019-20
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No: CS F469
+Course Title: Information Retrieval
+Instructor-in-C harge: Vinti A garwal(vinti.agarwal@ pilani.bits-pilani.ac.in)
+
+1. Course Description:
+
+This course studies the theory, design, and implementation of text-based information systems. The
+Information Retrieval core components of the course include statistical characteristics of text, representation
+of information needs and documents, several important retrieval models (Boolean, vector space, probabilistic,
+inference net, language modeling, link analysis), clustering algorithms, collaborative filtering, automatic text
+categorization, and experimental evaluation. The software architecture components include design and
+implementation of high-capacity text and multimedia retrieval and filtering systems.
+
+2. Scope and Objective of the C ourse:
+
+The course is designed to provide students with a broad understanding in the design and use of information
+retrieval techniques. The course also aims at providing a holistic view of information retrieval, which includes
+several retrieval concepts and techniques such as representation and indexing of data, text mining, websearch:
+basics and advances, multimedia retrieval, etc.
+
+3. Text Books:
+
+T1. C. D. Manning, P. Raghavan and H. Schutze. Introduction to Information Retrieval, Cambridge
+University Press, 2008. http://nlp.stanford.edu/IR-book/
+
+4, Reference Books:
+
+R1:; Modern Information Retrieval, Ricardo Baeza-Y ates and Berthier Ribeiro-Neto, Addison-Wesley, 2000.
+http://people.ischool.berkeley .edu/~hearst/irbook/
+
+R2: Search Engines: Information Retrieval in Practice by Bruce Croft, Donald Metzler, and Trevor
+Strohman, Addison-Wesley, 2009.
+
+R3: Cross-Language Information Retrieval by By Jian-Y un Nie Morgan & Claypool Publisher series 2010
+R4; Multimedia Information Retrieval by Stefan M. Ruger Morgan & Claypool Publisher series 2010.
+
+R5 Ricci, F.; Rokach, L.; Shapira, B.; Kantor, P.B. (Eds.), Recommender Systems Handbook. 1st Edition.,
+2011, 845 p. 20 illus., Hardcover, ISBN: 978-0-387-85819-7
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+Lecture 1: Tl — Introduction to the
+Basic Course Overview course
+Information
+
+Retrieval Lectures 2-4: TIChi& The term vocabulary
+Concepts Boolean retrieval 2, R1 2.5 postings lists and
+introduction to ad-hoc
+search
+
+Lectures 5-6: T1Ch3 Wildcard queries,
+
+Dictionaries and Spelling correction, Edit
+
+tolerant retrieval distances, Phonetic
+correction
+
+Lectures 7-9: T1 Ch4 Blocked sort- based
+
+Index construction indexing, Single-pass
+inmemory indexing,
+Distributed indexing,
+Dynamic indexing
+
+Lectures 10-11: T1 Ch6 Learning weights, Term
+
+scoring, term frequency and
+
+weighting weighting, tf-idf
+weighting
+
+Lecture 12: T1 Ch6 Dot products, Queries as
+
+The vector space model vectors,
+
+for scoring Variant tf-idf functions,
+Document and query
+weighting schemes
+
+Lecture 13: T1Ch8 Evaluation of unranked
+Evaluation of IR retrieval sets
+Evaluation of ranked
+retrieval sets
+
+Probabilistic Model(3 lec) Information retrieval
+Text Mining Text Mining (3.5 lec) 14, 16,17 Clustering
+M3:
+
+Lectures 22-25: Search Engine
+Web search basics (1.5) Architecture
+
+Web characteristics
+
+      
+
+Web Search
+and Link
+Analysis
+
+The search user
+experience Index size
+and
+
+estimation
+
+Lectures 26-28: T1 Ch 20 Crawling, Crawler
+Web crawlers and R2Ch3 architecture,
+indexes Distributino
+
+   
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+| iinees
+Lectures 29-31: T1 Ch 21 The Web asa
+Link Analysis eraph,Google’s
+Pagerank,
+Hub and authorities
+(HITS), Web spam
+
+ 
+
+M4: Lectures 32-35: R3 Ch2 Language Problems in
+Multimedia Cross Language IR, Translation
+and Cross Information Retrieval Approaches for CLIR,
+Lingual IR (CLIR) Handling many
+
+Languages, Using
+manually constructed
+Translation systems and
+resources for CLIR,
+
+Research issues
+Lectures 36-40: R4 Ch2,3 Basic Multimedia
+Multimedia search technologies,
+Information retrieval Content based Retrieval,
+(MIR) Research issues in
+
+MIR
+
+Ro
+Chi1,2,3,4,5
+
+ 
+
+Mo: Lectures 40-42:
+Recommender Recommender systems
+Systems
+
+Introduction to
+recommendation
+systems,
+
+Collaborative, Content,
+Knowledge and
+
+Hybrid recommendation
+systems, and
+Applications.
+
+   
+
+6. Evaluation Scheme:
+
+TBA 30%
+1 | Mid Semester Test Closed Book 90 min | (visit AUGSD °
+website)
+
+2 oe rm eos
+
+Term paper/Assignment | Open Book oe pr -29 April)
+4 Comprehensive Exam Partially Open Book | 2hours May 07" (FN)
+
+7. Chamber Consultation Hour: Once in a week. Every Friday from 5:00 PM — 6:00 PM. Interested
+
+ 
+
+student(s) need to inform beforehand through email if consultation is required.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+3. Notices:
+All the notices/communication concerning this course will be through the CANVAS platform only. Y ou are requested
+
+to check this periodically. E-mail will be used as and when required.
+
+9, Make-up Policy:
+
+To be granted only in case of serious illness or emergency. The student needs to apply for the make-up in advance with
+documentary proof and prior permission from AUGSD.
+
+10. Note (if any):
+
+Assignment(s) (programming/reading) will be given to the students. This will immensely help the students in
+gaining a better understanding of the subject.
+
+Instructor-in-charge
+Course No. CS F469
+

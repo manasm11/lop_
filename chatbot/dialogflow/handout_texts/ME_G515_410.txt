@@ -1,0 +1,246 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No: ME Go15
+
+Course Title: COMPUTATIONAL FLUID DYNAMICS
+Instructor-in-C harge: Dr. Shyam Sunder Y adav
+
+Instructor(s) : ---
+Tutorial/Practical Instructors: ===
+
+1. Course Description: This course is an introduction to the various computational techniques for fluid
+dynamics. Following topics will be considered: Philosophy of Computational Fluid Dynamics, Governing
+equations of fluid dynamics, Mathematical behaviour of partial differential equations of fluid dynamics and
+their impact on CFD, Finite difference and finite volume discretization techniques on structured and
+unstructured grids, Numerical solution of steady and transient convection-diffusion equation, Solution
+techniques for compressible and incompressible Navier-Stokes equations, Various methods for solving
+system of linear equations, Techniques for turbulent flows.
+
+2. Scope and Objective of the C ourse: This course is intended to develop the numerical skills for solving
+the equations governing fluid flow, heat & mass transfer and related transport phenomena. The students first
+learn how to derive the governing equation using fundamental laws of mass, momentum and energy
+conservation. Once the equations are derived, the student will learn how to simplify and classify the
+equations mathematically and how to interpret their physical and mathematical behavior? Subsequently the
+course focuses on the different discretization techniques for the governing equations like the finite difference
+and finite volume method. The student will learn how to select the right numerical scheme which correctly
+mimics the behaviour of partial differential equation they want to solve. They will also learn how to ensure
+that the numerical scheme is stable and the data from the numerical solution procedure is a valid
+representation of reality? Finally, the students will learn different CFD techniques for compressible and
+incompressible flows and will apply these for solving simple flow problems. As part of this course, the
+students have to complete a project of practical relevance using any licensed commercial / open source
+flow solvers. Most students prefer to use Ansys Fluent and OpenFOAM flow solver for their projects.
+
+3. Text Books:
+
+T1: J.D.Anderson , Computational Fluid Dynamics, Mcgraw Hill Inc., 1995, 6th Edition.
+T2: Versteeg and Malajasekra: An introduction to computational fluid dynamics: The finite volume
+
+method, 2" edition, Pearson
+
+4, Reference Books:
+R1: JH Ferziger, M Peric, Computational methods for Fluid Dynamics, Springer, 2002, 3™ Edition.
+R2: Jiri Blazek, Computational Fluid Dynamics: Principles and A pplications, Elsevier, 2015, 3™ Edition
+R3: Charles Hirsch, Numerical computing of internal and external flows, Vol. 1, Elsevier, 2"¢ Edition
+R4: Pletcher, Tannehill, Anderson, Computational fluid mechanics and heat transfer, CRC
+press, 3™ edition,
+1
+ 
+
+5. Course Plan:
+
+Module No.
+
+Lecture re
+
+la: CFD asa beatdaneel Tool, CFD asa
+Design Tool, The Impact of CFD,
+Applications of CFD
+
+2a-2b: Derivation of G overning equations
+of fluid dynamics
+
+2c-2d: Classification and characteristics of
+governing equations
+
+2e: Forms of equation for compressible
+flow
+
+3a-3c: Introduction to Finite difference
+method, Finite difference schemes for
+model equations, Explicit and Implicit
+approaches
+
+3d-3f: Consistency, stability and
+convergence of numerical schemes,
+Numerical diffusion and dispersion,
+Artificial viscosity
+
+4a-4c: Solution techniques for system of
+linear equations
+
+5a: Introduction to finite volume method
+5b: FVM for diffusion equation on
+unstructured and structured grids
+
+5c-5d: FVM for convection-diffusion
+equation on structured and unstructured
+grids
+
+5e: FVM for transient equations
+
+6a: Lax-wendroff and Maccormack scheme
+6b: Application of Maccormack scheme to
+quasi 1D nozzl flow
+
+6c : Application of Maccormack scheme to
+2D Prandtl-Meyer expansion wave
+
+ 
+
+Reference
+
+T1, chapter 1
+
+T1, chapter 2,
+chapter 3
+
+T1 chapter 4,
+R3 chapter 4
+and
+chapter 7,
+R4 chapter 4
+
+T2 chapter 7,
+R1 chapter 5,
+R3 chapter 10
+
+T2 chapter 4,
+chapter 5
+
+T 1 chapter 6,7
+and 8
+
+7a: Pressure velocity coupling in T1 chapter 9,
+incompressible flows T2 chapter 6
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Learning outcomes
+
+Why CED is important?
+Where it has been applied?
+General CFD work flow
+procedure.
+
+What are the equation which
+govern fluid dynamics? How
+to derive these? What is their
+physical significance? How to
+classify equations into
+hyperbolic, parabolic and
+elliptic types? Characteristics
+of different equation types,
+Forms of governing equations
+Suitable for compressible
+flows
+
+Introduction to Finite
+difference method, Finite
+difference schemes for model
+hyperbolic, parabolic and
+elliptic equations, Explicit
+and Implicit approaches,
+Concepts of consistency,
+stability and convergence,
+Aspects of Numerical
+dissipation and dispersion;
+Artificial viscosity
+
+Solution techniques for
+system of linear equations,
+Various Direct and Iterative
+techniques
+
+Introduction to finite volume
+method, Finite volume
+method for steady and
+unsteady convection diffusion
+equations on structured and
+unstructured grids
+
+Simple CFD techniques 1:
+Lax-Wendroff scheme and
+MacCormack's scheme for
+compressible Navier-Stokes
+equations, Numerical solution
+of quasi-1D nozzle flow, 2D
+Prandtl-Meyer expansion
+wave
+
+Simple CFD techniques 2:
+Pressure correction technique
+for incompressible Navier
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+7b-7c: Projection method for Stokes equations like
+incompressible flows Projection method, SIMPLE
+7d-7f: SIMPLE family of algorithms for family of algorithms for
+incompressible flows pressure velocity coupling,
+7g: Numerical solution of the lid driven Application to lid driven
+
+Computational models for Turbulent flows T2 chapter 3, Governing equations for
+Ri chapter 9, | Turbulent flows, RANS
+R2 chapter 7 models, LES, DNS
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid- Semester Test As per AUGSD Closed book
+
+Examination open book
+
+| - | 30 | ~~ Will be announced
+
+CFD Project
+
+7. Online C onsultation Hour: Will be decided in the class.
+
+ 
+
+8. Notices: Personal emails will be sent
+9, Make-up Policy: No makeup for any component
+
+10. Note (if any): You should have a laptop which you will use to complete the project. Y ou have to give
+a live demonstration of the procedure you followed while completing the project. Y ou have to submit a project
+report consisting of the following: Abstract summary, Introduction to the problem including the previous
+works / literature on the problem, Governing equations, Procedure followed, Results and discussions and
+finally, Conclusion.
+
+Instructor-in-charge
+ME G515 CFD
+

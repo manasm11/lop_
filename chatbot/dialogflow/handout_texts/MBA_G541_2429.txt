@@ -1,0 +1,299 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+FIRST SEMESTER 2020-2021
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion
+gives further specific details regarding the course.
+Course No ;
+Course Title
+
+Instructor-in-C harge
+
+  
+
+1. Course Description: Operations Strategy, Operations Performance, Capacity Strategy,
+Purchasing and Supply Strategy, Process Technology Strategy, Improvement Strategy, Product
+and Service Development and Organization, The Process of Operations Strategy-formulation,
+and implementation, The Process of Operations Strategy- Monitoring and Control etc.
+
+2. Scope and Objective of the Course: Operations strategy is the missing link between the
+Operational strategy and the business strategy. It seeks to provide the concepts and suggests
+approaches to develop competitive advantages for an organization on a long term basis on a
+sustainable orientation. The subject has a direct and close connection with the strategy of
+resource management. The evolution of the subject is of recent origin. It is of high significance
+in the newly emerged business environment that is volatile, dynamic in changing customer
+preferences with high emphasis on performance objectives as customization, delivery,
+flexibility and variety, customer service, speed and more besides the classical performance
+parameters of cost and quality. The course has been designed to enable the students to prepare,
+comprehend and analyze operations strategy.
+
+Some of the important decisions with which operations strategy is concerned are as follows:
+
+¢ How should the organization satisfy the requirements of its customers?
+
+¢ How should each function within the organization satisfy the requirements of its internal
+customers?
+
+¢ What intrinsic capabilities should the organization try and develop as the foundation for
+
+its long-term success?
+
+How specialized should the organization’s activities become?
+
+Should the organization sacrifice some of its objectives in order to excel at others?
+
+How big should the organization be?
+
+Where should the organization locate its resources?
+
+When should it expand or contract, and by how much?
+
+What should it do itself and what should it contract out to other businesses?
+
+How should it develop relationships with other organizations?
+
+W hat type of technology should it invest in?
+
+How should it organize the way it develops new products and services?
+
+How should it bind together its resources into an organizational structure?
+
+How should the organization’s resources and processes be improved and developed over
+
+time?
+
+¢ What guiding principles should shape the way any organization formulates its operations
+strategy?
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+All these questions are not merely important —they are fundamental. No organization, whether
+large or small, for-profit or not-for-profit, in the services or manufacturing sector and
+international or local, can ignore such questions. Operations strategy is central, ubiquitous and
+vital to any organization’s sustained success.
+
+3. Text Books:
+T1 “Operations Strategy” by Nigel Slack, Michael Lewis & Mohita Gangwar Sharma,
+5“"Edition, Pearson India Education Services Pvt. Ltd-2019
+
+4, Reference Books:
+
+R1 “Operations, Strategy, and Technology: Pursuing the Competitive Edge” by Robert
+Hayes, Gary Pisano, David Upton, Steven Wheelwright reprinted by Wiley-India. 2011
+
+R2 “The Agenda: What Every Business Must Do to Dominate the Decade” by Hammer,
+Michael
+
+Suggested C ases:
+
+1. Southwest Airlines: In a Different W orld
+2. Design Thinking and Innovation at A pple
+3. BMW: The 7-Series Project(A );
+
+4. VF Brands: Global Supply Chain Strategy
+2.
+
+Course Plan:
+
+Module No. Lecture | Reference Learning outcomes
+Session
+
+1. Operations - Chapter 1 | What is ‘operations’ and why is it so
+strategy — (T1) important? Four perspectives on operations
+developing strategy, Performance objectives, Decision
+resources and areas (Structural and infrastructural), The
+
+(
+
+processes for operations strategy matrix
+strategic impact
+
+objectives, The relative importance of
+performance objectives change over time,
+Trade-offs and Focus.
+
+2. Operations - Chapter 2 | Operations performance objectives, The five
+performance T1) generic performance objectives (Quality,
+Speed, Dependability, Flexibility, Cost), The
+internal and external effects of the performance
+objectives, The relative priority of performance
+3. Substitutes for Chapter 3 | ‘New’ approached to operations, Total Quality
+strategy (T1) Management (TQM), Lean operations,
+Business Process Reengineering (BPR), Six
+
+Sigma, Some common threads.
+
+ 
+Pilani Campus
+
+ 
+
+4, Capacity strategy | 14-16
+9. Purchasing and 17-20
+
+supply strategy
+
+6. Process 21-23
+
+technology strategy
+
+7. Improvement 24-28
+
+strategy
+
+8. Product and 29-31
+service development
+
+and organization
+
+32-35
+
+9. The process of
+operations strategy
+— formulation and
+Implementation
+
+10. The process of 36-38
+operations strategy
+—M onitoring and
+
+Control
+
+11. Overview 39-40
+
+ 
+
+AUGS/ AGSR Division
+
+‘Chapter ] What is 4
+
+ay 5
+
+vey, 6
+voy, 7
+
+etry 8
+ry, 9
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+W hat is capacity strategy? The overall level of
+
+ 
+ 
+
+operations capacity, The number and size of
+sites, Capacity change, Location of capacity.
+W hat is the purchasing and supply strategy?
+The outsourcing decision — V ertical
+integration? Do or buy? Contracting and
+relationships, which type of arrangements?
+Supply network dynamics, Managing suppliers
+over time, Purchasing and Supply chain risk
+etc.
+
+W hat is process technology strategy? Process
+technology should reflect volume and variety,
+The product- process matrix, The challenges of
+information technology, Evaluating process
+technology
+
+Operations Improvement, Setting the direction,
+Importance-performance mapping, Developing
+operations capabilities, Deploying capabilities
+in the market.
+
+Innovation, design and creativity, The strategic
+importance of product and service
+development, product and service development
+as a process, A market requirements
+perspective on product and service
+development, An operations resources
+perspective on product and service
+development
+
+Formulating Operation Strategy, what is the
+role of alignment? Marinating alignment over
+time, what analysis is needed for formulation?
+The challenges of operations strategy
+formulation, how do we know when the
+formulation process is complete? W hat is
+operations strategy implementation?
+
+ 
+
+Implementing operations strategy, Strategic
+monitoring and control, Monitoring
+implementation — tracking performance, The
+balanced scorecard approach, The dynamics of
+monitoring and control, Implementation risk,
+How does learning contribute to Strategic
+control?
+
+Operations strategy revisited, Applying the
+operations strategy matrix, Revisiting the five
+generic performance objectives, Revisiting the
+
+decision areas, Revisiting Process, Operations
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+strategy is close to operations management,
+Future trends.
+
+5. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of
+(% ) component
+(Close Book/ Open
+Book)
+
+To be announced Close Book
+
+ 
+
+Participation in 30 Min, 55 In classes Open book
+case
+Discussions/Class
+Exercises
+semester
+per BRE ona ae
+Examination
+
+Case Analysis: Cases will be assigned from time to time. Few Harvard case studies will also
+be discussed in course, along with bookcases. Students must read the case assigned and come
+fully prepared for discussions in class. Itis highly desirable that students must attend all classes
+and contribute in case discussions.
+
+ 
+
+Mini Project: Students will take any real Operations Strategy problem and do projects in
+groups. At the end of the semester, all groups will give a presentation and submit a report.
+
+7. Chamber Consultation Hour: Friday 5 to 6 P.M.
+8. Notices: All notices of this course will be displayed on the Nalanda.
+
+9, Make-up Policy: Make-ups may be allowed only in genuine cases with the prior permission
+of I/C. No make-up for Cases and mini-projects.
+
+10. Group Formation: Students have to give mini-project presentations in a group. Groups
+will be formed in class.
+
+Instructor-in-charge: DR. RAJESH MATAI
+
+Course No. MBA G541
+

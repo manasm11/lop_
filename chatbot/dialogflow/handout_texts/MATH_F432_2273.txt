@@ -1,0 +1,396 @@
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-2021
+COURSE HANDOUT (Part IT)
+Date: 18 January, 2021
+
+In addition to Part I (General Handout for all courses appended to the time table) portion:
+
+Course Number : MATH F432
+
+Course Title : Applied Statistical Methods
+Instructor-In charge : SUMANTA PASARI
+Instructor : Sumanta Pasari
+
+1. Course Description:
+
+Applied Statistics is an exciting sub-area of Statistics. It has application in almost all science disciplines
+which deal with data and uncertainty. This course builds up fundamental concepts of various key statistical methods necessary to analyze/interpret a variety of practical business/engineering problems. This
+course emphasizes the role of statistics in one’s own field of study by making sense of data, developing
+self-ability to apply appropriate statistical methods, performing experimental designs and above all, realizing the limitations/inherent assumptions in a statistical test to avoid over interpretation or misinterpretation. The thrust areas covered in this course include probability distributions, statistical inference,
+analysis of variance (ANOVA), regression and correlation, discriminant analysis, factor and cluster
+analysis, time series analysis and forecasting, nonparametric methods and statistical quality control. The
+theoretical learning will be complemented with various case studies and hands-on training in excel.
+
+2. Scope and objective of the course:
+This 4 level course is designed with a two-fold purpose. First, it will provide an exposure to various
+theoretical univariate/multivariate methods and their practical applications. Second, this course will
+improve methodological/analytical maturity to attempt a variety of problems using MS-excel and R.
+
+3. Text Book:
+T1: David R Anderson, Dennis J Sweeney, Thomas A Williams, Jeffrey D. Camm and James J. Cochran,
+Statistics for Business and Economics,12™ Edition, Cengage Learning, 2014
+
+4, Reference Books:
+1. Deepak Chawla and Neena Sondhi, Research Methodology, Vikas, 2012
+2. Richard Johnson and Dean W Wichern, Applied Multivariate Statistical Analysis, Pearson, 2007
+
+5. Lecture Plan:
+
+Lecture | Learning Topics to be covered Chapter in the Text Book
+Objectives
+
+It helps students | Revision of _ basic |) Chapter 4 to Chapter 6 (T1)
+to recapitulate | probability concepts,
+
+the introductory | random variables,
+
+probability probability
+
+concepts. distributions, moments
+
+It enhances the | Introduction, Review of | 7,7.2,7.3,7.4,7.5,7.7,7.8 (T1)
+understanding of | sampling, Selecting a
+
+different sample, Sampling from
+
+sampling a finite and _ infinite
+
+procedures, population, Point
+
+sampling Estimation, Sampling
+
+ 
+ 
+  
+  
+ 
+   
+ 
+
+  
+
+0-6
+
+7-8
+
+9-11
+
+12-14
+
+15-17 It helps inj Multiple regression
+
+distribution and
+inferential
+procedures.
+
+It helps in
+understanding
+the concepts of
+hypotheses, and
+its errors
+followed by
+decision
+scenarios.
+
+To gain
+knowledge on
+importance of
+variance, _—chisquare
+distributions and
+its types.
+
+It helps us to
+gain knowledge
+to obtain
+accurate and
+replicable
+findings at
+reasonable
+allocations of
+resources. We
+review some
+general
+principles of
+designs and its
+
+knowledge on
+basic regression
+model.
+
+distribution of sample
+mean and properties of
+point estimators, Other
+sampling methods
+Interval estimation,
+Population mean when
+o is known, Population
+mean o is unknown,
+Determining the sample
+S1Ze,
+
+Introduction to
+hypothesis testing,
+Types of errors,
+Inferences about single
+population mean.
+Inferences about
+difference of two
+means, Inferences about
+population variances,
+Interval estimation.
+
+Testing the equality of
+population proportions,
+Test of independence,
+Goodness of fit test,
+Introduction to
+experimental design and
+Analysis of Variance
+(ANOVA)
+(Completely
+randomized
+Multiple
+procedures,
+Randomized
+design)
+Simple linear regression
+model, Least squares
+method, Coefficient of
+determination, Model
+assumptions, Test for
+significance, Using the
+estimated = regression
+equation for estimation
+and prediction, Residual
+analysis: Validating
+model assumptions,
+outliers and influential
+observations.
+
+design,
+comparison
+
+block
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+  
+  
+
+8,8.1,8.2,8.3 (T1)
+9,9.1,9.2,9.3 (T1)
+
+10,10.1,10.2,10.3,11,11.1.11.2 (T1)
+
+12,12.1,12.2,12.3 (T1)
+13,13.1,13.2,13.3,13.4 (T1)
+
+14,14.1,14.2,14.3,14.4,14.5,14.6,14.8.14.9
+
+(T1)
+
+15,15.1,15.2,15.3,15.4,15.5,15.6,15.8 (T1)
+18-20
+21-23
+24-277
+
+28-31
+
+32-35 17.1 - 17.6 (11), Class Notes
+
+ 
+  
+  
+  
+ 
+
+understanding
+more than two
+variables in
+regression
+
+analysis and also
+gives insight on
+the concept of
+multicollinearity.
+
+It gives exposure
+to distinguish
+between
+Categorial
+Independent and
+Categorical
+Dependent
+Regression
+Analysis.
+
+It helps
+assessing
+classification
+accuracy
+model.
+
+in
+the
+
+of
+
+It helps in
+understanding
+hierarchical,
+non-hierarchical
+
+cluster analysis.
+
+It helps in
+understanding
+data reduction
+
+methods.
+
+ 
+ 
+ 
+ 
+
+model,
+method,
+
+Least squares
+Multiple
+coefficient of
+determination, Model
+assumptions, Testing for
+significance,
+Multicollinearity.
+Regression equation for
+estimation and
+prediction, residual
+analysis, Discuss case
+studies.
+Categorical independent
+variable, Logistic
+regression.
+
+ 
+     
+   
+     
+
+Hoteling T°?
+Mahalanobis
+discriminant analysis,
+Objectives and its uses,
+Illustration of
+discriminant analysis,
+Assessing classification
+accuracy.
+
+Cluster amalysis- a
+classification technique,
+Statistics associated
+with cluster analysis,
+An illustration of the
+technique, Key
+cluster
+of
+
+in
+Process
+
+concepts
+analysis,
+clustering, Establishing
+
+cluster algorithms,
+Discuss case studies
+
+Factor analysis and its
+uses, Conditions for a
+factor analysis,
+Illustration of factor
+Applications
+
+analysis,
+of factor analysis in
+
+other multivariate
+
+technique.
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+15.7,15.9 (T1)
+
+17 (R1), Class Notes
+
+18 (R1), Class Notes
+
+16 (R1), Class Notes
+
+ 
+ 
+  
+ 
+    
+
+BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANI
+Pilani Campus
+AUGS/ AGSR Division
+
+   
+  
+    
+
+idea on | Components of a time
+forecasting Series, Smoothing
+methods. methods, Trend
+projections, Trend and
+seasonal components,
+Regression analysis,
+Qualitative approaches.
+It helps inj Kruskal walls _ test, | 18.1-18.4 (T1), Class Notes
+understanding Mann Whitney
+distribution free | Wilcoxon test, K-S two
+methods in | sample test
+parallel to
+parametric
+procedures.
+Statistical Introduction, Control | 19.1, 19.2 (T1), Class Notes
+Quality Control | charts for variables,
+Control charts
+attributes, Modified
+control charts.
+
+6. Evaluation Scheme:
+
+Durations
+Mid-Semester Test | Will be announced later | Open/Close Book
+Assignments (two) Will be announced later | Open Book
+
+-20 mi Will be announced later | Open/Close Book
+120 min 03 May, 2021 Open/Close Book
+
+ 
+
+7. Consultation hours: To be announced in class.
+
+8. Notices: All notices in relation to the above course will be displayed on NALANDA.
+
+9, Make up policy: Make up for mid-sem/comprehensive examination will be granted only in genuine
+cases. There is no make-up for quiz components. Students should follow proper guideline for applying make
+
+ups.
+
+Instructor in C harge
+MATH F432
+

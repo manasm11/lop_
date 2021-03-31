@@ -1,0 +1,150 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+FIRST/SECOND SEMESTER
+COURSE HANDOUT
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BITS Goll
+
+Course Title : Advanced Project
+Instructor-in-C harge : Associate Dean, AGSRD
+Instructor(s) : Supervisor(s)/M entor(s)
+
+1. Course Description: This course is designed to permit treatment of an advanced area in a discipline or
+interdisciplinary pursuit to meet the objectives of acquisition of additional competence by the student and also
+development of new areas of study or lab. The course will be characterized by minimum formal contact and
+maximum self- study under immediate supervision by the teacher.
+
+2. Scope and Objective of the Course: Each student will work under the overall supervision and guidance
+of an assigned teacher. The course must end with a well-defined project report outlining, all the investigative
+efforts and conclusions.
+
+3. Operation of the course:
+
+e Within 2 weeks of registration, the student should prepare the work plan for his/her research project
+and also for the developmental activities in consultation with the supervisor.
+
+e Mid semester grading will be done by the supervisor based on the work done and progress made
+towards planned objectives by the student in the assigned research area. The student is required to
+Submit mid semester report describing the work done and progress made by him/her. He/she should
+also deliver a seminar to highlight these activities. Supervisor will grade the student for mid semester
+on the basis of the mid semester report described above and the Seminar presented by the student.
+
+e The student should submit mid-semester report in the 9th week of the semester to the supervisor and
+this should be followed by seminar/presentation by the student. The supervisor in turn is required to
+send mid-semester grades of all the students working with him to Instructor -in-charge by the end of
+Oth week of the semester.
+
+e End semester report would provide details of work done by the student. End semester report should be
+submitted to the supervisor and should be followed by seminar/presentation.
+
+4, Evaluation:
+
+Component Indicators Weightag
+e
+
+1. Research Plan Format, Objectives, Literature survey and 10
+Presentation
+2. Development related | Report (5+5)
+Activities ‘earnmseniation ( (5+5)
+
+ 
+
+3. Research related Day -to-day observation (10 + 10)
+activities Reports (10 + 20)
+Seminar/presentation/viva (10 +10)
+ta
+
+Total
+
+Instructor-in-charge
+BITS G511
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+BITS G511: ADVANCED PROJECT
+MID SEMESTER EVALUATION FORM
+
+ID No. Name of Student
+Name of Supervisor
+
+Evaluation:
+
+Evaluation component Max marks Marks awarded
+
+Presentation 15
+
+Development related 5
+:
+
+Research related 10
+— :
+rt
+
+Mid. Semester Grade Recommended (A/A -/B/B-/C /C -/D/E):
+
+ 
+
+Reports, if any (NC/I, See Academic Regulation 4.12)
+(Give reasons)
+
+Date:_------------ (Signature of Supervisor)
+
+Note: Student should fill his particulars in this copy and submit it to the supervisor for evaluation
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+BITS G511: ADVANCED PROJECT
+END SEM EVALUATION FORM
+
+ID No. Name of Student
+Name of Supervisor
+
+Evaluation:
+
+Evaluation Activity Mid Semester End Semester Total
+component Marks Marks Marks
+marks awarded | marks | awarded
+
+2. Development
+SE
+Research
+
+a related
+ee
+
+Mid Semester Grade Recommended (A/A -/B/B-/C/C -/D/E):
+
+ 
+
+Total marks out of 100 (i.e. Total of mid and end semester marks) --------End Semester Grade Recommended (A/A -/B/B-/C/C -/D/E):
+
+Reports, if any (NC/I) (Give
+reasons)
+
+Date: ------------ (Signature of Supervisor)
+
+Note: Student should fill his particulars in this copy and submit it to the supervisor for evaluation.
+

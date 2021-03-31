@@ -1,0 +1,296 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 19.01.2021
+
+In addition to part -| (General Handout for all courses appended to the time table) this portion gives further
+specific details regarding the course.
+
+Course No. : CE F343
+
+Course Title : Design of Steel Structures
+
+Instructor-in-charge : SHAMSHER BAHADUR SINGH
+
+Co-Instructor: Dr. Dipendu Bhunia
+
+Tutorial Instructors : Dr. S.B. Singh, Dr. Dipendu Bhunia, Mr. Ankit Mehra Mr. Manigandan
+
+1. Course Description
+
+The course intends to impart adequate analysis and design skills for common type of Civil Engineering Steel Structures as
+found in practice. An understanding of theory, loads and stresses to be used as per Indian standards for steel design work
+will be developed. This course deals with designing of tension, compression and bending members along with bolted and
+welded connections in structures using limit state method of design. Design of specific steel structure likes steel such as
+trusses and plate girder will be covered. Furthermore, plastic analysis and design of basic structures such as beams and
+pane frames will be introduced.
+
+2. Scope and Objective of the C ourse:
+Course on Design of Steel Structures is designed for first-degree students of Civil Engineering Discipline. The clear
+
+understanding of structural mechanics and/ or strength of materials is prerequisite for this course. The primary
+objectives of the course are:
+
+(i) to know the difference between fundamentals of Allowable Stress Design (ASD) and Limit State
+Design (LSD) Approaches.
+
+(ii) to analyze tension and compression members
+
+(iii) to design flexural members such as beams
+
+(iv) to design plate girders demonstrated through design example
+
+(v) to design bolted and welded connections in steel structures
+
+(vi) to understand the concepts of plastic analysis and design of beams and basic plane frame structures
+
+(vii) to develop skills for using commercial softwares for analysis and design of typical steel framed
+structures as course project to be executed over the whole semester
+PREREQUISITES: (1) Course No. CE F241: Analysis of Structures
+
+3. Text Book
+
+(i) N. Subramanian, “Design of Steel Structures”, Oxford University Press, 2015.
+(ii) Teaching Resource for Structural Steel Design, Volume 1, 2 & 3. Institute for Steel Development & Growth, ISPAT
+Niketan 52/1A Ballygunge, Circullow Road, Calcutta 700019.
+
+4. Reference Book
+ 
+
+iii)
+iv)
+v)
+vi)
+vii)
+viii)
+ix)
+
+x)
+xi)
+xii)
+xiii)
+xiv)
+
+xv)
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+A S Arya and Ajmani "Design of Steel Structures” Nemi Chand & Bros.
+
+C. G. Salmon and John E. Johnson, “Steel Structures: Design and Behavior,” Fourth Edition, Prentice Hall, NJ, USA
+M.L. Gambhir, “Fundamentals of Structural Steel Design,” McGraw Hill Education Ltd., New Delhi, 2013.
+
+S. K. Duggal, “Limit State Design of Steel Structures,” McGraw Hill Education (India) Ltd., New Delhi, 2014.
+
+P. Dayaratnam “Design of Steel Structures”, Wheeler Pub. 1992.
+
+E H Gaylord and C N Gaylord "Design of steel structures" McGraw Hill
+
+P. Dayaratnam, “Handbook on design and detailing of structures", Wheeler Publishing 1994.
+
+IS 800:2007 "Code of practice for General construction in steel "B.1.S.?
+
+IS 875 :1987 "Code of practice for design Loads"
+
+Design of Steel Structures- S Ramamrutham & R. Narayanan, Dhanpat Rai, Publishing co., (P) Ltd, New Delhi
+110002, 2000.
+
+B.C. Punmia, "Design of Steel Structures Volume | and II", Laxmi Publications (P) Ltd., New Delhi, 1998 (Eight
+edition).
+
+R. Englekirk, “Steel Structures: Controlling Behavior through Design,” Replika Press Pvt. Ltd. Kundli, India, 1994.
+K. M. Ghosh, “Analysis and Design Practice of Steel Structures,” PHI, New Delhi, 2010.
+
+B.S. Smith and A. Coull, “Tall Building Structures: Analysis and design,” Wiley India Pvt Ltd. New Delhi, 2011.
+
+S. N. Manohar, “Tall Chimneys: Design and Construction,” Tata McGraw Hill Publishing Company Ltd., New Delhi,
+1985.
+
+5. Course Plan:
+
+N
+2
+3
+4
+
+Design of Tension | TB, (Ch.7) | Introduction, Types of sections, Net area, Net effective
+Members section for angles and Tees in tension, Design of tension
+(Lectures 11-13)
+
+ 
+
+Module | Lecture Session | Reference | Learning outcomes
+
+0.
+1.
+3.
+
+Introduction: Steel Types of loads, types of steel for various structural elements. Types
+Design of connections for structural framing, factor of safety, partial safety
+Specifications factors, load factors, steel vs. concrete, standard specifications,
+(Lectures: 1-5) introduction to limit states and working stress design.
+
+Types of | TB,Ch.5-6 | To understand the various types of structural steel
+Connections
+
+connections: such as riveted, bolted & welded connections
+(Lectures 6-10)
+
+members with Riveted/ Bolted End Connections, Lug Angles,
+Tension Splice, Members with Welded Connections, Shear
+Lag effects
+
+Design of | TB,Ch.9 | General theory of columns, Allowable stresses for
+Compression
+
+members
+(Lectures 14-18)
+
+compression members, general specifications for
+compression members, Design of built-up compression
+members, single and double lacings, batten plates, and
+column bases
+
+Design of Beams: | TB(Ch.10) | Design Criteria, stresses in beams and permissible stresses, lateral
+(Lectures: 19-25) stability of beams with unrestrained compression flanges, effective
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Design
+Connections
+(Lectures: 25-30)
+
+Design of Plate
+Girders:
+(Lectures:31-35)
+
+of | TB,Ch.5-6
+
+TB (Ch.11)
+
+Design of Gantry
+
+Girder
+(Lectures: 36-40)
+
+TB, Ch.12
+
+Plastic Analysis
+and Design
+(Lectures: 40-43)
+
+Tutorials plus regular
+
+assignment
+
+Design Project on Analysis and
+Steel
+Structures using Commercial
+
+Design of Framed
+
+Software (Report and
+
+Comprehensive Viva-Voce
+
+Examination)
+
+Class Test (1 No)
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Simple Beam and end connections, design of framed
+connections, design of stiffened seat connection, eccentric
+connections
+
+Design of web, flanges, curtailment of flanges, connection of
+flanges with webs, stiffeners, web and flange splices,
+economic depth of plate girders and Complete design principle
+of plate girder and detailing showing locations and geometry
+of intermediate and bearing stiffeners.
+
+Understand the features of Crane girders and gantry girders,
+evaluation of basic design load effects such as maximum
+bending moment and maximum shear force for gantry girders
+depending upon whether the crane girder is manually or
+electrically operated.
+
+Plastic Analysis, and Design of simple beams and frames,
+shape factors, plastic hinge mechanism, theory of plastic
+bending, ultimate load of beams and simple frames
+
+Percenta
+
+ge
+weightag
+
+Date & | Remarks
+Time
+
+Announced
+
+e
+
+Executed during
+Semester
+be
+completed at least
+
+whole
+and will
+a week before the
+end of the class
+work
+
+in the class
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Teaching Method: Teaching of the subject will be made by combination of power-point presentation and Blackboard
+
+writing. Most of the teaching will be based on blackboard writing. Necessary instructional materials (available and
+prepared by instructor) will also be supplied for ready reference through NALANDA website platform.
+
+*
+The project will be assigned to the students individually or in a group. The students will be working in consultation with instructor
+in-charge. There will be two evaluations (1) Midterm report (5% weightage) (2) Final Report (5% weightage) in the form of term
+paper based on computer analysis and results followed by comprehensive viva-voce examination (10% weightage).
+
+7. Chamber Consultation Hour: 3-5 PM (Monday to Friday)
+
+8. Notices: Civil Engineering Department Notice Boards and/ or through NALANDA website
+
+9, Make-up Policy: Only genuine cases with prior information will be granted makeup for Midterm test and
+Comprehensive examination. However, no makeup will be given for other components of evaluation.
+
+10. Note (if any): Assignments and/ or any class notes may be sent to students through NALANDA website
+platform.
+
+Instructor-in-charge
+Course No. CE F343
+
+E-mail: sbsingh@ pilani.bits-pilani.ac.in; sbsinghbits@ gmail.com
+Mobile: 9414648283; Landline: 01596-255649 (during working hours only)
+

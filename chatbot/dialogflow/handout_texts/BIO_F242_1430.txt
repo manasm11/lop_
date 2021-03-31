@@ -1,0 +1,177 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 15/01/2021
+In addition to part I (General Handout for all courses appended to the timetable) this portion gives
+further specific details regarding the course.
+
+Course No. : BIO F242
+
+Course Title : INTRODUCTION TO BIOINFORMATICS
+InstructorIn charge : SHIBASISH CHOWDHURY
+
+Instructor : Ashish Katyal
+
+1. CROUSE DESCRIPTION:
+
+Introduction to genomic & Proteomics, Biological databases and data mining, sequence similarity
+search and sequence alignment, Protein structure predication and structure analysis, use of software
+package in Bioinformatics.
+
+2. SCOPES AND OBJECTIVE:
+This course designed to impart the beginner wit the fundamentals, which would enable
+
+understanding of the intricacies and vast scope of Bioinformatics. A sampling of the different areas
+required for understanding of this upcoming field will be provided along with in slilico exercises to
+familiarize individuals with different programme packages.
+
+3. Text Books : A. “Introduction to Bioinformatics’”By Arther M Lesk, Oxford,2008 (TB-1)
+B. “Bioinformatics: Principles and Applications”, By Zhumur Ghosh and
+Bibekananda Mallick, Oxford University Press, 2008 (TB-2)
+
+4, Reference Books: A. “Bioinformatics Genome and sequence Analysis” by David W Mount,
+CSHL Press, 2003 (RB-1)
+
+B. “Essential Bioinformatics” by Jin Xiong, Cambridge University Press,
+
+2013 (RB-2)
+
+5. Course Plan
+
+Learning Objectives Learning Outcomes Reference
+Chap/Sec
+(Book)
+
+Introduction What is Bioinformatics, Scope and
+application
+
+Save Paper.
+gy. Save Trees.
+£ > Save the World. — ~~ hee
+
+Please Do Not Print Unless Necessary
+
+     
+    
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+Overview of molecular Nucleic acid Sequence & Structure, Lecture
+
+biology and genetics related to | Protein Sequence & Structure, DNA Notes/A ny
+
+bioinfornatics replication, Transcription, Translation, basic text
+Genetic code, Codon bias book of
+
+Molecular
+Biology
+
+Programming languages Perl/Python/Shell Scipt On line
+relevant to Bioinformatics tool/E
+book
+
+General overview of different | DNA sequencing, Genome sequencing, Lecture
+techniques to generate Protein sequencing, PCR, NMR, X-ray | Notes and
+biomolecular information and | crystallography, Micro array relevant
+analysis papers
+
+Collection & storage of Data | Web resources in Bioinformatics
+
+Lab: Major information resources on
+the Web
+
+Biological Database Primary databases, Secondary databases
+Lab: NCBI and genome databases
+
+Definition of sequence alignment, Chaps
+Method of sequence analysis, (TB 1)
+Dotmatrix, dynamic programming
+algorithms for sequence alignment, use
+of scoring matrix and gap penalties, and Chap
+significance of sequence alignment, 4 (RB-1)
+Multiple sequence alignment, statistical Chap-5
+methods for aiding alignment, Markov | ang ChapSequence Analysis and models, Hidden Markov models, 6 (RB-2)
+alignment position- specific scoring matrices.
+
+Chap-3
+
+Lab: Tools for genome data mining
+
+Lab: Blast and other alignment tools
+
+Save Paper.
+gy. Save Trees.
+** “Save the World. innovate achieve ~—siea
+
+Please Do Not Print Unless Necessary
+
+ 
+   
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, PILANI
+INSTRUCTION DIVISION
+SECOND SEMESTER 2020-2021
+Course Handout (Part II)
+
+ 
+
+32-35 Phylogenetic analysis Tree building and evaluation methods Chapo
+(TB1)
+
+36-37 Gene Prediction Basics of gene prediction algorithms Chaps
+(RB-2)
+38-41 Protein structure prediction | Homology modeling, abinitio structure Chap 6
+prediction, Threading method (TB1)
+
+6. Evaluation Scheme:
+
+Component Weightage% | Date & Time
+Mid-Semester | 90 Mins 25% <TEST 1>
+Test
+
+Surprise Throughout the 29% CB/OB
+Quizes, semester distributed
+assignements | in class as well as in
+tutorial hour
+ee
+
+OB
+
+ 
+
+ 
+
+7. Chamber Consultation Hours: ‘To be announced.
+
+8. Notices: Notices, if any, concerning the course will be displayed on the Notice Board of
+Biological Sciences notice board.
+
+9, Make up Policy: Make up will be given on genuine grounds as determined by the Instructor-in
+charge.
+
+Instructor In Charge
+BIO F242
+
+ 
+
+Save Paper.
+‘Ss Save Trees.
+£ > Save the World. innoygle | achieve lead
+
+Please Do Not Print Unless Necessary
+
+ 
+

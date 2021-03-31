@@ -1,0 +1,262 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F244
+
+Course Title : Highway Engineering
+
+Instructor-in-C harge : Dr. B. S. Shashank
+
+Lecture Instructor : Dr. B. S. Shashank
+
+Tutorial Instructors : Dr. B. S. Shashank & Dr. Sarah Abraham
+
+Practical Instructors : Dr. B. S. Shashank, Dr. Sarah Abraham, R. Manigandan, Farhan M.
+
+Khan, Anant Mishra, & Patil Deshbhushan Savindra
+
+1. Course Description:
+
+Overview of basic characteristics of Transportation systems, social factors and strategic consideration, Road
+development plans, Highway development projects in India, Road Development organizations, Stages in
+highway alignment and Detailed project Report preparation, Introduction to transportation planning,
+Geometric design Standards: Cross section elements, sight distances, horizontal and vertical alignments,
+Pavement Material Characterization: Aggregate testing and blending, Bitumen and Bituminous Concrete
+testing and mixture design protocols, introduction to Superpave Mixture Design protocols, IRC methods for
+the design of flexible and rigid highway pavements, Overview of different stages in flexible and rigid highway
+construction, Overview of Highway Evaluations and Maintenance, Traffic Engineering: Traffic
+Characteristics, Highway capacity and level of service concepts, Traffic measurement and analysis, Traffic
+signals, parking studies and analysis, traffic accidents, Introduction to Intelligent Transportation Systems.
+Exposure to relevant software.
+
+2. Scope and Objective of the Course: The objective of the course is to introduce students to the
+transportation systems, with specific focus on the planning and design of highways.
+
+3. Text Books:
+
+T1. Kadiyali L. R. and Lal, N. B. (2013): Principles and practices of Highway Engineering, K hanna
+Publishes, New Delhi
+
+T2. Khanna, $.K. and Justo A, and V eeraragavan, A. (2015): Highway Engineering, Nem Chand and Bros.
+Roorkee (U.P.)
+
+4, Reference Books:
+R1. Kadiyali L R; Traffic Engineering and Transportation Planning; Khanna Publishers, New Delhi; 2003.
+
+R2. Papacoastas, C. S. and Prevedouros: Transportation Engineering and Planning, Third Edition; Pearson
+Education, 2008
+
+R3. Chakroborty, P. and Das, A., Principles of Transportation Engineering, PHI, New Delhi, 2003.
+R4. Garber, Nicholas J., and Lester A. Hoel. Traffic and Highway Engineering. Cengage Learning, 2014.
+R5. Relevant standards (IS, IRC, ASTM)
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+_— No. of ,
+vou Description °° Reference | Learning Objective
+
+‘ Lectures
+Overview of basic characteristics
+of Transportation systems, social | 1 T1,T2 Understanding IanSPOTanon
+factors and strategic engineering and its needs.
+consideration
+
+Road development plans,
+Highway development projects in 1 T1LT12 Understand the highway
+India, Road Development development in India.
+organizations,
+Stages in highway alignment and
+Detailed project Report TT Understand the highway project
+preparation ,
+and planning
+
+Introduction to transportation PTL TA T2
+planning
+
+iw
+
+-— ~~] OO KO —
+
+Poe T2,
+
+To learn aggregate’s
+characterization for highway
+
+To learn bitumen’s
+; ert T2, ae ;
+Bitumen THT ores for highway
+
+Vo T2,
+
+O1
+
+Aggregate testing and blending
+
+Mixture design protocols
+
+Asphalt mix design
+
+Bituminous Concrete testing
+Mixture performance testing
+
+oe
+Understand the concepts of
+
+9 TL T2 pavement design and learn to
+design flexible and concrete
+pavement
+
+Introduction to Superpave
+Mixture Design protocols
+
+IRC methods for the design of
+flexible
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+wage To learn rigid pavement
+
+Rigid highway pavements T1, T2 structural design
+
+Overview of different stages in T1, T2,
+
+2 flexible and rigid highway 2 To leam highway construction
+
+construction Ro
+Overview of Highway 9 T1, T2, To understand different failures
+Evaluations and Maintenance R5 and their maintenance
+
+4 Cross section elements, , 1 T1, T2
+
+15 Sight distances T1, T2 To learn highway geometric
+
+elements and their design
+
+horizontal and vertical 5 TL T2
+alignments
+
+7 Traffic Characteristics, T1,T2
+
+Highway capacity andlevelot | , T1, T2 To learn traffic flow parameters
+service concepts,
+and their design
+2
+
+Trafic measurement and T1, T2
+analysis,
+
+ 
+
+—
+—
+
+  
+
+—
+
+—
+CO
+
+—
+
+—
+
+20 Traffic signals 1 T1, T2
+
+To understand traffic
+management and safety
+
+21 Parking studies and analysis, T1, T2
+22 Traffic accidents, T1, T2
+
+Introduction to Intelligent .
+Transportation Systems. TM, Te Ovenmaw: ot ITs
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+Co
+
+i)
+
+Mid-Semester Test <TEST 1> CB
+mprehensive 3h 45 <TEST C> CB
+
+Examination
+
+quiz
+
+teponiow (ua) [|B a
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+7. Chamber Consultation Hour: Sat 10:00 AM to 11:00 AM
+8. Notices: Notices, if any, will be communicated through E-mail or in the class
+9, Make-up Policy:
+
+e Make up will be granted only on genuine reasons and will be considered on a case by case basis.
+However, prior permission is a must.
+
+e For medical cases, a certificate must be produced.
+
+e No makeups will be offered for tutorial and practical sessions.
+
+10. Note (if any): Course related instructions will be given in the class throughout the semester.
+
+Laboratory C omponents:
+
+Reference
+
+IS 2720-7
+
+IS 2720-16
+3  _|PenetrationTest CSS 1203
+
+IS 1208
+
+IS 1209
+
+6 | Softening PointTest IS 1205
+
+IS 1206 (Part II)
+_ 8 | AggregateAbrasiontest CTS. 2386 (Part IV)
+_ 9 |ImpactTest CS 2386 (Part IV)
+IS 2386 (Part III)
+1S 2386 (Part I!)
+IS 2386 (Part I)
+| 13 |SpotSpeed STL RI
+
+T1; R3
+
+_ 15 | Marshall MixtureDesign sd TL; RB, RS (MS 2)
+
+Instructor-in-charge
+Course No. CE F244
+

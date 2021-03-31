@@ -1,0 +1,294 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F421
+Course Title : BIOCHEMICAL ENGINEERING
+Instructor-in-C harge : AMIT JAIN
+
+1. Course Description:
+
+Basics of Microbiology and Biochemistry; Introduction to Biochemical engineering, Mass and energy balance
+in microbial processes; Microbial growth, Substrate utilization and product formation kinetics; Medium and
+air sterilization; Enzyme kinetics and immobilized enzyme systems; Design of batch, continuous and fedbatch bioreactors; Transport Phenomena in biological reactors; Scale-up principles for biochemical processes;
+Instrumentation and control of bioprocesses, Bio separations.
+
+2. Scope and Objective of the C ourse:
+
+The objective of the course, as implied by the course content above, is to introduce fundamental biochemical
+engineering and bioprocess technology concepts and their commercial implications to the students from
+chemical engineering. To accommodate those students who do not have the biological background, the
+course will first introduce the basic concepts from microbiology, biochemistry, and the central dogma of
+biology. Subsequently, the emphasis will be on the application of the principles of chemical engineering to
+biological processes.
+
+3. Text Books:
+TB: "Biochemical Engineering Fundamentals" by James E. Bailey and David F. Ollis (2010) 2nd Ed. McGraw Hill
+International Edition.
+
+4, Reference Books:
+
+R1: "Bioprocess Engineering: Basic Concepts" by Michael L. Shuler and Fikret Kargi (2005) Third Indian
+Reprint, Pearson Education.
+
+R2: "Biochemical Engineering" by Harvey W. Blanch & Douglas S. Clark (1997), Marcel Dekker, Inc., New
+Y ork.
+
+R3: "Coulson and Richardson's Chemical Engineering", Vol. 3 by J F Richardson and D G Peacock, 3rd Ed.,
+Asian Books Private Limited, New Delhi.
+
+RA: Will be shared, dynamically, in the classes. Students are advised to remain updated!
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+1. Introduction to L.1.1. Introduction to biochemical O Understanding on engineers
+Biochemical engineering; Biologists and engineers | R1: Ch.-1 and biologist roles.
+Engineering; perspective; Handout discussion.
+
+Basics of Biology
+L.1.2 - L.1.3. Basics of biology; oO Remembering the basics of
+Overview of biotechnology; Diversity | 2; microbiology.
+in microbial cells, Cell constituents, g Evaluating bacterial species
+Chemicals for life.
+
+L.1.4. Current state of the art R4 oO Keeping updated with the
+latest developments within
+this module
+
+2. Enzyme- L.2.1 - L.2.2. Enzyme kinetics: oO Evaluating enzyme catalyzed
+catalysis: Introduction, Mechanistic models, reaction rates. Create
+Reaction kinetics | experimental determination of rate oO Enzyme-catalyzed reaction
+& application parameters, Effects of pH and models.
+
+temperature, insoluble substrate.
+
+L.2.3 —L.2.4. Immobilized enzyme
+systems: Enzyme immobilization
+methods, their limitations &
+applications, Immobilized enzyme
+kinetics.
+
+L.2.5. Current state of the art
+
+M Keeping updated with the
+latest developments within
+this module
+
+3. Bioenergetics and | L.3.1 - L.3.2. Metabolic stoichiometry | TB: Ch.-5; | g Understand various
+Metabolic and energetics: Major metabolic metabolic pathways and cell
+Pathways pathways, Respiration, Nitrogen energetics.
+
+Fixation, Biosynthesis, Transport
+across cell membranes.
+
+L.3.3. Current state of the art O Keeping updated with the
+latest developments within
+this module
+
+A, Stoichiometry and | L.4.1 —L.4.3. Cell growthin batch & | TB: Ch-7; | g Evaluating growth yield and
+Kinetics of continuous cultures; Growth kinetics yield coefficients. Analyzing
+Cell Growth & quantification oO cell growth, product
+
+Product L.4.4. Stoichiometric calculations, formation and kinetics.
+Formation Y ield and yield coefficients.
+
+ 
+ 
+
+9. Transport
+Phenomena,
+Scale-up and
+Sterilization in
+Bioprocess
+systems
+
+Bioreactor design
+and analysis
+
+Instrumentation
+and control of
+bioprocesses
+
+Product
+purification and
+recovery
+
+L.4.5. Current state of the art
+
+L.5.1 —L.5.2. Gas-liquid mass transfer} TB: Ch.-8
+in cellular systems, Forced convective | R1: Ch.-10
+mass transfer, Scaling of mass
+transfer equipment
+
+L.5.3. Heat transfer in bioprocess
+systems and various correlations
+
+L.5.4. Sterilization of bioprocess
+
+fluids
+
+L.5.5. Current state of the art
+
+L.6.1 — L.6.3. Submerged liquid
+fermentation bioreactors - batch,
+continuous, semi-continuous,
+combination of reactors; Reactors for
+enzyme reactions and immobilized
+cells.
+
+L.6.4. Current state of the art
+
+L.7.1 —L.7.3. Physical and chemical
+sensors for the medium and gases, Online/Off-line sensors, Computers and
+interfaces, Data analysis, Process
+control, Machine learning
+
+L.8.1 — L.8.3. Strategies, separation of
+soluble and insoluble products, cell
+disruption, purification and integration
+of processes.
+
+L.8.4. Current state of the art
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Keeping updated with the
+latest developments within
+this module
+
+Understanding mass/heat
+transfer, scale-up and
+sterilization issues in
+biological systems.
+Analyzing relevant
+dimensionless numbers and
+their significance.
+
+Keeping updated with the
+latest developments within
+this module
+
+Analyzing and evaluating
+various reactor
+configurations.
+
+Creating efficient reactor
+configuration for optimal
+conversion.
+
+Keeping updated with the
+latest developments within
+this module
+
+Understanding limitations of
+actual process-control
+strategies for bioreactors in
+comparison to other
+established industries (e.g.
+petrochemicals) and
+ideas/opportunities to
+improve this situation
+Understanding existing
+downstream processes.
+Applying engineering
+principles for product
+separation.
+
+Keeping updated with the
+latest developments within
+this module
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+9, Bioprocess L.9.1 — L.9.2. Process economics, Understanding economic
+Economics Bioproduct regulation, Industrial and regulatory aspects of
+production of fine chemicals, bulk bioprocesses and keeping
+oxygenates etc., Anaerobic methane updated with current state of
+production the art
+
+10. Industrial} L.10.1 — L.10.3. Introduction to mixed | TB: Ch.13 Understanding the mixed
+Utilization of cultures, Models for mixed culture & Ch. - culture.
+Mixed Cultures interaction, Case studies, Applications | 14. Envisioning utility and
+of mixed cultures in the long-term R1: Ch.16; dynamics of mixed cultures
+Space missions RA for various applications
+
+ 
+
+6. Evaluation Scheme:
+Duration | Weightage ; Nature of component
+Mid-Semester As announced by Oven Book
+Examination AUGSD P
+
+In-Class &
+
+Project: Presentations | Take-home
+
+& Report (15-20 per
+group)
+
+Equally spreaded
+throughout the semester Open Book
+(February onwards)
+
+pm | 8
+Comprehensive As announced by
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+8. Notices: All the notices would be put up on the Google Classroom.
+
+9, Make-up Policy: Make-up request for the mid-semester examination is to be submitted 7 days in advance
+of the exam (or within 72 hrs. in case of medical emergency). For comprehensive examination the
+request is often made to AUGSD.
+
+e Itis mandatory to submit the necessary supporting documents (such as: listed below) along with
+make-up request:
+o Letter of invitation/selection for a national/international event where the applicant is
+representing BITS Pilani.
+o Proof of hospitalization, medical certificate, prescription, medicine purchase bill, etc.
+o Network outage (state wide/city wide/region wide) announcement in public media.
+e There is no makeup for the project presentations. However, students can mutually change the dates
+with permission from I/C.
+
+10. Note (if any):
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+¢ Students have to adhere to the class timings and participate in class room discussion.
+¢ Attending classes would certainly make difference in learning & marks would reflect the same.
+
+Instructor-in-C harge
+Course No. CHE F421
+

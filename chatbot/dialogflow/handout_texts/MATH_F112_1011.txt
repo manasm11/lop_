@@ -1,0 +1,225 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-2021
+Course Handout (Part-II)
+Date: 10 March 2021
+In addition to Part-I (General Handout for all Courses appended to the time table) this portion
+gives further specific details regarding the Course.
+
+Course No. : MATH F112
+
+Course Title : MATHEMATICS-II
+
+Instructor-in-charge 1: JITENDER KUMAR
+
+Instructors : Amol Holkundkar, Ashish Tiwari, Balram Dubey, Bhupendra Kumar
+
+Sharma, Devendra Kumar, Gaurav Dwivedi, Krishnendra Shekhawat,
+Sangita Y adav, Sandipan Dutta, Santhosh Kumar Pamula, Sourav
+Kumar Sasmal, Trilok Mathur.
+
+1. Scope and Objective of the Course: The course is meant as an introduction to Linear
+Algebra and Theory of Functions of Complex Variable and their applications.
+
+2. Course Description: System of linear equations, Vector spaces, Basis and dimension of
+vector spaces, Linear transformations, Range and kemel, Eigenvalues and eigenvectors.
+
+Function of complex variables and their analyticity, Elementary functions, Integration,
+Taylor and Laurent series expansions, Calculus of residues and its applications.
+
+3. Text Books:
+
+(i) Elementary Linear Algebra with Supplemental Applications by H. Anton and Chris
+Rorres, 11" Edition, 2014, John Wiley & Sons.
+
+(ii) Complex Variables and Applications by R.V. Churchill and J.W. Brown, 8" Edition,
+2014, McGraw-Hill.
+
+4, Reference Books:
+
+(i) Elementary Linear Algebra by S. Andrilli and D. Hecker, 4" Edition, 2012, Elsevier.
+
+(ii) Introductory Linear Algebra: An Applied First Course by Bernard Kolman and David R.
+Hill, 9" Edition, 2014, Prentice Hall.
+
+(iii) Introduction to Linear Algebra with applications by J. Defranza and D. Gagliardi,
+2012, McGraw-Hill Education.
+
+(iv) A First Course in Complex Analysis with Applications by Dennis G. Zill & Patrick
+Shanahan, 2 Edition, 2009, Jones & Bartlett.
+
+(v) Complex Variables with Applications by A. D. Wunsch, 3% Edition, 2004, Pearson
+
+Education
+
+Save Paper.
+we.) Save Trees.
+— dg... ny £ © ASave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Module No.
+
+A. LINEARALGFBRA (Text Book (i))
+
+1 System of linear | L1-L4 Introduction to Systems | 1.1, — 1.2, | Solving system of linear equations
+equations and | of Linear Equations, Gaussian | 1.5, 1.6 and finding inverse of a matnx
+elementary row | Elimination, Elementary using row operations
+operations on | Matrices and finding inverse
+matrices of a matrix using elementary
+
+row operations
+
+2 Concepts of real | L5-L8 Real Vector Spaces, | 4.1 - 4.3 Introduction to abstract vector
+vector spaces and | Subspaces, Linear Spaces, finite dimensional vector
+Subspaces Independence Spaces and related concepts.
+
+3 Concepts of | L9-L12 Basis, Dimension, | 4.4 - 4.5, Finding minimal subset of a vector
+
+basis, dimension | Row Space, Column Space, | 4.7 - 4.8 Space to generate the complete
+
+and rank of aj|and Null Space, Rank, Nullity vector space.
+
+matnx
+
+4 Linear | L13-L15 General Linear | 8.1 - 8.3 Students will be able to
+
+Transformation Transformations, Dimension understand basic properties of
+
+and properties theorem for linear linear transformations and to
+transformations, Isomorphism check whether the transformation
+
+is invertible or not.
+
+5 Coordinate | L16-L17 Coordinates, Change | 4.4, 4.6, 8.4 | Applying coordinate
+representation and | of Basis, Matrices for General representation to compute matnx
+applications Linear Transformations of a linear transformation
+elgenvectors elgenvectors. elgenvectors.
+
+B. COMPLEX ANALYSIS (Text Book (ii))
+
+7 To revise the | L19- L20: Review 1-11 Quick revision of complex
+basic concepts of numbers and their properties.
+complex numbers
+
+8 To introduce | L21 Functions of a complex | 12,15-18 | Students will be able to evaluate
+continuity and | variable. Limit and continuity the limits and continuity of
+analyticity of functions in complex plane.
+
+functions of aj/L22-L24 Derivative, CR- | 19- 26 Students will be able to check the
+complex variable | equations, analytic functions, analyticity of a complex valued
+
+harmonic functions function.
+
+9 To introduce | L25-L28 Exponential, | 29 - 36 The present module develops an
+elementary trigonometric and hyperbolic understanding of basic
+functions in | functions. Logarithmic elementary functions, multiple
+A Save Paper.
+“ee. Save Trees.
+# Save the Word
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+; Complex valued function, branch cut and
+
+inverse_ functions branch point
+10 To introduce | L29-L30 Contour integrals, | 37 - 44 Integration along a curve
+complex anti- derivatives complex plane.
+eee
+
+Contour | L31-L32 Cauchy-Goursat | 46, Students will be able to
+es and | Theorem, Cauchy Integral | 48 - 52 understand techniques to find
+Applications Formula, Morera’s Theorem, integrals of different functions
+
+Cauchy’s Inequaliy over particular contours.
+
+L33 Liouville’s Theorem, 53 Application of complex variable
+Fundamental Theorem of theory in A bstract Algebra.
+Algebra
+
+12 To introduce | L34 Taylor series, Laurent | 60, 62 | The present module develops an
+series expansion, understanding of series expansion
+residues and of a function analytic in an
+applications annular domain and different
+types of singular points.
+Residue Theorem, zeros singular points.
+13 Computing L37 Improper real integrals, 78-81, 85 | Application complex
+
+improper integration to melanie improper
+integrals real integral.
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+No. Component — Component
+ae Mid Semester Exam / | Closed/Open Book _|
+
+each_
+
+ComprehensiveExam | 120min, | 40 | ~————_| Closed/ Open Book
+
+ 
+
+7. Chamber Consultation Hours (CCH): To be announced in the respective tutorial class by the respective
+instructor and Google meet link will be shared for the same. Before to join google meet for CCH, students are
+advised to inform well in advance to the respective instructor through mail.
+
+8. Notices: All notices in relation to the above course will be put up on NALANDA/ Google Classroom.
+
+eB Save Paper.
+Save Trees.
+\Save the World.
+
+ 
+
+innovate achieve lead
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+9. Make-up policy: Makeup for the evaluation components will be given to genuine cases with prior permission
+only.
+
+Jitender Kumar
+Instructor-In-Charge
+MATH F112
+
+hen Save Paper.
+| es), Save Trees.
+£7 ASave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+innovate achieve
+
+ 
+

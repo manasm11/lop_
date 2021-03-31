@@ -1,0 +1,333 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER, 2020-2021
+
+Course Handout
+14/01/2021
+
+In addition to part I (General Handout for all courses appended to the time table) this portion gives further specific details
+regarding the course.
+
+Course Number : CS F212
+
+Course Title : Database Systems
+
+Instructor-in-charge : Dr. Amit Dua (amit.dua@ pilani.bits-pilani.ac.in)
+
+Instructor(s) : Prof. Mukesh Kumar Rohil (rohil@ pilani.bits-pilani.ac.in)
+
+Practical Instructors:
+
+Prof. Mukesh Kumar Rohil (rohil@ pilani.bits-pilani.ac.in)
+Dr. Amit Dua (amit.dua@ pilani.bits-pilani.ac.in)
+
+Upendra Singh (p20170428@ pilani.bits-pilani.ac.in)
+Abhishek Vyas (p20180407@ pilani.bits-pilani.ac.in)
+
+1. Scope and Objective of the course
+
+The scope of the course is the basic concepts and implementation issues of a Database System. This course is
+intended to give students a solid background in databases, with a focus on relational database management
+systems. Topics include data modeling, database design theory, data definition and manipulation languages,
+storage and indexing techniques, query processing and optimization, concurrency control and crash recovery.The
+emphasis is on learning the concepts through rigorous mathematical foundations and implementation details. The
+course also introduces the challenges posed by Big Data on database technology and the recent emergence of
+Non-relational databases.
+
+2. Text Book
+Silberschatz A, Korth H F, &Sudarshan S$, Database System Concepts, 7e, TMH, 2019.
+
+3. Reference Books
+R1. Elmarsi R, & Navathe S B,Fundamental of Database System, 7e, Pearson Education, 2016.
+R2. Ramakrishna R. & Gehrke J, Database Management Systems, 3e, Mc-Graw Hill, 2014.
+
+4. Lecture Plan
+Week ania: ; i Reference
+: Learning Outcome
+session
+
+a
+
+4
+
+Objectives/Motivation TB: Ch. 1, 2
+Evolution of Database Systems R1:Ch. 1, 2
+
+Overview of aDBMS
+
+Advantages of aDBMS
+
+Recent Advances in Database Technology
+Database System A rchitecture
+
+Overview of Data Modeling
+
+Introduction to Database
+Systems and Data Modeling
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+  
+      
+  
+
+ 
+  
+
+2 = Relational Model Concepts
+4-6 Understanding Relational = Entity-Relationship (ER) Modeling
+Model = Enhanced ER (EER) Modeling
+
+ER, EER to Relational model
+
+  
+  
+  
+ 
+
+  
+  
+
+    
+  
+  
+ 
+
+   
+ 
+     
+ 
+ 
+   
+   
+
+Normalization Multi-valued dependencies: 4NF
+
+oin Dependencies-5NF, PJ NF
+
+3 and 4 = Functional Dependencies TB: Ch. 7
+Database Design through = Normal Forms: 1NF,2NF,3NF, BCNF R1:Ch.14, 15
+7-12 Functional Dependencies & | * Criterion for Good Database Design
+
+   
+
+= Relational Algebra
+= Relational Calculus
+
+=  Tuple Relational Calculus
+
+= Domain Relational Calculus
+= SQL (to be covered in Lab. Sessions)
+
+id Semester Examination
+
+TB: Ch. 2, 3,4,5
+R1:Ch. 6, 7, 8
++ Class Notes
+
+   
+    
+ 
+  
+ 
+ 
+ 
+ 
+ 
+
+   
+ 
+
+  
+  
+ 
+
+13-16 Query Languages
+
+  
+ 
+ 
+
+ 
+ 
+
+ 
+
+M
+
+ 
+     
+  
+
+File Organizations
+
+   
+ 
+ 
+     
+ 
+ 
+ 
+  
+
+6,7 . TB: Chs, 12-14
+= Organization of Records in Files R1:Chs. 16, 17
+= RAID
+= Indexing Structures
+
+ 
+   
+ 
+ 
+ 
+   
+ 
+
+  
+
+17-22 Data Storage & Indexing = Primary & Secondary Indexes
+Tree-structured Indexes
+Hash-based Indexes
+Multidimensional Indexes
+
+Bitmap Indexes
+
+  
+   
+
+TB: Chs. 15,16
+R1:Chs. 18,19
+
+Introduction to Operator Evaluation
+Algorithms for Relational Operators
+sorting
+
+Cost-based Optimization
+Heuristic-based Optimization
+
+View Materialization
+
+ 
+  
+  
+    
+   
+  
+
+  
+ 
+ 
+
+Query Processing &
+
+23-28 Optimization
+
+ 
+  
+  
+
+   
+  
+
+TB: Chs. 17
+R1: Chs. 20, 21
+
+Transaction Management Overview
+= Serial Schedule & Serializability
+o Conflict Serializability
+o View Serializability
+o Testing for Serializability
+= Recoverability &Cascadeless
+Schedules
+
+ 
+   
+ 
+   
+   
+     
+   
+ 
+
+   
+
+Transaction management
+
+10
+29-31
+11 Concurrency Control TB: Chs. 18, 19
+= Locking R1: Chs. 17, 18
+32-34 Concurrency Control « _Time-stamping
+&Crash Recovery Crash Recovery
+= Log-Based
+= Shadow Paging
+
+ 
+
+     
+   
+ 
+ 
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Overview 7 of Big D Data, Specialty databases & | TB: Chs. 20- 23
+
+Advanced Topics study NoSQL Databases RA: 25. 25 ,
+ass Notes
+
+5. Evaluation components
+Component Duration Weightage(% ) Eire & Mode
+Time
+20 minutes 10 (30 marks) 18 Feb (Th)
+
+a0 Omak) | TEST 1>_| Open Book
+10 (30 marks) 1s April (Th) eo
+10 (30 marks) 15" April (Th)
+
+Comprehensive Exam 40 (80 marks) <TEST C> ————— Open
+
+ 
+
+6. Labs
+A 2-hour, supervised lab, will be organized every week. The labs will focus on learning SQL and a suitable host language.
+No marks for attendance. There will be a quiz which will have questions based on the topics/concepts covered in labs.
+
+7. Make-up Policy
+Make-up will be granted strictly on prior permission and for genuine reasons only.
+8. Chamber Consultation Hours:
+
+Amit Dua: Monday 5-6 PM
+Prof. Mukesh Kumar Rohil Tuesday 4-5 PM
+Upendra Singh Saturday 4-5 PM
+Abhishek Vyas Monday 3-4 PM
+
+9. Notice: All the notices will be put up on NALANDA only.
+
+Instructor in C harge
+CS F212
+

@@ -1,0 +1,252 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+Date: 16 Jan 2021
+
+In addition to part-I (General Handout for all courses appended to the time table) this portion gives
+further specific details regarding the course.
+
+Course No. : MBA G561
+
+Course Title : Business Analytics
+Instructor-in-charge : Nirankush Dutta
+
+Instructor : Nirankush Dutta & Udayan Chanda
+
+1. Scope and Objective of the Course:
+
+Business analytics refers to the ways in which enterprises such as businesses, non-profits, and
+governments can use data to gain insights and make better decisions. Business analytics is
+applied in operations, marketing, finance, and strategic planning among other functions. The
+course emphasizes that business analytics is not a theoretical discipline: these techniques are
+only interesting and important to the extent that they can be used to provide real insights and
+improve the speed, reliability, and quality of decisions. The concepts learned in this course
+should help to identify opportunities in which business analytics can be used to improve
+performance and support important decisions. It should make a manager alert to the ways that
+analytics can be used — and misused — within an organization.
+
+In this course, students will learn to identify, evaluate, and capture business analytic
+opportunities that create value. Toward this end, students will learn basic analytic methods
+and analyze case studies on organizations that successfully deployed these techniques. In the
+first part of the course, we focus on how to use data to develop insights and predictive
+capabilities using machine learning, data mining and forecasting techniques. In the second
+part, we focus on the use of optimization to support decision-making in the presence of a
+large number of alternatives and business constraints. Finally, throughout the course, we
+explore the challenges that can arise in implementing analytical approaches within an
+organization.
+
+We have three goals in this course. The first is to help you think critically about data and the
+analyses based on those data — whether conducted by you or someone else. The second is
+to enable you to identify opportunities for creating value using business analytics. The third
+is to help you estimate the value created using business analytics to address an opportunity.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Business analytics is an integral part of modern management — this course should provide
+you with the foundation you need to understand and apply these methods to drive value.
+
+2. Text Book:
+
+Camm, J., Cochran, J., Fry, M., Ohlmann, J., & Anderson, D. (2014). Essentials of Business Analytics
+South-Western College Publishing; International edition.
+
+Reference Books:
+
+R1 Albright, S., & Winston, W. (2014). Business analytics: Data analysis & decision making.
+Nelson Education..
+
+R2 Jank, W. (2011). Business analytics for managers. Springer Science & Business Media.
+
+R3 Parr-Rud, O. (2014). Business Analytics Using SAS Enterprise Guide and SAS Enterprise
+Miner: A Beginner's Guide. SAS Institute.
+
+R4 Camm, J., Cochran, J., Fry, M., Ohlmann, J., & Anderson, D. (2014). Essentials of Business
+Analytics. Nelson Education.
+
+3. Course Plan:
+
+Lecture Ref. To
+Learning Objectives Topics to be Covered “so Text book
+
+Introduction to Decision Making, Business Analytics Defined, A Chapter1+
+Business Analytics Categorization of Analytical Methods and Models, class notes
+Big Data, Business Analytics in Practice
+Descriptive Statistics | Overview of Using Data: Definitions and Goals, Chapter2+
+Types of Data, Modifying Data in Excel, Creating class
+Distributions from Data, Measures of Location, notes+
+Measures of Variability, Analyzing Distributions, Cases
+Measures of Association Between Two Variables,
+Data Cleansing, Case Problem
+Data Visualization Overview of Data Visualization, Tables, Charts, Chapter3+
+Advanced Data Visualization, Data Dashboards, class
+Case Problem notes+
+Cases
+Descriptive Data Cluster Analysis, Association Rules, Text Mining, Chapter4+
+Mining Case Problem class
+notes+
+Cases
+
+ 
+ 
+
+Probability &
+Statistical Inference
+
+Predictive
+Mining
+
+Spreadsheet Models
+
+Monte Carlo
+Simulation
+
+Linear Optimization
+Models
+
+Integer Linear
+Optimization
+Models
+
+Optimization Models
+
+Discrete Probability Distributions, Continuous
+Probability Distributions, Selecting a Sample, Point
+Estimation, Sampling Distributions, Interval
+Estimation, Hypothesis Tests, Big Data, Statistical
+Inference, and Practical Significance, Case Problem
+Data Sampling, Preparation, and Partitioning,
+Performance Measures, Logistic Regression, kNearest Neighbors, Classification and Regression
+Trees, Case Problem
+
+Building Good Spreadsheet Models, What-If
+Analysis, Some Useful Excel Functions for Modeling,
+Auditing Spreadsheet Models, Predictive and
+Prescriptive Spreadsheet Models, Case Problem
+Risk Analysis, Simulation Modeling, Simulation
+with Dependent Random Variables, Simulation
+Considerations, Verification and _ Validation,
+Advantages and Disadvantages of Using Simulation,
+Case Problem
+
+A Simple Maximization Problem, A _ Simple
+Minimization Problem, Special Cases of Linear
+Program Outcomes, Sensitivity Analysis, General
+Linear Programming Notation and More Examples,
+Generating an Alternative Optimal Solution for a
+Linear Program, Case Problem
+
+Types of Integer Linear Optimization Models,
+Solving Integer Optimization Problems with Excel
+Solver, Applications Involving Binary Variables:
+Capital Budgeting, Fixed Cost 618
+
+Bank Location, Product Design and Market Share
+Optimization, Modeling Flexibility Provided by
+Binary Variables, Generating Alternatives in Binary
+Optimization, Case Problem
+
+An Unconstrained Problem, A_ Constrained
+Problem, Solving Nonlinear Optimization Models
+Using Excel Solver, Sensitivity Analysis and Shadow
+Prices in Nonlinear Models, Local and Global
+Optima, Overcoming Local Optima with Excel
+Solver, A Location Problem, Markowitz Portfolio
+Model, Forecasting Adoption of a New Product,
+Case Problem
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Chapter5 &
+6+
+class
+notes+
+Cases
+Chapter9+
+class
+notes+
+Research
+papers
+
+Chapter10
++ class
+notes+
+Cases
+
+Chapter11
+
++
+class
+notes+
+Cases
+
+Chapter12
++class
+notes+
+Cases
+
+Chapter13
++class
+notes+
+Cases
+
+Chapter14
++class
+notes+
+Cases
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+4, Evaluation Scheme:
+
+oer
+0
+
+| MidSemester Semester | 90 minutes _| minutes
+
+——__
+
+Quiz
+Comprehensive — minutes — ——
+
+ 
+
+5. Chamber Consultation Hours: Wednesday 12:00 PM to 1:00 PM (except holidays). For
+emergency, students may send a mail to the concerned faculty member for scheduling an appointment
+
+at a convenient time.
+
+6. Notice: Notices concerning this course will be announced through Google Classroom.
+7. Make-up Policy:
+
+If the student is unable to appear for the Regular Test/ Examination due to genuine exigencies, the
+student must refer to the procedure for applying for Make-up Test/ Examination. The instructor must
+be informed prior to the evaluation component. Make-up for Quizzes, Assignment, Case Studies and
+
+Projects will not be granted.
+10. Note:
+
+1. It will be the responsibility of the individual student to be regular in maintaining self-study schedule
+as given in the course handout, attend lectures, submit assignments for evaluation and present any
+
+assignment, as per the schedule announced.
+
+2. All deadlines, as mentioned in the class, have to be strictly adhered to. Failure to do so will result in
+
+deduction of partial / full marks for that submission.
+

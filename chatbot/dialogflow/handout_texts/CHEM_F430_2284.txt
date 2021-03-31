@@ -1,0 +1,196 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ugdSECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHEM F430
+Course Title : Atmospheric C hemistry
+Instructor-in-C harge : Shamik Chakraborty
+
+1. Course Description: Measures of atmospheric compositions, Atmospheric pressure, Models to explain
+variation in concentration of chemical species in atmosphere, Atmospheric transport, Continuity equation to
+provide quantitative measures about the variation of concentration of various chemical species in atmosphere,
+Geochemical cycles, Photochemistry, the Green House Effect, Aerosols, Chemical Kinetics, Stratospheric
+ozone, Oxidation in troposphere, Ozone air pollution, Acid rain.
+
+2. Scope and Objective of the Course: The fundamental concepts of Atmospheric Chemistry would be
+provided in this course in a systematic and organized manner. Simple principles of mathematics, physics, and
+chemistry would be employed to describe a complex system, such as, atmosphere. The complexity of the
+system would be reduced logically to develop various models. The fundamental knowledge of atmospheric
+chemistry, along with the description of experiments that lead to the current status would be discussed in this
+course. Atmospheric chemistry is mostly an observational science. Some of those concepts would also be
+introduced in this course.
+
+3. Text Books: "Introduction to Atmospheric Chemistry", Daniel J Jacob, Princeton University Press, Princeton,
+New Jersey, 1999.
+
+4, Reference Books: RB-1: “Atmospheric Chemistry and Physics: From Air Pollution to Climate Change”
+John H. Seinfeld and Spyros N. Pandis, John Wiley & Sons, Inc., Hoboken, New Jersey, 2016.
+
+RB-2: “Atmospheric Thermodynamics”, Gerald R. North and Tatiana L. Erukhimova, Cambridge University
+Press, New Y ork, 2009.
+
+9. Learning Outcome of the Course: After completion of the course students are expected to:
+
+e Predict the fate of molecules and radicals in atmosphere.
+
+e Qualitatively explain and quantitatively calculate photolysis rate constant.
+e Explain basic principles of greenhouse effect.
+
+e Qualitatively explain production and destruction of ozone.
+
+e Predict degradation pathways of natural and anthropogenic trace gases.
+ 
+
+6. Course Plan:
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+1; Atmospheric
+parameters
+
+2: Atmospheric
+models
+
+3: Chemistry in
+atmosphere
+
+4; Ozone in
+atmosphere
+
+L1.1; Mixing ratio, Number density, TB-1 1.1- 1.3 | Recognize parameters,
+Partial pressure such as, composition,
+
+ 
+
+  
+      
+
+   
+  
+  
+  
+
+L1.2: Measurement: mass of atmosphere, | TB-12.1—2.5 | temperature, pressure, to
+vertical profile of pressure, Barometric describe atmosphere
+law, Sea-Breeze circulation
+L2.1 —L2.2: One-box model, concept of TB-1 3.1 —3.3 | Implement simple models
+to determine change in
+atmospheric parameters
+
+life time, mass balance equation, Multibox model, Puff model
+
+L2.3 — L2.5: Geostrophic flow, general TB-1 4.1 -4.4
+circulation, vertical transport, latent heat
+release from cloud formation, turbulance
+
+L2.6 — L2.7: Eulerian form and TB-15.1- 5.2
+Lagrangian form Class
+discussion
+
+L3.1 —L3.5: Geochemical cycling of
+
+TB-1 6.1— 6.5 | Comprehensive
+elements, early evolution of atmosphere, Class understanding of chemical
+nitrogen cycle, oxygen cycle, carbon cycle discussion | processes undergoes in
+atmosphere
+
+  
+
+L3.6 —L3.10: Factors affecting light flux,
+
+Quantitative spectroscopy, Rates of
+
+photolysis, photodissociation
+
+L3.11 — L3.13: Radiation, effective TB-1 7.1— 7.6
+temperature of earth, absorption of
+
+radiation by atmosphere, radiative forcing,
+
+water vapor and cloud feedback, optical
+
+depth
+
+L3.13 — L3.15: Sources and sinks of TB-1 8.1- 8.2
+aerosols, radiative effects: scattering,
+visibility reduction, perturbation to climate
+
+L16—1L19: Rate expressions for gas-phase | TB-1 9.1— 9.4
+reactions, bimolecular reactions, three
+
+body reactions, reverse reactions, chemical
+
+equilibrium, photolysis, radical assisted
+
+reaction chain
+
+L4,1 —L4.4; Chapman mechanism, Mechanism towards
+catalytic loss cycles (HOx, NOx, ClOx), formation and destruction
+Polar ozone loss: mechanism, PSC of ozone
+
+formation, ozone holes
+
+L4.5 — L4.7: Hydroxy] radical, global
+budgets of CO & CHa, Cycling of HOx
+and production of ozone, global budget of
+nitrogen oxides and tropospheric ozone,
+anthropogenic influence on ozone and OH
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+3: Pollutionin | L5.1—L5.3: Air pollution and ozone, Ozone air pollution and
+atmosphere ozone formation and control strategies, acid rain
+
+ozone production efficiency.
+
+L5.4—1L5.5: Chemical composition of
+
+precipitation, sources of acids: sulfur
+
+chemistry, effects of acid rain, emission
+
+trends
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open Book)
+Mid-Semester Test <TEST 1> Close book & open book
+
+Examination
+$ Continuous pf Close book & open book
+evaluation
+
+7. Chamber Consultation Hour: Will be declared in the class
+8. Notices: Will be displayed in Nalanda/Google Class Room
+9, Make-up Policy: According to general guideline of the institute.
+
+ 
+
+10. Note (if any): Atmospheric chemistry is an observational science. An effort will be made to present
+experimental data in the lectures. A dvanced topics will be provided for short project in the area of atmospheric
+chemistry and physics.
+
+Instructor-in-charge
+Course No. CHEM F430
+

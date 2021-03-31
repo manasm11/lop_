@@ -1,0 +1,179 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : BIO F244
+
+Course Title : Instrumental Methods of Analysis
+
+Instructor-in-C harge : PANKAJ KUMAR SHARMA
+
+Instructor(s) : PR Deepa
+
+Practical Instructors : PR Deepa, Pankaj K Sharma, Monika Paul, Tripti Joshi, Sumit K Mandal,
+
+Garima Singh, Anirudha K Sahu, Subhashree Chatterjee
+
+1. Course Description: The advent of dedicated bio-instruments and computers has facilitated an explosive
+progress in the instrumental methods of analysis in biology. Large number of data points, whether they are
+physicochemical or biological, can be collected, stored, manipulated and analyzed with a high precision with
+the help of modem sophisticated instruments having high sensitivity, selectivity, and extremely low detection
+limit.
+
+2. Scope and Objective of the Course: This course aims at providing a sufficient background of these
+instruments, their handling and application, in the field of molecular biology, structural biology and
+biotechnology.
+
+3. Text Books: “Instrumental Methods of Analysis”, B. Sivasankar, Oxford Higher education 2012;
+appropriate reading material will also be provided
+
+4, Reference Books: R1. “Principles and Techniques of Biochemistry and Molecular Biology”, Wilson and
+Walker, 7“ Ed.
+
+Suggested Reading: 1. “Instrumental Methods of Analysis”, Williard et. al., CBS Publication, New Delhi, 7”
+ed., 1998. 2. “Handbook of Analytical instruments”, R.S. Khandpur, Tata Mc Graw- Hill, 24 edition, 2006.
+
+5. Course Plan:
+
+Module No. Lecture Session Reference * Learning outcomes
+
+1. Introduction to the | L1: Introduction to Instrumental Methods | T-1 Students will get the big
+
+course picture of studying this
+course
+
+2. Spectrophotometric | L2-L4: Characteristics of atomic and | T-1, R-1 Students will learn how to
+analytical techniques | molecular spectroscopy; Visible and analyze biomolecules
+Ultraviolet Spectroscopy; Fluorescence based on their optical
+
+Spectroscopy; Infrared Spectroscop properties
+
+3. Chromatographic | L5-L7: Basic principles, Thin Layer) T1, R1 Students will leam
+purification Chromatography; Gas chromatography; different methods to
+techniques High Performance Liquid separate biomolecules
+
+Chromatography based on their affinity to
+certain matrix or medium
+
+ 
+
+4. Molecular | L8-L10: Centrifugation; Introduction to | R-1 Students will get
+separation and | Electrophoresis; Separation and acquainted to a _ few
+analysis molecular methods used in
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+detection of DNA and proteins by biological science research
+agarose gel electrophoresis and SDSPAGE; Separation of cells by Flow
+Cytometry
+3. Microscopic | L11: Various types of microscopy e.g., - Students will learn how to
+Analysis phase contrast microscopy, fluorescence use Various microscopes to
+
+microscopy, FE-SEM, TEM, AFM, observe cell and cellular
+
+Laser scanning Confocal Microscopy structures.
+
+6. Conclusion L12: Concluding/summarizing the Students will understand
+course the relevance and
+combined usage of these
+techniques in
+research/industry
+
+* Relevant research/review articles will be discussed to understand the applications of the techniques.
+
+ 
+
+Lab Experiments:
+The experiments will be classified in the following headings - spectrophotometry, chromatography,
+
+molecular detection and/or microscopy. The specific experiments would be as follows (the order of
+performance may be subject to change):
+
+1: Purification and analysis of molecules by TLC
+
+2: Purification and analysis of molecules by HPTLC
+
+3: Purification and analysis of molecules by Gas chromatography
+
+4: Purification and analysis of molecules by HPLC
+
+9. Purification of molecules by Gel-filtration chromatography
+
+6. Qualitative and quantitative analysis of given sample using UV-Vis spectrophotometry
+7: Spectrofluorimetric estimation of quinine sulphate and fluorescence quenching of the same by
+potassium iodide
+
+8: Separation and characterization of proteins by SDS-PAGE
+
+9: Analysis of the chemical structure of molecules using FTIR spectroscopy
+
+10: Detection and characterization of cancer cells by flow cytometry
+
+Note: Minor changes are possible subject to availability of chemicals/instruments.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage | Marks (200M) | Date & Time (As per Nature of
+AUGSD notice) component
+(Closed Book/
+Open Book)
+
+Mig: Semester Tes aEST1> | CBIOB
+OM
+
+Comprehensive 120 min 40% 8 <TEST C>
+Examination (for testing
+
+of concepts learnt in
+
+both theory and
+
+practical classes)
+
+Lab Records 12.5% | 25M | Continuous, |
+12.5%
+
+asioman a tone
+
+ 
+
+Guidelines to Writing Lab Records: The experiments should be written on hardbound, covered practical
+files. It should include the following: Objective, Principle, Materials required, Procedure, Results, Inference,
+Precautions & Applications. The record book should be wnitten during lab hour.
+
+7. Chamber C onsultation Hour: 8. Notices: To be provided in classes or by email
+
+9, Make-up Policy: Make-up will be granted only in any emergency situations, with pnor permission
+wherever possible.
+
+10. Note (if any): 
+Instructor-in-charge
+BIO F244
+

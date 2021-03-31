@@ -1,0 +1,256 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18.01.2021
+
+In addition to part | (General Handout for all courses appended to the Time table) this portion gives further
+Specific details regarding the course.
+
+Course No : MBA G564
+Course Title : Decision Making
+Instructor-in-C harge : Anil Bhat
+Instructor(s) : Shaili Singh
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Decision Analysis, Decisions under certainty and under uncertainty,
+Behavioral Decision Making, Framing of Decisions and Psychology of Choice, Common errors,
+Paradoxes, Anomalies and Traps, Game theory- simple, two - player and bi- matrix games,
+Concepts of dominance, equilibrium and iterated dominance, Negotiation Analysis, J oint and
+Collaborative Decisions
+
+2. Scope and Objective of the Course:
+
+The purpose of this course is to present a broad and an integrative approach from the perspectives of decision
+analysis, behavioral decision making, game theory and negotiation analysis to managerial decision making.
+It will explore
+I) How analytically inclined managers should or could make wise decisions (Decision Analysis
+perspective)? —A prescriptive approach
+
+li) How ordinary individuals do make decisions (Behavioral Decision Making perspective)? -A
+descriptive approach
+
+lil) How groups should make separate interactive decisions (Game Theory perspective)? -A
+normative approach and finally
+
+iv) How groups should and could make joint collaborative decisions (Negotiation Analysis
+perspective).
+
+The course will use cases, journal articles and exercises to demonstrate the application and critical
+appreciation of the concepts and techniques discussed.
+
+3. Text Books:
+e [TB 1] Howard Raiffa “Negotiation Analysis: The science and Art of Collaborative Decision Making” PHI
+Learning New Delhi 2009
+e [TB2] Avinash Dixit ,Susan Skeath & David Reiley “ Games of Strategy, Viva Books; 3rd Revised
+edition (1 J anuary 2017)
+4. Additional Readings:
+
+e Richard H Thaler-“Misbehaving: The Making of Behavioural Economics”
+
+e Daniel Kahneman, “Thinking, Fast and Slow”
+e Dan Ariely “Predictably Irrational: The Hidden Forces That Shape Our Decisions”
+
+1
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+Module Lecture Session Refer | Learning outcomes
+No. ence
+
+Decision TB1 | To appreciate four approaches to decision making viz.
+Perspectives Decision Analysis, Behavioral Decision Making,
+Ch.1 | Game Theory & Negotiation Analysis perspectives
+
+Decision Analysis
+To understand how individuals should or could decide
+
+Rational Choice To understand Rational Choice Under certainty
+Under certainty,
+
+Outcomes and
+
+preferences,
+
+completeness and
+
+Transitivity
+
+Uncertainty and To understand Choice Criteria Under Uncertainty
+Decision Making,
+Uncertainty states,
+
+outcomes and acts,
+Dominance, Decision
+Criteria Under
+uncertainty
+
+Attitude to Risk, To learn when more information is potentially valuable
+Expected Utility For decision Making
+
+Theorem, Conditional
+
+thinking, Beliefs,
+
+information and
+
+uncertainty
+
+Decision Trees Learn how to construct and analyze decision trees.
+
+ 
+<
+
+U1 ee
+©
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+
+AUGS/ AGSR Division
+
+Behavioral Decision
+Making, rationality
+and its limits,
+approaches to
+examination of
+decision processes,
+and consequences of
+limits on rationality
+
+Biases in Decision
+Making. Gains Vs
+Losses, Framing and
+Confirmation bias,
+Prospect theory
+
+Game Theory:
+Introduction to Game
+Theory
+
+Simultaneous Move
+Games with Pure
+Strategies
+
+Games with
+Sequential Moves
+
+Combining
+Sequential and
+Simultaneous Moves
+
+Simultaneous Move
+Games with Mixed
+Strategies
+
+Repeated Games
+
+Negotiation Analysis’
+
+ 
+
+Essence of joint
+decision Making,
+
+Distributive
+Negotiations
+
+ 
+
+ 
+
+TB1
+Ch.3
+
+Ch4
+
+Ch5
+
+TO Bl | To understand the psychology on how real people do decide
+
+To understand Framing of Decisions and Psychology of
+Choice, Common errors, Paradoxes, Anomalies
+and Traps
+
+To understand how rational beings should decide separately in
+Interactive situations
+
+Overview, Applications, Classifying Games, Strategies, Payoffs, |
+Dilemma, Pure Strategies, Nash Equilibrium,
+Dominant Strategies
+
+To learn about Discrete Pure Strategies, Nash Equilibrium,
+Dominance, Minimax strategies,
+Minimax theorem for zero sum game
+
+Learn how to construct Game Trees, Nodes, Branches,
+Outcomes, Payoffs, Adding Players and Moves,
+Backward Induction
+
+To understand Two-stage Games, Changing order of moves
+
+To learn about Two-by-Two Games,
+
+Equilibrium in mixed Strategy,
+
+Minimax method, Mixing in Non- Zero Sum Game,
+and Zero Sum game
+
+To understand the Prisoner’s Dilemma
+
+To understand how you should and could collaborate with others
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+>> ——K;—
+
+6. Evaluation Scheme:
+
+ 
+
+Component Duration Weightage (%) Date Time Venue Remarks
+
+Mid-term 90 min. 25 CB
+Term Papers/assign. / quiz 20 Individual-W ork
+Project/Cases 20 Group-Work
+Compre. Exam. 2 Hours 35 CB
+
+7. Chamber Consultation Hour: Saturdays 5.30pm -6.30 pm
+8. Notices: LMS Nalanda
+
+9, Make-up Policy: No make-ups will be given except only on genuine medical grounds and only with
+prior permission from Instructor-in-charge
+10.Note
+
+e Each student has to take up a project by selecting any decision problem of interest that is within the
+Scope of the course and collect primary data wherever possible. The progress in the project will be
+continuously monitored and evaluated. A written report of the same will have to be finally submitted
+to the instructor and also presented before the class.
+
+e Highest level of intellectual integrity is expected of students while they work on term papers/projects
+in terms of giving proper acknowledgement and avoiding plagiarism failing which they will be heavily
+penalized. Students are also expected to submit their assignments on time failing which these may
+not be evaluated.
+
+Instructor-in-charge
+

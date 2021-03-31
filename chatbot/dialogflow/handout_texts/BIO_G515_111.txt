@@ -1,0 +1,175 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+SECOND SEMESTER 2018-19
+COURSE HANDOUT
+Date: 04.01.2020
+
+In addition to part-| (General Handout for all courses) printed on page 1 of the Timetable book, this portion gives
+further specific details regarding the course.
+
+Course No : BIOG515
+
+Course Title : Stem Cell and Regenerative Biology
+Instructor -in-charge : Rajdeep Chowdhury
+
+Instructors : None
+
+1. Course Description: This course is intended to provide a comprehensive overview of current understanding of
+stem cells, including their basic properties and interactions. The lectures will be organized into 3 sections. The first
+section will give an overview of embryonic & adult stem cells and their basic characteristics. This area will discuss
+general methods and unifying features and lay foundation for subsequent sections. The 2nd section will focus on
+Stem Cells in Tissues and Organ Development. The final section will focus on iPSCs, stem cell isolation methods,
+immunologic properties & potential therapeutic use of stem cells.
+
+2. Scope and Objective of the Course:
+
+The aim of this course is to provide an introduction to the subject of stem cells and approaches to regenerative
+biology. Stem cells have generated considerable interest recently in the scientific, clinical, and public arenas. It is
+essential that we gain a broader understanding of the factors that regulate the biology of stem cells: their ability for
+self-renewal, differentiation and plasticity, as well as the differences between embryonic and adult stem cells, and
+whether stem cells can be manipulated to replace cells in diseased tissues. Stem cells will also be discussed in the
+context of cancer and the use of stem cells for cancer therapies.
+
+3. Text Book:
+(i) Stem cells; Potten, C.S., ed. Ist ed., 1997 printed in India in 2006.
+
+4. Reference Books:
+(i) Robert Lanza. Essentials of Stem Cell Biology. 2006. Elseviers.
+(ii) Walter C. Low. 2008. Stem Cells and Regenerative Medicine. World scientific
+(iii) Deb & Totey. 2009. Stem Cells; Basics and Applications. Tata Mc Graw Hill.
+
+5. Course Plan (Text Book- TB; Reference Book- RB; ChapterCh; Hand Out- Research articles &/or reviews):
+
+Learning
+Outcomes
+Mod Lecture Session Reference
+No
+secon oP —CSSS Td
+Overview of the Course, Definitions, Ch-1 TB; Ch-1 Overview of stem
+1-2 Types, Characteristics, ES-Like Cells, RBi cells
+Prelude and Introduction Origin.
+Adult Stem Cells Types, Plasticity, Trans-differentiation, Ch-3 RBi Difference
+3-4 Characteristics, Multi-drug resistance between ES and
+
+ 
+
+adult stem cells
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Pluripotency- Molecular Signal Transduction- — Extracellular Ch 4 RBi Molecular Control
+Control and Stem Cell Factors and Cytokines of Stem Cell and
+Niche its Niche
+Transcriptional Regulation | Oct4, Sox2, Nanog- Regulation and Materials to be Transcriptional
+of Stem Cells Function; p53 & stem cells, provided Factors regulating
+Stemness
+
+Epigenetic Control over | Histone, Bivalent Structure, PCG, NuRD Ch- 8 RBi; Ch-8, How Epigenetics
+Stem Cell Renewal and | Homeostasis, Metabolism, Types of Ch-5,6 RBi Stem cell niche
+Mite Nite ete
+
+Cell Cycle Control of Stem Stem Cell Quiescence, Cyclin-CDKs, Rb, | Ch- 7-8 RBi; Ch-8, Cell cycle
+Cells and Senescence p53, Chromatin Modifications, Ageing 23 RBiii; Hand Out regulation of
+stem cells
+Embryonic Stem Cells Cell Differentiation in Embryo, | Ch12, 15-16 RBi; Early stem cells
+(ESCs) Amniotic Fluid and Cord Blood Derived Ch-6 RBiii and their role
+Stem Cells
+
+Primordial Germ Cells Fragilis, Stella, Molecular Control of | Ch12 RBi, Hand How germ cells
+(PGCs) Migration of PGCs ————— formed
+
+Adult Stem cell types Evidence, Property, Source, Genetic a 13-14 TB; Ch- —_——____
+Control; Growth Factor & Regulation, | 21RBiii; Ch-22-23 | Stem Cells Cardiac
+Cardiac Stem Cells and Regeneration; | RBi Ch 29, 32, 34 Stem Cells, Oval
+Renal Stem Cell, Oval Cells and RBi Cells and GastroRepopulating Cell, Gl-Stem_ Cells, intestinal Stem
+Neural Stem Cells and __ their Cells, Stem Cells
+Differentiation and Therapeutic for Nervous
+Perspectives System
+
+Cancer Stem Cells (CSCs) Cancer Clonality, CSC Origin, CSC & | Ch-12 TB; Ch-24 Stem cells- role in
+
+ee hens peice | Aabidgout | eet
+
+Mesenchymal Stem Cells | MSCs Origin, Property, Ch 26-27 RBi; Other stem cell
+
+(MSCs) and Multipotent | Immunogenicity, Application in | Ch17-18 RBiii Ch types
+
+Adult Progenitor Cells | Neurodegenerative Diseases and 29, 31-32 RBi
+
+(MAPCs) MAPCs and its Advantages in Therapy
+
+Induced Pluripotent Stem Properties & Methods to derive iPSCs, Materials to be The story of
+
+Cells (iPSCs) A Visit to Yamanaka's Experiment provided Nobel Prize
+Stem Cells ESCs in Therapy | B-Cell Replacement; Drug Discovery & Ch-9, 15 RBiii ESCs in Diabetes
+Development, Human & Murine Therapy, Potential
+
+Embryonic Stem Cells; Matrigel, Serum Uses of Stem
+
+& Feeder Free Culture, Surface Cells, Obstacles
+
+markers. and Gene Therapy
+Stem Cell Current | Mostly Review of Current Status of Materials to be Current
+Perspectives and | Stem Cell Research provided perspectives
+Conclusion
+
+ 
+
+6. Evaluation Scheme:
+
+. V
+;Component | Duration | Weight Date and Time (Rm. #) [Remarks
+
+2
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+wows em fem]
+
+Quizzes, Projects, Several quizzes,
+Assignments and Variable 30% To be announced in class some prePresentations announced
+
+   
+
+hensi Partl Compre ensive 3 hours 40% NB artly open
+Examination book type
+
+7. Chamber Consultation: By prior appointment obtained in person or by email (rajdeep.chowdhury@pilani.bitspilani.ac.in).
+
+8. Notices:
+
+Announcements pertaining to the course will be made in the lecture/tutorial class. In some cases, printed notices
+shall be displayed in the notice board of only the Department of Biological Sciences. Award of grades would be
+guided by the histogram of marks. Decision for cases on borderline of two grades will be based on the student’s
+promptness and participation in classroom activities as well as satisfactory attendance in lecture and tutorial classes.
+If a student misses even a single component entirely or does not give sufficient opportunity for being assessed,
+he/she may be awarded ‘NC’ report regardless of his/her final total score in the course (see Clause 4.19 of BITS
+Academic Regulations).
+
+9. Make-up Policy:
+
+For a foreseen absence, make-up request should be made in person to the Instructor-in-Charge, well before the
+scheduled evaluation component. Reasons for unanticipated absence that qualify a student to apply for make-up
+include medical or similar personal emergencies only; in such an event, the student should contact the Instructor-inCharge as soon as practically possible. Make-ups for journal club presentations and quizzes/assignments are not
+usually given. For regulations about the make-up flexibility, students are advised to refer to Clause 4.07 of B/TS
+Academic Regulations
+
+10. Note (if any):
+
+Instructor-in-Charge
+BlIOG515
+

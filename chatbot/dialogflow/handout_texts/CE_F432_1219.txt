@@ -1,0 +1,250 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CE F432
+
+Course Title : STRUCTURAL DYNAMICS
+Instructor-in-C harge : DIPENDU BHUNIA
+Instructor(s) : N/A
+
+Tutorial/Practical Instructors: N/A
+1. Course Description:
+
+Introduction and Scope of dynamic analysis of structures; origins of vibration theory and experiment; review of earlier
+concepts: d’Alembert’s principle, equations of motion. Elements of a structural system: springs, dashpot, mass; Springs
+in parallel and series; methods to formulate equations of motion; Formulation (equation of motion) and solution of
+undamped and damped free vibration analysis of $.D.O.F system; Formulation (equation of motion) and solution of
+undamped and damped forced vibration analysis of S.D.O.F system; Forced vibration under harmonic, periodic,
+impulse, step, ramp, general dynamic forces (time and frequency domain analysis) and response spectrum load, support
+excited vibration, seismic pickups; Numerical techniques for evaluation of dynamic response of SDOF system; time
+domain analysis; direct integration techniques; finite difference method (Central Difference method); Newmark beta
+method; average and linear acceleration method; Development of equation of motion and solution for two degree of
+freedom systems; Free vibration analysis of MDOF systems; frequencies; mode shapes and response; orthogonality
+condition of mode shapes; Approximate methods for obtaining natural frequencies and mode shapes; Holzer method;
+Stodola’s method; Rayleigh’s method; Rayleigh-Ritz method; Inverse iteration method; Vector iteration method;
+Rayleigh’s Quotient iteration method; Matrix iteration method; Generation of damping matrix for MDOF; dynamic
+properties; modal damping; classical damping; damped response with Rayleigh and Caughey damping.Mode
+superposition method; mode acceleration method; modal combination rules using absolute sum, SRSS and CQC method.
+Response Spectrum, continuous system.
+
+2. Scope and Objective of the C ourse:
+
+The course aims how to model discrete single-degree and multiple-degree vibratory systems and calculate the
+free and forced response of these systems. It also describes about the calculation of the mode shapes and
+frequencies for the free response and using modal methods how to calculate the forced response of these
+systems. This course explains about modeling of continuous vibratory systems. At the last, this course
+discusses application in the design of civil engineering structures.
+
+Therefore, this course is necessary for students how to apply the methods leamed to a realistic engineering
+vibration problem related to civil engineering.
+
+3. Text Books:
+
+TB. Mukhopadhyay,M. (2006) “Structural Dynamics: Vibrations & Systems” Ane Books Pvt. Ltd.
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+4, Reference Books:
+
+R1. Chopra, A.K. (2007) “Dynamics of Structures: Theory and Application to Earthquake Engineering”
+Pearson Education, 3" edition.
+
+R2. Agarwal, P. and Shrikhande, M. (2006), “Earthquake Resistant Design of Structures” Prentice-Hall of
+India.
+
+R3. Clough, R. W. and Penzien, J. (1972), “Dynamics of Structures,” McGraw Hill Publication Ltd., USA.
+
+5. Course Plan:
+
+Module Number | Lecture session/Practice Session. Learning Outcome
+
+1. Importance of | L1. Introduction and Scope of T1,R1,R3 | Understand the
+the course. dynamic analysis of structures; origins Importance of the course
+of vibration theory and experiment;
+review of earlier concepts:
+d’Alembert’s principle, equations of
+motion.
+2. Fundamentals L2.1. Elements of a structural system: T1,R1,R3 | Understand about the
+of Dynamics of Springs, dashpot, mass; Springs in Fundamentals of
+
+Structures parallel and series; D egg OS of Structures.
+
+rT L2.2. methods to formulate equations T1, R1, TE RERS
+of motion
+
+3. Freevibration | L3. Formulation (equation of motion) a R1, R3 ———— Free
+analysis of and solution of undamped and damped vibration analysis of
+S.D.O.F system. free vibration analysis of $.D.O.F 5.D.O.F system.
+system.
+ee
+Assignments
+4, Forced L4. Formulation (equation of motion) T1, R1, R3 Understanding the
+vibration analysis | and solution of undamped and damped Forced vibration
+
+of S.D.O.F system | forced vibration analysis of $.D.0.F analysis of $.D.O.F
+system. system.
+
+PA, Practice problems. Class notes &
+Assignments
+
+5. Forced L5.1. Forced vibration under T1,R1,R3 | Acquiring knowledge
+vibration analysis | harmonic, periodic, impulse, step, about the evaluation of
+(evaluation of ramp, general dynamic forces (time response to general
+response to and frequency domain analysis). dynamic loading
+general dynamic
+
+loading).
+
+L5.2. response spectrum load, support | T1, R1, R3 Bn
+excited vibration, seismic pickups.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ee
+Assignments
+
+6. Numerical L6. Numerical techniques for T1,R1,R3 | Acquiring knowledge
+about the Numerical
+methods for free and
+
+forced vibration
+
+methods forfree | evaluation of dynamic response of
+
+and forced SDOF system; time domain analysis;
+
+vibration analysis | direct integration techniques; finite
+
+(evaluation of difference method (Central Difference
+
+dynamic method); Newmark beta method;
+
+response). average and linear acceleration
+method.
+
+Assignments
+7. Analysis of two | L7.1. Development of equation of T1,R1,R3 | Understanding the
+degree of freedom. | motion. Analysis of two degree
+of freedom.
+a ee
+freedom systems.
+Assignments
+
+8. Free vibration | L 8. Free vibration analysis of MDOF T1,R1,R3 | Free vibration (Eigen
+(Eigen value) systems; frequencies; mode shapes value) analysis of
+analysis of lumped | and response; orthogonality condition lumped MDOF systems.
+
+analysis.
+
+  
+
+  
+
+MDOF systems. of mode shapes.
+
+P8. Practice problems. Class notes & Be
+Assignments
+
+9, Method of L9.1 Approximate methods for T1,R1,R3 | Method of solving Eigen
+solving Eigen obtaining natural frequencies and value problems.
+value problems. mode shapes; Holzer method;
+
+Stodola’s method; Rayleigh’s method;
+
+Rayleigh-Ritz method.
+
+L9.2 Inverse iteration method; V ector T1, R1, R3
+iteration method; Rayleigh’s Quotient
+
+iteration method; Matrix iteration
+
+method.
+
+a
+Assignments
+
+10. Forced L10. Generation of damping matrix T1, R1, R2, R3 | Understanding of
+vibration analysis | for MDOF; dynamic properties; modal Forced vibration
+of MDOF damping; classical damping; damped analysis of MDOF
+systems. response with Rayleigh and Caughey systems.
+
+damping.Mode superposition method;
+
+   
+
+  
+
+mode acceleration method; modal
+combination rules using absolute sum,
+SRSS and CQC method. Response
+Spectrum, continuous system.
+
+ 
+
+P 10. Practice problems. Class notes &
+Assignments
+3
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ O pen Book)
+OB
+ea |e > Te
+Examination
+Assignments —[ Continuous} 10, | Cs
+oes me
+
+7. Chamber Consultation Hour: To be announced in the class
+8. Notices: Notices will be displayed through NALANDA ONLY.
+
+9. Make-up Policy: If the student is unable to appear for the Regular Test/Examination due to genuine
+exigencies, the student must refer to the procedure for applying for Make-up Test/Examination. No make up
+for the assignments/projects seminar.
+
+10. Note (if any): It shall be the responsibility of the individual student to be regular in maintaining the self
+study schedule as given in the course handout, attend lectures and in time assignments submission as per the
+schedule announced in Nalanda/lecture class. Mid Semester Test and Comprehensive Examination are
+according to the Evaluation Scheme given in the respective Course Handout.
+
+(DIPENDU BHUNIA)
+Instructor In charge
+CE F432
+

@@ -1,0 +1,246 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Second Semester 2020-2021
+COURSE HANDOUT (PART II)
+Date: 17/01/2021
+In addition to Part-I (general handout for all courses appended to this time table) this portion gives further details
+pertaining to the course.
+Course No.: SS G515
+Course Title: Data Warehousing
+Instructor-in-charge: Dr. L. Rajya Lakshmi (rajya.lakshmi@ pilani.bits-pilani.ac.in)
+Lab Instructor: Ms. Neha Choudhary (p20190409@pilani.bits-pilani.ac.in)
+1. Objective and Scope
+Corporate decision makers require access to all the organization’s data, wherever it is located. To provide
+comprehensive analysis of the organization, its business, its requirements and any trends, require access to
+not only the current data in the database but also to historical data. To facilitate this type of analysis, data
+warehouses have been created to contain data drawn from several sources, maintained by different
+departments of the organization. This course will involve an in-depth study of various concepts needed to
+design, develop, and maintain a data warehouse. It also provides an introduction to end user access tools like
+OLAP and reporting.
+
+2. Text Book
+T1. Ponniah P, “Data Warehousing Fundamentals”, | ohn Wiley, 2°¢ Edition, 2011.
+T2. Kimball R, “The Data Warehouse Toolkit”, 3e, J ohn Wiley, 2013.
+
+3. Reference Books
+R1. Anahory S, & Dennis M, “Data Warehousing in the Real World”, Addison-Wesley, 2000.
+R2. Kimball R, Reeves L, Ross M, & Thornthwaite, W, “The Data Warehouse Lifecycle Toolkit”, } ohn Wiley,
+1998.
+
+R3. Adamson C, & Venerable M, “Data Warehouse Design Solutions’, J ohn Wiley, 1998.
+R4. Inmon, WH, “Building the Data Warehouse”, | ohn Wiley, 2002.
+
+Course Plan
+
+To understand the need, Introduction to Data Warehousing
+definition, & applications of a Present Business Scenario
+Data Warehouse Operational and Informational Systems
+What is a Data Warehouse?
+Applications of Data Warehouse
+Problems with Data Warehousing
+To understand the Data Warehouse Components, & Processes T1:2,R2:2
+components, & processes of e Source Systems
+a Data Warehouse Data Staging Area
+Presentation Server
+Data Marts
+Operational Data Store (ODS)
+Metadata
+Information Delivery
+Basic Processes of a Data Warehouse
+
+To understand the Data Data Warehouse Architecture T1:7,R1:3&4
+Warehouse Architecture
+
+A Save Paper.
+Save Trees.
+innovate total (oa) g Asave the World.
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+To learn how to collect Collecting Business Requirements T1:5
+business requirements for a R2:4,R3:15
+Data Warehouse
+
+To learn dimensional Data Warehouse Data Design T1: 10, T2: 1
+modeling for designing e Dimensional Modeling Basics R1:5, R2:5, 6,
+database schemas for a Data e Facts, Dimensions, & Star Schemas &7,R3:1
+Warehouse e Snowflake & Starflake Schemas
+
+Design Steps
+
+ER modeling vs. Dimensional modeling
+To understand the role of Data Marts & ODS T1: 19
+Data Marts & ODS in Data e Architecture R1:8,R4:5
+Warehousing e Design
+
+e Cost
+
+To understand advanced Advanced Dimensional Modeling Concepts Til: il
+Dimensional Modeling Surrogate Keys + Class Notes
+concepts Changing Dimensions
+
+Conformed Dimensions
+
+Factless Fact Tables
+
+Minidimensions & Outriggers
+
+Role-playing Dimensions
+
+Multi-valued Dimensions
+
+To understand the ETL Extraction, Transformation, & Loading (ETL) Ti: 12
+Process Data Extraction
+
+Data Transformation
+
+Data Loading
+
+ETL Data Structures
+
+ETL Tools: Build or Buy?
+To understand OLAP, its Online Analytical Processing (OLAP) Tl: 15
+features, functions, & Need for OLAP
+variations Features & Functions
+
+ROLAP, MOLAP, HOLAP, & DOLAP
+
+OLAP Implementation
+
+OLAP Tools
+
+@
+To understand role of Multidimensional Databases (MDDBs) Class Notes
+Multidimensional Databases
+in Data Warehousing
+To understand the new data SQL Features for DW Class Notes
+warehousing related features e CUBE Operator
+of SQL e Roll-up Operator
+
+e Top-N Queries
+
+e Window Queries
+To understand efficient cube | Cube Computation Class Notes
+computation techniques e Complexity
+
+e Optimization Techniques
+
+(ROLAP & MOLAP)
+
+A Save Paper.
+gs. Save Trees.
+£ > SSave the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+ 
+
+innovate achieve
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+To understand and implement | Performance Enhancing Techniques T1: 11, 18
+various techniques used to e Partitioning T2:16
+reduce the query response e Aggregation R1:6&7,
+time e Materialization of Views R2: 14
+
+e Bitmap Indexes +Class Notes
+
+33-34 Case Stud Academic Data Warehouse: BITS Pilani T2: 12
+
+35 To understand the role of Metadata Th®?
+= seen NE
+e Design
+ae, Se
+Real Time Data Warehousing
+S tudents
+
+To expose students to the Data Warehousing Research Trends a Notes
+research issues in Data
+Warehsousing
+
+5. Evaluation Schedule
+
+Component Weightage (%) Date & Time
+Mid Sem Exam As per AUGSD Closed Book
+Term Paper and Project_| 1 Month Open Book
+
+ 
+
+*Surprise Quizes Closed Book
+Comprehensive Exam As per AUGSD Partly Open
+
+ 
+
+*Two surprise quizes of 05 marks each will be conducted. The marks of the best one attempt will be considered
+for final evaluation.
+
+7. Labs
+Two hour lab will be conducted every week. Students will also be exposed to Data Modeling and Analytical
+needs of the problems.
+
+8. Assignments
+A series of study, design, and implementation assignments will be given to the students on a regular basis.
+These assignments will immensely help the students in gaining a better understanding of the subject.
+
+A Save Paper.
+Save Trees.
+innovate total (oa) g Asave the World.
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+ 
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+9. Chamber Consultation Hours: MWFE 5th Hour
+
+10. Make-up Policy: Prior Permission is must and Make-up shall be granted only in genuine cases based on
+individual’s need and circumstances.
+
+11. Notices: All the notices concerning this course will be displayed on Nalanda.
+
+Instructor-in-charge
+
+ae. Save Trees.
+~ “’Save the World.
+
+Please Consider Your Environmental Responsibilities
+Do Not Print Unless Necessary
+
+= I sor
+
+ 
+
+innovate achieve
+
+ 
+

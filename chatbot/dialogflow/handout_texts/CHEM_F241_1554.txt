@@ -1,0 +1,429 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 15.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives
+further specific details regarding the course.
+
+Course No : CHEM F241
+
+Course Title : Inorganic C hemistry-I]
+Instructor-in-C harge : SUROJIT PANDE
+Instructor(s) =
+
+1. Course Description:
+
+Coordination Chemistry: Bonding - Valence Bond, Crystal Field, and Molecular Orbital theories;
+Complexes - nomenclature, isomerism, coordination numbers, structure, electronic spectra, magnetic
+properties, chelate effect; Reactions - nucleophilic substitution reactions, kinetics, mechanisms;
+descriptive chemistry of Lanthanides and Actinides; Organometallic Chemistry: structure and reaction of
+metal carbonyls, nitrosyls, dinitrogens, alkyls, carbenes, carbynes, carbides, alkenes, alkynes, and
+metallocenes; catalysis by organometallic compounds; stereochemically non-rigid molecules.
+
+2. Scope and Objective of the C ourse:
+
+Throughout the semester representative topics from inorganic chemistry will be discussed to expose the
+students to the theories of bonding, electronic spectra and magnetic properties of complexes, reactions of
+metal complexes, detailed description of organometallic compounds and chemistry of lanthanides and
+actinides. Various theories such as VBT, CFT followed by MOT will explain many topics encompassed
+by electronic spectra, magnetic properties and finally in organometallic complexes in the field of
+Inorganic Chemistry. However, we will strive in this course to address the most important theories and
+applications of Inorganic Chemistry with the state of the art level which may motivate the students
+towards research.
+
+By the end of the semester, you will be able to
+
+- Predict structure and geometry of inorganic complex
+
+- Envisage spinel structure and chelate effect
+
+- Learn the application of character table
+
+- Investigate the origins of color and transitions in inorganic complexes
+
+- Indentify the magnetic properties of inorganic compounds
+
+- Be familiar with the organometallic reactions, mechanism, structure & bonding, catalytic properties
+
+- Explore the chemistry of bridging ligands
+
+- Be trained in f block elements from the periodic table
+
+3. Text Books:
+
+T1. “Inorganic Chemistry — Principles of Structure and Reactivity” Huheey, J. E.; Keiter, E. A.; Keiter,
+R. L.; Medhi O. K.; 4" Edition, Pearson.
+
+4, Reference Books:
+
+R1. "Chemical A pplications of Group Theory", F. Albert Cotton, 3rd Edition; A Wiley Interscience
+Publication
+
+R2. “Concise Inorganic Chemistry”, Lee, J.D. 5“ Edition, Wiley India Edition.
+
+R3. “Inorganic Chemistry’, Shriver, D.F.; Atkins, P.W.; Overton T. L., Rourke, J. P., Weller, M. T.,
+Armstrong, F.A. 4" edition, Oxford.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module No. Lecture Session
+
+outcomes
+T1; 428-444 Structure
+prediction of
+
+1: Crystal Field
+Theory
+
+L 1.1: Crystal field splitting; d orbitals
+in different crystal fields
+
+L 1.2-1.3: applications of CFT such as
+predicting stability of spinels
+
+L 2.1: Reducible and _ Irreducible
+Representations
+
+L 2.2 Character Tables
+
+L 2.3 Optical Activity, Dipole
+Moments
+
+L 2.4-2.5 Infrared and Raman
+Spectroscopy, Bondinc
+
+T2: Exercise based on applications of
+Character table
+
+L 3.1- 3.3: o MO diagrams of
+octahedral, Tetrahedral and sq. planar
+complexes
+
+L 3.4-3.5: m MOs relation to crystal
+field splittino
+
+L 4.1-4.3: Term symbols; dd
+transitions
+
+L 4.4-4.6: Tanabe-Sugano diagrams
+
+T4: Exercise based on_ electronic
+spectra
+
+L 9.1: Stability through distortions
+L 5.2: Allowed charge transfer
+
+complexes using
+CFT
+
+  
+
+2: Character Table
+and its Applications
+
+T1: 52-65
+R1: 17-29;
+R1: 44-50;
+
+Application of
+character table,
+Verification of
+R1: 54-61; the optical
+R1: 304- activity, dipole
+ol fs moment, IR and
+R1: 328-337 | Raman activity of
+compounds using
+group theory
+Structure
+elucidation using
+MOT
+
+ 
+ 
+   
+  
+
+ 
+
+3: MO theory of
+Coordination
+Compounds
+
+T1: 444-459
+R1: 209-230
+
+ 
+
+T1: 461-475
+R1:253-281
+
+A; Electronic spectra
+of complexes
+
+Predicting the
+electronic
+transitions in a
+complex;
+Investigate — the
+origins of color
+and transitions in
+inorganic
+complexes
+
+ 
+
+9: Octahedral
+distortion; charge
+transfer
+
+T1: 475-485
+
+transitions
+
+T5: Exercise based on distortion
+
+ 
+
+ 
+
+6: Coordination
+Chemistry:
+Structure
+
+7: Coordination
+
+Chemistry:
+Isomerism &
+Chelate Effect
+
+8: Magnetic
+Properties of
+
+Complexes
+
+ 
+
+L 6.1: Nomenclature; Geometry of the
+complexes based on coordination
+number
+
+L 7.1: Geometrical and Optical
+isomerism, Linkage, Ligand,
+Ionization, Solvate, Coordination
+isomerism, Stabilization due _ to
+entropy factors and _— electron
+delocalization in the rings
+
+L 8.1: Para, ferro and antiferro
+ 
+
+magnetisms; Spin transitions
+T6: Exercise based on nomenclature,
+isomerism and magnetic properties
+
+2
+
+R2: 230-232
+: 495-506
+: 008-511
+: 020-526
+: 007-508
+: O11-520
+: 026-539
+: 232-236
+R3-225-229
+
+T1: 485-492
+R3-544-546
+
+Naming the
+coordination
+complexes
+
+Identification of
+geometrical and
+optical isomers
+possible for a
+given formula.
+
+Identify the
+magnetic
+
+properties of
+inorganic
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+9: Coordination L 9.1: Substitution reactions in square T1: 542-569 | Predict the
+Chemistry: planar complexes R3: 551-576 | reaction
+Reactions L 9.2: Trans Effect, Thermodynamic mechanisms of
+and Kinetic Stability square planar and
+L 9.3: Kinetics of Octahedral octahedral
+Substitution complexes
+L 9.4: Mechanism of Redox reactions
+T 7: Exercise based on substitution
+reactions
+10: Introduction to L 10.1: The 18 electron rule, T1: 572-600
+organometallic Preparation & properties of carbony]
+chemistry, Metal complexes
+carbonyl Complexes | L 10.2: Polynuclear Carbonyl Be familiar with
+Complexes; Carbonylate ions; the
+Carbonyl! hydride complexes; Parallels organometallic
+with non-metal chemist compounds,
+
+11: Metal nitrosyl L 11.1: Terminal and Bridging T1: 601-606 | structure &
+and dinitrogen ligands; Geometry of complexes bonding
+complexes T8: Exercise based on metal carbonyl,
+
+nitrosyl and dinitrogen complexes
+
+ 
+
+12: Metal Alkyls, L 12.1: Synthesis; Structure of ligands T1: 606-615
+Carbenes, Carbynes | in complexes; Orbital representations
+and Carbides of Fischer and Schrock Carbenes;
+structural examples of  carbido
+complexes;
+13: Metallocenes L 13.1: Molecular Orbitals of T1: 615-627
+Metallocenes; Structures and
+
+synthesis of — Cyclopentadienyl
+
+compounds; Covalent versus ionic
+
+bonding; Arene complexes;
+
+Cycloheptatriene and _ tropylium
+
+complexes; Cyclooctatetraene and
+
+Cyclobutadiene complexes.
+
+T9: Exercise based on metal alkyls,
+
+carbenes, carbynes, carbides and
+
+metallocene
+
+L 14.1: Substitution reactions in T1: 634-649 | Study the
+carbonyl complexes; Ligand Cone mechanism,
+Angles; Oxidative Addition and catalytic
+Reductive Elimination; Insertion and properties
+organometallic
+
+14: Reactions of
+organometallic
+complexes
+
+Elimination
+
+L 14.2: Nucleophilic and electrophilic
+attack of coordinated _ ligands,
+Carbonylate anions as nucleophiles
+T10: Exercise based on reactions of
+
+3
+
+complexes
+Explore
+chemistry
+bridging ligands
+
+   
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+organometallic complexes
+
+15: Catalysis by L 15.1: Alkene hydrogenation; T1: 649-661
+organometallic Tolman Catalytic Loops; Synthesis
+compounds Gas; Hydroformylation; Monsanto
+
+Acetic acid process
+
+L 15.2: The Wacker Process;
+Synthetic Gasoline; Ziegler-Natta
+Catalysis; Immobilized homogeneous
+catalyst; photodehydrogenation
+catalyst
+
+T11: Exercise based on catalysis by
+organometallic compounds
+
+16: L 16.1: Fluxional molecules, T1: 196-202 | Study of dynamic
+stereochemically Techniques to study Fluxional molecular
+non-rigid molecules | molecules structure
+
+17: The Lanthanides | L 17.1: Stable oxidation _ states; T1: 407- f-block elements
+and A ctinides Lanthanide and A ctinide Contractions, 419 and their unique
+the f orbitals, properties
+
+L 17.2: Absorption Spectra; Magnetic
+Properties; Coordination Chemistry;
+Lanthanide Chelates; Transactinide
+elements; Periodicity of
+Translawrencium elements
+
+T12: Exercise based on
+
+    
+
+     
+ 
+
+Stereochemically non-rigid molecules,
+lanthanides and actinides
+
+ 
+
+6. Evaluation Scheme:
+
+Component Weightage Date & Time
+(% )
+
+Mid-Semester Test 30% <TEST MS>
+
+Tutorials* om 30% Continuous
+(Quiz/A ssignment)
+Comprehensive 120 min 40% <TEST C>
+Examination
+
+*T utorials: The tutorial hour will be used for a quick review of the highlights of the material covered in
+the lectures, clarification of doubts, and problem solving and conducting tests. Tutorial tests will be
+conducted through cloud instance of Nalanda only.
+
+7. Chamber Consultation Hour: Thursday, 5.00 pm
+
+8. Notices: Notices, if any, will be displayed on Nalanda website.
+
+9, Make-up Policy: Make up would be considered only for genuine cases.
+
+10. Note (if any): 
+ 
+
+Instructor in-C harge
+CHEM F241
+

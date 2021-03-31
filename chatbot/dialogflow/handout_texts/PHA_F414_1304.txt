@@ -1,0 +1,175 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+C ourse Handout (Part II)
+Date: 14.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives
+further specific details regarding the course.
+
+Course No : PHA F414
+Course Title : BIOPHARMACEUTICS
+Instructor-in-C harge : Dr. Gautam Singhvi
+
+1. Course Description:
+
+Biopharmaceutics and Biopoharmaceutical aspects of drug delivery covering absorptions,
+distribution, metabolism and elimination (ADME) characters of drugs. Compartment model,
+pharmacokinetics of drugs and their applications, bioavailability, bioequivalence and their studies,
+drug-drug interactions and other related matters.
+
+2. Scope and Objective of the C ourse:
+
+The prime objective of this course is to impart knowledge of biopharmaceutical process based on
+fundamental concepts. The primary focus will be on mechanisms of and factors influencing drug
+absorption as well as bioavailability. This course also deals with distribution, biotransformation and
+excretion of drugs. In order to develop a background knowledge in the up-coming field like
+pharmacokinetics, a brief discussion about basic considerations in pharmacokinetics such as rates
+and orders of reactions, compartment modeling, bioequivalance and design of dosage regimen is
+also included. The knowledge of this branch of pharmacy is very essential for a professional
+pharmaceutical scientist, as concepts regarding plasma drug concentration profile, Bioavailability
+and Bioequivalance as well as Dosage Regimen is resourceful working tool in every branch of
+pharmacy, be it pharmaceutics, pharmacology or medicinal chemistry. Therefore, it is essential for
+every graduate student in pharmacy to be familiar with the outlines of these concepts and that is
+what this course aims to achieve.
+
+3. Text Books:
+1. Brahmankar, D M and Jaiswal, S N Biopharmaceutics and Pharmacokinetcs a treatise
+2nd edition V allabh prakashan 2009.
+
+4, Reference Books:
+1. Gibaldi, M and Perrier, D, Pharmacokinetics, 3™ edition Revised and Expanded
+Marcel Dekker Inc.
+2. Hassan, Williams E Hospital Pharmacy 4” edition phil Lea & febiger 1981
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+5. Course Plan:
+
+Module Number Reference Learning Outcome
+
+1. Introduction to bio- | L.1.Definition, scope, terms used, TB1- Chapter1 | Orientation to the
+L.3-L.4.Gastrointestinal absorption of drugs
+L.5. Cell membrane- structure and physiology
+
+ 
+
+mechanisms
+L.6-L.7.Factors influencing drug absorption ,
+and bioavailability oN * TB1- Chapter 2 Imparting knowledge
+L.8. pH-Partition hypothesis | | & Class notes of different aspects of
+Theories of drug dissolution and dissolution absorption of drugs
+rate
+L.9. Absorption of drugs from non per os
+extravascular routes
+L.10-L.11.Tissue permeability of drugs, .
+volume of distribution. TB1- Chapters 3 Understanding of the
+L.12-L.13.Protein binding of drugs, &A process of drug
+tissue binding, kinetics of protein-drug distribution
+binding
+
+2. ADME of drugs L.14-L.16.Drug metabolizing organs and Knowledge of the
+enzymes, chemical pathways phase I and phase <igni-firance and
+II reactions TB1- Chapter 5 mechanism of drug
+L.17.Factors affecting Biotransformation of metabolism
+Drugs
+L.18. Application of prodrug design Exposure to the
+L.19. Advantage and limitations of prodrugs Class notes applications of
+
+prodrugs
+
+L.20-L.23.Renal excretion: glomerular
+filtration, active tubular secretion, tubular reabsorption, concept of clearance, factors
+affecting renal excretion
+
+Understanding of the
+mechanism and
+effects of drug
+excretion
+
+TB1- Chapter 6
+
+L.24-L.25.Dose adjustment in renal failure,
+Non-renal routes of drug excretion
+
+3.Pharmacokinetic L.26-L.28. Mechanisms of drug interactions, Imparting concept
+
+drug interactions interactions affecting absorption, distribution, | TB1- Chapter7 | and significance of
+metabolism and excretion of drugs drug interactions
+
+4,Pharmacokinetics: L.29-L.31.Plasma drug concentration time
+
+Basic consideration: | profile rates, rate constants and orders of
+
+Introduction to reactions
+
+comparment L.32-L.33.Pharmacokinetic models:
+
+modeling and Compartmental & Non-compartmental analysis
+
+Concept of basic
+pharmacokinetics and
+compartmental
+
+TB1- Chapter 8
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+pharmacokinetic L.34-L.35. One-compartment open model, pharmacokinetic
+softwares two-comparment open model, multi TB1- Chapter9 | modeling
+comparment models, an introduction to various | & Class notes
+pharmacokinetic softwares
+
+. oo L.36. Objective and considerations in
+9-Bioavailability and | bioavailability studies, measurement of Understanding of biobioequivalence bioavailability TB1- Chapter 11 | availability and bioL.37. Methods for enhancement of equivalence
+bioavailability
+L.38. Design of dosage regimen
+6.A pplication of Knowledge of the use
+pharmacokinetic TB1- Chapter 12 | of pharmacokinetics
+principles in dose determination
+
+ 
+
+6. Evaluation Scheme:
+
+Components Weightage | Date and Time
+Mid-semestrtest_[ W0minutes 30% |__| Closed Book
+
+Continues assessment
+
+\ulzzes pCaSe shales Continuous 30% Continuous Closed/Open book
+/application/ assignments /
+
+presentation)
+
+Comprehensive examination | 180 minutes | 40% | === ~~~ | Closed Book
+
+ 
+
+7. Mid-Semester Evaluation: Will be announced in the class.
+8. Chamber C onsultation Hour: To be announced in the class.
+
+9, Make-up Policy: Make-ups are not given as a routine. It is solely dependent on the
+“genuineness” of the circumstances under which a student fails to appear in a scheduled evaluation
+component. Prior permission should be sought from the instructor-in-charge in advance.
+
+10. Note (if any): 
+Instructor-in-charge
+PHA F414
+

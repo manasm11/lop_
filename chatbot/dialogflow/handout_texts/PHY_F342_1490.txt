@@ -1,0 +1,144 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+Second Semester 2020-2021
+Date: 10 Jan 2021
+Course No.: PHY F342
+Course Title: Atomic and Molecular Physics
+Instructor-in-Charge: Amol Holkundkar
+Scope and Objective:
+
+The aim of this course is to present a comprehensive account of the physics of atoms and molecules and
+the related spectroscopy. The atomic physics part will include structure of single, two and many-electron
+atoms, the interaction of atoms with electromagnetic radiation and elements of atomic spectra. The
+molecular physics part will comprise electronic structure of diatomic and polyatomic molecules within
+the Born-Oppenheimer approximation and elements of electronic, vibrational and rotational spectra of
+molecules. The course will be the students’ first encounter with serious applications of quantum theory.
+
+Text Books:
+
+Physics of Atoms and Molecules, B.H.BRANSDEN and C.J. JOACHAIN, Second edition, Pearson
+Education Ltd.
+
+Reference Books:
+
+1. Atoms Molecules and Photons, W Demtréder , Springer (2010) 2/e
+2. Atoms and Quanta, Haken and Wolf, Springer (2010) 2/e
+3. Quantum Mechanics: Concepts and Applications, Nouredine Zettili, Wiley.
+
+Course Plan:
+
+Lecture | Reference Learning Outcome
+Session
+
+1-9 Review of one electron atoms (eigenfunctions,
+expectation values etc.), perturbation theory, Interaction
+of e.m. field with charged particles, transition rates,
+dipole approximation, the Einstein coefficients, Selection
+rules, line shapes and widths
+10-12 Fine structure of hydrogenic atoms, the Lamb shift,
+Hyperfine structure and isotope shifts
+13-17 Ortho and Para states, ground and excited states
+of two-electron atoms, level scheme of two-electron
+atoms.
+
+a& ©6©6Ssave Paper.
+Save Trees.
+=""“sSave the World.
+
+Please Do Not Print Unless Necessary
+
+ 
+
+ 
+    
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+The central field approximation, Hartree-Fock
+approximation, Correction to the central field
+approximation
+
+The Born-Oppenheimer approximation, electronic
+structure of diatomic molecules, the rotation and
+vibration of diatomic molecules, the structure of
+polyatomic molecules
+
+11.1-11.6 | Rotational spectra of diatomic molecules, vibrationalrotational spectra of diatomic molecules, electronic
+spectra of diatomic molecules, vibrational-rotational
+spectra of poly-atomic molecules, Raman spectra
+
+ 
+
+Evaluation Scheme:
+
+There will be 4 tutorial tests (18 marks) and 1 take home assignment (18 marks). The take-home
+assignment will be given before the last tutorial test. Two tutorial tests will be before mid-term
+and 2 will be after. All the tutorial tests will be announced a week before.
+
+ 
+   
+ 
+
+Evaluation Component Weightage Date & Time
+
+Tutorial Tests / Assignments 30 mins TBA
+(Close/Open book)
+
+Midterm Test
+
+(Close Book)
+
+    
+   
+
+Comprehensive Examination 120 mins 40% TBA
+
+(Close/Open book)
+
+Notices: All the classes will be conducted in online mode with Google Meet. All notices will be uploaded
+on Google Classroom.
+
+ 
+
+ 
+
+ 
+  
+
+Save Paper. gl
+
+; a Save Trees.
+= “$Save the World. Een
+
+Please Do Not Print Unless Necessary
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+a
+Chamber Consultation Hours: To be announced
+
+Make-up Policy: Make-up will be given only in genuine cases, that is, illness leading to hospitalization
+or going out of station with prior permission. No make-ups for the tutorials.
+
+Instructor-in-charge
+
+i
+
+innovate — achieve
+
+ 
+
+Please Do Not Print Unless Necessary
+

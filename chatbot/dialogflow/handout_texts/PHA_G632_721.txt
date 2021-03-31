@@ -1,0 +1,190 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2018-19
+COURSE HANDOUT
+Date: 10/03/2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : PHA G632
+
+Course Title : Dosage Form Design
+
+Instructor-in-C harge : Dr Anil Jindal
+
+Instructor(s) 
+Practical Instructors: Mr. Rupesh, Mr. Atharva Rajendra Bhide, Mr. Rajesh Pradhan
+
+1. Course Description: A study of physical and chemical, pharmacological and biopharmaceutic factors
+involved in the design and stability of dosage forms; transport of drugs across biological membranes;
+absorption, distribution and elimination of drugs; formulation additives, closures and containers and
+sustained release dosage forms; microencapsulation; radio pharmaceuticals.
+
+2. Scope and Objective of the Course: It is a course intended to give the students an idea of various
+aspects of designing of different dosage forms particularly for new drugs, and factors to be considered for
+such designs, studies of effects of different additives used for designing different dosage forms. This
+course also deals with different controlled release delivery systems, aerosols, and various newer and
+novel modern drug delivery systems, packaging materials.
+
+3. Text Books:
+1. G.S. Banker and C.T. Rhodes, Modern Pharmaceutics, 4" Ed., Marcel Dekker Inc. New Y ork;
+
+4, Reference Books:
+
+B.M. Mithal, A Text Book of Pharmaceutical Formulations, 6" ed., 1997, Vallabh Prakash, Delhi.
+
+Y .W. Chien, Novel Drug Delivery Systems, 2" ed. Marcel Dekker Inc., New Y ork.
+
+P.B. Deasy, Microencapsulation and Related Drug Processes, Marcel Dekker Inc.,New Y ork.
+
+J. Swarbrick, Current concepts in Pharmaceutical Sciences: Dosage Form Design, 1970 Lea & Fediger,
+Philadelphia.
+
+R.L. Juliano, Drug Delivery Systems, 1980, Oxford Univ. Press, New Y ork.
+
+Prescott and Nimmo, Novel Drug Delivery, John Wiley & Sons, Chichesta.
+
+B.T. Loftus and R.A. Nagh, Pharmaceutical Process Validation, Marcel Dekker Inc.,New Y ork.
+Lachmann, Liebermann and Kanig, The Theory & Practice of Industrial Pharmacy, K.M. Vergesh,
+3" Edition, 1990. New Delhi.
+
+9. Remignton’s Pharmaceutical Sciences.
+
+10. P. Tyle, Drug Delivery Devices: Fundamentals and Applications; Marcel Dekker Inc, New Y ork.
+
+11. E.J. McNally, Protein Formulation and Delivery, Marcel Dekker Inc., New Y ork.
+
+12. P.Tyle, Specialized Drug Delivery Systems, Marcel Dekker Inc., New Y ork.
+
+13. Journal articles
+
+5. Course Plan:
+
+Module | Lecture Session Reference | Learning outcomes
+No.
+1
+
+Introduction to Dosage Form Introduction to different dosage forms and
+Design: Preformulation studies& |1&7 role of preformulation studies in dosage form
+decision of Dosage Forms. design
+
+1
+
+fr OO DN
+
+Se le
+
+  
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Role of drug properties and route Physicochemical properties of the drugs and
+of administration in formulation biological factors for design and performance
+development of dosage forms
+To understand the process of drug absorption:
+Principles of drug absorption T1-Ch 2 Drug absorption process, mechanisms
+and 4 involved and factors affecting the absorption
+of drug
+
+Oral drug delivery and delivery Gastric anatomy and dynamics, design of
+9-13 Ref 2
+systems novel drug delivery systems for oral delivery
+
+. Approaches for injectable drug delivery, case
+14-17 Parenteral arug delivery and Ref 02 studies, biopharmaceutics, Implantable drug
+delivery systems
+delivery systems
+
+18-20 Microencapsulation Ref 05 Fundamental considerations, methods and
+application of microencapsulation of drugs
+
+Skin permeation of drugs, technologies for
+; ; design of transdermal drug delivery systems,
+alae Transdenmial ang delivery systems advances in transdermal drug delivery
+systems
+
+nk vey syste 18 Barriers of drug permeation, Methods to
+29-28 Ophthalmic drug delivery systems | 13 overcome barriers. Pharmacokinetics of
+ophthalmic formulations
+Factor affecting pulmonary delivery of drugs,
+29-32 pharmacokinetic of pulmonary drug delivery,
+formulation considerations
+Parenteral delivery of protein and peptides,
+33-36 Proteins and peptide drug delivery | 22 biomedical application, non-invasive routes
+for protein and peptide drug delivery
+
+37-40 Mucosal drug delivery systems Nasal, buccal and sublingual drug delivery
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ Open
+Book)
+
+Mid-Semester Test <TEST 1> Close and/or book
+
+7 ;
+co
+
+ 
+
+Examination
+
+Project/Lab Continuous 35
+components/
+
+Seminar/assignment
+
+a) Itis strongly advised that all students prepare their own class notes and relevant information from
+text, reference material, as in handouts would only be allowed for consultation during assessments
+of open book/notes. Photocopies of any material, written or printed will not be permitted. Stapled
+sheets , loose sheets of information written or printed, photocopies of slides used for discussion in
+class will not be allowed.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+b) Slides used during class hours provide key information for which additional supportive information
+is expected to be collected from sources aforementioned. These slides will not be shared and hence
+students are requested/advised to make their own notes during class hour.
+
+c) For all evaluation components, information given during classroom instruction, aforementioned text
+books and reference books in the same order, will be considered as correct. Students are advised to
+follow the text, reference material as given in hand-out.
+
+d) All evaluation components are equally important, irrespective of weightage. Hence, students
+failing to attend scheduled classes, or absenting themselves in one or many of the evaluation
+components, may become ineligible for obtaining a valid grade at the end of the semester.
+Attendance in lectures, tutorials and practicum experience are all equally important as they are all
+integral components of learning, irrespective of weightage and may be taken into consideration,
+during grading.
+
+7. Chamber C onsultation Hour: To be announced in class
+
+8. Notices: Notice, if any, conceming the course will be displayed on the notice Board
+of Pharmacy Department Notice Board.
+
+9, Make-up Policy: Make-Ups are not given as a routine. It is solely dependent upon the GENUINENESS
+OF THE CIRCUMSTANCES under which a student fails to appear in a scheduled evaluation component. In
+such circumstances, prior permission should be obtained from the Instructor-in-Charge. In no case the
+make-up letter be slipped inside the chamber of the Instructor-In-Charge. The decision of the Instructor- inCharge will be final.
+
+10. Note (if any): Nil
+
+Instructor-in-charge
+Course No. PHA G632
+

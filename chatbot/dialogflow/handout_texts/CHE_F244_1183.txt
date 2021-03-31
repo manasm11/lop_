@@ -1,0 +1,304 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F244
+
+Course Title : Separation Process I
+Instructor-in-C harge : SURESH GUPTA
+Tutorial/Practical Instructors : Arkaprovo Ghosal, Anil Kumar
+
+1. Course Description:
+
+Molecular diffusion in fluids, Interphase mass transfer, mass transfer coefficient, Theories for interphase mass transfer,
+overall mass transfer coefficient and correlations, mass transfer with chemical reaction, analogy between momentum,
+heat and mass transfer, Absorption, Distillation including azeotropic and extractive distillation, Liquid-Liquid
+extraction, Leaching, Equipment for absorption, distillation, extraction and leaching.
+
+2. Scope and Objective of the C ourse:
+
+This course deals with the basic knowledge of mass transfer fundamentals and separations by phase addition or creation.
+The primary objective of this course is to encapsulate the important technical fundamentals for designing the mass
+transfer equipments.
+
+3. Text Book:
+Seader, J.D., Henley, E.J., “Separation Process Principles,” 2™ Edition, W iley India Pvt. Ltd., New Delhi, 2006.
+
+4, Reference Books:
+R1. Treybal, R.E., “Mass Transfer Operations,” 3™ Ed. (International Edition), McGraw-Hill Book Company,
+Singapore, 1980.
+R2. Dutta, B. K., “Principles of Mass Transfer and Separation Processes,” Prentice-Hall of India Pvt. Ltd., New
+Delhi, 2007.
+
+5. Course Plan:
+
+Module Lecture session/T utorial session References Learning outcomes
+
+Introduction | Ll. Mechanism of — separation,| Ch.1(T1) |e Role of separation operations
+
+to Separation by phase addition or creation, in the chemical and
+
+separation Separation by barrier, Separation by biochemical industries.
+
+processes solid agent, Separation by external field e What constitutes the separation
+or gradient, component recoveries and of a mixture and how each of
+product purities, Selection of feasible the five basic separation
+separation processes. techniques works.
+
+e Component material balances
+around a separation operation
+based on specifications of
+component recovery
+
+e (split ratios or split fractions)
+and/or product purity.
+
+e Concept of key components
+and separation factor to
+
+ 
+ 
+
+Mass
+transfer and
+diffusion
+
+Absorption
+and
+Stripping of
+dilute
+mixtures
+
+ 
+
+Pilani Campus
+AUGS/ AGSR Division
+
+L2-L10. Molecular diffusion, Diffusion
+coefficients, One-dimensional
+molecular diffusion through stationary
+media, Molecular diffusion in laminar
+flow, Two-film theory and overall mass
+transfer coefficients.
+
+L11-L20. Equipment, General design
+considerations, Graphical equilibrium
+stage method for tray towers, Algebraic
+method for determining the number of
+equilibrium stages, Stage efficiency,
+Rate-based method for packed columns,
+Efficiency of packed columns.
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+measure separation between
+two key components.
+
+Relationship between mass
+transfer and phase equilibrium,
+and why models for both are
+useful.
+
+Mechanisms of mass transfer,
+including bulk flow.
+
+Fick’s law of diffusion for
+binary mixtures and discuss its
+analogy to Fourier’s law of
+heat conduction.
+
+Diffusivities for gas, liquid,
+and solid mixtures.
+
+Rates of mass transfer by
+molecular diffusion in laminar
+flow for three common cases.
+Mass-transfer coefficient and
+explain its analogy to the heattransfer coefficient.
+
+Rates of mass transfer across
+fluid—fluid interfaces using
+two-film theory and
+penetration theory.
+Differences among physical
+absorption, chemical
+absorption, and stripping.
+Different types of trays.
+Difference between random
+and structured packings and
+cite examples of each.
+Estimation of minimum MSA
+flow rate to achieve a specified
+key-component recovery.
+Graphically, estimation of the
+required number of equilibrium
+stages in a countercurrent
+cascade
+
+Overall stage efficiency
+Operation problems in tray
+columns.
+
+Understand the height
+equivalent to a theoretical
+(equilibrium) stage or plate
+(HETP or HETS)
+
+Estimation of packed height,
+and packed-column diameter.
+
+ 
+Distillation
+of binary
+mixtures
+
+LiquidLiquid
+extraction
+
+with ternary
+systems
+
+Leaching
+and washing
+
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+L21-L32. Equipment and_ design
+considerations, McCabe-T hiele
+graphical equilibrium stage method for
+tray towers, Estimation of stage
+efficiency, Diameter of tray towers and
+reflux drums, Rate-based method for
+packed columns, Ponchon-Savarit
+graphical equilibrium stage method for
+tray towers.
+
+L33-L37. Temary liquid-liquid systems,
+Equipment, General design
+considerations, Hunter-Nash graphical
+equilibrium-stage method, MaloneySchubert graphical equilibrium stage
+method.
+
+L38-L40. Equilibrium-stage model for
+leaching and washing, Rate-based
+model for leaching, Equipment for
+leaching.
+
+;
+
+.7(T
+.8(T
+
+1)
+
+Ch. 16 (T1)
+
+Need in distillation fora
+condenser to produce reflux
+and a reboiler to produce
+boilup.
+
+Five possible phase conditions
+of the feed.
+
+McCabe—Thiele method for
+determining minimum reflux
+ratio, minimum equilibrium
+stages, number of stages
+Murphree vapor-stage
+efficiency to determine the
+number of actual stages
+(plates) from the number of
+equilibriumstages.
+
+Why and when liquid—liquid
+extraction might be preferred
+to distillation.
+
+Selection of equipment for
+liquid-liquid extraction.
+Distribution coefficient and its
+relationship to activity
+coefficients and selectivity of a
+solute
+
+between carrier and solvent.
+Use of a triangular diagram to
+estimate minimum
+
+solvent requirement, and
+equilibrium stages for ternary
+liquid—liquid extraction in a
+cascade.
+
+Equipment used for batch and
+continuous leaching.
+Differences between leaching,
+washing, and expression.
+Calculation for the recovery of
+a solute for a continuous,
+countercurrent leaching and
+washing system.
+
+No. of stages for the
+continuous counter-current
+leaching operation for the
+design recovery of solute.
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+(% ) ———* lose ook Open Book)
+courte [tm a
+Examination
+“Tutorials/ Supasetest [_——~+d| SP SSCSC~SSCSBIO
+
+Asimeisy TB
+
+$Four tutorials —_ 10 marks) will be conducted out of which best three tutorials will be considered for
+final grading. During tutorial and surprise quizzes, the students will be asked to solve problems
+(numerical/objective/multiple choice type) and submit the answer sheet to the instructor.
+
+7. Chamber C onsultation Hour: To be announced in the class.
+
+8. Notices:A 1] notices concerning this course will be displayed in IntraBITS Portal and on the Chemical Engineering
+Notice Board.
+
+9, Make-up Policy:
+Make-up is granted only for genuine cases with valid justification and prior permission of Instructor- in-charge.
+10. Note (if any):
+
+Instructor-in-charge
+CHE F244
+

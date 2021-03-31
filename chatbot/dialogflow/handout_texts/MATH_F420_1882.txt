@@ -1,0 +1,125 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : MATH F420
+
+Course Title : Mathematical Modelling
+Instructor-in-C harge : BALRAM DUBEY
+Instructor(s) :
+
+Tutorial/Practical Instructors:
+
+1. Course Description: Mathematical Modeling in Biology, Epidemiology, Model for Various Problems and Situation
+Using ODE and PDE, Classic Models in Ecology and Evolutionary Biology, Equilibria and Stability Analysis, Dynamics of
+Class-Structured Populations, Techniques for Analyzing Models.
+
+2. Scope and Objective of the Course: The principal objective of this course is to familiarize students with the
+theory of population and a basic understanding of mathematical modelling of a real-world problem. Students will gain
+enough background to read theoretical population and evolutionary ecology literature, do simple modelling, and
+springboard to more complex theory if desired. Students will develop techniques for understanding and analysing
+simple, multivariate, and nonlinear models will be explored.
+
+3. Text Books: Mathematical Modeling with Case studies; B Barnes & G R Fulford, CRC Press, 2008.
+
+4, Reference Books:
+R1. Essential Mathematical Biology; Britton, Nicholas F, Springer, 2004.
+R2. Mathematical Modeling: a tool for problem solving in engineering, physical, biological,
+and social sciences by D. N. P. Murthy, N. W. Page, Ervin Y. Rodin, Butterworthheinemann Ltd, 1990.
+R3. Mathematical Biology I. An Introduction; James D. Murray, Springer-Verlag, 3 Edition,
+2005.
+
+5. Course Plan:
+
+Module No. Lecture Session Reference | Learning outcomes
+“oN from the Text
+Book
+L1.1-1.2:Mathematical Models and 1.1-1.3 Introduction to
+Moding pwreches | [tered Md
+L2.1-2.3:Models related to Exponential 2.3, 2.5, 2.7 Understanding some
+decay, Lake Pollution, drug assimilation, | 28.25.27 | Understanding some
+
+Harvesting
+
+Understanding the
+concept of stability
+theo
+
+L4.1-4.4: Linearization and Critical Points
+
+L3.1-3.5:Exponential, Logistic, Density Understanding the
+Dependent Growth, Limited Growth with population growth models
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5.2, 5.3, 6.1, 6.2, | Understanding the concept
+
+6.4, R1: 2.3 of models in ecology and
+epidemiology, their
+analysis, and drawing
+information
+
+R1: 2.4-2.6 Understanding the concept
+of modelling in biological
+species and their
+dynamical behavior.
+
+L7.1-7.8: SIS, SIR models, vector borne R1:3.1- 3.5, 3.7, | Classical models in
+
+diseases, HIV infection model 6.5 Epidemiology
+
+L8.1-8.6: Solving Models using MATLAB Understanding the concept
+of computer simulation
+
+6. Evaluation Scheme:
+
+L5.1-5.6: Epidemic model for influenza,
+predator prey model and their phase
+plane analysis
+
+L6.1-6.6: Population models of interaction
+species
+
+ 
+
+ 
+ 
+
+Component Duration | Weightage Date & Time Nature of component
+(Close Book/ Open
+Book)
+
+Mid-Semester Test <TEST 1> CB
+Comprehensive 3h 45% <TEST C> CB/OB
+Examination
+| Quiz/seminar/assignment |__| 20% | Announced/unannounced | CB/OB
+7. Chamber Consultation Hour: Will be announced in the class.
+8. Notices: All notices will be displayed on the notice board of Maths Dept / Nalanda.
+9, Make-up Policy: (i) No makeup will be given in Quiz/seminar/assignment.
+(ii) In midsem and comprehensive exam, make up will be given ONLY if the case is very genuine.
+10. Note (if any):
+
+Instructor-in-charge
+Course No. MATH F420
+
+NO
+

@@ -1,0 +1,116 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CS/EEE/INSTR F241
+
+Course Title : Microprocessors Programming and Interfacing
+
+Instructor-in-C harge : Dr. Nitin C haturvedi
+
+Instructor(s) : Dr. GSS Chalapathi
+
+Tutorial Instructors : Devesh, Vinay, Pawan, Satendra, Chalapathi, Nitin, Rahul
+Practical Instructors : Puneet, Ziyaur, Ritesh, Suraj, Radha, Abheek, Kanika, Poonam,
+
+: Prannay, Praveen, Sankalp, Nishant
+
+1. Course Description: Programmers model of processor, processor architecture; Instruction set, modular
+assembly programming using subroutines, macros etc.; Timing diagrams; Concept of interrupts: hardware &
+software interrupts, Interrupt handling techniques, Interrupt controllers; Types of Memory & memory
+interfacing; Programmable Peripheral devices and I/O Interfacing; DMA controller and its interfacing: Design
+of processor based system. This course will have laboratory component.
+
+2. Scope and Objective of the C ourse: This course is a basic introduction to processor ISA, Assembly
+programming, Computer & Embedded Architecture. Intel 80x86 is used as a platform through the course.
+8086 - 80486 Programmers model of processor, processor architecture; Instruction set, modular assembly
+programming using subroutines, macros etc.; Timing diagrams; Concept of interrupts: hardware & software
+interrupts, Interrupt handling techniques, Interrupt controllers. Types of Memory & memory interfacing.
+Programmable Peripheral devices and I/O Interfacing, DMA controller and its interfacing. Design of
+processor based system.
+
+3. Text Books: Barry B Brey, The Intel Microprocessors .Pearson, Eight Ed. 2009.
+4, Reference Books: Douglas V Hall, Microprocessor and Interfacing, TMH, Second Edition.
+
+5. Course Plan:
+
+Module | Lecture | Lecture Session Reference | Learning outcomes
+Session (Text book)
+Compute Architecture, Memory & I/O Chapter 1 Learn: Introduction to
+organization, CISC/RISC processors Microprocessor and
+Microcomputers
+
+Programmer's Model Chapter 2 Learn: Microprocessor & its
+architecture
+
+Addressing Modes Chapter 3 Learn: Assembly
+Programming
+
+Learn: Assembly
+Programming
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+17-19 Pin Out, Modes of operation, Clocking, Buses | Chapter 9 Learn: 8086/8088 Hardware
+Specifications
+20-23 Memory Devices, Address Decoding- Memory | Chapter -10 Learn: Memory Interface
+Interface 8086- 80386
+
+Basic I/O interfacing (I/O mapped I/O and Chapter 11.1, Learn:1/O Interfacing
+Memory mapped I/O) I/O port address 11.2
+decoding, Protected Mode
+
+ 
+
+Chapter 11.3 Learn: Programmable
+Peripheral Devices
+
+2 28-29 Types of interrupts, Vector tables, Priority Chapter 12.1, Learn: Interrupts
+Schemes 12.2,
+
+30-31 8259 Chapter 12.4 Learn: Interrupt Controller
+32-34 8293/8254 Chapter 11.4 Learn: Programmable Timer
+35-36 ADC, DAC, DMA Chapter 11.6
+
+37-39 Basic Operation, 8237, Shared Bus, Disk Chapter -13 Learn:DMA controller
+
+Memory Systems, Video Displays
+
+40-41 Processor based system design Chapter 15 Learn: System Design
+
+6. Evaluation Scheme:
+
+(% ) (Close Book/ Open Book)
+
+ 
+
+ 
+
+Comprehensive 120 min. 120 (40%) May, 2021 CB/OB
+Examination
+Tote 80000)
+
+7. Chamber Consultation Hour: To be announced in the class
+
+8. Notices: Will be displayed on Nalanda Notice board
+
+9, Make-up Policy: Make up will be allowed for genuine cases. No make up for Lab.
+10. Note (if any): A student who scores less than 20% marks will be awarded NC.
+
+Instructor-in-charge
+Course No. CS/EEE/INSTR F241
+

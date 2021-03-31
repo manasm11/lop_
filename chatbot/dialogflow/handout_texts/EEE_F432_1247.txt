@@ -1,0 +1,241 @@
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+Date: 01.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE/INSTR F432
+Course Title : Medical Instrumentation
+Instructor-in-C harge : SUJAN YENUGANTI
+Instructor(s) ¢ saneee--
+Tutorial/Practical Instructors: --------
+1. Course Description: Basic components of bio-medical instruments, bio-electric signals & recording
+electrodes, transducers, recording and display devices. Patient care and monitoring systems, cardiovascular
+measurements-blood pressure, blood flow, cardiac output, heart sounds etc.; instrumentation for respiratory
+and nervous systems, analysis of EEG, ECG, EMG, EOG and action potentials, non- invasive diagnostic
+measurements - temperature, ultrasonic diagnosis, CAT scan techniques, sensory measurements-motor
+response, analysis of behaviour etc. biotelemetry, biofeedback, clinical laboratory instruments, X-ray
+diagnosis. Recent advances in biomedical instrumentation- microprocessor based systems, lasers & optical
+fiber based systems.
+
+2. Scope and Objective of the Course: This course will cover various systems of the human physiology,
+signals of biological origin obtained from these systems, biosensors, transducers, bio electrodes used to
+acquire such signals, and amplifiers for measuring bio potentials. Electrical safety of medical devices;
+measurements of the blood pressure, blood flow, respiratory system, clinical laboratory equipment, medical
+imaging, and bioethics will also be discussed. As a result, students can understand, design and evaluate
+systems and devices that can measure, test and/or acquire biological information from the human body. The
+course is divided into four modules, wherein, the first module deals with fundamentals of medical instruments
+and will cover the physiological and anatomical factors that contribute to the generation of biomedical
+signals/images. The second module deals with data acquisition of different types of biomedical signals/images
+that are generated through various medical instruments and transducers. The third module deals with various
+Biomedical devices including Bio MEMS and drug delivery systems. Finally, the fourth module will include
+
+clinical relevance and patient’s safety.
+
+3. Text Books:
+
+T1: Cromwell, Biomedical Instrumentation and Measurements; PHI, New Delhi, 2nd Ed. 2015.
+
+4, Reference Books:
+R1: R. S. Khandpur, Handbook of biomedical instrumentation, Tata McGraw-Hill.
+
+R2: C. Raja Rao & S. K Guha, Principles of Medical electronics and Biomedical Instrumentation,
+University press.
+R3: John G Webster, Medical Instrumentation: A pplication and Design, John Wiley & Sons.
+
+1
+Wa BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+5. Course Plan:
+
+Introduction
+
+Fundamentals of
+Medical
+Instruments
+
+Data acquisition
+of biomedical
+signals/images
+
+ 
+
+Lecture topics
+
+Overview of the course, and its
+potential applications.
+
+Introduction to medical
+instruments, its basic
+components and their
+classifications.
+
+Anatomical and Physiological
+mechanisms of the human body Biological neurons and different
+biological systems: auditory,
+
+visual, respiratory, nervous and
+cardiovascular.
+
+Challenges involved in
+measuring a living system and
+the role of engineers in
+healthcare facilities.
+
+Transducers and __ electrode
+placement for recording the
+biomedical signals/images.
+
+Clinical laboratory instruments
+for biomedical signals/images.
+
+ 
+
+T1,R1 & R2
+
+T1,R1& R3
+T1, R1
+
+Learning Outcome
+
+Students will be able to
+understand the significance of
+medical Instrumentation
+
+Understand the essential
+components that are required in
+medical instruments.
+
+Understand the anatomy and
+physiology of the human body,
+that is required for determining
+the source of the biomedical
+signal.
+
+Understand the role of engineers
+in healthcare.
+
+Understand the role of
+transducers and electrode
+placements for recording various
+biomedical signals.
+
+Understand the role of clinical
+instruments and its setup for
+recording biomedical signals.
+
+ 
+
+ 
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+1D biomedical signals:
+
+Electrocardiogram (ECG),
+
+Electroencephalogram (EEG),
+
+Electroneurogram (ENG), Understand how various
+Electromyogram (EMG), biomedical signals are recorded
+Electroretinography (ERG), and collected using various
+Electrooculography (EOG), medical instruments and
+Event-related Potentials (ERPs), transducers.
+
+Action potential,
+
+Electrogastrogram (EGG),
+
+Phonocardiogram (PCG),
+
+Speech production and
+
+recognition, sensory and Otoacoustic emission signals
+
+Understand how various types of
+biomedical images are recorded
+and collected using various
+medical instruments and
+transducers.
+
+2D biomedical signals (or
+images): X-Ray, Magnetic
+resonance imaging (FMRI),
+Ultrasonic images, CT scans,
+and PET.
+
+Bio medical All types of medical devices R3 Understand about various types of
+
+devices including Bio-MEMS, micro biomedical devices and their roles
+drug delivery, micro pumps, in real world applications of
+micro mixers etc. biomedical fields.
+
+Understand the challenges faced
+in clinics for using prosthetic
+devices and on patient’s safety.
+
+Clinical Therapeutic and prosthetic
+Relevance devices, rehabilitation, Patient
+
+monitoring systems and
+Electrical safety
+
+ 
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+
+Mid-Semester Test 25% Closed Book
+
+Comprehensive 2h 40% 7th May FN Closed Book
+Examination
+
+Closed Book
+
+Po
+
+ 
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+8. Notices: All notices related to the course will be placed on Nalanda.
+
+9, Make-up Policy:
+
+Prior permission of the Instructor-in-Charge is usually required to take a make-up for a test.
+
+In case of an unanticipated illness preventing a student from appearing for a test, the student must present a
+Medical Certificate.
+
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE/INSTR F432
+

@@ -1,0 +1,226 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 02.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : EEE F312
+
+Course Title : Power Systems
+Instructor-in-C harge : Dheerendra Singh
+Instructor(s) :
+
+Tutorial/Practical Instructors: Dheerendra Singh, Hari Om Bansal, Rajneesh Kumar
+
+1. Course Description: Review and importance of power system, Present power system scenario,
+Transmission line parameters and modeling, Characteristics and performance of lines, Load flow studies,
+Optimal system operation, Automatic Generation and voltage Control, Power system fault analysis, Power
+systems stability, Introduction of power system protection, Introduction of HVDC Transmission.
+
+2. Scope and Objective of the Course: This course aims at introducing the students to the basic features of
+the modern power systems, analysis and operation under steady state and transient conditions. Students will
+be also familiar with Power system related simulation tools
+
+3. Text Books: Nagrath I.J. & D.P.Kothari, “Power System Engineering” 2nd Edition, TMH, 2008
+4, Reference Books: 1- P. Kundur “ Power System Stability And Control” Ist Edition, TMH, 1994
+2- C.L. Wadhwa “Electrical Power Systems” Sixth Edition, New Age Int. Publishers
+
+5. Course Plan:
+
+ 
+   
+ 
+ 
+   
+ 
+
+ 
+  
+ 
+
+Module No. Lecture Session Learning outcomes
+Reference
+
+L 1.1 Basics of power system, Indian power system 1.1-1.4
+1 Introduction scenario (RB)
+Transmission L 1,2-1.4 Inductance calculations for single and three phase
+Line Transmission | configurations 2.1 to 2.8
+Parameters _ | line modeling (TB)
+
+Calculation
+L 1.5-1.6 Inductance calculations for double circuit bundle
+Transmission | conductors resistance, skin & proximity effect 2.9 to
+2.12(TB)
+
+    
+
+        
+ 
+
+line modeling
+
+  
+
+L 1.7-1.8 Simple capacitance calculations 3.1 to 3.6
+Transmission (TB)
+line modeling
+
+    
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+L 1.9 Effect of earth, methods of GMD (Modified) 3.7 to 3.9
+Transmission | bundle conductors. (TB)
+line modeling
+
+ 
+
+L 2.1 P.U System One line diagram and per unit system 4.3 to 4.4 (TB)
+2
+
+Modelling L 2.2-2.4 - Analysis of short and medium lines 3.1 to 5.3 (TB)
+& Characteristics and
+performance of lines
+Performance
+
+Analysis of | Lb 2.5 Long transmission lines, Equivalent 9.4 to 5.5 (TB)
+Transmission | © haracteristics and | circuit of long lines,
+performance of lines
+
+  
+ 
+
+Lines
+
+L 2.6-L 2.7 Ferranti effect, tuned power lines. 5.7 to 5.8 (TB)
+Characteristics and
+performance of lines
+
+L3.1 Load flow Introduction and importance 6.1 to 6.2 (TB)
+
+     
+
+3 studies
+Load Flow
+Studies, L3.2-3.3 Load flow | Y Bus formulation, load flow problem | 6.3 to 6.4 (TB)
+Economic studies
+Load Dispatch
+Load freq. L3.4 Optimal system | Optimal operation, Unit commitment 7.1 to 7.3 (TB)
+Control operation
+L3.5-L3.6 Automatic | Load frequency control 8.1 to 8.2 (TB)
+Generation and
+Voltage C ontrol 11.1-11.2 (RB)
+L4.1-4.2 Symmetrical | Transient Short Circuits 9.1 to 9.3 (TB)
+4 Fault Analysis
+Fault
+Analysis L4,3-4.4 Symmetrical | Short circuit and load selection of circuit | 9.4 to 9.5 (TB)
+Fault Analysis breakers
+L5.1-5.2 Symmetrical | Transformation, phase shift 10.1 to 10.3 (TB)
+
+Components
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+Symmetrical | L5.3-5.4 Symmetrical | Sequence impedances of line generation | 10.4 to 10.8 (TB)
+Components | Components and transformers
+
+C onstruction of sequence networks 10.9 (TB)
+L5.5-5.6 Symmetrical
+components
+
+Line to ground, line to line, and double | 11.1 to 11.6 (TB)
+L5.7 Unsymmetrical | line to ground faults, open conductor
+fault analysis fault
+
+L6.1 Power Systems | Dynamic of a synchronous machine 12.1 to 12.2 (TB)
+6 stability
+Power System
+
+Stability L 6.2-6.3 Power Steady-state stability of simple systems | 12.3 to 12.6 (TB)
+system stability
+
+12.7 to 12.8 (TB)
+
+L 6.4 Power system Equal area criterion
+stability 12.1-12.2 (RB)
+
+L 7.1 Circuit Transients, rating and arc extinction 14.1 to 14.3
+7 Breakers
+Power System | 1 79 power system | Protective zones 15.1 to 15.2
+Protection protection
+
+L 8.1 Advanced Advanced topics in Power Systems (Data | Course material
+topics in Power Analytics for Smart Grid)
+Systems
+
+  
+ 
+    
+     
+
+6. Evaluation Scheme:
+
+Component
+
+ 
+
+Weightage (% ) Date & Time Nature of component
+(Close Boon eB Book)
+
+  
+
+   
+   
+
+| Mid-Semester Test Semester Test 30% (90 | 30% (80 Marks) <T | STEST_1> 1>
+
+ee 2h 40% (120 ——— <T a C> a +OB
+Examination
+
+| Assignment 10% (30 | 10% (30 Marks)
+
+Division website (https: //academic.bits-pilani.ac.in/)* for revised comprehensive exam date and time.
+ABIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+7. Chamber C onsultation Hour: To be announced in the class.
+8. Notices: Notices will be posted on Nalanda.
+
+9, Make-up Policy: Make-up will be granted on genuine grounds only.
+10. Note (if any):
+
+Instructor-in-charge
+Course No. EEE F312
+

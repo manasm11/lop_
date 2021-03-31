@@ -1,0 +1,516 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+FIRST SEMESTER 2020-21
+COURSE HANDOUT
+Date: 18-1-2021
+
+In addition to part -I (General Handout for all courses appended to the time-table) this portion gives
+further specific details regarding the course.
+
+Course No. : ECON F212
+
+Course Title : FUNDAMENTALS OF FINANCE & ACCOUNTING
+Instructor-in-charge : Dr. Byomakesh Debata
+
+Instructor : Dr. Byomakesh Debata
+
+1. Course description:
+Accounting is the language of business. Through this language, the business (i.e. the Company) not
+
+only maintain the records of transactions it undertakes during the course of its existence, but also
+communicates with the outside world by publishing various financial reports that summarize
+transactions undertaken by the company. Therefore, it is important to note here that this course entails
+two important and interrelated aspects, i.e.,
+
+a. Recording transactions, and
+
+b. Preparing financial statements such as balance sheet, income statement, etc.
+Since, b. follows a., it is important to learn the recording of transactions first in order to learn
+preparing financial statements.
+The course will introduce you to the following key concepts: introduction, standards and basic rules of
+accounting, double-entry accounting system, identifying and recoding transactions, preparing trial
+balance, dealing with incomplete transactions, preparing the balance sheet, types of ownership,
+credibility and role of auditing, measuring income, adjustments to the accounts, preparing the
+statement of cash flows, recording sales revenue, reporting inventones and cost of goods sold,
+recording capital assets, liabilities and interest, stockholders' equity and valuation of financial assets.
+This course is specifically designed to meet the educational needs of second year Economics students
+and students pursing Finance minor program. In order to complete the program requirement, the
+students from Economics and Finance background require a basic understanding on accounting
+principles and financial statement analysis. This course serves that purpose, and it is prerequisite to
+other advanced courses that students from (MSc) Economics and Finance (minor) undertake in the
+Subsequent semesters. Hence, being elementary in nature this course has got its relevance and
+importance. Besides, a few students also take this course as an elective in order to pursue their
+academic interest in the field of finance.
+
+Save Paper.
+gy. Save Trees.
+** “Save the World. innovate achieve ~—siea
+
+Please Do Not Print Unless Necessary
+
+ 
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+2. Scope and Objective:
+
+The scope of this course largely encapsulates an introduction to the reporting system used by
+businesses to record and convey financial information to investors, analysts, and regulators. This
+reporting system is referred to as financial accounting. The key learning objectives that this course
+accomplishes enables participants in learning:
+
+a. how companies identify and record transactions that have a financial impact and are critical
+to day-to-day functioning of the company.
+
+b. how using a systematic procedure, the recorded transactions are summarized into
+meaningful and standardized reports (financial statements) such as the balance sheet,
+statement of income etc.
+
+c. the key components that form part of these financial statements.
+
+d. how these financial statements are analyzed and what information do they convey about the
+financial well-being and future prospects about the company.
+
+3. Textbook: The below given text-book (prefer 11 Edition) is highly recommended for this course.
+TB1: Horngren, Sundem, Elliott and Philbrick, “Introduction to Financial Accounting”,
+Pearson Education India Ltd., 11 edition, 2018.
+
+4. Ref. Books:
+R1: Libby, Robert., Libby, Short, “Financial Accounting”, Tata McGraw-Hill., 6" edition, 2011
+R2: R Narayanaswamy, Financial Accounting: A managerial perspectives, 6th edition, PHI 2017
+R3: Gitman, “Principles of Managerial Finance,” Pearson Education, 10" ed, 2004
+
+ 
+
+A Save Paper.
+ge, Save Trees.
+£°* Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+ 
+
+5. This section provides a details description of the course contents that will be dealt with in this
+course. Also, the dates of tutorial tests and regular tests are also given so that participants can
+plan accordingly.
+
+Course Plan
+
+Module Lecture session References | Learning objectives
+Number
+
+1. Introduction
+to the concept
+of a business
+entity,
+transaction
+analysis, and
+financial
+statements.
+
+Textbook
+Chapter 1
+and Class
+
+L1.1 - Course introduction and discussion
+on handout.
+
+L1.2 - Concept of a business enterprise.
+Types of ownerships. Notes
+L1.3 - Key terminologies related to
+
+financial statements.
+
+L1.4 - Discussion on transactions and how
+
+to identify transactions that hold
+
+Differentiate between
+types of business
+entities.
+
+Learning the concept of
+transaction from
+accounting point of
+view.
+
+Understanding the
+
+ 
+
+relevance to the business. Transaction concept of business
+
+analysis using balance sheet accounts. entity.
+L1.5 - Introduction to the concept of
+accounting and its end product i.e. the
+
+Annual Report
+
+Textbook Learn distinction
+Chapter 2
+
+and Class
+
+2. Income L2.1 Income measurement within an
+
+measurement accounting period. Revenues vs Expenses. between revenues and
+
+and financial L2.2 Relationship between stockholder's expenses.
+
+performance. equity and profits and losses of a Notes Describe the change in
+
+company. balance sheet from
+L2.3-4 Accrual versus cash basis of beginning of the year to
+measuring income, matching principle, the end of year in terms
+and expiration of unexpired assets. of income statement
+L2.5 - Income statement and its during that period.
+relationship with the balance sheet
+
+L2.6 - Dividends, retained earnings, and
+
+statement of stockholder's equity
+
+L2.7 - Popular financial ratios for financial
+
+analysis and investment decision making
+
+ 
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate
+
+Flot al (otic) |
+
+Please Do Not Print Unless Necessary
+   
+
+3. Recording
+transactions
+
+4. End-of-period
+adjustments for
+
+preparing
+financial
+
+statements
+
+5. Statement of
+
+Cash Flows
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+Pilani Campus
+AUGS/ AGSR Division
+
+L3.1-2 Double entry accounting system
+(concept of journal entries, general
+ledger, and debit/credit).
+
+L3.3-5 Process of developing financial
+statements from journal entries
+
+L3.6 - Effect of errors on financial
+statements and how to correct.
+
+L4.1 Revisit accrual-based accounting
+procedure
+
+L4.2-3 Types of adjustments and why it is
+needed
+
+L4.4 Preparing adjusted financial
+statements using unadjusted financial
+statements and accrual-based accounting
+approach.
+
+L4.5 Introduction to classified balance
+sheet and various forms of balance sheet
+presentation
+
+L4.6 Single and multi-step income
+statement
+
+L4.7-8 Ratio analysis using balance sheet
+and income statement
+
+L5.1 Introduction to cash flow statement
+and its relevance for managers and
+investors.L5.1 Activities that affect cash
+flow statementL5.2-4 Indirect and direct
+method for preparing cash flow
+statementL5.5 Cash flow statement and
+financial analysis.
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+Textbook
+Chapter 3
+and Class
+Notes
+
+Textbook
+Chapter 4
+and Class
+Notes
+
+Textbook
+Chapter 5
+and Class
+Notes
+
+Please Do Not Print Unless Necessary
+
+Explain changes in
+balance sheet after
+every transaction in
+terms of debit and
+credit.
+
+Prepare year-end or
+quarter-end unadjusted
+financial statements by
+using information on
+transaction data
+undertaken by the
+company during that
+period
+
+Distinguish between
+cash-based accounting
+system and accrualbased accounting
+system.
+
+Prepare year-end or
+quarter-end adjusted
+financial statements by
+using information on
+unadjusted financial
+statements and
+incorporating end-ofperiod adjustments.
+
+Realize the importance
+of the cash flow
+statement.Categorize
+any given transaction
+into either investing,
+financing, or operating
+actvity.Utilize
+information given in the
+balance sheet and
+income statement for
+
+ 
+
+innovate
+ 
+
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+6. Long-lived L6.1 Types of long-lived assets. Difference
+
+Assets between tangible and intangible assets.
+(Tentative) L6.2 Straight line depreciation and effects
+of depreciation on cash flow and income
+tax
+
+L6.3 Expenditure after acquisition.
+Accounting perspective on recording gain
+
+and loss on sale of tangible assets.
+
+7. Liabilities and
+Interest
+
+L7.1 Review of accounting for current
+liabilities
+
+(Tentative) L7.2-3 Long-term Liabilities. Discussion on
+how companies raise financing by issuing
+bonds. Bond valuation method.
+
+L7.3-4 Bond accounting
+
+L7.5-6 Accounting for leases
+
+8. Shareholder's
+equity
+
+L8.1 Issuing stocks by public companies
+for raising funds from investors.
+(Tentative) L8.2 Accounting for common stocks,
+
+dividends, and retained earnings.
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+Textbook
+Chapter 8
+and Class
+Notes
+
+Textbook
+Chapter 9
+and Class
+Notes
+
+Textbook
+Chapter 10
+and Class
+Notes
+
+ 
+
+Please Do Not Print Unless Necessary
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+
+preparing cash flow
+statement.Compare and
+contrast direct and
+indirect approaches for
+cash flow preparation.
+
+Differentiate between
+current assets and fixed
+assets.
+
+Role of depreciation in
+expiring long-lived
+asset.
+
+Distinction between
+cash flow on investment
+and cash flow on
+expenses.
+
+Accounting for
+purchase, sale and
+expiration of fixed
+assets.
+
+Differentiate between
+current liabilities and
+long-term liabilities
+Issuing bonds to
+investors by companies
+for raising funds.
+
+Bond valuation
+principles and bond
+accounting.
+
+Stock issuance process
+and accounting such
+transactions.
+
+Impact of dividend
+declaration and
+distribution on
+company's net worth.
+
+ 
+
+innovate
+ 
+
+   
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+9. Financial L9.1 Review of popular financial ratios Textbook Carry-out
+
+ratio analysis covered in the course. Chapter 12 | comprehensive financial
+L9,.2-3-4 Financial statement analysis of a | and Class ratio analysis of a
+hypothetical firm using ratio analysis Notes company using financial
+
+approach statements.
+
+Group Assignment and Presentations ee
+
+6. Evaluation Scheme:
+
+Components Weightage Date & Time Nature of component
+(% ) (Close Book/ O pen Book)
+Mid-Semester Test As per time-table Open Book
+
+Comprehensive A0% As per time-table Partly Open Book
+
+Examination
+
+Quizzes (2)
+
+Presentation
+
+ 
+
+Make-up policy
+
+Any problem with internet to be addressed to AUGSD. No make-up will be given for tests without prior
+approval from the I/C. Make-up for comprehensive exam will be decided by AUGSD. Make-up for tests or
+comprehensive may not be conducted as regular tests due to problem in scheduling and may be done through
+Google meet viva-voce or telephonic interview mode.
+
+Chamber Consultation Hour: Thursday- from 4:30PM to 5:30 PM. This can be done through Google meet
+or Microsoft team etc.
+
+Notices: Notices concerning the course will be intimated through online.
+
+Instructor in-charge
+Byomakesh Debata
+
+ 
+
+Save Paper.
+ae) Save Trees.
+£ > Save the World.
+
+innovate
+
+Please Do Not Print Unless Necessary
+

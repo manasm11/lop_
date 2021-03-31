@@ -1,0 +1,164 @@
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+15.01.2021
+
+In addition to Part | (General Handout for all courses appended to the time table) this portion further
+gives specific details regarding the course.
+
+Course No. >: MF F220
+
+Course Title : Metrology and Quality Assurance
+Instructor-in-Charge : Tribeni Roy
+
+Tutorial Instructor : Radha Raman Mishra
+
+Laboratory Instructor : Girish Kant Garg
+
+1. Course Description:
+
+Metrology and Quality Assurance are the tools which equip engineeres to ensure a defect free and precise
+product during its production. The present course covers various aspects of Metrology and Quality
+Assurance such as importance of metrology, calibration, limits fits and tolerances, design of gauges, linear
+and angular measurement, inspection of surface quality, features inspection, coordinate measuring
+systems, application of vision, interferometry, laser, and other non-contact measuring systems, various case
+studies on measurement systems used for automated production systems; quality management: practices,
+tools and standards, statistical techniques in quality control, statistical process control using control charts,
+control charts for attributes, and variables, process capability analysis, measurement system analysis,
+acceptance sampling plan, reliability assessment of systems and use of commercial software for statistical
+quality control (SQC)
+
+2. Scope and Objective of the Course:
+
+This course is designed to impart knowledge on the basics of metrology and quality assurance (QA).
+Metrology bridges the gap between designer’s vision and the actual product. Knowledge of QA or quality
+control will enable the students to statistically determine the number of defects in manufactured products
+and ways to avoid them. This course provides laboratory demonstration of various metrology tools for
+inspection and application of statistical tools for problem solving.
+
+3. Text Books:
+
+i) Connie L. Dotson, “Fundamentals of Dimensional Metrology”, Cengage Learning, 6th Ed., 2016 (T1)
+ii) Amitava Mitra, “Fundamentals of Quality Control and Improvement”, Wiley, 3 Edition, July 2008 (T2)
+
+4. Reference books
+
+i) Gaylor Shotbolt and Sharp, "Metrology for Engineers”, O R.Cassel, London, 1993 (R1)
+
+ii) Douglas C. Montgomery, “Introduction to Statistical Quality Control”, John Wiley & Sons, 3rd Ed., 2001
+(R2)
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate achieve
+
+Please Do Not Print Unless Necessary
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+5. Course Plan:
+
+——
+(L1-4) Basics of measurement | To understand the importance of metrology T1, R1
+findconnshneragy | fo
+(L5-7) Limits, fit and tolerances To understand differences between designer’s | T1, R1
+Lasideiaeeilll[-=s-ro-t=seeionell lai
+"
+objects
+(L12-14) Inspection of surface | To know about various surface attributes and | T1,R1
+(L15-17) Measurement systems | To learn various measurement systems T1, R1
+(L18-20) Fundamentals of quality | To know the basics of quality management T2, R2
+ln
+(L21-30) Statistical quality control | To learn about quality control and quality T2, R1, R2
+fetcomiders  |nomungctonemn
+.
+measurement system analysis and analysis of measurement systems
+(L35-38) Acceptance sampling To learn about inspection with respect to T2, R2
+evrdranchtymsrent [xenptee saci pd |
+(L39-40) Use of commercial Demonstration of software for SQC
+
+6. Lab Practical:
+
+ 
+
+Various experimentations about metrology and quality assurance will be conducted in virtual mode.
+
+7. Evaluation Scheme:
+
+Duration | Weightage
+Components . Date
+(minutes) (%)
+; Will be announced by
+Mid-semester test 30
+AUGSD-AGSRD
+
+Assignments/Projects/Seminars/Quiz pf To be announced in the class | OB
+Lab quiz/viva Po] BR To be announced in the class | OB
+ee
+
+    
+
+ 
+
+ 
+
+A Save Paper.
+gy) Save Trees.
+£ P= &Save the World.
+
+innovate achieve lead
+
+Please Do Not Print Unless Necessary
+ 
+
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+Instruction Division
+
+ 
+
+ 
+
+Will be announced by
+
+Comprehensive Examination.
+AUGSD-AGSRD
+
+CB/OB
+
+ 
+
+8. Chamber Consultation Hours:
+
+To be announced in the first class.
+
+9. Notices:
+
+All notices related to this course will be put on the Nalanda/Google Classroom/email.
+
+10. Make-up Policy:
+
+Make-up will be granted ONLY in genuine cases with prior permission as per the institute rules.
+
+Instructor- in-Charge
+MF F220
+
+Ase a
+
+~"“’4Save the World. innovate -— achieve
+Please Do Not Print Unless Necessary
+
+ 
+

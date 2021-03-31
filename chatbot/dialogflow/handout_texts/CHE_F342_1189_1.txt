@@ -1,0 +1,269 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 18.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHE F342
+Course Title : Process Dynamics and C ontrol
+Instructor-in-C harge : HARE KRISHNA MOHANTA
+
+Instructor(s) (Tut/Prac) : Srinivas A ppari, Venkata Vijayan S
+
+1. Course Description:
+
+Dynamic modeling and simulation of momentum, energy, mass transfer and reacting systems; analysis of the
+dynamic behaviour of lumped and distributed parameter systems; analysis and design of simple feedback and
+advanced control systems; design of control systems with multiple input and multiple output; introduction to
+computer control.
+
+2. Scope and Objective of the C ourse:
+
+This course deals with the design of the control systems for chemical processes, not as a mathematical
+problem, but as an engineering task with all its attractive challenges and practical shortcomings using the
+fundamental concepts of process dynamics as the basis. The course aims to help the student in the selection
+of the best among the several alternative control configurations usually possible for a given processing unit or
+a complete plant. Finally the course will familiarize the student with a plethora of analytical tools and design
+methodologies to be understood before attempting the process control problems.
+
+3. Text Books:
+e Seborg, D. E., Edgar, T. F. and Mellichamp, D.A., Doyle, F.J., “Process Dynamics and Control: An Indian
+Adaptation”, 4" ed., (Feb., 2021), John Wiley and Sons.
+
+4, Reference Books:
+e Coughanowr, D.R., and LeBlanc S.E., “Process Systems Analysis and Control”, 3" Ed., McGraw-Hill Education
+(India), 2013.
+e George Stephanopoulos, Chemical Process Control: An Introduction to Theory and Practice, Prentice Hall, 1984.
+
+5. Course Plan:
+
+Module No.
+1. Introduction to L1.1 Need of process control, process control Understanding of the need of
+Process Control strategies, process control activities m4 process control and overview of
+(1-2) L1.2 An overview of control system design | Saninoh aysteta destin
+
+2.1 heoretical L2.1 Modeling principles, Understanding the principles of
+Models of L2.2 Degrees of freedom analysis modeling a system.
+
+Chemical Processes | 12.3 12.3 Dynamic models of representative processes. models of representative processes. | ©}. 2
+(3-5)
+
+3.Laplace L3.1 The ee transform of representative Understanding the use of Laplace
+Transforms functions Transforms for simulating a
+(6-7) dynamic system expressed with
+
+ 
+
+L3.2. Solution of differential equation transfer function models
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+4,.Transfer Function | L4.1 Development and properties of transfer Ch. 4 | Transfer function models and
+Models functions State-Space Models
+
+(8-10) L4.2. Linearization of non-linear models
+
+ 
+
+ 
+
+ 
+
+ 
+
+L4.3. State-space and transfer function matrix
+models
+
+L4.4 Poles and Zeros and their effect on process
+response
+
+L5.1 Standard process inputs
+
+Behavior of First- | L5.2. Response of first order processes behavior of first and second order
+and Second-Order | L5.3. Response of second order processes Ch.5 | processes when subjected to
+Processes T5. Exercise problems on First and Second Order different inputs.
+
+(11-13) processes
+
+6. Dynamics L6.1. Effect of time delays
+Behavior of L6.2. Approximation of higher order systems poles and zeros, approximation of
+Higher-Order L6.3. Interacting and Non-interacting processes higher order systems, state and
+Processes L6.4. Multiple-Input, Multiple-Output (MIMO) process transfer _— function
+(14-19) Processes matrices.
+
+L6.5. Fitting First- and Second —Order Models | Ch. 6
+using Step Tests.
+7. Feedback L7.1. Basic Control Models Understanding basics of classical
+
+Controllers L7.2. Features of PID Controllers feedback control systems — P, PI
+(20-25) L7.3. On-Off Controllers and PID Controllers.
+
+L7.4. Typical Response of Feedback Control
+systems
+
+L7.5. Digital Versions of PID Controllers
+
+L8.1. Sensors, Transmitters and Transducers
+
+L8.2. Final Control Elements and control valve
+characteristics
+
+L8.3. Piping and Instrumentation Diagrams
+
+L9.1. Block Diagram Representation and ClosedLoop Transfer Functions
+
+L9.2. Closed-Loop Response of Simple Control
+systems
+
+L9.3. Stability of Closed-Loop Control Systems
+L9.4. Root Locus Diagrams
+
+10.Frequency L10.1. Sinusoidal Response of First- and nth-Order Understanding Frequency
+Response Analysis | Process Response Analysis of closedand Control System | L10.2. Frequency Response Characteristics of loop control systems, their
+Design Feedback Controllers design and stability analysis.
+(32-34) L10.3. Bode Stability Criterion
+
+L10.4. Controller Design using Gain and Phase
+Margins. Nyquist Plot.
+
+L11.1. Performance Criteria for Closed-Loop
+systems
+
+L11.2. Model-Based Controller Design Methods
+L11.3. Controller Tuning
+
+L12.1. Introduction to Feedforward Control
+
+L12.2. Ratio Control
+
+L12.3 Cascade Control
+
+o.Dynamic
+
+Understanding the dynamic
+
+Understanding the importance of
+
+   
+
+ 
+
+8.Control System
+Instrumentation
+(26-27)
+
+Understanding how
+Instrumentation 1s important in
+process control.
+
+ 
+
+9. Dynamic
+Behavior and
+Stability of ClosedLoop Control
+systems
+
+(28-31)
+
+Understanding closed-loop
+response and stability of control
+systems.
+
+—
+SS
+
+11. PID Controller
+Design, Tuning and
+Troubleshooting
+(35-38)
+
+12. Enhanced
+Single-loop control
+Strategies
+
+(39-40)
+
+Understanding various tuning
+. | and designing methods for PID
+11 controllers
+
+©)
+os
+
+ 
+
+ 
+
+ 
+
+Understanding the concepts
+behind feedforward and ratio
+control
+
+Qa
+a
+
+ 
+
+ 
+
+| :
+—
+NO
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+After completing this course the students will be able to
+e Perform the Degrees of Freedom Analysis for a System/Control System.
+Make the Time-Domain Dynamic Model of the System.
+Make the Transfer Function Model of the System.
+Design and Tune Classical PID Controllers for the System.
+Make the Stability Analysis of the System.
+Perform Frequency Response A nalysis of the System
+Draw Bode and Nyquist Diagrams.
+Design Control Systems using Gain Margin and Phase Margin.
+Design Feedforward, Ratio and Cascade Controllers.
+
+, (Minutes) Component
+Mid-Semester Test | 90(30%) | | SC B/OB
+60 ( | CB/OB
+
+6. Evaluation Scheme:
+
+)
+Tutorial Tests (Best 4 of 6) 20%)
+Comprehensive Examination 120 120 (40%) 08/05 FN CB/OB
+Home Assignments (Total 2) 30(10%) | OB
+
+ 
+
+7. Chamber C onsultation Hour: (To be decided)
+
+8. Notices: All notices concerning this course will be shared in the Google Classroom for Process Dynamics
+and Control. All the students are required to join the Google Classroom.
+
+9, Make-up Policy: Make-up will be granted only for genuine cases.
+
+10. Note (if any): Contact No. +91-1596-255754.
+(Hare Krishna Mohanta)
+Instructor-in-charge
+CHE F342
+

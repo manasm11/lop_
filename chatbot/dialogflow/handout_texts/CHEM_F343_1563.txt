@@ -1,0 +1,185 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2020-21
+COURSE HANDOUT
+
+ 
+
+Date: 17.01.2021
+
+In addition to part I (General Handout for all courses appended to the Time table) this portion gives further
+specific details regarding the course.
+
+Course No : CHEM F343
+Course Title : Inorganic Chemistry III
+Instructor-in-C harge : AJAY KUMAR SAH
+
+Tutorial/Practical Instructors: Ajay Kumar Sah
+1. Course Description:
+
+This course encompasses several aspects of the elements of periodic table encountered in inorganic chemistry typically
+in numerous application/ functional areas such as, life processes, modern day-to-day living, medical and fine chemical
+applications etc. Some important key- phrases are as follows,
+
+Bio-inorganic chemistry; metalloenzymes; metalloproteins; role of alkali and alkaline earth metal ions, iron, copper,
+zinc, molybdenum etc. in life processes; metals in medicine; metal deficiency and toxicity aspects (mercury, cadmium,
+lead, beryllium, selenium and arsenic etc.); metals used in diagnosis and chemotherapy; electronic, magnetic and
+photonic materials; emerging research topics in inorganic chemistry, such as catalysis, inorganic polymers,
+nanomaterials and hybrid materials.
+
+2. Scope and Objective of the Course: The most important objective of the course is to acquire knowledge and
+understanding about the roles and importance of the different elements (majorly metals) in life processes, medicinal
+purposes and augmenting the quality of life of mankind by breakthrough advancements in human civilization. As an
+integral part of learning the applications of inorganic chemistry, this course will be utilizing the knowledge and
+understanding gained in the foundation courses of General Chemistry, IC-I and IC-II for probing deeper in to the
+chemistry of biological systems, chemistry of modern materials, chemistry in industrial processes for commodity and
+fine chemicals, medicines, sensors etc. On successful completion of the course, the following learning objectives will
+be fulfilled
+
+Introduction to bioinorganic chemistry
+
+11) Understanding the role of metal centers in biological systems (typically redox systems)
+
+ili) Metals in medical applications, toxicity and deficiency aspects
+
+iv) Introduction to electronic, photonic and magnetic materials involving inorganic chemistry
+Inorganic chemistry involved in industrial applications such as polymer synthesis, catalysis etc.
+
+Vi) Exposure to the emerging research areas of functional materials chemistry including inorganic polymers,
+nanomaterials, hybrid materials etc.
+
+3. Text Books:
+T1. J. A. Cowan, "Inorganic Biochemistry An Introduction", Wiley-VCH, 2nd edition.
+
+T2. The Science and Engineering of Materials, Donald R. Askeland, Pradeep P. Phule, Cengage Learning (Indian
+edition)
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+ 
+
+4, Reference Books:
+R1. S.J. Lippard and J. M. Berg, "Principles of Bioinorganic Chemistry", University Science Books
+
+R2. 1. Bertini, H. B. Gray, S.J. Lippard, J. S. Valentine, Bioinorganic Chemistry”, Viva, 1998.
+R3. William D. Callister, Materials Science and Engineering, Wiley-India Edition, 2007.
+3. Course Plan:
+
+Ch-1
+
+2 (Lecture 2-4) Metal ion storage and transport: Metal T1; p133-61 The mechanism for transion uptake and transmembrane ion membrane ion transport
+transport, storage of metal ions like alkali, alkaline earth
+
+metals, transition metal
+ions.
+
+The mechanism for iron
+storage
+
+3 (Lecture 5-7) Metalloproteins and Metalloenzymes: T1; pl167-194 | The role of transition metal
+Oxygen carriers and Hydrolase enzymes ions displaying cooperative
+binding in proteins and
+
+enzymes
+
+ions in biology and Class note | reactions and fundamentals
+5 (Lecture 11-13) | Involvement of Redox Chemistry in underlying their reactivity
+electron transfer pathways and Class not
+
+6 (Lecture 14-16) | Role of alkali and alkaline earth metal T1; p257-284 | The role of metal-ions as
+ions enzyme activators and cofactors
+7 (Lecture 17-19) | Enrichment strategies and intracellular Class notes
+chemistry of low-abundant metals,
+Spontaneous self-assembly of metal
+clusters
+8 (Lecture 20) Introduction and overview, Essential Class notes
+metals, Anemia and Iron, Causes and
+consequences of zinc deficiency, copper
+deficienc
+
+9 (Lecture 21) Toxic effects of Metals: Copper Class notes Interference of exogenous
+overload and Wilkinson diseases, [ron metal ions and resistance
+Toxicity, Toxic effects of other essential mechanism
+elements, Mercury Toxicity and
+Bacterial resistance, cadmium and lead
+
+10 (Lecture 22) Metals used in diagnosis and Class notes Coordination Complexes
+chemotherapy, Radiodiagnostic agents, as Therapeutic A gents
+Magnetic Resonance Imaging, Lithium
+and mental health, Gold and Rheumatoid
+Arthritis
+
+11 (Lecture 23-25) | Electronic materials: Band structure of T2; p677-718 | Origin of important
+solids, Conductivity in solids, properties of conductors,
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+Superconductivity, Semiconductors, semiconductors,
+Insulators and dielectric properties, insulators, dielectrics and
+Piezoelectricity, Pyroelectricity, superconductors
+Ferroelectricity
+
+12 (Lecture 26-28) | Magnetic materials: Classification of T2;p725-751 | The interaction of
+magnetic materials, Magnetization, materials with magnetic
+Permeability, Diamagnetic , fields
+Paramagnetic, Ferromagnetic,
+Superparamagnetic materials, Domain
+structure and the hysteresis loop, The
+curie temperature, Metallic and ceramic
+magnetic materials
+
+13 (Lecture 29-31) | Photonic materials :The electromagnetic | T2;p757-781 | The interaction of
+spectrum, Refraction, Reflection, electromagnetic radiation
+Absorption and Transmission, Selective or photons with materials
+absorption, Transmission or Reflection,
+
+ 
+
+Example and use of emission
+phenomena
+
+14 (Lecture 32-35) | Polymer synthesis, Catalysis by metals, Class notes
+Types of polymerization reactions using
+metals, Types of catalysis, variants
+
+15 (Lecture 36-40) | Emerging areas in inorganic chemistry: Class notes Understanding about the
+Inorganic polymers, Nanomaterials, current advancement in the
+
+Hybrid materials etc field of materials
+
+  
+
+6. Evaluation Scheme:
+
+Component Duration Weightage Date & Time
+(Marks)
+
+Mid-Semester Test 30% (60) To be announced by AUGSD
+
+= [0% 60
+Comprehensive 120 min. 40% (80) As announced in the Timetable (12/05 FN)
+Examination
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+8. Notices: Notices concerning the course will be put up on Nalanda and/or the chemistry notice board.
+
+9, Make-up Policy: Make up request would be considered only for genuine cases.
+
+Instructor-in-charge
+Course No. CHEM 343
+

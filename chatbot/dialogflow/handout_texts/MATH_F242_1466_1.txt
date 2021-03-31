@@ -1,0 +1,131 @@
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+ 
+
+SECOND SEMESTER 2019-20
+COURSE HANDOUT
+Date: 16.01.2021
+
+In addition to the part I (General Handout for all courses appended to the Timetable) this portion gives further specific
+details regarding the course.
+
+Course No : MATH F242
+Course Title : OPERATIONS RESEARCH
+Instructor-in-C harge : CHANDRA SHEKHAR
+
+1. Course Description:
+This course begins with applications overview of Operations Research and introduces dynamic programming and
+network models. After a review of probability distributions, inventory models and queuing systems will be covered.
+Decision- making under certainty, risk, and uncertainty, along with an introduction to game theory, will be dealt.
+Finally, simulation techniques, introduction for estimating solutions to problems that are not amenable to conventional
+solution techniques, will be made. Students will also be taught the basic concepts of system reliability.
+
+2. Scope and Objective of the C ourse:
+Course scope and objective are to cover some topics of operations research in which events occurred/happened at
+random and involve the concepts of probability in their study. It gives the platform to the student to understand the
+modeling of the real-life problem and to computed expected performance measures.
+
+3. Text Books:
+1. Hamdy A. Taha, “Operations Research: An Introduction”, Pearson Education, Ye, 2014.
+2. S. Venkateswaran and B. Singh, “Operations Research”, EDD Notes, Vol. 3, 1997.
+
+4, Reference Books:
+1. F.S. Hillier and G.J. Lieberman, “Introduction to Operations Research”, Tata Mcgraw Hill, 8e, 2006.
+2. W.L. Winston, “Operations Research, Application, and Algorithms” ., Cengage, 4e, 2003.
+3. D.T. Phillips, A. Ravindran, and James J. Solberg., “Operations Research: Principles and Practice”, Wiley India
+2e, 2007.
+4. A.R. Ravindran, “Operations Research: Methodology”, CRC Press, le, 2011.
+5. D. Gross and C.M. Harris, “Fundamentals of Queueing Theory”, Wiley India, 3e, 1998.
+
+5. Course Plan:
+
+Module Lecture Session References Learning outcomes
+No.
+1
+
+Lect. 1 Chapter 1 Introduction to
+Introduction, Historical Development, Impact of O.R., (T1) Operations Research
+Phases of O.R., Overview of O.R., Modeling Approach
+
+Lect. 2-4 Chapter 14 Review of Basic
+Random variables, Binomial, Poisson, Exponential and (T1) Probability
+Normal Distribution
+
+Lect. 5-16 ae 7 Queueing Systems
+Definition, Birth and Death process, Role of Exponential
+
+Distribution, Generalized Poisson Queueing Models,
+Specialized Poisson Queues.
+
+3 Lect. 17-22 Chapter 8 Inventory Models
+Deterministic and Probabilistic Inventory Models (T2)
+
+ 
+BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE, Pilani
+Pilani Campus
+AUGS/ AGSR Division
+
+ 
+
+Lect. 23-27 Chapter 9 Simulation Modeling
+Introduction, Generation of random variates from different (T2)
+
+distributions, Simulation of Single-server queueing model,
+
+and inventory model.
+
+Lect. 28-30 Chapter 6 Reliability
+Basic concepts, Hazard rate function, Reliability of the (T2)
+systems, failure time distributions.
+
+Lect. 31-34 co 15 Decision Caneteoy and
+Decision analysis under uncertainty and Game Theory a (6 ame Caneteoy
+
+Lect. Detominisic Dynamic Programming, = oe 12 Pogamming
+Deterministic Detominisic Dynamic Programming, = Programming, ty |Pgamming
+
+Lect. 39-42 ca 6 Network Models
+Definition, Minimal Spanning tree Algorithm, Shortest (T1)
+route Problem, CPM and PERT
+
+6. Evaluation Scheme:
+
+Component Duration | Weightage Date & Time Nature of
+(% ) component
+(Close Book/ Open
+Book)
+
+ 
+
+Mid-Semester Test | = Closebook book
+
+Comprehensive Examination 180 Min. a FN) Partial —
+book
+
+Tutorial/Quiz/A ssignment | 20 To be announced
+
+7. Chamber Consultation Hour: To be announced in the class.
+
+ 
+
+8. Notices: Notices concerning this course will be displayed on Nalanda and the Department of Mathematics Notice Board.
+9, Make-up Policy: Only genuine cases will be entertained. For surprise quizzes, there will be no make-up.
+10. Note (if any): Be regular in classes and attempt all evaluation components sincerely.
+
+11. Google Meet Link:
+Google Meet Link
+
+1 (6.00 AM-8.50 AM) meet google comictexesd-ou
+Tuesday, Thursday 4 (11.00 AM-11.50 AM) meet.google.com/fqz-meom-aly
+W ednesday 10 (5.00 PM-5.50 PM) meet.google.com/tvw-ntub-rcb
+
+12. Google Drive Link:
+https://drive.google.com/drive/folders/IrssK-z1LBOTkqf_ 6vFV kikvgyleoo2lq?usp=sharing
+
+Instructor-in-charge
+MATH F242
+
