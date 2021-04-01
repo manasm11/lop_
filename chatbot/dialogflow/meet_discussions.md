@@ -1,0 +1,6 @@
+- [ ] prerequisites
+- [ ] units
+- [ ] aliases
+- [ ] compre dates
+- [ ] year and semester
+- [ ] list questions bot can answer

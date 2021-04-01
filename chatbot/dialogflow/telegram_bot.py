@@ -8,7 +8,7 @@ dispatcher = updater.dispatcher
 df = Dialogflow()
 
 def start(update, context):
-    context.bot.send_message(chat_id=update.effective_chat.id, text="Ram Ram !!! Ki haal chaal ???")
+    context.bot.send_message(chat_id=update.effective_chat.id, text="Hello")
 
 def reply(update, context):
     query = update.message.text

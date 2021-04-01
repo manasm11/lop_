@@ -16,7 +16,7 @@ In addition to part I (General Handout for all courses appended to the Time tabl
 specific details regarding the course.
 
 Course No : CE G562
-Course Title : Advanced C oncrete Technology
+Course Title : Advanced Concrete Technology
 Instructor-in-C harge : Dr. Mukund Lahoti
 
 1. Objective of the course and Course Description:
