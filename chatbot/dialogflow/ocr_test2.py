@@ -5,6 +5,7 @@ import sys
 # from pdf2image import convert_from_path
 from pdf2image import convert_from_path
 import os
+from tqdm import tqdm
 
 def pdf2text(path):
     # Path of the pdf
@@ -15,7 +16,7 @@ def pdf2text(path):
     '''
     
     # Store all the pages of the PDF in a variable
-    pages = convert_from_path(PDF_file, 300)
+    pages = convert_from_path(PDF_file, 500)
     
     # Counter to store images of each page of PDF to image
     image_counter = 1
@@ -25,8 +26,9 @@ def pdf2text(path):
     image_files = []
 
     # Iterate through all the pages stored above
-    for page in pages[9:98]:
-        print('PAGE', page)
+    print('CREATING IMAGES...')
+    for page in tqdm(pages[9:98]):
+        # print('PAGE', page)
 
         # Declaring filename for each page of PDF as JPG
         # For each page, filename will be:
@@ -58,7 +60,8 @@ def pdf2text(path):
     f = open(outfile, "a")
     
     # Iterate from 1 to total number of pages
-    for i in range(1, filelimit + 1):
+    print('CONVERTING IMAGES TO TXT...')
+    for i in tqdm(range(1, filelimit + 1)):
     
         # Set filename to recognize text from
         # Again, these files will be:
@@ -88,7 +91,8 @@ def pdf2text(path):
     
     # Close the file after writing all the text.
     f.close()
-    for img in image_files:
+    print('REMOVING IMAGES...')
+    for img in tqdm(image_files):
         os.remove(img)
     return final_text
 

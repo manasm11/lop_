@@ -1,0 +1,6569 @@
+1001
+BIO F110
+BIOLOGY LABORATORY
+-
+-
+1
+P1B
+MEGHANA TARE
+T 7 8
+1002
+BIO F111
+GENERAL BIOLOGY
+-
+-
+3
+L1
+Manoj Kannan
+6105
+M W F 3
+23/06 AN
+L2
+Pankaj Kumar Sharma
+M W F 8
+23/06 AN
+Shilpi Garg
+L3B
+MUKUL JOSHI
+T Th S 6
+06/05 AN
+Tutorial
+T1
+Manoj Kannan
+6105
+Th 8
+T2
+Prabhat Nath Jha
+Th 8
+T3
+Rajdeep Chowdhury
+Th 8
+T4
+Ashima Sakhuja(RS)
+W 1
+T5
+Mukul Joshi
+W 1
+T6
+Shreyas M Iyer(RS)
+W 1
+T7
+Shilpi Garg
+W 1
+T8
+Samiksha Agrawal (RS)
+W 1
+T9
+Rajdeep Chowdhury
+W 1
+T10
+Syamantak Majumder
+W 1
+T11
+Ashish Katyal(RS)
+W 1
+T12
+Propanna Bandyopadhyay(RS)
+W 1
+T13B
+Harshita Sharma(RS)
+S 1
+1114
+BIO F212
+MICROBIOLOGY
+-
+-
+4
+L1
+PRABHAT NATH JHA
+M W F 3
+05/05 FN
+Sandhya Amol Marathe
+Practical
+P1
+Sandhya Amol Marathe
+Th 2 3
+P2
+Sandhya Amol Marathe
+Th 2 3
+Katakia Yash Tushar(RS)
+Niyati Kamlesh Pandya(RS)
+Sampreeti Tahbildar(RS)
+Palak Sangal(RS)
+Divya Malik(RS)
+Kushwaha Simran Krishnakant Seema(RS)
+1423
+BIO F215
+BIOPHYSICS
+-
+-
+3
+L1
+SHIBASISH CHOWDHURY
+T Th 4 W 10
+07/05 FN
+Navin Singh
+Tutorial
+T1
+Shibasish Chowdhury
+F 1
+Navin Singh
+1430
+BIO F242
+INTRO TO BIOINFORMATICS
+-
+-
+3
+L1
+SHIBASISH CHOWDHURY
+M W F 5
+10/05 FN
+Tutorial
+T1
+Ashish Katyal(RS)
+M 4
+1425
+BIO F243
+GENETICS
+-
+-
+3
+L1
+MANOJ KANNAN
+6102
+M W F 9
+01/05 FN
+Shilpi Garg
+Tutorial
+T1
+Manoj Kannan
+6101
+M 10
+Shilpi Garg
+T2
+Manoj Kannan
+T 4
+1426
+BIO F244
+INSTRU METHODS OF ANAL
+-
+-
+4
+L1
+PANKAJ KUMAR SHARMA
+T 2
+06/05 AN
+P R Deepa
+Practical
+P1
+P R Deepa
+T Th 7 8
+Subhashree Chatterjee(RS)
+Tripti Joshi(RS)
+Garima Singh(RS)
+Sumit Kumar Mandal(RS)
+Anirudha Kumar Sahu(RS)
+Monika Sandhu(RS)
+P2
+Pankaj Kumar Sharma
+T Th 7 8
+1651
+BIO F266
+STUDY PROJECT
+-
+-
+3
+L1
+P R DEEPA
+1454
+BIO F314
+CONSERVATION BIOLOGY
+-
+-
+3
+L1
+SANDHYA AMOL MARATHE
+T Th 5
+08/05 FN
+Practical
+P1
+Sandhya Amol Marathe
+Th 9 10
+2287
+BIO F315
+APPLIED NUTRITION & NUTRACEUTI
+-
+-
+2
+L1
+SUDESHNA MUKHERJEE
+M W 2
+03/05 FN
+P R Deepa
+1431
+BIO F341
+DEVELOPMENTAL BIOLOGY
+-
+-
+3
+L1
+MEGHANA TARE
+6105
+T Th 5 F 10
+08/05 AN
+Tutorial
+T1
+Meghana Tare
+6105
+W 4
+1432
+BIO F342
+IMMUNOLOGY
+-
+-
+3
+L1
+UMA S DUBEY
+M W F 8
+12/05 FN
+Tutorial
+T1
+Uma S Dubey
+Th 2
+1650
+BIO F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+P R DEEPA
+1736
+BIO F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+P R DEEPA
+1685
+BIO F376
+DESIGN PROJECT
+-
+-
+3
+L1
+P R DEEPA
+1752
+BIO F377
+DESIGN PROJECT
+-
+-
+3
+L1
+P R DEEPA
+1618
+BIO F411
+LABORATORY
+-
+-
+3
+P1
+MEGHANA TARE
+T Th 9 10
+Jitendra Panwar
+B Vani
+Akanksha Singh(RS)
+Diksha Sisodia(RS)
+Mamta(RS)
+Sonia(RS)
+Vikas Kumar(RS)
+1710
+BIO F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+P R DEEPA
+388
+BIO G513
+MICROBIAL FERMENT TECHNO
+-
+-
+5
+L1
+SANJAY KUMAR VERMA
+M W F 5
+26/06 AN
+Suresh Gupta
+111
+BIO G515
+STEM CELL & REGENER BIO
+-
+-
+4
+L1
+RAJDEEP CHOWDHURY
+M W F 4
+19/06 AN
+2008
+BIO G524
+ANIMAL CELL TECHNOLOGY
+-
+-
+5
+L1
+UMA S DUBEY
+6159
+T 5 Th 10
+F 10
+30/06 AN
+Sudeshna Mukherjee
+Practical
+P1
+Uma S Dubey
+Th 8 9
+Sudeshna Mukherjee
+Mahima Choudhary(RS)
+Neelam Mahala(RS)
+2124
+BIO G545
+MOL PARASIT & VECTOR BIO
+-
+-
+5
+L1
+VISHAL SAXENA
+6102
+T Th S 2
+21/06 AN
+2168
+BIO G561
+ADV RECOMBINANT DNA TECH
+-
+-
+5
+L1
+ASHIS KUMAR DAS
+6151
+M W F 8
+25/06 AN
+203
+BIO G642
+EXPERIMENTAL TECHNIQUES
+-
+-
+4
+L1
+SYAMANTAK MAJUMDER
+6159
+T 7
+28/06 FN
+Vishal Saxena
+Practical
+P1
+Syamantak Majumder
+W F 3 4 5
+Vishal Saxena
+Saumya Arora(RS)
+Aastha Mittal(RS)
+956
+BIO G643
+PLANT BIOTECHNOLOGY
+-
+-
+5
+L1
+JITENDRA PANWAR
+6159
+T Th 4 W 10
+22/06 AN
+Mukul Joshi
+Practical
+P1
+Mukul Joshi
+T 8 9
+Swarnima Kushwaha(RS)
+Shobham(RS)
+1374
+BIOT F416
+INTRO TO PHARMA BIOTECH
+-
+-
+3
+L1
+VISHAL SAXENA
+M W F 9
+01/05 FN
+549
+BITS C790T
+INDEPENDENT STUDY
+-
+-
+1
+L1
+JITENDRA PANWAR
+596
+BITS C791T
+TEACHING PRACTICE I
+-
+-
+1
+L1
+JITENDRA PANWAR
+520
+BITS C797T
+PH D SEMINAR
+-
+-
+1
+L1
+JITENDRA PANWAR
+553
+BITS C799T
+PH D THESIS
+-
+-
+10
+L1
+JITENDRA PANWAR
+857
+BITS E793T
+PRACTICE LECT SERIES I
+-
+-
+1
+L1
+JITENDRA PANWAR
+1003
+BITS F110
+ENGINEERING GRAPHICS
+-
+-
+2
+L1
+Sayantan Chakraborty
+M 10
+28/06 FN
+Shashank B S
+Sarah Abraham
+L2
+GAURAV WATTS
+W 10
+28/06 FN
+Rajesh Kumar
+L3B
+Gaurav Watts
+M 10
+03/05 FN
+Practical
+P1
+Pulleti Siva Sankar(RS)
+T Th 1 2
+Kamalesh Kumar
+P2
+Damini Talwar(RS)
+T Th 1 2
+Pingale Ajay Dadabhau(RS)
+P3
+Santosh Kumar Saini(RS)
+T Th 1 2
+Gaurav Tyagi(RS)
+P4
+Shital Patil(RS)
+T Th 1 2
+Jaya Kumar Bhaskar M(RS)
+P5
+Vasudev Singh Sengar(RS)
+T Th 1 2
+Harish Kumar Mulchandani(RS)
+P6
+Pratibha Sinha(RS)
+T Th 1 2
+Ankit Kumar(RS)
+P7
+Deepali Agrawal(RS)
+T Th 1 2
+Vishal Singh(RS)
+P8
+Vimal Chauhan(RS)
+T Th 1 2
+Aniruddha Tangirala(RS)
+P9B
+Gaurav Watts
+T Th 1 2
+1005
+BITS F112
+TECHNICAL REPORT WRITING
+-
+-
+2
+L1
+Kumar Bhattacharya
+M W 2
+30/06 AN
+L2
+Prateek..
+M W 2
+30/06 AN
+L3
+Muhammed Puthusseri
+M W 9
+30/06 AN
+L4
+Paul Mathew
+M W 9
+30/06 AN
+L5
+PUSHP LATA
+T Th 5
+30/06 AN
+L6
+Chintalapalli Vijayakumar
+T Th 5
+30/06 AN
+1860
+BITS F114
+GENERAL MATHEMATICS II
+-
+-
+3
+L1
+TRILOK MATHUR
+M W F 2
+21/06 AN
+Tutorial
+T1
+Trilok Mathur
+T 9
+1892
+BITS F214
+SCIENCE TECH & MODERNITY
+-
+-
+3
+L1
+SUNITA RAINA
+M W F 8
+12/05 FN
+1632
+BITS F225
+ENVIRONMENTAL STUDIES
+-
+-
+3
+L1
+SMITA RAGHUVANSHI
+M W F 2
+03/05 FN
+Sunita Raina
+Harikrishnan Gopinadhan Nair
+Arvind Kumar Sharma
+Muthukumar G
+B Vani
+Tanu Shukla
+Rajneesh Choubisa
+Madhurima Das
+2303
+BITS F226
+SOFT SKILLS FOR PROFESSIONALS
+-
+-
+3
+L1
+SANGEETA SHARMA
+T Th 5 F 10
+08/05 FN
+1332
+BITS F311
+IMAGE PROCESSING
+-
+-
+3
+L1
+RAJ KUMAR GUPTA
+M W F 9
+01/05 FN
+1334
+BITS F312
+NEURAL NET & FUZZY LOGIC
+-
+-
+3
+L1
+BIJOY KRISHNA MUKHERJEE
+M W F 2
+03/05 FN
+Surekha Bhanot
+1511
+BITS F316
+NONLINEAR DYNA & CHAOS
+-
+-
+3
+L1
+TAPOMOY GUHA SARKAR
+6151
+M W F 2
+03/05 FN
+2312
+BITS F322
+VENTURE TEAM DEVELOPMENT AND O
+-
+-
+3
+L1
+TIRUMALSETY REVENDRANATH
+M W F 7
+11/05 FN
+1791
+BITS F382
+READING COURSE
+-
+-
+3
+L1
+SURESH GUPTA
+1512
+BITS F385
+INTRO TO GENDER STUDIES
+-
+-
+3
+L1
+MADHURIMA DAS
+M W F 8
+12/05 FN
+1337
+BITS F386
+QUANTUM INFO & COMPUTING
+-
+-
+3
+L1
+RASHMI RANJAN MISHRA
+M W F 9
+01/05 FN
+1592
+BITS F412
+PRACTICE SCHOOL II
+-
+-
+20
+L1
+PS DEAN
+1615
+BITS F413
+PRACTICE SCHOOL II
+-
+-
+20
+L1
+PS DEAN
+1248
+BITS F415
+INTRODUCTION TO MEMS
+-
+-
+4
+L1
+SACHIN ULHASRAO BELGAMWAR
+T Th 4 W 10
+07/05 FN
+1593
+BITS F421T
+THESIS
+-
+-
+16
+L1
+SURESH GUPTA
+1616
+BITS F422T
+THESIS
+-
+-
+16
+L1
+SURESH GUPTA
+1617
+BITS F423T
+THESIS
+-
+-
+9
+L1
+SURESH GUPTA
+1619
+BITS F424T
+THESIS
+-
+-
+9
+L1
+SURESH GUPTA
+2317
+BITS F427
+DIGITAL MARKETING
+-
+-
+3
+L1
+ACHINT NIGAM
+M 10 T Th 3
+13/05 AN
+1899
+BITS F429
+NANOTECH FOR RENEW ENRGY & ENV
+-
+-
+4
+L1
+ETIKA KRISHNA CHAITANYA
+M W F 7
+11/05 FN
+Banasri Roy
+1811
+BITS F441
+ROBOTICS
+-
+-
+3
+L1
+BIJAY KUMAR ROUT
+M W F 9
+01/05 AN
+2434
+BITS F452
+BLOCKCHAIN TECHNOLOGY
+-
+-
+3
+L1
+AMIT DUA
+M W F 9
+01/05 FN
+Ashutosh Bhatia
+1338
+BITS F463
+CRYPTOGRAPHY
+-
+-
+3
+L1
+ABHISHEK MISHRA
+T Th 4 W 10
+07/05 FN
+Shashank Gupta
+1339
+BITS F464
+MACHINE LEARNING
+-
+-
+3
+L1
+KAMLESH TIWARI
+M W F 3
+05/05 FN
+L2M
+Kamlesh Tiwari
+M W F 3
+05/05 FN
+Practical
+P1
+Stuti Chug(RS)
+T 11
+P2
+Stuti Chug(RS)
+Th 11
+1379
+BITS F467
+BIOETHICS & BIOSAFETY
+-
+-
+3
+L1
+R MAHESH
+M W F 2
+03/05 FN
+1797
+BITS F468
+NEW VENTURE CREATION
+-
+-
+3
+L1
+JYOTI
+M W 11 12
+1641
+BITS F482
+CREAT & LEAD ENTREP ORGN
+-
+-
+3
+L1
+ARYA KUMAR
+M W F 3
+05/05 FN
+499
+BITS G511
+ADVANCED PROJECT
+-
+-
+5
+L1
+JITENDRA PANWAR
+547
+BITS G513
+STUDY IN ADVANCED TOPICS
+-
+-
+5
+L1
+JITENDRA PANWAR
+754
+BITS G529
+RESEARCH PROJECT I
+-
+-
+6
+L1
+JITENDRA PANWAR
+755
+BITS G539
+RESEARCH PROJECT II
+-
+-
+6
+L1
+JITENDRA PANWAR
+2003
+BITS G540
+RESEARCH PRACTICE
+-
+-
+4
+L1
+JITENDRA PANWAR
+559
+BITS G560
+PRACTICE SCHOOL
+-
+-
+20
+L1
+PS DEAN
+575
+BITS G561T
+DISSERTATION
+-
+-
+16
+L1
+JITENDRA PANWAR
+2165
+BITS G563T
+DISSERTATION
+-
+-
+16
+L1
+JITENDRA PANWAR
+756
+BITS G629T
+DISSERTATION
+-
+-
+16
+L1
+JITENDRA PANWAR
+809
+BITS G639
+PRACTICE SCHOOL
+-
+-
+20
+L1
+PS DEAN
+757
+BITS G649
+READING COURSE
+-
+-
+5
+L1
+JITENDRA PANWAR
+2167
+BITS G661
+RESEARCH METHODOLOGY I
+-
+-
+5
+L1
+JITENDRA PANWAR
+1191
+CE F241
+ANALYSIS OF STRUCTURES
+-
+-
+3
+L1
+ANSHUMAN
+M 10 T Th 3
+13/05 FN
+Shuvendu Narayan Patel
+Tutorial
+T1
+Anshuman
+W 1
+Shuvendu Narayan Patel
+T2
+Danish Fayaz(RS)
+W 1
+Rishabh Bajpai(RS)
+1192
+CE F242
+CONSTRUCTION PLAN & TECH
+-
+-
+3
+L1
+MUTHUKUMAR G
+M W F 9
+01/05 FN
+Mukund Lahoti
+Tutorial
+T1
+Mukund Lahoti
+F 1
+T2
+Shreyas Pranav(RS)
+F 1
+1193
+CE F243
+SOIL MECHANICS
+-
+-
+4
+L1
+NISHANT ROY
+M W F 3
+05/05 FN
+Tutorial
+T1
+Nishant Roy
+Th 1
+T2
+Sayantan Chakraborty
+Th 1
+Practical
+P1
+Danish Fayaz(RS)
+T 7 8
+Kamalesh Kumar
+Anuj Adhikari(RS)
+P2
+Nishant Roy
+T 7 8
+Sayantan Chakraborty
+Ankit Singh Mehra(RS)
+Raya Raghavendra Kumar(RS)
+1194
+CE F244
+HIGHWAY ENGINEERING
+-
+-
+4
+L1
+SHASHANK B S
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Shashank B S
+M 1
+T2
+Sarah Abraham
+M 1
+Practical
+P1
+Manigandan R(RS)
+Th 7 8
+Sarah Abraham
+P2
+Patil Deshbhushan Savindra(RS)
+Th 7 8
+Farhan Mohammad Khan(RS)
+P3
+Shashank B S
+Th 10 11
+Anant Mishra(RS)
+1652
+CE F266
+STUDY PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+1197
+CE F313
+FOUNDATION ENGINEERING
+-
+-
+3
+L1B
+RAVI KANT MITTAL
+T Th F 6
+06/05 AN
+Tutorial
+T1B
+Ravi Kant Mittal
+S 6
+2281
+CE F320
+DESIGN OF RE CONCRETE STRU
+-
+-
+3
+L1
+MANOJ KUMAR
+M W F 2
+03/05 FN
+Tutorial
+T1
+Manoj Kumar
+Th 2
+2282
+CE F321
+ENGINEERING HYDROLOGY
+-
+-
+3
+L1
+RALLAPALLI SRINIVAS
+M W F 4
+15/05 FN
+Tutorial
+T1
+Rallapalli Srinivas
+W 8
+T2
+Akshay Kumar(RS)
+W 8
+1217
+CE F324
+NUMERICAL ANALYSIS
+-
+-
+3
+L1
+SHIBANI KHANRA JHA
+T Th 4 W 10
+07/05 FN
+1199
+CE F342
+WATER & WASTEWATER TREAT
+-
+-
+4
+L1
+ANUPAM SINGHAL
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Anupam Singhal
+M 8
+T2
+Srishti Gyaneshware Khare(RS)
+M 8
+Soumya Kar(RS)
+Practical
+P1
+Akshay Kumar(RS)
+T 7 8
+Rallapalli Srinivas
+P2
+Srishti Gyaneshware Khare(RS)
+T 7 8
+Soumya Kar(RS)
+1200
+CE F343
+DES OF STEEL STRUCTURES
+-
+-
+3
+L1
+SHAMSHER BAHADUR SINGH
+M W F 5
+10/05 FN
+Dipendu Bhunia
+Tutorial
+T1
+Shamsher Bahadur Singh
+F 8
+Ankit Singh Mehra(RS)
+T2
+Manigandan R(RS)
+F 8
+Dipendu Bhunia
+1667
+CE F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+1737
+CE F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+1686
+CE F376
+DESIGN PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+1753
+CE F377
+DESIGN PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+1223
+CE F415
+DES OF PREST CONC STRUCT
+-
+-
+3
+L1
+MANOJ KUMAR
+T Th 4 W 10
+07/05 FN
+1232
+CE F419
+GEOTECH EQ ENG & MC FOUN
+-
+-
+3
+L1
+KAMALESH KUMAR
+M W F 9
+01/05 FN
+1233
+CE F420
+INTRO TO BRIDGE ENGG
+-
+-
+3
+L1
+MANOJ KUMAR
+M W F 7
+11/05 FN
+1236
+CE F423
+GREEN BUILD & ENER CONSE
+-
+-
+3
+L1
+RAJIV GUPTA
+M W F 2
+03/05 FN
+1224
+CE F428
+EARTHQUAKE RES DES & CON
+-
+-
+3
+L1
+MUTHUKUMAR G
+M 10 T Th 3
+13/05 FN
+1225
+CE F429
+DES OF FOUNDATION SYSTEM
+-
+-
+3
+L1
+RAVI KANT MITTAL
+M W F 3
+05/05 FN
+1219
+CE F432
+STRUCTURAL DYNAMICS
+-
+-
+3
+L1
+DIPENDU BHUNIA
+M 10 T Th 3
+13/05 FN
+1220
+CE F434
+ENV IMPACT ASSESSMENT
+-
+-
+3
+L1
+DIPENDU BHUNIA
+1711
+CE F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+ANUPAM SINGHAL
+804
+CE G516
+MULTICRITER ANAL IN ENGG
+-
+-
+4
+L1
+AJIT PRATAP SINGH
+6159
+M W F 3
+23/06 AN
+256
+CE G518
+PAVEMENT ANALYSIS & DES
+-
+-
+4
+L1
+VIJAY KAKADE
+6160
+T Th 5 F 10
+30/06 AN
+Sarah Abraham
+347
+CE G520
+INFRASTRUC PLAN & MANAG
+-
+-
+4
+L1
+RAJIV GUPTA
+6160
+M 10 T Th 3
+24/06 AN
+532
+CE G553
+THEORY OF PLATES & SHELL
+-
+-
+4
+L1
+SHUVENDU NARAYAN PATEL
+M W F 3
+23/06 AN
+2199
+CE G562
+ADVD CONCRETE TECHNOLOGY
+-
+-
+4
+L1
+MUKUND LAHOTI
+6160
+M W F 4
+19/06 AN
+2332
+CE G564
+STRUCT HEALTH ASS. AND REHAB.
+-
+-
+4
+L1
+SHAMSHER BAHADUR SINGH
+6160
+M W F 2
+21/06 AN
+2338
+CE G566
+PUBLIC TRANSPORTATION
+-
+-
+4
+L1
+DURGESH VIKRAM
+6160
+T Th 4 W 10
+22/06 AN
+2342
+CE G570
+HIGHWAY CONSTRUCTION TECH
+-
+-
+4
+L1
+VIJAY KAKADE
+6105
+M W F 2
+21/06 AN
+2345
+CE G573
+ROAD SAFETY AND ACCIDENT ANALY
+-
+-
+4
+L1
+DURGESH VIKRAM
+6105
+M W F 7
+28/06 AN
+688
+CE G613
+ADV CONCRETE STRUCTURES
+-
+-
+4
+L1
+RAJESH KUMAR
+6105
+M W F 8
+25/06 AN
+108
+CE G615
+EARTHQUAKE ENGINEERING
+-
+-
+4
+L1
+RAVI KANT MITTAL
+6105
+M W F 9
+29/06 AN
+621
+CE G618
+DESIGN OF MULTI-STOR STR
+-
+-
+4
+L1
+ANSHUMAN
+6105
+M W F 5
+26/06 AN
+2027
+CE G623
+GROUND IMPROVEMENT TECH
+-
+-
+4
+L1
+ANUPAM SINGHAL
+1180
+CHE F241
+HEAT TRANSFER
+-
+-
+3
+L1
+BANASRI ROY
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Somak Chatterjee
+T 8
+T2
+Srinivas Appari
+T 8
+1181
+CHE F242
+NUM METHOD FOR CHEM ENGG
+-
+-
+3
+L1
+SHETH PRATIK NITINCHANDRA
+M W F 9
+01/05 FN
+Tutorial
+T1
+Ajaya Kumar Pani
+W 1
+T2
+Ajita Neogi(RS)
+W 1
+1182
+CHE F243
+MATERIAL SCIENCE & ENGG
+-
+-
+3
+L1
+ETIKA KRISHNA CHAITANYA
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Priya Christina Sande
+F 1
+T2
+Anil Kumar Seriyala(RS)
+F 1
+1183
+CHE F244
+SEPARATION PROCESSES I
+-
+-
+3
+L1
+SURESH GUPTA
+M W F 3
+05/05 FN
+Tutorial
+T1
+Arkaprovo Ghosal
+M 1
+T2
+Anil Kumar K(RS)
+M 1
+1653
+CHE F266
+STUDY PROJECT
+-
+-
+3
+L1
+BANASRI ROY
+1187
+CHE F314
+PROCESS DES PRINCIPLES I
+-
+-
+3
+L1
+ARVIND KUMAR SHARMA
+M W F 4
+15/05 FN
+Tutorial
+T1
+Arvind Kumar Sharma
+Th 1
+1188
+CHE F341
+CHEMICAL ENGG LAB II
+-
+-
+3
+P1
+Hare Krishna Mohanta
+T Th 7 8
+Arkaprovo Ghosal
+P2
+BHANU VARDHAN REDDY KUNCHARAM
+T Th 7 8
+Hare Krishna Mohanta
+1189
+CHE F342
+PROCESS DYN & CONTROL
+-
+-
+3
+L1
+HARE KRISHNA MOHANTA
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Srinivas Appari
+T 2
+T2
+Sarbani Ghosh
+T 2
+1190
+CHE F343
+PROCESS DES PRINCIPLE II
+-
+-
+3
+L1
+PRADIPTA CHATTOPADHYAY
+M W F 8
+12/05 FN
+Tutorial
+T1
+Pradipta Chattopadhyay
+T 9
+T2
+Tanvidkar Priya Shreedatta Shraddha(RS)
+T 9
+1668
+CHE F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+BANASRI ROY
+1738
+CHE F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+BANASRI ROY
+1687
+CHE F376
+DESIGN PROJECT
+-
+-
+3
+L1
+BANASRI ROY
+1754
+CHE F377
+DESIGN PROJECT
+-
+-
+3
+L1
+BANASRI ROY
+1207
+CHE F412
+PROCESS EQUIPMENT DESIGN
+-
+-
+3
+L1
+SOMAK CHATTERJEE
+M W F 9
+01/05 FN
+1204
+CHE F413
+PROCESS PLANT SAFETY
+-
+-
+3
+L1
+PRIYA CHRISTINA SANDE
+M W F 7
+11/05 FN
+1201
+CHE F414
+TRANSPORT PHENOMENA
+-
+-
+3
+L1
+BHANU VARDHAN REDDY KUNCHARAM
+T Th 4 W 10
+07/05 FN
+1213
+CHE F418
+MODEL & SIMU IN CHE ENGG
+-
+-
+3
+L1
+SRINIVAS APPARI
+M W F 2
+03/05 FN
+1203
+CHE F419
+CHEMICAL PROCESS TECH
+-
+-
+3
+L1
+SMITA RAGHUVANSHI
+M 10 T Th 3
+13/05 FN
+1205
+CHE F421
+BIOCHEMICAL ENGINEERING
+-
+-
+3
+L1
+AMIT JAIN
+M W F 3
+05/05 FN
+1209
+CHE F491
+SPECIAL PROJECTS
+-
+-
+3
+L1
+BANASRI ROY
+2084
+CHE G528
+INTRO TO NANO SCI & TECH
+-
+-
+4
+L1
+ETIKA KRISHNA CHAITANYA
+6159
+M W F 4
+21/06 AN
+Banasri Roy
+2146
+CHE G552
+ADV TRANSPORT PHENOMENA
+-
+-
+5
+L1
+ARVIND KUMAR SHARMA
+6151
+T Th 5 F 10
+30/06 AN
+337
+CHE G619
+PROCESS INTENSIFICATION
+-
+-
+5
+L1
+SURESH GUPTA
+6156
+T Th 4 W 10
+22/06 AN
+729
+CHE G641
+REACTION ENGINEERING
+-
+-
+5
+L1
+AMIT JAIN
+6151
+M 10 T Th 3
+24/06 AN
+1007
+CHEM F111
+GENERAL CHEMISTRY
+-
+-
+3
+L1
+Prashant Uday Manohar
+M W F 3
+25/06 AN
+L2
+PARITOSH SHUKLA
+M W F 8
+25/06 AN
+L3B
+Paritosh Shukla
+M 10 T Th 3
+13/05 FN
+To Be Announced By Chemistry Dept
+Tutorial
+T1
+Mrinmoyee Basu
+M 1
+T2
+Saumi Ray
+M 1
+T3
+Indresh Kumar
+M 1
+T4
+Paritosh Shukla
+M 1
+T5
+Rajeev Sakhuja
+M 1
+T6
+Prashant Uday Manohar
+T 3
+T7
+S C Sivasubramanian
+Th 8
+T8
+Saumi Ray
+Th 8
+T9
+Shamik Chakrabarti
+Th 8
+T10
+Madhushree Sarkar
+W 1
+T11B
+Paritosh Shukla
+W 1
+1554
+CHEM F241
+INORGANIC CHEMISTRY II
+-
+-
+3
+L1
+SUROJIT PANDE
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Surojit Pande
+W 1
+1555
+CHEM F242
+CHEMICAL EXPER I
+-
+-
+3
+P1
+INDRESH KUMAR
+T Th 9 10
+Prachi Sharma(RS)
+Dalip Kumar
+Ajay Kumar Sah
+Monika Malik(RS)
+Nipate Dhananjay Shrinivas(RS)
+Narshimha(RS)
+Neha Meena(RS)
+Gurpreet Kaur(RS)
+P2
+Mamta(RS)
+T Th 9 10
+Nagare Yadav Kacharu(RS)
+Paritosh Shukla
+Bharti Khungar
+Narendra Dinkar Kharat(RS)
+Bhawani(RS)
+Sushma Naharwal(RS)
+Pragya(RS)
+Prakriti Saraf(RS)
+Taur Prakash Pandurang(RS)
+1556
+CHEM F243
+ORGANIC CHEMISTRY II
+-
+-
+3
+L1
+ANIL KUMAR
+M W F 3
+05/05 FN
+Tutorial
+T1
+Anil Kumar
+Th 1
+1557
+CHEM F244
+PHYSICAL CHEMISTRY III
+-
+-
+3
+L1
+RAM KINKAR ROY
+6101
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Ram Kinkar Roy
+6101
+M 1
+1654
+CHEM F266
+STUDY PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+1586
+CHEM F336
+NANOCHEMISTRY
+-
+-
+4
+L1
+INAMUR RAHAMAN LASKAR
+M W F 6
+04/05 FN
+1561
+CHEM F341
+CHEMICAL EXPER II
+-
+-
+4
+P1
+MADHUSHREE SARKAR
+M W 4 5
+Shivani Bharatkumar Thakkar(RS)
+Surojit Pande
+Prashant Uday Manohar
+Manisha(RS)
+Sumit Kumar Agrawal(RS)
+Raichure Pramod Chandrakant(RS)
+Dhritabrata Pal(RS)
+Mamta Devi Sharma(RS)
+P2
+Vishakha(RS)
+M W 4 5
+Bibhas Ranjan Sarkar
+Inamur Rahaman Laskar
+Mrinmoyee Basu
+Aarzoo(RS)
+Nidhi(RS)
+Divya Rathore(RS)
+Soumana Joarder(RS)
+Aishwarya Ramesh(RS)
+Jagrity Chaudhary(RS)
+1562
+CHEM F342
+ORGANIC CHEMISTRY IV
+-
+-
+3
+L1
+RAJEEV SAKHUJA
+6102
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Rajeev Sakhuja
+6102
+F 4
+1563
+CHEM F343
+INORGANIC CHEMISTRY III
+-
+-
+3
+L1
+AJAY KUMAR SAH
+M W F 8
+12/05 FN
+Tutorial
+T1
+Ajay Kumar Sah
+F 5
+1669
+CHEM F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+1739
+CHEM F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+1688
+CHEM F376
+DESIGN PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+1755
+CHEM F377
+DESIGN PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+1581
+CHEM F415
+FRONTIERS IN ORGANIC SYN
+-
+-
+3
+L1
+DALIP KUMAR
+M W F 2
+03/05 FN
+2284
+CHEM F430
+ATMOSPHERIC CHEMISTRY
+-
+-
+3
+L1
+SHAMIK CHAKRABARTI
+M W F 7
+11/05 FN
+2285
+CHEM F431
+SUST CHEMISTRY USING RENE
+-
+-
+3
+L1
+BIBHAS RANJAN SARKAR
+M 10 T Th 3
+13/05 FN
+1713
+CHEM F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+RAM KINKAR ROY
+7
+CHEM G552
+ADV INORGANIC CHEMISTRY
+-
+-
+5
+L1
+BHARTI KHUNGAR
+6152
+M 10 T Th 3
+24/06 AN
+242
+CHEM G554
+PHY METHODS IN CHEMISTRY
+-
+-
+5
+L1
+S C SIVASUBRAMANIAN
+M W F 3
+23/06 AN
+1008
+CS F111
+COMPUTER PROGRAMMING
+-
+-
+4
+L1
+Jagat Sesh Challa
+M W F 3
+25/06 AN
+Pratik Narang
+L2
+Rajesh Kumar
+M W F 8
+25/06 AN
+Amitesh Singh Rajput
+L3B
+SUNDARESAN RAMAN
+M W F 3
+05/05 FN
+Practical
+P1
+Sakshi(RS)
+T 3 4
+P2
+Ankit Soni(RS)
+T 3 4
+P3
+Ashish Verma(RS)
+T 3 4
+P4
+Vijay Kumari(RS)
+T 3 4
+P5
+Pediredla Praveen Kumar(RS)
+T 3 4
+P6
+Rajesh Kumar
+Th 1 2
+Amitesh Singh Rajput
+P7
+Jagat Sesh Challa
+Th 1 2
+Pratik Narang
+P8
+Ankit Soni(RS)
+Th 3 4
+P9
+Sakshi(RS)
+Th 3 4
+P10
+Ashish Verma(RS)
+Th 3 4
+P11
+Vijay Kumari(RS)
+Th 3 4
+P12
+Pediredla Praveen Kumar(RS)
+Th 3 4
+P13B
+Sundaresan Raman
+T 10 11
+1094
+CS F211
+DATA STRUCTURES & ALGO
+-
+-
+4
+L1
+VISHAL GUPTA
+M 10 T Th 3
+13/05 FN
+L Rajya Lakshmi
+Practical
+P1
+Vishal Gupta
+T 7 8
+L Rajya Lakshmi
+P2
+Ankit Agrawal(RS)
+T 7 8
+P3
+Ankit Agrawal(RS)
+Th 7 8
+P4
+Syed Sameen Ahmad Rizvi(RS)
+Th 7 8
+P5
+Syed Sameen Ahmad Rizvi(RS)
+T 10 11
+P6
+Oshin Rawlley(RS)
+T 10 11
+P7
+Oshin Rawlley(RS)
+Th 7 8
+1095
+CS F212
+DATABASE SYSTEMS
+-
+-
+4
+L1
+AMIT DUA
+T Th 4 W 10
+07/05 FN
+Mukesh Kumar Rohil
+Practical
+P1
+Amit Dua
+T 7 8
+Mukesh Kumar Rohil
+P2
+Upendra Singh(RS)
+T 7 8
+P3
+Abhishek Vyas(RS)
+T 9 10
+P4
+Abhishek Vyas(RS)
+Th 7 8
+P5
+Upendra Singh(RS)
+Th 7 8
+1092
+CS F213
+OBJECT ORIENTED PROG
+-
+-
+4
+L1
+J. JENNIFER RANJANI
+M W F 7
+11/05 FN
+Avinash Gautam
+Practical
+P1
+J. Jennifer Ranjani
+Th 10 11
+Avinash Gautam
+P2
+Prateek Verma(RS)
+Th 10 11
+P3
+Shail Saharan(RS)
+Th 10 11
+P4
+Shail Saharan(RS)
+M 10 11
+P5
+Prateek Verma(RS)
+M 10 11
+1091
+CS F222
+DISCR STRUC FOR COMP SCI
+-
+-
+3
+L1
+JAGAT SESH CHALLA
+M W F 4
+15/05 FN
+Tutorial
+T1
+Jagat Sesh Challa
+W 1
+1313
+CS F241
+MICROPROC & INTERFACING
+-
+-
+4
+L1
+Sai Sesha Chalapathi Gattupalli
+M W F 3
+05/05 FN
+L2
+NITIN CHATURVEDI
+T Th 4 W 10
+05/05 FN
+Tutorial
+T1
+Devesh Samaiya
+M 1
+T2
+Vinay Chamola
+M 1
+T3
+Sai Sesha Chalapathi Gattupalli
+M 1
+T4
+Satyendra Kumar Mourya
+M 1
+T5
+Nitin Chaturvedi
+M 1
+T6
+Vinay Chamola
+M 1
+T7
+Rahul Kumar
+M 1
+T8
+Pawan Kamalkishor Ajmera
+M 1
+Practical
+P1
+Ritish Kumar(RS)
+T 7 8
+Radha Bhardwaj(RS)
+P2
+Sankalp Paliwal(RS)
+T 7 8
+Poonam Poonia(RS)
+P3
+Gorla Praveen(RS)
+T 7 8
+Pranay Bhardwaj(RS)
+P4
+Nishant Yadav(RS)
+T 7 8
+Ziyaur Rahman(RS)
+P5
+Sumitra(RS)
+T 9 10
+Pranay Bhardwaj(RS)
+P6
+Rahul Sharma(RS)
+T 9 10
+Suraj Baloda(RS)
+P7
+Abheek Gupta(RS)
+T 9 10
+Kanika(RS)
+P8
+Suraj Baloda(RS)
+Th 9 10
+Premsai Regalla(RS)
+P9
+Radha Bhardwaj(RS)
+Th 9 10
+Punit Khatri(RS)
+P10
+Sankalp Paliwal(RS)
+Th 9 10
+Poonam Poonia(RS)
+P11
+Nishant Yadav(RS)
+Th 9 10
+Ziyaur Rahman(RS)
+P12
+Gorla Praveen(RS)
+Th 9 10
+Sumitra(RS)
+1655
+CS F266
+STUDY PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+1320
+CS F303
+COMPUTER NETWORKS
+-
+-
+4
+L1
+VIRENDRA SINGH SHEKHAWAT
+T Th 5 F 10
+08/05 FN
+Ashutosh Bhatia
+Practical
+P1
+Vishal Gupta
+Th 7 8
+P2
+Nisha(RS)
+Th 7 8
+P3
+Virendra Singh Shekhawat
+T 7 8
+Ashutosh Bhatia
+P4
+Nisha(RS)
+T 7 8
+2266
+CS F320
+FOUNDATIONS OF DATA SCIENCE
+-
+-
+3
+L1
+NAVNEET GOYAL
+M 10 T Th 3
+13/05 FN
+L2M
+Navneet Goyal
+M 10
+13/05 FN
+1317
+CS F342
+COMPUTER ARCHITECTURE
+-
+-
+4
+L1
+S GURUNARAYANAN
+T Th 4 W 10
+07/05 FN
+Practical
+P1
+Karri Babu Ravi Teja
+T 10 11
+1318
+CS F363
+COMPILER CONSTRUCTION
+-
+-
+3
+L1
+SHASHANK GUPTA
+M W F 4
+15/05 FN
+Vinti Agarwal
+Yemineni Ashok(RS)
+1319
+CS F364
+DESIGN & ANAL OF ALGO
+-
+-
+3
+L1
+ABHISHEK MISHRA
+M W F 8
+12/05 FN
+Kamlesh Tiwari
+Tutorial
+T1
+Kamlesh Tiwari
+Th 2
+T2
+Abhishek Mishra
+Th 2
+T3
+Ravi Kant(RS)
+Th 2
+T4
+Ravi Kant(RS)
+Th 2
+1670
+CS F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+1740
+CS F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+1315
+CS F372
+OPERATING SYSTEMS
+-
+-
+3
+L1
+JANARDAN PRASAD MISRA
+M W F 3
+05/05 AN
+Sudeept Mohan
+Tutorial
+T1
+Avinash Gautam
+T 6
+1689
+CS F376
+DESIGN PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+1756
+CS F377
+DESIGN PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+1327
+CS F401
+MULTIMEDIA COMPUTING
+-
+-
+3
+L1
+MUKESH KUMAR ROHIL
+M W F 7
+11/05 FN
+1333
+CS F407
+ARTIFICIAL INTELLIGENCE
+-
+-
+3
+L1
+NAVNEET GOYAL
+M W F 7
+11/05 FN
+L2M
+Navneet Goyal
+M W F 7
+11/05 FN
+1322
+CS F415
+DATA MINING
+-
+-
+3
+L1
+YASHVARDHAN SHARMA
+M W F 9
+01/05 FN
+L2M
+Yashvardhan Sharma
+M W F 9
+01/05 FN
+Practical
+P1
+Divya Bhardwaj(RS)
+Th 10 11
+P2
+Divya Bhardwaj(RS)
+T 10 11
+1323
+CS F422
+PARALLEL COMPUTING
+-
+-
+3
+L1
+HARIBABU K
+6159
+M W F 9
+01/05 FN
+1326
+CS F446
+DATA STORAGE TECH & NETW
+-
+-
+3
+L1
+JANARDAN PRASAD MISRA
+T Th 4 W 10
+07/05 FN
+1857
+CS F469
+INFORMATION RETRIEVAL
+-
+-
+3
+L1
+VINTI AGARWAL
+T Th 4 W 10
+07/05 FN
+L2M
+Vinti Agarwal
+T Th 4 W 10
+07/05 FN
+1714
+CS F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+SUDEEPT MOHAN
+507
+CS G513
+NETWORK SECURITY
+-
+-
+4
+L1
+ASHUTOSH BHATIA
+6152
+M W F 4
+19/06 AN
+2106
+CS G520
+ADVANCED DATA MINING
+-
+-
+4
+L1
+POONAM GOYAL
+6155
+M 10 T Th 3
+24/06 AN
+2052
+CS G523
+SOFTWARE FOR EMBEDDE SYS
+-
+-
+5
+L1
+MEETHA V. SHENOY
+6152
+T Th 5 F 10
+30/06 AN
+2006
+CS G524
+ADV COMPUTER ARCHITECTUR
+-
+-
+5
+L1
+SUDEEPT MOHAN
+6152
+T Th 4 W 10
+22/06 AN
+436
+DE G514
+FRACTURE MECHANICS
+-
+-
+5
+L1
+SHARAD SHRIVASTAVA
+6151
+M W F 7
+28/06 AN
+144
+DE G522
+DESIGN PROJECTS
+-
+-
+5
+L1
+SRIKANTA ROUTROY
+1023
+ECON F211
+PRINCIPLES OF ECONOMICS
+-
+-
+3
+G1
+11/05 AN
+L1
+RAHUL ARORA
+M W F 5
+Rajan Pandey
+Geetilaxmi Mohapatra
+Krishna M
+L2
+Rahul Arora
+M W F 7
+Rajan Pandey
+Geetilaxmi Mohapatra
+Krishna M
+L3
+Rahul Arora
+M 10 T Th 3
+Tutorial
+T1
+Rahul Arora
+F 1
+T2
+Aman Takiyar(RS)
+T 1
+T3
+Pratibha Saini(RS)
+T 1
+T4
+Neha Jain(RS)
+T 1
+T5
+Anuradha Singh(RS)
+T 1
+T6
+Agarwal Abhilasha Dilip(RS)
+T 1
+T7
+Angana Parashar Sarma(RS)
+T 1
+T8
+Anamika Rana(RS)
+T 1
+T9
+Anushka Verma(RS)
+T 1
+T10
+Manu Sharma(RS)
+T 1
+T11
+Sharadendu Sharma(RS)
+T 1
+T12
+Suchitra Pandey(RS)
+T 1
+T13
+Poonam Mulchandani(RS)
+T 1
+T14
+Taru Saigal(RS)
+T 1
+T15
+Asis Kumar Sahu(RS)
+T 1
+T16
+Megha(RS)
+T 1
+1120
+ECON F212
+FUNDA OF FIN AND ACCOUNT
+-
+-
+3
+L1
+DEBATA BYOMAKESH
+M W F 2
+03/05 FN
+L2M
+Debata Byomakesh
+M W F 2
+03/05 FN
+1442
+ECON F241
+ECONOMETRIC METHODS
+-
+-
+3
+L1
+MURALIDHAR RAO N V
+M 10 T Th 3
+13/05 FN
+L2M
+Muralidhar Rao N V
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Muralidhar Rao N V
+W 1
+1443
+ECON F242
+MICROECONOMICS
+-
+-
+3
+L1
+GEETILAXMI MOHAPATRA
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Geetilaxmi Mohapatra
+F 1
+1444
+ECON F243
+MACROECONOMICS
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+M W F 9
+01/05 FN
+Tutorial
+T1
+Arun Kumar Giri
+M 1
+1445
+ECON F244
+ECONOMIC OF GROWTH & DEV
+-
+-
+3
+L1
+RAHUL ARORA
+M W F 3
+05/05 FN
+Tutorial
+T1
+Rahul Arora
+Th 1
+1656
+ECON F266
+STUDY PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1923
+ECON F315
+FINANCIAL MANAGEMENT
+-
+-
+3
+L1
+RAJAN PANDEY
+M W F 11
+06/05 AN
+Debata Byomakesh
+1449
+ECON F341
+PUBLIC FIN THEO & POLICY
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+M W F 4
+15/05 FN
+Tutorial
+T1
+Arun Kumar Giri
+Th 2
+1450
+ECON F342
+APPLIED ECONOMETRICS
+-
+-
+3
+L1
+MURALIDHAR RAO N V
+M W F 5
+10/05 FN
+Tutorial
+T1
+Muralidhar Rao N V
+Th 9
+1451
+ECON F343
+ECONOMIC ANAL OF PUB POL
+-
+-
+3
+L1
+KRISHNA M
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Krishna M
+T 2
+1565
+ECON F354
+DERIVATIVES & RISK MGMT
+-
+-
+3
+L1
+ARUN KUMAR VAISH
+M W F 6
+04/05 FN
+1684
+ECON F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1741
+ECON F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1690
+ECON F376
+DESIGN PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1757
+ECON F377
+DESIGN PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1566
+ECON F412
+SECUR ANAL & PORTFOL MGT
+-
+-
+3
+L1
+ARYA KUMAR
+M 10 T Th 3
+13/05 FN
+1551
+ECON F413
+FINANCIAL ENGINEERING
+-
+-
+3
+L1
+ARUN KUMAR VAISH
+M W F 9
+01/05 FN
+L2M
+Arun Kumar Vaish
+M W F 9
+01/05 FN
+1552
+ECON F414
+CREAT & LEAD ENTREP ORGN
+-
+-
+3
+L1
+ARYA KUMAR
+M W F 3
+05/05 FN
+1553
+ECON F415
+NEW VENTURE CREATION
+-
+-
+3
+L1
+JYOTI
+M W 11 12
+1726
+ECON F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1009
+EEE F111
+ELECTRICAL SCIENCES
+-
+-
+3
+L1
+Karunesh Kr Gupta
+M W F 2
+21/06 AN
+L2
+Shararda Tripathi
+M W F 9
+21/06 AN
+L3
+Arnab Hazra
+T Th 5 F 10
+21/06 AN
+L4B
+Abhijit Rameshwar Asati
+M W F 7
+11/05 FN
+Tutorial
+T1
+Rahul Kumar
+F 4
+T2
+Sandeep Joshi
+F 4
+T3
+Harshavardhan S
+M 4
+T4
+Rahul Kumar
+M 4
+T5
+Karri Babu Ravi Teja
+M 4
+T6
+Shishir Maheshwari
+M 4
+T7
+Sandeep Joshi
+M 4
+T8
+Anantha Krishna Chintanpalli
+M 4
+T9
+Karunesh Kr Gupta
+W 4
+T10
+Ashish Patel
+Th 7
+T11
+Praveen Kumar A.v.
+Th 7
+T12B
+Abhijit Rameshwar Asati
+F 1
+T13
+Kishor Bhaskarrao Nandapurkar
+W 4
+T14
+Samatha Benedict
+W 4
+1238
+EEE F241
+MICROPROC & INTERFACING
+-
+-
+4
+L1
+Sai Sesha Chalapathi Gattupalli
+M W F 3
+05/05 FN
+L2
+NITIN CHATURVEDI
+6151
+T Th 4 W 10
+05/05 FN
+Tutorial
+T1
+Devesh Samaiya(RS)
+M 1
+T2
+Vinay Chamola
+M 1
+T3
+Sai Sesha Chalapathi Gattupalli
+M 1
+T4
+Satyendra Kumar Mourya
+M 1
+T5
+Nitin Chaturvedi
+M 1
+T6
+Vinay Chamola
+M 1
+T7
+Rahul Kumar
+M 1
+T8
+Pawan Kamalkishor Ajmera
+M 1
+Practical
+P1
+Ritish Kumar(RS)
+T 7 8
+Radha Bhardwaj(RS)
+P2
+Sankalp Paliwal(RS)
+T 7 8
+Poonam Poonia(RS)
+P3
+Gorla Praveen(RS)
+T 7 8
+Pranay Bhardwaj(RS)
+P4
+Nishant Yadav(RS)
+T 7 8
+Ziyaur Rahman(RS)
+P5
+Sumitra(RS)
+T 9 10
+Pranay Bhardwaj(RS)
+P6
+Rahul Sharma(RS)
+T 9 10
+Suraj Baloda(RS)
+P7
+Abheek Gupta(RS)
+T 9 10
+Kanika(RS)
+P8
+Suraj Baloda(RS)
+Th 9 10
+Premsai Regalla(RS)
+P9
+Radha Bhardwaj(RS)
+Th 9 10
+Punit Khatri(RS)
+P10
+Sankalp Paliwal(RS)
+Th 9 10
+Poonam Poonia(RS)
+P11
+Nishant Yadav(RS)
+Th 9 10
+Ziyaur Rahman(RS)
+P12
+Gorla Praveen(RS)
+Th 9 10
+Sumitra(RS)
+1239
+EEE F242
+CONTROL SYSTEMS
+-
+-
+3
+L1
+Hari Om Bansal
+M 10 T Th 3
+13/05 FN
+L2
+BIJOY KRISHNA MUKHERJEE
+M W F 9
+13/05 FN
+Tutorial
+T1
+Hari Om Bansal
+Th 1
+T2
+Bijoy Krishna Mukherjee
+Th 1
+T3
+Ankush Chandrakant Jahagirdar
+Th 1
+T4
+Puneet Mishra
+Th 1
+T5
+Karunesh Kr Gupta
+Th 1
+T6
+Aditya Raw Gautam
+Th 1
+1240
+EEE F243
+SIGNALS & SYSTEMS
+-
+-
+3
+L1
+Pawan Kamalkishor Ajmera
+M W F 3
+01/05 FN
+L2
+ANANTHA KRISHNA CHINTANPALLI
+M W F 9
+01/05 FN
+Tutorial
+T1
+Pawan Kamalkishor Ajmera
+F 1
+T2
+Praveen Kumar A.v.
+F 1
+T3
+Sainath Bitragunta
+F 1
+T4
+Yenuganti Sujan
+F 1
+T5
+Shishir Maheshwari
+F 1
+T6
+Anantha Krishna Chintanpalli
+F 1
+1241
+EEE F244
+MICROELECTRONIC CIRCUITS
+-
+-
+3
+L1
+Samatha Benedict
+M 10 T Th 3
+07/05 FN
+L2
+ANU GUPTA
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Nitin Chaturvedi
+W 1
+T2
+Karri Babu Ravi Teja
+W 1
+T3
+Pankaj Arora
+W 1
+T4
+Shararda Tripathi
+W 1
+T5
+Samatha Benedict
+W 1
+1900
+EEE F246
+E & E CIRCUIT LABORATORY
+-
+-
+2
+P1
+YENUGANTI SUJAN
+M 1 2
+1657
+EEE F266
+STUDY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1244
+EEE F312
+POWER SYSTEMS
+-
+-
+3
+L1
+DHEERENDRA SINGH
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Hari Om Bansal
+M 5
+T2
+Dheerendra Singh
+M 5
+T3
+Rajneesh Kumar
+M 5
+1245
+EEE F341
+ANALOG ELECTRONICS
+-
+-
+4
+L1
+Arnab Hazra
+M W F 4
+12/05 FN
+L2
+V K CHAUBEY
+M W F 8
+12/05 FN
+Tutorial
+T1
+Pankaj Arora
+Th 9
+T2
+Shararda Tripathi
+Th 9
+T3
+Satyendra Kumar Mourya
+Th 9
+T4
+Devesh Samaiya
+Th 9
+T5
+V K Chaubey
+Th 9
+Practical
+P1
+Ritish Kumar(RS)
+T 10 11
+Ankita Dixit(RS)
+P2
+Ashish Kumar Verma(RS)
+T 10 11
+Teena Gakhar(RS)
+P3
+Ashish Kumar Verma(RS)
+T 7 8
+Sambhavi Shukla(RS)
+P4
+Premsai Regalla(RS)
+T 7 8
+Ankita Dixit(RS)
+P5
+Sambhavi Shukla(RS)
+Th 7 8
+Teena Gakhar(RS)
+P6
+Ashish Kumar Verma(RS)
+Th 7 8
+Pavitra Sharma(RS)
+1246
+EEE F342
+POWER ELECTRONICS
+-
+-
+4
+L1
+Ashish Patel
+M W F 4
+15/05 FN
+L2
+RAJNEESH KUMAR
+M W F 8
+15/05 FN
+Tutorial
+T1
+Aditya Raw Gautam
+T 9
+T2
+Ashish Patel
+T 9
+T3
+Dheerendra Singh
+T 9
+T4
+Rajneesh Kumar
+T 9
+T5
+Hitesh Datt Mathur
+T 9
+Practical
+P1
+Pavitra Sharma(RS)
+T 7 8
+Akhilesh Kumar Mishra(RS)
+P2
+Punit Khatri(RS)
+T 7 8
+Krishna Veer Singh(RS)
+P3
+Anukaran Khanna(RS)
+Th 10 11
+Somesh Krishna Thanvi(RS)
+P4
+Sisir Kumar Yadav(RS)
+Th 10 11
+Akhilesh Kumar Mishra(RS)
+P5
+Anukaran Khanna(RS)
+Th 7 8
+Krishna Veer Singh(RS)
+P6
+Somesh Krishna Thanvi(RS)
+Th 7 8
+Sisir Kumar Yadav(RS)
+1255
+EEE F346
+DATA COMMUNIC & NETWORKS
+-
+-
+2
+L1
+HARSHAVARDHAN S
+T Th 4 W 10
+07/05 FN
+1731
+EEE F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1742
+EEE F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1691
+EEE F376
+DESIGN PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1758
+EEE F377
+DESIGN PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+2288
+EEE F411
+INTERNET OF THINGS
+-
+-
+4
+L1
+VINAY CHAMOLA
+M 10 T Th 3
+13/05 FN
+1252
+EEE F414
+TELECOM SWIT SYS & NETWK
+-
+-
+3
+L1
+RAHUL SINGHAL
+M W F 9
+01/05 FN
+1250
+EEE F431
+MOBILE TELECOM NETWORKS
+-
+-
+3
+L1
+SYED MOHAMMAD ZAFARUDDIN
+M W F 9
+01/05 FN
+1247
+EEE F432
+MEDICAL INSTRUMENTATION
+-
+-
+3
+L1
+YENUGANTI SUJAN
+T Th 4 W 10
+07/05 FN
+2335
+EEE F436
+ELECTROMAGNETIC COMPATIBILITY
+-
+-
+4
+L1
+PRAVEEN KUMAR A.V.
+M 10 T Th 3
+13/05 FN
+1895
+EEE F477
+MODELING OF FIELD-EFFECT NANO
+-
+-
+3
+L1
+SATYENDRA KUMAR MOURYA
+M W F 7
+11/05 FN
+1716
+EEE F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+462
+EEE G510
+RF MICROELECTRONICS
+-
+-
+5
+L1
+PANKAJ ARORA
+6159
+M W F 8
+25/06 AN
+Chandrasekhar
+96
+EEE G592
+MOBILE PERSONAL COMMUNIC
+-
+-
+5
+L1
+SANDEEP JOSHI
+6155
+T Th 4 W 10
+22/06 AN
+Practical
+P1
+Sandeep Joshi
+W 1
+80
+EEE G622
+ADVANCED DIGITAL COMMUNI
+-
+-
+5
+L1
+SAINATH BITRAGUNTA
+6155
+M W F 9
+29/06 AN
+475
+EEE G627
+NETWORK EMBEDDED APPLI
+-
+-
+4
+L1
+MEETHA V. SHENOY
+6152
+M W F 5
+26/06 AN
+1658
+FIN F266
+STUDY PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1539
+FIN F311
+DERIVATIVES & RISK MGMT
+-
+-
+3
+L1
+ARUN KUMAR VAISH
+M W F 6
+04/05 FN
+L2M
+Arun Kumar Vaish
+M W F 6
+04/05 FN
+1545
+FIN F313
+SECUR ANAL & PORTFOL MGT
+-
+-
+3
+L1
+ARYA KUMAR
+M 10 T Th 3
+13/05 FN
+L2M
+Arya Kumar
+M 10 T Th 3
+13/05 FN
+1541
+FIN F314
+INVEST BANK & FIN SERV
+-
+-
+3
+L1M
+SAURABH CHADHA
+M 10 T Th 3
+13/05 AN
+L2
+Saurabh Chadha
+M 10 T Th 3
+13/05 AN
+1542
+FIN F315
+FINANCIAL MANAGEMENT
+-
+-
+3
+L1
+RAJAN PANDEY
+M W F 11
+06/05 AN
+Debata Byomakesh
+L2M
+Rajan Pandey
+M W F 11
+06/05 AN
+1717
+FIN F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+ARUN KUMAR GIRI
+1130
+GS F211
+MOD POLITICAL CONCEPTS
+-
+-
+3
+L1
+HARIKRISHNAN GOPINADHAN NAIR
+T Th 4 W 10
+07/05 FN
+1135
+GS F223
+INTRO TO MASS COMM
+-
+-
+3
+L1
+SUSHILA RATHORE
+M W F 9
+01/05 FN
+Shrija Srinivasan(RS)
+1136
+GS F224
+PRINT & AUDIO VISU ADVER
+-
+-
+3
+L1
+SANGEETA SHARMA
+M W F 6
+04/05 FN
+1169
+GS F231
+DYN OF SOCIAL CHANGE
+-
+-
+3
+L1
+SUNITA RAINA
+T Th 5 F 10
+08/05 FN
+1170
+GS F232
+INTRODUCTORY PSYCHOLOGY
+-
+-
+3
+L1
+TANU SHUKLA
+M W F 4
+15/05 FN
+1171
+GS F233
+PUBLIC POLICY
+-
+-
+3
+L1
+VEENA R
+M W F 8
+12/05 FN
+Yeola Kalyani Rajendra(RS)
+1172
+GS F234
+DEVELOPMENT ECONOMICS
+-
+-
+3
+L1
+LEELA RANI
+M W F 3
+05/05 FN
+1158
+GS F241
+CREATIVE WRITING
+-
+-
+3
+L1
+DEVIKA
+M W F 8
+12/05 FN
+Punita Raj(RS)
+1159
+GS F242
+CULTURAL STUDIES
+-
+-
+3
+L1
+MUHAMMED PUTHUSSERI
+M W F 5
+10/05 FN
+Nikhil R(RS)
+1160
+GS F243
+CURRENT AFFAIRS
+-
+-
+3
+L1
+SANJIV KUMAR CHOUDHARY
+M W F 6
+04/05 FN
+1161
+GS F244
+REPORT & WRITE FOR MEDIA
+-
+-
+3
+L1
+GAJENDRA SINGH CHAUHAN
+T Th 4 W 10
+07/05 FN
+1165
+GS F245
+EFFECTIVE PUBLIC SPEAK
+-
+-
+3
+L1
+PUSHP LATA
+M W F 5
+10/05 FN
+1659
+GS F266
+STUDY PROJECT
+-
+-
+3
+L1
+DEVIKA
+1173
+GS F311
+INTRO TO CONFLICT MGMT
+-
+-
+3
+L1
+MADHURIMA DAS
+M W F 5
+10/05 FN
+1174
+GS F312
+APPLIED PHILOSOPHY
+-
+-
+3
+L1
+KUMAR NEERAJ SACHDEV
+M W F 8
+12/05 FN
+1137
+GS F322
+CRITI ANAL OF LIT & CINE
+-
+-
+3
+L1
+KUMAR BHATTACHARYA
+M W F 7
+11/05 FN
+1175
+GS F331
+TECH IN SOCIAL RESEARCH
+-
+-
+3
+L1
+TANU SHUKLA
+T Th 5 F 10
+08/05 FN
+1176
+GS F332
+CONTEMPORARY INDIA
+-
+-
+3
+L1
+HARIKRISHNAN GOPINADHAN NAIR
+M W F 5
+10/05 FN
+1177
+GS F333
+PUBLIC ADMINISTRATION
+-
+-
+3
+L1
+SAILAJA NANDIGAMA
+M W F 7
+11/05 FN
+1178
+GS F334
+GLOBAL BUSINESS TEC & KS
+-
+-
+3
+L1
+PRAVEEN GOYAL
+M W F 4
+15/05 FN
+1164
+GS F342
+COMPUTER MEDIATED COMM
+-
+-
+3
+L1
+VIRENDRA SINGH NIRBAN
+T Th 5 F 10
+08/05 FN
+1168
+GS F343
+SHORT FILM & VIDEO PROD
+-
+-
+3
+L1
+SUSHILA RATHORE
+M W F 4
+15/05 FN
+Shrija Srinivasan(RS)
+1873
+GS F344
+COPYWRITING
+-
+-
+2
+L1
+GAJENDRA SINGH CHAUHAN
+M W 8
+12/05 FN
+1733
+GS F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+DEVIKA
+1744
+GS F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+DEVIKA
+1693
+GS F376
+DESIGN PROJECT
+-
+-
+3
+L1
+DEVIKA
+1760
+GS F377
+DESIGN PROJECT
+-
+-
+3
+L1
+DEVIKA
+1718
+GS F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+DEVIKA
+1603
+HSS F222
+LINGUISTICS
+-
+-
+3
+L1
+SANJIV KUMAR CHOUDHARY
+T Th 5 F 10
+08/05 FN
+1596
+HSS F223
+APPR OF INDIAN MUSIC
+-
+-
+3
+L1
+ANIL RAI
+M W F 4
+15/05 FN
+2447
+HSS F224
+ENGLISH SKILLS FOR ACADEMICS
+-
+-
+3
+L1
+CHINTALAPALLI VIJAYAKUMAR
+M W F 4
+15/05 FN
+1627
+HSS F235
+INTRODUCTORY PHILOSOPHY
+-
+-
+3
+L1
+ANUPAM YADAV
+T Th 5 F 10
+08/05 FN
+Virosh Singh Baghel(RS)
+1628
+HSS F236
+SYMBOLIC LOGIC
+-
+-
+3
+L1
+ANUPAM YADAV
+M W F 4
+15/05 FN
+2425
+HSS F247
+SOCIAL INFORMATICS
+-
+-
+3
+L1
+VIRENDRA SINGH NIRBAN
+M W F 8
+12/05 FN
+1776
+HSS F266
+STUDY PROJECT
+-
+-
+3
+L1
+DEVIKA
+1777
+HSS F323
+ORGANIZATIONAL PSYCHOLOGY
+-
+-
+3
+L1
+RAJNEESH CHOUBISA
+M W F 6
+04/05 FN
+1609
+HSS F328
+HUMAN RESOURCE DEVELOP
+-
+-
+3
+L1
+RAJNEESH CHOUBISA
+T Th 5 F 10
+08/05 FN
+1597
+HSS F329
+MUSICOLOGY-AN INTRODUCTN
+-
+-
+3
+L1
+ANIL RAI
+T Th 5 F 10
+08/05 FN
+1599
+HSS F334
+SRIMAD BHAGAVAD GITA
+-
+-
+3
+L1
+MANOJ KANNAN
+M W F 5
+10/05 FN
+Vinay Chamola
+1623
+HSS F343
+PROFESSIONAL ETHICS
+-
+-
+3
+L1
+KUMAR NEERAJ SACHDEV
+M W F 5
+10/05 FN
+1625
+HSS F345
+GANDHIAN THOUGHTS
+-
+-
+3
+L1
+HARIKRISHNAN GOPINADHAN NAIR
+M W F 8
+12/05 FN
+1626
+HSS F346
+INTERNATIONAL RELATIONS
+-
+-
+3
+L1
+VEENA R
+T Th 5 F 10
+08/05 FN
+1341
+INSTR F241
+MICROPROC & INTERFACING
+-
+-
+4
+L1
+Sai Sesha Chalapathi Gattupalli
+M W F 3
+05/05 FN
+L2
+NITIN CHATURVEDI
+T Th 4 W 10
+05/05 FN
+Tutorial
+T1
+Devesh Samaiya(RS)
+M 1
+T2
+Vinay Chamola
+M 1
+T3
+Sai Sesha Chalapathi Gattupalli
+M 1
+T4
+Satyendra Kumar Mourya
+M 1
+T5
+Nitin Chaturvedi
+M 1
+T6
+Vinay Chamola
+M 1
+T7
+Rahul Kumar
+M 1
+T8
+Pawan Kamalkishor Ajmera
+M 1
+Practical
+P1
+Ritish Kumar(RS)
+T 7 8
+Radha Bhardwaj(RS)
+P2
+Sankalp Paliwal(RS)
+T 7 8
+Poonam Poonia(RS)
+P3
+Gorla Praveen(RS)
+T 7 8
+Pranay Bhardwaj(RS)
+P4
+Nishant Yadav(RS)
+T 7 8
+Ziyaur Rahman(RS)
+P5
+Sumitra(RS)
+T 9 10
+Pranay Bhardwaj(RS)
+P6
+Rahul Sharma(RS)
+T 9 10
+Suraj Baloda(RS)
+P7
+Abheek Gupta(RS)
+T 9 10
+Kanika(RS)
+P8
+Suraj Baloda(RS)
+Th 9 10
+Premsai Regalla(RS)
+P9
+Radha Bhardwaj(RS)
+Th 9 10
+Punit Khatri(RS)
+P10
+Sankalp Paliwal(RS)
+Th 9 10
+Poonam Poonia(RS)
+P11
+Nishant Yadav(RS)
+Th 9 10
+Ziyaur Rahman(RS)
+P12
+Gorla Praveen(RS)
+Th 9 10
+Sumitra(RS)
+1342
+INSTR F242
+CONTROL SYSTEMS
+-
+-
+3
+L1
+Hari Om Bansal
+M 10 T Th 3
+13/05 FN
+L2
+BIJOY KRISHNA MUKHERJEE
+M W F 9
+13/05 FN
+Tutorial
+T1
+Hari Om Bansal
+Th 1
+T2
+Bijoy Krishna Mukherjee
+Th 1
+T3
+Ankush Chandrakant Jahagirdar
+Th 1
+T4
+Puneet Mishra
+Th 1
+T5
+Karunesh Kr Gupta
+Th 1
+T6
+Aditya Raw Gautam
+Th 1
+1343
+INSTR F243
+SIGNALS & SYSTEMS
+-
+-
+3
+L1
+Pawan Kamalkishor Ajmera
+M W F 3
+01/05 FN
+L2
+ANANTHA KRISHNA CHINTANPALLI
+M W F 9
+01/05 FN
+Tutorial
+T1
+Pawan Kamalkishor Ajmera
+F 1
+T2
+Praveen Kumar A.v.
+F 1
+T3
+Sainath Bitragunta
+F 1
+T4
+Yenuganti Sujan
+F 1
+T5
+Shishir Maheshwari
+F 1
+T6
+Anantha Krishna Chintanpalli
+F 1
+1344
+INSTR F244
+MICROELECTRONIC CIRCUITS
+-
+-
+3
+L1
+Samatha Benedict
+M 10 T Th 3
+07/05 FN
+L2
+ANU GUPTA
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Nitin Chaturvedi
+W 1
+T2
+Karri Babu Ravi Teja
+W 1
+T3
+Pankaj Arora
+W 1
+T4
+Shararda Tripathi
+W 1
+T5
+Samatha Benedict
+W 1
+1660
+INSTR F266
+STUDY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1348
+INSTR F341
+ANALOG ELECTRONICS
+-
+-
+4
+L1
+Arnab Hazra
+M W F 4
+12/05 FN
+L2
+V K CHAUBEY
+M W F 8
+12/05 FN
+Tutorial
+T1
+Pankaj Arora
+Th 9
+T2
+Shararda Tripathi
+Th 9
+T3
+Satyendra Kumar Mourya
+Th 9
+T4
+Devesh Samaiya(RS)
+Th 9
+T5
+V K Chaubey
+Th 9
+Practical
+P1
+Ritish Kumar(RS)
+T 10 11
+Ankita Dixit(RS)
+P2
+Ashish Kumar Verma(RS)
+T 10 11
+Teena Gakhar(RS)
+P3
+Ashish Kumar Verma(RS)
+T 7 8
+Sambhavi Shukla(RS)
+P4
+Premsai Regalla(RS)
+T 7 8
+Ankita Dixit(RS)
+P5
+Sambhavi Shukla(RS)
+Th 7 8
+Teena Gakhar(RS)
+P6
+Ashish Kumar Verma(RS)
+Th 7 8
+Pavitra Sharma(RS)
+1349
+INSTR F342
+POWER ELECTRONICS
+-
+-
+4
+L1
+Ashish Patel
+M W F 4
+15/05 FN
+L2
+RAJNEESH KUMAR
+M W F 8
+15/05 FN
+Tutorial
+T1
+Aditya Raw Gautam
+T 9
+T2
+Ashish Patel
+T 9
+T3
+Dheerendra Singh
+T 9
+T4
+Rajneesh Kumar
+T 9
+T5
+Hitesh Datt Mathur
+T 9
+Practical
+P1
+Pavitra Sharma(RS)
+T 7 8
+Akhilesh Kumar Mishra(RS)
+P2
+Punit Khatri(RS)
+T 7 8
+Krishna Veer Singh(RS)
+P3
+Anukaran Khanna(RS)
+Th 10 11
+Somesh Krishna Thanvi(RS)
+P4
+Sisir Kumar Yadav(RS)
+Th 10 11
+Akhilesh Kumar Mishra(RS)
+P5
+Anukaran Khanna(RS)
+Th 7 8
+Krishna Veer Singh(RS)
+P6
+Somesh Krishna Thanvi(RS)
+Th 7 8
+Sisir Kumar Yadav(RS)
+1350
+INSTR F343
+INDUS INSTRUMENT & CONT
+-
+-
+3
+L1
+PUNEET MISHRA
+T Th 5 F 10
+08/05 FN
+Surekha Bhanot
+Tutorial
+T1
+Puneet Mishra
+M 5
+T2
+Ankush Chandrakant Jahagirdar
+M 5
+1734
+INSTR F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1745
+INSTR F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1694
+INSTR F376
+DESIGN PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1761
+INSTR F377
+DESIGN PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1719
+INSTR F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+HITESH DATT MATHUR
+1532
+IS F311
+COMPUTER GRAPHICS
+-
+-
+3
+L1
+SUNDARESAN RAMAN
+M W F 9
+01/05 FN
+1331
+IS F462
+NETWORK PROGRAMMING
+-
+-
+3
+L1
+HARIBABU K
+6159
+M W F 2
+03/05 FN
+1011
+MATH F112
+MATHEMATICS II
+-
+-
+3
+L1
+Balram Dubey
+M W F 2
+29/06 AN
+Bhupendra Kumar Sharma
+L2
+Krishnendra Shekhawat
+M W F 9
+29/06 AN
+Gaurav Dwivedi
+L3
+JITENDER KUMAR
+T Th 5 F 10
+29/06 AN
+Trilok Mathur
+L4B
+Ashish Tiwari
+M W F 6
+13/05 AN
+Tutorial
+T1
+Amol Holkundkar
+F 4
+T2
+Gaurav Dwivedi
+F 4
+T3
+Sangita Yadav
+F 4
+T4
+Balram Dubey
+F 7
+T5
+Ashish Tiwari
+M 1
+T6
+Sandipan Dutta
+M 4
+T7
+Sangita Yadav
+M 4
+T8
+Devendra Kumar
+M 4
+T9
+Trilok Mathur
+M 7
+T10
+Jitender Kumar
+T 9
+T11
+Gaurav Dwivedi
+T 9
+T12
+Krishnendra Shekhawat
+Th 7
+T13
+Sangita Yadav
+Th 7
+T14
+Santhosh Kumar Pamula
+T 9
+T15
+Sourav Kumar Sasmal
+Th 7
+T16
+Ashish Tiwari
+Th 7
+T17
+Santhosh Kumar Pamula
+M 7
+T18
+Balram Dubey
+Th 7
+T19
+Bhupendra Kumar Sharma
+Th 7
+T20
+Sourav Kumar Sasmal
+W 1
+T21
+Jitender Kumar
+W 4
+T22
+Sourav Kumar Sasmal
+T 9
+T23B
+Ashish Tiwari
+Th 1
+1012
+MATH F113
+PROBABILITY & STATISTICS
+-
+-
+3
+L1
+RAKHEE
+M W F 2
+19/06 AN
+Pradipkumar Haribhau Keskar
+L2
+Chandra Shekhar
+M W F 9
+19/06 AN
+Rajiv Kumar
+L3
+Rajesh Kumar
+T Th 5 F 10
+19/06 AN
+Rajiv Kumar
+Sumanta Pasari
+L4
+Shivi Agarwal
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Shivi Agarwal
+M 1
+T2
+Jitender Kumar
+F 4
+T3
+Pradipkumar Haribhau Keskar
+F 4
+T4
+Rajesh Kumar
+M 4
+T5
+Santhosh Kumar Pamula
+M 4
+T6
+Anirudh Singh Rana
+M 4
+T7
+Gaurav Dwivedi
+M 4
+T8
+Jitender Kumar
+M 4
+T9
+Sumanta Pasari
+M 7
+T10
+Divyum Sharma
+M 7
+T11
+Rakhee
+Th 7
+T12
+Rajiv Kumar
+Th 7
+T13
+Santhosh Kumar Pamula
+Th 7
+T14
+Anirudh Singh Rana
+Th 7
+T15
+Gaurav Dwivedi
+W 7
+T16
+Sourav Kumar Sasmal
+W 7
+T17
+Sourav Kumar Sasmal
+F 4
+T18
+Chandra Shekhar
+Th 7
+T19
+Divyum Sharma
+Th 7
+T20
+Gaurav Dwivedi
+Th 7
+T21
+Santhosh Kumar Pamula
+W 4
+T22
+Sourav Kumar Sasmal
+W 4
+T23
+Sumanta Pasari
+W 7
+1340
+MATH F231
+NUMBER THEORY
+-
+-
+3
+L1
+DIVYUM SHARMA
+M W F 2
+03/05 FN
+Tutorial
+T1
+Divyum Sharma
+Th 6
+1465
+MATH F241
+MATHEMATICAL METHODS
+-
+-
+3
+L1
+BHUPENDRA KUMAR SHARMA
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Bhupendra Kumar Sharma
+T 8
+1466
+MATH F242
+OPERATIONS RESEARCH
+-
+-
+3
+L1
+CHANDRA SHEKHAR
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Chandra Shekhar
+M 1
+1467
+MATH F243
+GRAPHS AND NETWORKS
+-
+-
+3
+L1
+KRISHNENDRA SHEKHAWAT
+M W F 3
+05/05 FN
+Tutorial
+T1
+Krishnendra Shekhawat
+F 1
+1468
+MATH F244
+MEASURE & INTEGRATION
+-
+-
+3
+L1
+RAJIV KUMAR
+M W F 9
+01/05 FN
+Tutorial
+T1
+Rajiv Kumar
+Th 1
+1662
+MATH F266
+STUDY PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+1472
+MATH F341
+INTRO TO FUNCTIONAL ANAL
+-
+-
+3
+L1
+ASHISH TIWARI
+M W F 5
+10/05 FN
+Tutorial
+T1
+Ashish Tiwari
+T 2
+1473
+MATH F342
+DIFFERENTIAL GEOMETRY
+-
+-
+3
+L1
+PRADIPKUMAR HARIBHAU KESKAR
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Pradipkumar Haribhau Keskar
+M 4
+1474
+MATH F343
+PARTIAL DIFF EQUATIONS
+-
+-
+3
+L1
+RAJESH KUMAR
+M W F 8
+12/05 FN
+Tutorial
+T1
+Rajesh Kumar
+F 4
+1479
+MATH F353
+STATISTICAL INFER & APP
+-
+-
+3
+L1
+RAKHEE
+M W F 7
+11/05 FN
+L2M
+Rakhee
+M W F 7
+11/05 FN
+1679
+MATH F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+1747
+MATH F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+1696
+MATH F376
+DESIGN PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+1763
+MATH F377
+DESIGN PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+1882
+MATH F420
+MATHEMATICAL MODELLING
+-
+-
+4
+L1
+BALRAM DUBEY
+M 10 T Th 3
+13/05 FN
+1921
+MATH F422
+NUM MTHD FOR PARTIAL DIFF EQ
+-
+-
+4
+L1
+DEVENDRA KUMAR
+M W F 9
+01/05 FN
+Practical
+P1
+Devendra Kumar
+Th 9 10
+2191
+MATH F424
+APPLIED STOCHASTIC PROCE
+-
+-
+4
+L1
+ANIRUDH SINGH RANA
+M W F 6
+04/05 FN
+L2M
+Anirudh Singh Rana
+M W F 6
+04/05 FN
+Practical
+P1
+Anirudh Singh Rana
+Th 9 10
+2273
+MATH F432
+APPLIED STATISTICAL METHODS
+-
+-
+3
+L1
+SUMANTA PASARI
+M W F 2
+03/05 FN
+L2M
+Sumanta Pasari
+M W F 2
+03/05 FN
+1721
+MATH F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+DEVENDRA KUMAR
+2212
+MBA G509
+INVEST BANK & FIN SERV
+-
+-
+3
+L1
+SAURABH CHADHA
+M 10 T Th 3
+13/05 AN
+2214
+MBA G510
+HUMAN RESOURCE & MGMT
+-
+-
+3
+L1
+JAYASHREE MAHESH
+M W F 8
+12/05 AN
+2235
+MBA G537
+SECURE ANAL AND PORTFOL
+-
+-
+3
+L1
+ARYA KUMAR
+M 10 T Th 3
+13/05 FN
+2429
+MBA G541
+OPERATIONS STRATEGY
+-
+-
+3
+L1
+RAJESH MATAI
+M W F 3
+05/05 AN
+2350
+MBA G545
+MANAGEMENT SCIENCE
+-
+-
+3
+L1
+RAJESH MATAI
+T Th 5 F 10
+08/05 AN
+1910
+MBA G556
+PERFORMANCE MANAGEMENT
+-
+-
+3
+L1
+MOAMMAD FARAZ NAIM
+M W F 3
+05/05 AN
+2356
+MBA G557
+ECONOMIC ENVIRONMENT OF BUSINE
+-
+-
+3
+L1
+PRAVEEN GOYAL
+M W F 9
+01/05 AN
+2357
+MBA G558
+OPERATIONS AND SUPPLY CHAIN MA
+-
+-
+3
+L1
+SATYENDRA KR SHARMA
+M W F 4
+15/05 AN
+2358
+MBA G559
+CORPORATE FINANCE
+-
+-
+3
+L1
+SAURABH CHADHA
+M W F 5
+10/05 AN
+2359
+MBA G560
+MARKETING RESEARCH & METRICS
+-
+-
+3
+L1
+ACHINT NIGAM
+M W F 7
+11/05 AN
+2360
+MBA G561
+BUSINESS ANALYTICS
+-
+-
+3
+L1
+NIRANKUSH DUTTA
+T Th 4 W 10
+07/05 AN
+Udayan Chanda
+2361
+MBA G564
+DECISION MAKING
+-
+-
+3
+L1
+ANIL KUMAR BHAT
+M W F 2
+03/05 AN
+Shaili Singh
+2243
+MBA G575
+FINANCIAL ENGINEERING
+-
+-
+3
+L1
+UDAYAN CHANDA
+M W F 3
+05/05 AN
+2328
+MBA G576
+DIGITAL MARKETING
+-
+-
+3
+L1
+ACHINT NIGAM
+M 10 T Th 3
+13/05 AN
+2247
+MBA G586
+PRODUCT AND BRAND MGMT
+-
+-
+3
+L1
+ANIL KUMAR BHAT
+M 10 T Th 3
+13/05 AN
+2379
+ME F112
+WORKSHOP PRACTICE
+-
+-
+2
+L1
+GIRISH KANT GARG
+W 10
+28/06 FN
+Practical
+P1
+Naveen P T(RS)
+T 1 2
+P2
+To Be Announced By Mechanical Dept
+T 1 2
+P3
+Shailendra Pawanr(RS)
+T 1 2
+P4
+Shailender Singh(RS)
+T 1 2
+P5
+Ramesh Kumar(RS)
+T 1 2
+P6
+To Be Announced By Mechanical Dept
+T 1 2
+2397
+ME F218
+ADVANCED MECHANICS OF SOLIDS
+-
+-
+2
+L1
+MANI SANKAR DASGUPTA
+W F 9
+01/05 FN
+Tutorial
+T1
+Jitendra Singh Rathore
+M 9
+T2
+Gaurav Watts
+M 9
+T3
+Venkatesh Kadbur Prabhakar Rao
+M 9
+2398
+ME F219
+MANUFACTURING PROCESSES
+-
+-
+4
+L1
+TUFAN CHANDRA BERA
+M W F 3
+05/05 FN
+Tutorial
+T1
+Divyansh Patel
+F 1
+T2
+Tufan Chandra Bera
+F 1
+T3
+Faizan Mohammad Rashid
+F 1
+Practical
+P1
+Rishi Kumar(RS)
+T 7 8
+P2
+Anish Kumar(RS)
+T 7 8
+P3
+Rishi Parvanda(RS)
+T 7 8
+P4
+Pawar Shrikant Shankarrao(RS)
+T 7 8
+2430
+ME F220
+HEAT TRANSFER
+-
+-
+4
+L1
+P SRINIVASAN
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+A R Harikrishnan
+W 1
+T2
+Aneesh A M
+W 1
+T3
+C Ranganayakulu
+W 1
+Practical
+P1
+Leo Daniel
+T 9 10
+P2
+Diplesh Gautam(RS)
+T 9 10
+P3
+Ashish Khare(RS)
+T 9 10
+P4
+Devendra Kumar Vishwakarma(RS)
+T 9 10
+2399
+ME F221
+MECHANISMS AND MACHINES
+-
+-
+3
+L1
+JITENDRA SINGH RATHORE
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Amol Marathe
+M 1
+T2
+Amit Rajnarayan Singh
+M 1
+T3
+Jitendra Singh Rathore
+M 1
+T4
+Venkatesh Kadbur Prabhakar Rao
+M 1
+1263
+ME F241
+MACHINE DESIGN & DRAWING
+-
+-
+4
+L1B
+MANI SANKAR DASGUPTA
+T Th 4 W 10
+07/05 AN
+Practical
+P1B
+Th 7 8
+1264
+ME F242
+IC ENGINES
+-
+-
+2
+L1B
+MANI SANKAR DASGUPTA
+M W F 2
+03/05 FN
+1265
+ME F243
+PRODUCTION TECHNIQUES I
+-
+-
+3
+L1B
+TUFAN CHANDRA BERA
+M W F 3
+05/05 FN
+Practical
+P1B
+Rishi Kumar(RS)
+T 7 8
+1266
+ME F244
+KIN & DYN OF MACHINES
+-
+-
+3
+L1B
+JITENDRA SINGH RATHORE
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1B
+Amol Marathe
+M 1
+1663
+ME F266
+STUDY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+2286
+ME F340
+INTRO TO SPORT ENGINEER
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+M W F 3
+05/05 FN
+1270
+ME F341
+PRIMEMOVERS & FLUID MACH
+-
+-
+3
+L1
+MANOJKUMAR SURAJKARANJI SONI
+M W 8
+12/05 FN
+Practical
+P1
+Mukesh Budaniya(RS)
+T 7 8
+P2
+Rahul Ukey(RS)
+T 7 8
+P3
+Harsh Sharma(RS)
+T 7 8
+P4
+Vishwjeet Choudhary(RS)
+T 7 8
+1272
+ME F342
+COMPUTER AIDED DESIGN
+-
+-
+4
+L1
+MURALI PALLA
+M W F 4
+15/05 FN
+L2
+Amit Rajnarayan Singh
+M W F 5
+15/05 FN
+Tutorial
+T1
+Amit Rajnarayan Singh
+Th 2
+T2
+Murali Palla
+Th 2
+T3
+Amol Marathe
+Th 2
+T4
+Deshmankar Atharv Pramod(RS)
+Th 2
+1271
+ME F343
+MECHANICAL VIBRATIONS
+-
+-
+3
+L1
+ARUN KUMAR JALAN
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Shyam Sunar Yadav
+F 8
+T2
+Gaurav Watts
+F 8
+T3
+Arun Kumar Jalan
+F 8
+1273
+ME F344
+ENGINEERING OPTIMIZATION
+-
+-
+2
+L1
+RAJESH PRASAD MISHRA
+M W 4
+10/05 FN
+L2
+Aakash Chand Rai
+M W 5
+10/05 FN
+L3
+Rajesh Prasad Mishra
+10/05 FN
+Tutorial
+T1
+Murali Palla
+Th 8
+T2
+Aakash Chand Rai
+Th 8
+T3
+Rajesh Prasad Mishra
+Th 8
+T4
+Sachin Ulhasrao Belgamwar
+Th 8
+T5
+Rajesh Prasad Mishra
+1680
+ME F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1748
+ME F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1697
+ME F376
+DESIGN PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1764
+ME F377
+DESIGN PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1281
+ME F420
+POWER PLANT ENGINEERING
+-
+-
+3
+L1
+P SRINIVASAN
+M W F 7
+11/05 FN
+Tutorial
+T1
+Vivek Tiwari(RS)
+T 1
+1810
+ME F423
+MICRO FLUIDICS & ITS APP
+-
+-
+3
+L1
+ANEESH A M
+M 10 T Th 3
+13/05 FN
+2310
+ME F425
+ADDITIVE MANUFACTURING
+-
+-
+3
+L1
+RADHA RAMAN MISHRA
+M W F 3
+05/05 FN
+1778
+ME F433
+SOLAR THERMAL PROCESS EN
+-
+-
+4
+L1
+MANOJKUMAR SURAJKARANJI SONI
+M W F 2
+03/05 FN
+1283
+ME F441
+AUTOMOTIVE VEHICLES
+-
+-
+3
+L1
+SAKET VERMA
+M W F 7
+11/05 FN
+1286
+ME F452
+COMPOSITE MATERIAL & DES
+-
+-
+3
+L1
+FAIZAN MOHAMMAD RASHID
+T Th 4 W 10
+07/05 FN
+1287
+ME F461
+REFRIGERATION & AIRCOND
+-
+-
+3
+L1
+SUVANJAN BHATTACHARYYA
+T Th 4 W 10
+07/05 FN
+1288
+ME F472
+PRECISION ENGINEERING
+-
+-
+3
+L1
+TRIBENI ROY
+T Th 4 W 10
+07/05 FN
+1869
+ME F485
+NUM FL FLOW & HEAT TRANS
+-
+-
+3
+L1
+SHYAM SUNAR YADAV
+M 10 T Th 3
+13/05 FN
+1290
+ME F491
+SPECIAL PROJECTS
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+2059
+ME G513
+HEATING & COOL OF BUILD
+-
+-
+5
+L1
+AAKASH CHAND RAI
+6105
+M 10 T Th 3
+24/06 AN
+410
+ME G515
+COMPUT FLUID DYNAMICS
+-
+-
+5
+L1
+SHYAM SUNAR YADAV
+6152
+M W F 9
+29/06 AN
+2118
+ME G534
+CONVECT HEAT & MASS TRAN
+-
+-
+5
+L1
+C RANGANAYAKULU
+6156
+M 10 T Th 3
+24/06 AN
+266
+ME G611
+COMP AIDED ANAL & DESIGN
+-
+-
+5
+L1
+AMOL MARATHE
+6155
+T Th 5 F 10
+30/06 AN
+932
+MEL G625
+ADV ANALOG & MIX SIG DES
+-
+-
+5
+L1
+ANU GUPTA
+6152
+M W F 2
+21/06 AN
+Chandrasekhar
+224
+MEL G632
+ANALOG IC DESIGN
+-
+-
+5
+L1
+ANU GUPTA
+6156
+M W F 4
+19/06 AN
+484
+MEL G641
+CAD FOR IC DESIGN
+-
+-
+5
+L1
+ABHIJIT RAMESHWAR ASATI
+6156
+T Th 5 F 10
+30/06 AN
+817
+MEL G642
+VLSI ARCHITECTURE
+-
+-
+4
+L1
+S GURUNARAYANAN
+6152
+M W F 8
+25/06 AN
+Chandrasekhar
+Practical
+P1
+Abheek Gupta(RS)
+T 2 3
+Kanika(RS)
+2412
+MF F219
+OPERATIONS MANAGEMENT
+-
+-
+3
+L1
+ABHIJEET KESHAORAO DIGALWAR
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Abhijeet Keshaorao Digalwar
+W 1
+Santosh Kumar Saraswat(RS)
+2413
+MF F220
+METROLOGY AND QUALITY ASSU.
+-
+-
+3
+L1
+TRIBENI ROY
+M W 3
+05/05 FN
+Tutorial
+T1
+Tribeni Roy
+Th 7
+Practical
+P1
+Girish Kant Garg
+T 9 10
+Ayush Owhal(RS)
+2400
+MF F221
+MECHANISMS AND MACHINES
+-
+-
+3
+L1
+JITENDRA SINGH RATHORE
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Amol Marathe
+M 1
+T2
+Amit Rajnarayan Singh
+M 1
+T3
+Jitendra Singh Rathore
+M 1
+T4
+Venkatesh Kadbur Prabhakar Rao
+M 1
+2414
+MF F222
+CASTING FORMING AND WELDING
+-
+-
+4
+L1
+RADHA RAMAN MISHRA
+M W F 9
+01/05 FN
+Tutorial
+T1
+Radha Raman Mishra
+F 1
+Practical
+P1
+To Be Announced By Mechanical Dept
+T 7 8
+1664
+MF F266
+STUDY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1405
+MF F341
+DESIGN OF MACHINE TOOLS
+-
+-
+3
+L1
+SHARAD SHRIVASTAVA
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Sharad Shrivastava
+T 2
+1407
+MF F342
+COMPUTER AIDED DESIGN
+-
+-
+4
+L1
+MURALI PALLA
+M W F 4
+15/05 FN
+L2
+Amit Rajnarayan Singh
+M W F 5
+15/05 FN
+Tutorial
+T1
+Amit Rajnarayan Singh
+Th 2
+T2
+Murali Palla
+Th 2
+T3
+Amol Marathe
+Th 2
+T4
+Deshmankar Atharv Pramod(RS)
+Th 2
+1406
+MF F343
+CASTING & WELDING
+-
+-
+4
+L1
+TUFAN CHANDRA BERA
+M W F 8
+12/05 FN
+Practical
+P1
+Ashish Kumar Srivastava(RS)
+T 7 8
+P2
+Amresh Kumar(RS)
+T 7 8
+1408
+MF F344
+ENGINEERING OPTIMIZATION
+-
+-
+2
+L1
+RAJESH PRASAD MISHRA
+M W 4
+10/05 FN
+L2
+Aakash Chand Rai
+M W 5
+10/05 FN
+Tutorial
+T1
+Murali Palla
+Th 8
+T2
+Aakash Chand Rai
+Th 8
+T3
+Rajesh Prasad Mishra
+Th 8
+T4
+Sachin Ulhasrao Belgamwar
+Th 8
+1681
+MF F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1749
+MF F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1698
+MF F376
+DESIGN PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1765
+MF F377
+DESIGN PROJECT
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1417
+MF F418
+LEAN MANUFACTURING
+-
+-
+3
+L1
+ABHIJEET KESHAORAO DIGALWAR
+M W F 7
+11/05 FN
+1418
+MF F421
+SUPPLY CHAIN MANAGEMENT
+-
+-
+4
+L1
+SRIKANTA ROUTROY
+M W F 2
+03/05 FN
+Abdullah Sultan F(RS)
+1884
+MF F485
+SUSTAINABLE MANUFACTURING
+-
+-
+3
+L1
+KULDIP SINGH SANGWAN
+M W F 9
+01/05 FN
+1422
+MF F491
+SPECIAL PROJECTS
+-
+-
+3
+L1
+MANI SANKAR DASGUPTA
+1024
+MGTS F211
+PRINCIPLES OF MANAGEMENT
+-
+-
+3
+G1
+11/05 AN
+L1
+JYOTI
+M W F 5
+Shaili Singh
+Neetu Yadav
+Deepak Kumar Saxena
+L2
+Jyoti
+M W F 7
+Shaili Singh
+Neetu Yadav
+Deepak Kumar Saxena
+Tutorial
+T1
+Jyoti
+T 1
+T2
+Deepak Kumar Saxena
+T 1
+T3
+Shaili Singh
+T 1
+T4
+Neetu Yadav
+T 1
+56
+MPH G510
+BIOSTAT & COM IN PH
+-
+-
+5
+L1
+M W F 9
+21/06 FN
+369
+MSE G511
+MECHATRONICS
+-
+-
+5
+L1
+PRATEEK KALA
+6105
+T Th 4 W 10
+22/06 AN
+389
+MSE G512
+MANUFACT PLANNING & CONT
+-
+-
+4
+L1
+DIVYANSH PATEL
+6101
+M W F 9
+29/06 AN
+667
+MUSIC N113T
+INDIA CLASS MUSIC(INS) I
+-
+-
+3
+L1
+ANIL RAI
+673
+MUSIC N114T
+INDIA CLASS MUSIC(INS)II
+-
+-
+3
+L1
+ANIL RAI
+1089
+PHA F212
+DISPENSING PHARMACY
+-
+-
+3
+L1
+GAUTAM SINGHVI
+M W 5
+26/06 AN
+L2
+Gautam Singhvi
+T Th 4
+07/05 FN
+Tutorial
+T1
+Gautam Singhvi
+F 5
+T2
+Gautam Singhvi
+W 10
+Practical
+P1
+R Vamshi Krishna(RS)
+Th 1 2
+Choudhari Manisha Vinayak(RS)
+Prayag Kedar Shridhar(RS)
+Gorantla Srividya(RS)
+Paramita Saha(RS)
+Waghule Tejashree Vilas Archana(RS)
+P2
+R Vamshi Krishna(RS)
+Th 9 10
+Choudhari Manisha Vinayak(RS)
+Prayag Kedar Shridhar(RS)
+Gorantla Srividya(RS)
+Waghule Tejashree Vilas Archana(RS)
+1088
+PHA F213
+MICROBIOLOGY
+-
+-
+3
+L1
+ANIRUDDHA ROY
+M W 3
+05/05 FN
+Tutorial
+T1
+Aniruddha Roy
+F 3
+Practical
+P1
+Karanam Laxmi Swetha(RS)
+T 7 8 9
+Maravajjala Kavya Sree(RS)
+Narisepalli Saibhargav(RS)
+Geetika(RS)
+Sharma Swati Shivdayal(RS)
+P2
+Karanam Laxmi Swetha(RS)
+Th 7 8 9
+Maravajjala Kavya Sree(RS)
+Geetika(RS)
+Sharma Swati Shivdayal(RS)
+1087
+PHA F214
+ANATOMY PHYSIO & HYGIENE
+-
+-
+3
+L1
+RAJEEV TALIYAN
+M W 9
+01/05 FN
+Tutorial
+T1
+Rajeev Taliyan
+F 9
+Practical
+P1
+Sarathlal K C(RS)
+T 7 8
+Salunkhe Shubham Arun(RS)
+Shreya Das(RS)
+Mahipal Reddy Donthi(RS)
+P2
+Violina Kakoty(RS)
+Th 7 8
+Shreya Das(RS)
+Mahipal Reddy Donthi(RS)
+1863
+PHA F215
+INTR TO MOL BIO & IMMUNO
+-
+-
+3
+L1
+ANIRUDDHA ROY
+M W 7
+11/05 FN
+Tutorial
+T1
+Aniruddha Roy
+F 7
+1291
+PHA F241
+PHARMACEUTICAL CHEMISTRY
+-
+-
+3
+L1
+SANDEEP SUNDRIYAL
+T Th 3
+13/05 FN
+Tutorial
+T1
+Sandeep Sundriyal
+M 10
+Practical
+P1
+Sharyu Kesharwani(RS)
+T 7 8
+Amit Sharma(RS)
+Ansari Imran Kaimudin(RS)
+Prabhjeet Singh(RS)
+P2
+Sharyu Kesharwani(RS)
+T 10 11
+Ansari Imran Kaimudin(RS)
+Prabhjeet Singh(RS)
+Amritansh Bhanot(RS)
+1294
+PHA F244
+PHYSICAL PHARMACY
+-
+-
+3
+L1
+ANUPAMA MITTAL
+M W 8
+12/05 FN
+Tutorial
+T1
+Anupama Mittal
+F 8
+Practical
+P1
+Sudeep Sudesh Sunanda Pukale(RS)
+T 1 2
+Moumita Basak(RS)
+Hinge Nikita Subhash(RS)
+Arihant Kumar Singh(RS)
+P2
+Sudeep Sudesh Sunanda Pukale(RS)
+Th 10 11
+Moumita Basak(RS)
+Hinge Nikita Subhash(RS)
+Arihant Kumar Singh(RS)
+1665
+PHA F266
+STUDY PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+1296
+PHA F341
+PHARMACOLOGY II
+-
+-
+3
+L1
+GAIKWAD ANIL BHANUDAS
+M W 4
+15/05 FN
+Tutorial
+T1
+Gaikwad Anil Bhanudas
+F 4
+Practical
+P1
+Sankrityayan Himanshu(RS)
+T 1 2
+Shelke Vishwadeep Madhukar(RS)
+Ajinath Vishwanath Kale(RS)
+Deepak Kumar Sahel(RS)
+1298
+PHA F342
+MEDICINAL CHEMISTRY II
+-
+-
+3
+L1
+R MAHESH
+T Th 5
+08/05 FN
+Tutorial
+T1
+R Mahesh
+F 10
+Practical
+P1
+Ginson George(RS)
+T 7 8 9
+Mukesh(RS)
+Auti Prashant Savleram(RS)
+Samrat Mazumdar(RS)
+P2
+Ginson George(RS)
+Th 7 8 9
+Banoth Karankumar(RS)
+Shivam Kumar Vyas(RS)
+Mukesh(RS)
+Samrat Mazumdar(RS)
+1301
+PHA F343
+FORENSIC PHARMACY
+-
+-
+2
+L1
+VAIBHAV DIXIT
+M W 5
+10/05 FN
+Tutorial
+T1
+Vaibhav Dixit
+F 5
+1302
+PHA F344
+NATURAL DRUGS
+-
+-
+3
+L1
+ATISH PAUL
+M W 8
+12/05 FN
+Tutorial
+T1
+Atish Paul
+F 8
+Practical
+P1
+Sengupta Pracheta Prabhat(RS)
+T 10 11
+Reena(RS)
+Karnam Sariraval(RS)
+Nisha Yadav(RS)
+P2
+Sengupta Pracheta Prabhat(RS)
+Th 7 8
+Reena(RS)
+Karnam Sariraval(RS)
+Nisha Yadav(RS)
+1682
+PHA F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+1750
+PHA F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+1699
+PHA F376
+DESIGN PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+1766
+PHA F377
+DESIGN PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+1304
+PHA F414
+BIOPHARMACEUTICS
+-
+-
+3
+L1
+GAUTAM SINGHVI
+M W F 2
+03/05 FN
+1306
+PHA F416
+CHEM OF SYNTHETIC DRUGS
+-
+-
+3
+L1
+VAIBHAV DIXIT
+M 10 T Th 3
+13/05 FN
+1307
+PHA F417
+PHARMACOECONOMICS
+-
+-
+3
+L1
+MURALI M PANDEY
+M W F 7
+11/05 FN
+1308
+PHA F422
+COSMETICS SCIENCE
+-
+-
+3
+L1
+MURALI M PANDEY
+T Th 4 W 10
+07/05 FN
+Practical
+P1
+Salunkhe Shubham Arun(RS)
+F 8 9
+Narisepalli Saibhargav(RS)
+Paramita Saha(RS)
+1724
+PHA F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+525
+PHA G522
+CHEM OF MACROMOLECULES
+-
+-
+4
+L1
+ATISH PAUL
+6160
+M W F 3
+23/06 AN
+2380
+PHA G533
+PHARMACEUTICAL PROCESS CHEMIST
+-
+-
+4
+L1
+SANDEEP SUNDRIYAL
+6155
+M W F 2
+21/06 AN
+2382
+PHA G535
+BIOMATERIALS
+-
+-
+5
+L1
+DEEPAK CHITKARA
+6102
+M 10 T Th 3
+24/06 AN
+2384
+PHA G537
+PARENTERAL PRODUCT DEVELOPMENT
+-
+-
+5
+L1
+ANUPAMA MITTAL
+6151
+M W F 3
+23/06 AN
+2386
+PHA G539
+PRINCIPLES OF DRUG DISCOVERY
+-
+-
+4
+L1
+RICHA SHRIVASTAVA
+6155
+M W F 8
+25/06 AN
+2387
+PHA G540
+MODERN PHARMACEUT ANALY TECHNI
+-
+-
+4
+L1
+S MURUGESAN
+M W F 3
+Practical
+P1
+S Murugesan
+T 1 2
+Banoth Karankumar(RS)
+2132
+PHA G545
+IPR AND PHARMACEUTICALS
+-
+-
+3
+L1
+HEMANT RAMANLAL JADHAV
+6151
+M W F 4
+19/06 AN
+2292
+PHA G546
+PHRMACEUTICAL BIOSTATISTICS
+-
+-
+3
+L1
+RICHA SHRIVASTAVA
+6101
+T Th 5 F 10
+30/06 AN
+67
+PHA G611
+ADVANCED PHARMACOLOGY
+-
+-
+5
+L1
+RAJEEV TALIYAN
+6155
+M W F 5
+26/06 AN
+Practical
+P1
+Sarathlal K C(RS)
+Th 7 8
+Violina Kakoty(RS)
+953
+PHA G614
+CLINICAL PHARMA & THERAP
+-
+-
+5
+L1
+R MAHESH
+6156
+M W F 3
+23/06 AN
+677
+PHA G621
+ADVANCED MEDICINAL CHEM
+-
+-
+5
+L1
+HEMANT RAMANLAL JADHAV
+6159
+M 10 T Th 3
+24/06 AN
+Practical
+P1
+Shivam Kumar Vyas(RS)
+W 7 8 9
+Auti Prashant Savleram(RS)
+Amit Sharma(RS)
+Amritansh Bhanot(RS)
+721
+PHA G632
+DOSAGE FORM DESIGN
+-
+-
+5
+L1
+JINDAL ANIL BRIJBHUSHAN
+6102
+T Th 4 W 10
+22/06 AN
+Practical
+P1
+Bhide Atharva Rajendra Archana(RS)
+T 9 10 11
+Rajesh Pradhan(RS)
+Rupesh Sanjaykumar Jain(RS)
+1015
+PHY F111
+MECH OSCILLATIONS & WAVE
+-
+-
+3
+L1
+Vaidya Rishikesh D
+M W F 3
+23/06 AN
+Kaushar Vaidya
+L2
+Vaidya Rishikesh D
+M W F 8
+23/06 AN
+Debashis Bandyopadhyay
+L3B
+JAYENDRA NATH BANDYOPADHYAY
+M 10 T Th 3
+13/05 FN
+To Be Announced By Physics Dep
+Tutorial
+T1
+Debi Datt Pant
+Th 8
+T2
+Srijata Dey
+Th 8
+T3
+Tapomoy Guha Sarkar
+Th 8
+T4
+Anshuman Dalvi
+W 1
+T5
+Sandipan Dutta
+W 1
+T6
+Srijata Dey
+W 1
+T7
+Biswanath Layek
+W 1
+T8
+Debashis Bandyopadhyay
+W 1
+T9
+V Manjuladevi
+W 1
+T10
+Debi Datt Pant
+W 1
+T11
+Kaushar Vaidya
+W 1
+T12
+Niladri Sarkar
+W 1
+T13B
+Jayendra Nath Bandyopadhyay
+W 1
+1493
+PHY F215
+INTRO TO ASTRO & ASTROPH
+-
+-
+3
+L1
+KAUSHAR VAIDYA
+M W F 7
+11/05 FN
+1482
+PHY F241
+ELECTROMAGNETIC THEO II
+-
+-
+4
+L1
+MADHUKAR MISHRA
+M 10 T Th 3
+13/05 FN
+Tutorial
+T1
+Madhukar Mishra
+W 1
+1483
+PHY F242
+QUANTUM MECHANICS I
+-
+-
+3
+L1
+NILADRI SARKAR
+T Th 4 W 10
+07/05 FN
+Tutorial
+T1
+Niladri Sarkar
+M 1
+1484
+PHY F243
+MATH METHODS OF PHYSICS
+-
+-
+3
+L1
+RASHMI RANJAN MISHRA
+M W F 3
+05/05 FN
+Tutorial
+T1
+Rashmi Ranjan Mishra
+Th 1
+1485
+PHY F244
+MODREN PHYSICS LAB
+-
+-
+2
+P1
+MADHUKAR MISHRA
+T Th 9 10
+Jayendra Nath Bandyopadhyay
+P2
+Debi Datt Pant
+T Th 9 10
+Srijata Dey
+1666
+PHY F266
+STUDY PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1489
+PHY F341
+SOLID STATE PHYSICS
+-
+-
+3
+L1
+SUBHASHIS GANGOPADHYAY
+M W F 4
+15/05 FN
+Tutorial
+T1
+Subhashis Gangopadhyay
+F 8
+1490
+PHY F342
+ATOMIC & MOLECULAR PHY
+-
+-
+3
+L1
+AMOL HOLKUNDKAR
+T Th 5 F 10
+08/05 FN
+Tutorial
+T1
+Amol Holkundkar
+M 8
+1491
+PHY F343
+NUCLEAR & PARTICLE PHY
+-
+-
+3
+L1
+BISWANATH LAYEK
+6102
+M W F 5
+10/05 FN
+Tutorial
+T1
+Biswanath Layek
+6102
+W 8
+1492
+PHY F344
+ADVANCED PHYSICS LAB
+-
+-
+3
+L1
+RAJ KUMAR GUPTA
+Th 8
+V Manjuladevi
+Anshuman Dalvi
+Shrishti Sharma(RS)
+Amrit Kumar(RS)
+Shivaraja S. J.(RS)
+Practical
+P1
+Subhashis Gangopadhyay
+T Th 1 2
+Debashis Bandyopadhyay
+Sushil(RS)
+1683
+PHY F366
+LABORATORY PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1751
+PHY F367
+LABORATORY PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1700
+PHY F376
+DESIGN PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1767
+PHY F377
+DESIGN PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1499
+PHY F416
+SOFT CONDEN MATTER PHY
+-
+-
+4
+L1
+NAVIN SINGH
+M W F 3
+05/05 FN
+1502
+PHY F419
+ADV SOLID STATE PHYSICS
+-
+-
+4
+L1
+JAYENDRA NATH BANDYOPADHYAY
+T Th 4 W 10
+07/05 FN
+1505
+PHY F421
+ADV QUANTUM MECHANICS
+-
+-
+4
+L1
+RAKESH CHOUBISA
+6151
+M W F 9
+01/05 FN
+1503
+PHY F422
+GROUP THEORY & APPLI
+-
+-
+4
+L1
+VAIDYA RISHIKESH D
+M 10 T Th 3
+13/05 FN
+1725
+PHY F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+2300
+SAN G514
+SANITATION FING & PRJ MGMT
+-
+-
+5
+L1
+TIRUMALSETY REVENDRANATH
+2301
+SAN G515
+EMERGENCY SANITATION & LDRSHIP
+-
+-
+5
+L1
+NISHANT ROY
+M W F 5
+23/06 AN
+958
+SS G515
+DATA WAREHOUSING
+-
+-
+5
+L1
+L RAJYA LAKSHMI
+6101
+M W F 2
+21/06 AN
+Practical
+P1
+Neha Choudhary(RS)
+T 9 10
+333
+SS G653
+SOFTWARE ARCHITECHTURES
+-
+-
+5
+L1
+TANMAY MAHAPATRA
+6101
+M W F 8
+25/06 AN
+1767
+PHY F377
+DESIGN PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+1499
+PHY F416
+SOFT CONDEN MATTER PHY
+-
+-
+4
+L1
+NAVIN SINGH
+M W F 3
+05/05 FN
+1502
+PHY F419
+ADV SOLID STATE PHYSICS
+-
+-
+4
+L1
+JAYENDRA NATH BANDYOPADHYAY
+T Th 4 W 10
+07/05 FN
+1505
+PHY F421
+ADV QUANTUM MECHANICS
+-
+-
+4
+L1
+RAKESH CHOUBISA
+6151
+M W F 9
+01/05 FN
+1503
+PHY F422
+GROUP THEORY & APPLI
+-
+-
+4
+L1
+VAIDYA RISHIKESH D
+M 10 T Th 3
+13/05 FN
+1725
+PHY F491
+SPECIAL PROJECT
+-
+-
+3
+L1
+RAKESH CHOUBISA
+2300
+SAN G514
+SANITATION FING & PRJ MGMT
+-
+-
+5
+L1
+TIRUMALSETY REVENDRANATH
+2301
+SAN G515
+EMERGENCY SANITATION & LDRSHIP
+-
+-
+5
+L1
+NISHANT ROY
+M W F 5
+23/06 AN
+958
+SS G515
+DATA WAREHOUSING
+-
+-
+5
+L1
+L RAJYA LAKSHMI
+6101
+M W F 2
+21/06 AN
+Practical
+P1
+Neha Choudhary(RS)
+T 9 10
+333
+SS G653
+SOFTWARE ARCHITECHTURES
+-
+-
+5
+L1
+TANMAY MAHAPATRA
+6101
+M W F 8
+25/06 AN
