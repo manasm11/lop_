@@ -48,11 +48,12 @@ def dict2yaml_append(data, filename):
     with open(filename, 'a') as file:
         yaml.dump(data, file)
 
-output_yaml_file = 'courses.yaml'
-open(output_yaml_file, 'w').close()
-for course_txt in courses_text_from_tt():
-    course = course_txt2dict(course_txt)
-    dict2yaml_append(course, output_yaml_file)
+if __name__ == '__main__':
+    output_yaml_file = 'courses.yaml'
+    open(output_yaml_file, 'w').close()
+    for course_txt in courses_text_from_tt():
+        course = course_txt2dict(course_txt)
+        dict2yaml_append(course, output_yaml_file)
 
     
 
