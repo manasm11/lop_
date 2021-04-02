@@ -1,0 +1,1921 @@
+[
+    {
+        "value": "Compiler Construction",
+        "synonyms": [
+            "Compiler Construction"
+        ]
+    },
+    {
+        "value": "Creating And Leading Entrepreneurial Organization",
+        "synonyms": [
+            "Creating And Leading Entrepreneurial Organization",
+            "cleo"
+        ]
+    },
+    {
+        "value": "Copywriting",
+        "synonyms": [
+            "Copywriting"
+        ]
+    },
+    {
+        "value": "Dosage Form Design",
+        "synonyms": [
+            "Dosage Form Design"
+        ]
+    },
+    {
+        "value": "Transport Phenomena",
+        "synonyms": [
+            "Transport Phenomena"
+        ]
+    },
+    {
+        "value": "Network Programming",
+        "synonyms": [
+            "Network Programming",
+            "net prog"
+        ]
+    },
+    {
+        "value": "Mechanisms And Machines",
+        "synonyms": [
+            "Mechanisms And Machines"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Medical Instrumentation",
+        "synonyms": [
+            "Medical Instrumentation"
+        ]
+    },
+    {
+        "value": "Economic Analysis Of Public Policy",
+        "synonyms": [
+            "Economic Analysis Of Public Policy",
+            "pub pol",
+            "eapp"
+        ]
+    },
+    {
+        "value": "Robotics",
+        "synonyms": [
+            "Robotics"
+        ]
+    },
+    {
+        "value": "Differential Geometry",
+        "synonyms": [
+            "Differential Geometry"
+        ]
+    },
+    {
+        "value": "Introduction To Mems",
+        "synonyms": [
+            "Introduction To Mems"
+        ]
+    },
+    {
+        "value": "Applied Nutrition And Nutraceuticals",
+        "synonyms": [
+            "Applied Nutrition And Nutraceuticals"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Casting, Forming And Welding",
+        "synonyms": [
+            "Casting, Forming And Welding"
+        ]
+    },
+    {
+        "value": "Additive Manufacturing",
+        "synonyms": [
+            "Additive Manufacturing"
+        ]
+    },
+    {
+        "value": "Sustainable Manufacturing",
+        "synonyms": [
+            "Sustainable Manufacturing"
+        ]
+    },
+    {
+        "value": "Mechatronics",
+        "synonyms": [
+            "Mechatronics"
+        ]
+    },
+    {
+        "value": "Chemical Process Technology",
+        "synonyms": [
+            "Chemical Process Technology"
+        ]
+    },
+    {
+        "value": "Introduction To Pharmaceutical Biotechnology",
+        "synonyms": [
+            "Introduction To Pharmaceutical Biotechnology"
+        ]
+    },
+    {
+        "value": "Soft Condensed Matter Physics",
+        "synonyms": [
+            "Soft Condensed Matter Physics"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Introduction To Conflict Management",
+        "synonyms": [
+            "Introduction To Conflict Management"
+        ]
+    },
+    {
+        "value": "Separation Process I",
+        "synonyms": [
+            "Separation Process I"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Appreciation Of Indian Music",
+        "synonyms": [
+            "Appreciation Of Indian Music"
+        ]
+    },
+    {
+        "value": "Numerical Fluid Flow And Heat Transfer",
+        "synonyms": [
+            "Numerical Fluid Flow And Heat Transfer"
+        ]
+    },
+    {
+        "value": "Computer Programming",
+        "synonyms": [
+            "Computer Programming",
+            "cp"
+        ]
+    },
+    {
+        "value": "General Biology",
+        "synonyms": [
+            "General Biology",
+            "gen bio"
+        ]
+    },
+    {
+        "value": "Dynamics Of Social Change",
+        "synonyms": [
+            "Dynamics Of Social Change",
+            "dysoc"
+        ]
+    },
+    {
+        "value": "Financial Management",
+        "synonyms": [
+            "Financial Management",
+            "fin man"
+        ]
+    },
+    {
+        "value": "Intro To Bridge Engg",
+        "synonyms": [
+            "Intro To Bridge Engg"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "Digital Marketing",
+        "synonyms": [
+            "Digital Marketing"
+        ]
+    },
+    {
+        "value": "Mathematical Methods Of Physics",
+        "synonyms": [
+            "Mathematical Methods Of Physics"
+        ]
+    },
+    {
+        "value": "Natural Drugs",
+        "synonyms": [
+            "Natural Drugs"
+        ]
+    },
+    {
+        "value": "Advanced Concrete Technology",
+        "synonyms": [
+            "Advanced Concrete Technology"
+        ]
+    },
+    {
+        "value": "Mathematical Methods",
+        "synonyms": [
+            "Mathematical Methods"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "Convective Heat And Mass Transfer",
+        "synonyms": [
+            "Convective Heat And Mass Transfer"
+        ]
+    },
+    {
+        "value": "Special Project",
+        "synonyms": [
+            "Special Project"
+        ]
+    },
+    {
+        "value": "Microbiology",
+        "synonyms": [
+            "Microbiology"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Nuclear And Particle Physics",
+        "synonyms": [
+            "Nuclear And Particle Physics"
+        ]
+    },
+    {
+        "value": "Study Inadvanced Topics",
+        "synonyms": [
+            "Study Inadvanced Topics"
+        ]
+    },
+    {
+        "value": "Pharmacoeconomics",
+        "synonyms": [
+            "Pharmacoeconomics"
+        ]
+    },
+    {
+        "value": "Biology Laboratory",
+        "synonyms": [
+            "Biology Laboratory"
+        ]
+    },
+    {
+        "value": "Economics Of Growth And Development",
+        "synonyms": [
+            "Economics Of Growth And Development"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Computer Architecture",
+        "synonyms": [
+            "Computer Architecture",
+            "comparch"
+        ]
+    },
+    {
+        "value": "Financial Engineering",
+        "synonyms": [
+            "Financial Engineering",
+            "fin e",
+            "fine"
+        ]
+    },
+    {
+        "value": "Advanced Physics Laboratory",
+        "synonyms": [
+            "Advanced Physics Laboratory"
+        ]
+    },
+    {
+        "value": "Security analysis and portfolio management",
+        "synonyms": [
+            "sapm",
+            "Security analysis and portfolio management"
+        ]
+    },
+    {
+        "value": "Chemical Engineering Laboratory - Ii",
+        "synonyms": [
+            "Chemical Engineering Laboratory - Ii"
+        ]
+    },
+    {
+        "value": "Image Processing",
+        "synonyms": [
+            "Image Processing",
+            "ip"
+        ]
+    },
+    {
+        "value": "Applied Statistical Methods",
+        "synonyms": [
+            "Applied Statistical Methods"
+        ]
+    },
+    {
+        "value": "Prime Movers And Fluid Machines",
+        "synonyms": [
+            "Prime Movers And Fluid Machines"
+        ]
+    },
+    {
+        "value": "Nanochemistry",
+        "synonyms": [
+            "Nanochemistry"
+        ]
+    },
+    {
+        "value": "Power Plant Engineering",
+        "synonyms": [
+            "Power Plant Engineering"
+        ]
+    },
+    {
+        "value": "Business Analytics",
+        "synonyms": [
+            "Business Analytics"
+        ]
+    },
+    {
+        "value": "Macroeconomics",
+        "synonyms": [
+            "Macroeconomics",
+            "macro"
+        ]
+    },
+    {
+        "value": "Global Business Technology And Knowledge Sharing",
+        "synonyms": [
+            "Global Business Technology And Knowledge Sharing"
+        ]
+    },
+    {
+        "value": "Green Buildings And Energy Conservation",
+        "synonyms": [
+            "Green Buildings And Energy Conservation"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Foundations Of Data Science",
+        "synonyms": [
+            "Foundations Of Data Science",
+            "fds"
+        ]
+    },
+    {
+        "value": "Precision Engineering",
+        "synonyms": [
+            "Precision Engineering"
+        ]
+    },
+    {
+        "value": "Pharmacology-Ll",
+        "synonyms": [
+            "Pharmacology-Ll"
+        ]
+    },
+    {
+        "value": "General Mathematics Ii",
+        "synonyms": [
+            "General Mathematics Ii",
+            "gen maths ii"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "Anatomy, Physiology And Hygiene",
+        "synonyms": [
+            "Anatomy, Physiology And Hygiene"
+        ]
+    },
+    {
+        "value": "Design Of Multi-Storey Structures",
+        "synonyms": [
+            "Design Of Multi-Storey Structures"
+        ]
+    },
+    {
+        "value": "Stochastic Processes And Their Applications",
+        "synonyms": [
+            "Stochastic Processes And Their Applications"
+        ]
+    },
+    {
+        "value": "Reporting And Writing For Media",
+        "synonyms": [
+            "Reporting And Writing For Media"
+        ]
+    },
+    {
+        "value": "Pharmaceutical Chemistry",
+        "synonyms": [
+            "Pharmaceutical Chemistry"
+        ]
+    },
+    {
+        "value": "Intellectual Property Rights And Pharmaceuticals",
+        "synonyms": [
+            "Intellectual Property Rights And Pharmaceuticals"
+        ]
+    },
+    {
+        "value": "Inorganic C Hemistry-I]",
+        "synonyms": [
+            "Inorganic C Hemistry-I]"
+        ]
+    },
+    {
+        "value": "Applied Philosophy",
+        "synonyms": [
+            "Applied Philosophy"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Numerical Methodology For Partial Differential Equations",
+        "synonyms": [
+            "Numerical Methodology For Partial Differential Equations"
+        ]
+    },
+    {
+        "value": "Short Film And Video Production",
+        "synonyms": [
+            "Short Film And Video Production"
+        ]
+    },
+    {
+        "value": "Discrete Structures For Computer Science",
+        "synonyms": [
+            "Discrete Structures For Computer Science"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Human Resource Management",
+        "synonyms": [
+            "Human Resource Management"
+        ]
+    },
+    {
+        "value": "Parenteral Product Development",
+        "synonyms": [
+            "Parenteral Product Development"
+        ]
+    },
+    {
+        "value": "Solid State Physics",
+        "synonyms": [
+            "Solid State Physics"
+        ]
+    },
+    {
+        "value": "Operating Systems",
+        "synonyms": [
+            "Operating Systems"
+        ]
+    },
+    {
+        "value": "Human Resource Development",
+        "synonyms": [
+            "Human Resource Development",
+            "hrd"
+        ]
+    },
+    {
+        "value": "Medicinal Chemistry Ii",
+        "synonyms": [
+            "Medicinal Chemistry Ii"
+        ]
+    },
+    {
+        "value": "Principles Of Drug Discovery",
+        "synonyms": [
+            "Principles Of Drug Discovery"
+        ]
+    },
+    {
+        "value": "International Relations",
+        "synonyms": [
+            "International Relations",
+            "ir"
+        ]
+    },
+    {
+        "value": "Microprocessors Programming And Interfacing",
+        "synonyms": [
+            "Microprocessors Programming And Interfacing",
+            "mup"
+        ]
+    },
+    {
+        "value": "Refrigeration And Air-Conditioning",
+        "synonyms": [
+            "Refrigeration And Air-Conditioning"
+        ]
+    },
+    {
+        "value": "Process Plant Safety",
+        "synonyms": [
+            "Process Plant Safety"
+        ]
+    },
+    {
+        "value": "Research Project I / Research Project Ii",
+        "synonyms": [
+            "Research Project I / Research Project Ii"
+        ]
+    },
+    {
+        "value": "Public Policy",
+        "synonyms": [
+            "Public Policy"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Molecular Parasitology & Vector Biology",
+        "synonyms": [
+            "Molecular Parasitology & Vector Biology"
+        ]
+    },
+    {
+        "value": "Data Communications And Networks",
+        "synonyms": [
+            "Data Communications And Networks"
+        ]
+    },
+    {
+        "value": "Biomaterials",
+        "synonyms": [
+            "Biomaterials"
+        ]
+    },
+    {
+        "value": "Multi-Criteria A Nalysis In Engineering",
+        "synonyms": [
+            "Multi-Criteria A Nalysis In Engineering"
+        ]
+    },
+    {
+        "value": "Introductory Psychology",
+        "synonyms": [
+            "Introductory Psychology"
+        ]
+    },
+    {
+        "value": "Power Systems",
+        "synonyms": [
+            "Power Systems"
+        ]
+    },
+    {
+        "value": "Biopharmaceutics",
+        "synonyms": [
+            "Biopharmaceutics"
+        ]
+    },
+    {
+        "value": "Internet Of Things",
+        "synonyms": [
+            "Internet Of Things",
+            "iot"
+        ]
+    },
+    {
+        "value": "Design Of Prestressed Concrete Structures",
+        "synonyms": [
+            "Design Of Prestressed Concrete Structures"
+        ]
+    },
+    {
+        "value": "Chemical Experimentation It",
+        "synonyms": [
+            "Chemical Experimentation It"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Microbiology",
+        "synonyms": [
+            "Microbiology"
+        ]
+    },
+    {
+        "value": "Soil Mechanics",
+        "synonyms": [
+            "Soil Mechanics"
+        ]
+    },
+    {
+        "value": "Structural Dynamics",
+        "synonyms": [
+            "Structural Dynamics"
+        ]
+    },
+    {
+        "value": "Introduction To Mass Communication",
+        "synonyms": [
+            "Introduction To Mass Communication"
+        ]
+    },
+    {
+        "value": "Advanced Mechanics Of Solids",
+        "synonyms": [
+            "Advanced Mechanics Of Solids"
+        ]
+    },
+    {
+        "value": "Marketing Research & Metrics",
+        "synonyms": [
+            "Marketing Research & Metrics"
+        ]
+    },
+    {
+        "value": "Fundamentals Of Finance & Accounting",
+        "synonyms": [
+            "Fundamentals Of Finance & Accounting",
+            "fundafin"
+        ]
+    },
+    {
+        "value": "Atmospheric Chemistry",
+        "synonyms": [
+            "Atmospheric Chemistry"
+        ]
+    },
+    {
+        "value": "Geotechnical Earthquake Engineering & Machine Foundation",
+        "synonyms": [
+            "Geotechnical Earthquake Engineering & Machine Foundation"
+        ]
+    },
+    {
+        "value": "Econometric Methods",
+        "synonyms": [
+            "Econometric Methods",
+            "em"
+        ]
+    },
+    {
+        "value": "Financial Engineering",
+        "synonyms": [
+            "Financial Engineering"
+        ]
+    },
+    {
+        "value": "Design Of Foundation System",
+        "synonyms": [
+            "Design Of Foundation System"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Current Affairs",
+        "synonyms": [
+            "Current Affairs"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Object Oriented Programming",
+        "synonyms": [
+            "Object Oriented Programming",
+            "oop"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Data Structures & Algorithms",
+        "synonyms": [
+            "Data Structures & Algorithms",
+            "dsa"
+        ]
+    },
+    {
+        "value": "Sustainable C Hemistry Using Renewables",
+        "synonyms": [
+            "Sustainable C Hemistry Using Renewables"
+        ]
+    },
+    {
+        "value": "Control Systems",
+        "synonyms": [
+            "Control Systems"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Management Science",
+        "synonyms": [
+            "Management Science"
+        ]
+    },
+    {
+        "value": "Inorganic Chemistry Iii",
+        "synonyms": [
+            "Inorganic Chemistry Iii"
+        ]
+    },
+    {
+        "value": "Introductory Philosophy",
+        "synonyms": [
+            "Introductory Philosophy"
+        ]
+    },
+    {
+        "value": "Quantum Mechanics - I",
+        "synonyms": [
+            "Quantum Mechanics - I"
+        ]
+    },
+    {
+        "value": "Immunology",
+        "synonyms": [
+            "Immunology"
+        ]
+    },
+    {
+        "value": "Manufacturing Planning & Control",
+        "synonyms": [
+            "Manufacturing Planning & Control"
+        ]
+    },
+    {
+        "value": "Effective Public Speaking",
+        "synonyms": [
+            "Effective Public Speaking"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Design Of Machine Tools",
+        "synonyms": [
+            "Design Of Machine Tools"
+        ]
+    },
+    {
+        "value": "Nanotechnology For Renewable Energy And Environment",
+        "synonyms": [
+            "Nanotechnology For Renewable Energy And Environment"
+        ]
+    },
+    {
+        "value": "Microeconomics",
+        "synonyms": [
+            "Microeconomics",
+            "micro"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Introduction To Gender Studies",
+        "synonyms": [
+            "Introduction To Gender Studies"
+        ]
+    },
+    {
+        "value": "Data Mining",
+        "synonyms": [
+            "Data Mining",
+            "dm"
+        ]
+    },
+    {
+        "value": "Heat Transfer",
+        "synonyms": [
+            "Heat Transfer"
+        ]
+    },
+    {
+        "value": "Database Systems",
+        "synonyms": [
+            "Database Systems",
+            "dbs",
+            "dbms"
+        ]
+    },
+    {
+        "value": "Multimedia Computing",
+        "synonyms": [
+            "Multimedia Computing"
+        ]
+    },
+    {
+        "value": "Practice Lecture Series-I",
+        "synonyms": [
+            "Practice Lecture Series-I"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Mathematical Modelling",
+        "synonyms": [
+            "Mathematical Modelling"
+        ]
+    },
+    {
+        "value": "Mobile & Personal Communication",
+        "synonyms": [
+            "Mobile & Personal Communication"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Data Storage Technologies And Networks",
+        "synonyms": [
+            "Data Storage Technologies And Networks",
+            "dstn"
+        ]
+    },
+    {
+        "value": "Introduction To Quantum Information And Computation",
+        "synonyms": [
+            "Introduction To Quantum Information And Computation"
+        ]
+    },
+    {
+        "value": "Introduction To Nano Science And Technology",
+        "synonyms": [
+            "Introduction To Nano Science And Technology"
+        ]
+    },
+    {
+        "value": "Atomic And Molecular Physics",
+        "synonyms": [
+            "Atomic And Molecular Physics"
+        ]
+    },
+    {
+        "value": "Probability & Statistics",
+        "synonyms": [
+            "Probability & Statistics",
+            "pns",
+            "p&s"
+        ]
+    },
+    {
+        "value": "Derivatives & Risk Management",
+        "synonyms": [
+            "Derivatives & Risk Management",
+            "drm"
+        ]
+    },
+    {
+        "value": "Foundation Engineering",
+        "synonyms": [
+            "Foundation Engineering"
+        ]
+    },
+    {
+        "value": "Dissertation",
+        "synonyms": [
+            "Dissertation"
+        ]
+    },
+    {
+        "value": "Cad For Ic Design",
+        "synonyms": [
+            "Cad For Ic Design"
+        ]
+    },
+    {
+        "value": "Electrical Sciences",
+        "synonyms": [
+            "Electrical Sciences",
+            "es"
+        ]
+    },
+    {
+        "value": "Electrical And Electronic Circuits Laboratory",
+        "synonyms": [
+            "Electrical And Electronic Circuits Laboratory"
+        ]
+    },
+    {
+        "value": "Corporate Finance",
+        "synonyms": [
+            "Corporate Finance"
+        ]
+    },
+    {
+        "value": "Principles Of Economics",
+        "synonyms": [
+            "Principles Of Economics",
+            "poe"
+        ]
+    },
+    {
+        "value": "Public Administration",
+        "synonyms": [
+            "Public Administration",
+            "pub ad",
+            "pubad"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Special Project",
+        "synonyms": [
+            "Special Project"
+        ]
+    },
+    {
+        "value": "Print & Audio-Visual Advertising",
+        "synonyms": [
+            "Print & Audio-Visual Advertising"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Introduction To Bioinformatics",
+        "synonyms": [
+            "Introduction To Bioinformatics"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Workshop Practice",
+        "synonyms": [
+            "Workshop Practice",
+            "workshop"
+        ]
+    },
+    {
+        "value": "Social Informatics",
+        "synonyms": [
+            "Social Informatics"
+        ]
+    },
+    {
+        "value": "Public Finance",
+        "synonyms": [
+            "Public Finance",
+            "pub fin"
+        ]
+    },
+    {
+        "value": "Microelectronic Circuits",
+        "synonyms": [
+            "Microelectronic Circuits"
+        ]
+    },
+    {
+        "value": "Electromagnetic Compatibility",
+        "synonyms": [
+            "Electromagnetic Compatibility"
+        ]
+    },
+    {
+        "value": "Group Theory And Applications",
+        "synonyms": [
+            "Group Theory And Applications"
+        ]
+    },
+    {
+        "value": "Creative Writing",
+        "synonyms": [
+            "creative writing"
+        ]
+    },
+    {
+        "value": "Introduction To Molecular Biology",
+        "synonyms": [
+            "Introduction To Molecular Biology"
+        ]
+    },
+    {
+        "value": "Advanced Quantum Mechanics",
+        "synonyms": [
+            "Advanced Quantum Mechanics"
+        ]
+    },
+    {
+        "value": "Numerical Analysis",
+        "synonyms": [
+            "Numerical Analysis"
+        ]
+    },
+    {
+        "value": "Process Design Principle Ii",
+        "synonyms": [
+            "Process Design Principle Ii"
+        ]
+    },
+    {
+        "value": "English Skills For Academics",
+        "synonyms": [
+            "English Skills For Academics"
+        ]
+    },
+    {
+        "value": "Blockchain Technology",
+        "synonyms": [
+            "Blockchain Technology"
+        ]
+    },
+    {
+        "value": "Mechanical Vibration",
+        "synonyms": [
+            "Mechanical Vibration"
+        ]
+    },
+    {
+        "value": "Graphs And Networks",
+        "synonyms": [
+            "Graphs And Networks"
+        ]
+    },
+    {
+        "value": "Engineering Optimization",
+        "synonyms": [
+            "Engineering Optimization"
+        ]
+    },
+    {
+        "value": "Plant Biotechnology",
+        "synonyms": [
+            "Plant Biotechnology"
+        ]
+    },
+    {
+        "value": "Musicology - An - Introduction",
+        "synonyms": [
+            "Musicology - An - Introduction"
+        ]
+    },
+    {
+        "value": "Stem Cell And Regenerative Biology",
+        "synonyms": [
+            "Stem Cell And Regenerative Biology"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Analog Ic Design",
+        "synonyms": [
+            "Analog Ic Design"
+        ]
+    },
+    {
+        "value": "Modeling Of Field-Effect Nano Devices",
+        "synonyms": [
+            "Modeling Of Field-Effect Nano Devices"
+        ]
+    },
+    {
+        "value": "Environmental Studies",
+        "synonyms": [
+            "Environmental Studies",
+            "evs"
+        ]
+    },
+    {
+        "value": "Neural Networks And Fuzzy Logic",
+        "synonyms": [
+            "Neural Networks And Fuzzy Logic",
+            "nnfl"
+        ]
+    },
+    {
+        "value": "Chemical Experimentation I",
+        "synonyms": [
+            "Chemical Experimentation I"
+        ]
+    },
+    {
+        "value": "Physical Pharmacy",
+        "synonyms": [
+            "Physical Pharmacy"
+        ]
+    },
+    {
+        "value": "Chemistry Of Macromolecules",
+        "synonyms": [
+            "Chemistry Of Macromolecules"
+        ]
+    },
+    {
+        "value": "Venture Team Development & Organisation",
+        "synonyms": [
+            "Venture Team Development & Organisation"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Cosmetic Science",
+        "synonyms": [
+            "Cosmetic Science"
+        ]
+    },
+    {
+        "value": "Heat Transfer",
+        "synonyms": [
+            "Heat Transfer"
+        ]
+    },
+    {
+        "value": "Composite Materials And Design",
+        "synonyms": [
+            "Composite Materials And Design"
+        ]
+    },
+    {
+        "value": "Construction Planning & Technology",
+        "synonyms": [
+            "Construction Planning & Technology"
+        ]
+    },
+    {
+        "value": "Research Methodology",
+        "synonyms": [
+            "Research Methodology"
+        ]
+    },
+    {
+        "value": "Data Warehousing",
+        "synonyms": [
+            "Data Warehousing"
+        ]
+    },
+    {
+        "value": "Critical Analysis Of Literature And Cinema",
+        "synonyms": [
+            "Critical Analysis Of Literature And Cinema"
+        ]
+    },
+    {
+        "value": "Advanced Medicinal Chemistry",
+        "synonyms": [
+            "Advanced Medicinal Chemistry"
+        ]
+    },
+    {
+        "value": "Computer Networks",
+        "synonyms": [
+            "Computer Networks"
+        ]
+    },
+    {
+        "value": "Telecommunication Switching Systems & Networks",
+        "synonyms": [
+            "Telecommunication Switching Systems & Networks"
+        ]
+    },
+    {
+        "value": "Lean Manufacturing",
+        "synonyms": [
+            "Lean Manufacturing"
+        ]
+    },
+    {
+        "value": "Numerical Methods For Chemical Engineers",
+        "synonyms": [
+            "Numerical Methods For Chemical Engineers"
+        ]
+    },
+    {
+        "value": "Techniques In Social Research",
+        "synonyms": [
+            "Techniques In Social Research"
+        ]
+    },
+    {
+        "value": "Power Electronics",
+        "synonyms": [
+            "Power Electronics"
+        ]
+    },
+    {
+        "value": "Introduction To Functional Analysis",
+        "synonyms": [
+            "Introduction To Functional Analysis"
+        ]
+    },
+    {
+        "value": "Analysis Of Structures",
+        "synonyms": [
+            "Analysis Of Structures"
+        ]
+    },
+    {
+        "value": "Operations Research",
+        "synonyms": [
+            "Operations Research"
+        ]
+    },
+    {
+        "value": "Cultural Studies",
+        "synonyms": [
+            "Cultural Studies"
+        ]
+    },
+    {
+        "value": "Process Dynamics And Control",
+        "synonyms": [
+            "Process Dynamics And Control"
+        ]
+    },
+    {
+        "value": "Advanced Project",
+        "synonyms": [
+            "Advanced Project"
+        ]
+    },
+    {
+        "value": "Linguistics",
+        "synonyms": [
+            "Linguistics"
+        ]
+    },
+    {
+        "value": "Signals And Systems",
+        "synonyms": [
+            "Signals And Systems"
+        ]
+    },
+    {
+        "value": "Earthquake Resistant Design And Construction",
+        "synonyms": [
+            "Earthquake Resistant Design And Construction"
+        ]
+    },
+    {
+        "value": "Instrumental Methods Of Analysis",
+        "synonyms": [
+            "Instrumental Methods Of Analysis"
+        ]
+    },
+    {
+        "value": "Highway Engineering",
+        "synonyms": [
+            "Highway Engineering"
+        ]
+    },
+    {
+        "value": "Lab Project",
+        "synonyms": [
+            "Lab Project"
+        ]
+    },
+    {
+        "value": "Earthquake Engineering",
+        "synonyms": [
+            "Earthquake Engineering"
+        ]
+    },
+    {
+        "value": "Mechanics, Oscillations And Waves",
+        "synonyms": [
+            "Mechanics, Oscillations And Waves"
+        ]
+    },
+    {
+        "value": "Research Practice",
+        "synonyms": [
+            "Research Practice"
+        ]
+    },
+    {
+        "value": "Investment Banking And Financial Services (Ibfs)",
+        "synonyms": [
+            "Investment Banking And Financial Services (Ibfs)"
+        ]
+    },
+    {
+        "value": "Science, Technology And Modernity",
+        "synonyms": [
+            "Science, Technology And Modernity"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Statistical Inference And Applications",
+        "synonyms": [
+            "Statistical Inference And Applications"
+        ]
+    },
+    {
+        "value": "Srimad Bhagavad Gita",
+        "synonyms": [
+            "Srimad Bhagavad Gita"
+        ]
+    },
+    {
+        "value": "Conservation Biology",
+        "synonyms": [
+            "Conservation Biology"
+        ]
+    },
+    {
+        "value": "Symbolic Logic",
+        "synonyms": [
+            "Symbolic Logic"
+        ]
+    },
+    {
+        "value": "Fracture Mechanics",
+        "synonyms": [
+            "Fracture Mechanics"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "? '",
+        "synonyms": [
+            "? '"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Organic Chemistry Iv",
+        "synonyms": [
+            "Organic Chemistry Iv"
+        ]
+    },
+    {
+        "value": "Product And Brand Management",
+        "synonyms": [
+            "Product And Brand Management"
+        ]
+    },
+    {
+        "value": "Laboratory Project",
+        "synonyms": [
+            "Laboratory Project"
+        ]
+    },
+    {
+        "value": "Advanced Pharmacology",
+        "synonyms": [
+            "Advanced Pharmacology"
+        ]
+    },
+    {
+        "value": "Pharmaceutical Biostatistics",
+        "synonyms": [
+            "Pharmaceutical Biostatistics"
+        ]
+    },
+    {
+        "value": "Water And Wastewater Treatment",
+        "synonyms": [
+            "Water And Wastewater Treatment"
+        ]
+    },
+    {
+        "value": "Forensic Pharmacy",
+        "synonyms": [
+            "Forensic Pharmacy"
+        ]
+    },
+    {
+        "value": "Cryptography",
+        "synonyms": [
+            "Cryptography",
+            "crypto"
+        ]
+    },
+    {
+        "value": "Principles Of Management",
+        "synonyms": [
+            "Principles Of Management",
+            "pom"
+        ]
+    },
+    {
+        "value": "Clinical Pharmacy And Therapeutics",
+        "synonyms": [
+            "Clinical Pharmacy And Therapeutics"
+        ]
+    },
+    {
+        "value": "Engineering Hydrology",
+        "synonyms": [
+            "Engineering Hydrology"
+        ]
+    },
+    {
+        "value": "Solar Thermal Process Engineering",
+        "synonyms": [
+            "Solar Thermal Process Engineering"
+        ]
+    },
+    {
+        "value": "Applied Econometrics",
+        "synonyms": [
+            "Applied Econometrics",
+            "aem"
+        ]
+    },
+    {
+        "value": "Economic Environment Of Business",
+        "synonyms": [
+            "Economic Environment Of Business",
+            "eeb"
+        ]
+    },
+    {
+        "value": "Design Of Steel Structures",
+        "synonyms": [
+            "Design Of Steel Structures"
+        ]
+    },
+    {
+        "value": "Decision Making",
+        "synonyms": [
+            "Decision Making"
+        ]
+    },
+    {
+        "value": "Reading Course",
+        "synonyms": [
+            "Reading Course"
+        ]
+    },
+    {
+        "value": "Materials Science And Engineering",
+        "synonyms": [
+            "Materials Science And Engineering"
+        ]
+    },
+    {
+        "value": "Parallel Computing",
+        "synonyms": [
+            "Parallel Computing"
+        ]
+    },
+    {
+        "value": "Physical Chemistry Iii",
+        "synonyms": [
+            "Physical Chemistry Iii"
+        ]
+    },
+    {
+        "value": "Analog Electronics",
+        "synonyms": [
+            "Analog Electronics"
+        ]
+    },
+    {
+        "value": "Developmental Biology",
+        "synonyms": [
+            "Developmental Biology"
+        ]
+    },
+    {
+        "value": "Chemistry Of Synthetic Drugs",
+        "synonyms": [
+            "Chemistry Of Synthetic Drugs"
+        ]
+    },
+    {
+        "value": "Biochemical Engineering",
+        "synonyms": [
+            "Biochemical Engineering"
+        ]
+    },
+    {
+        "value": "Mathematics-Ii",
+        "synonyms": [
+            "Mathematics-Ii",
+            "m2"
+        ]
+    },
+    {
+        "value": "Technical Report Writing",
+        "synonyms": [
+            "Technical Report Writing",
+            "techre"
+        ]
+    },
+    {
+        "value": "Advanced Computer Architecture",
+        "synonyms": [
+            "Advanced Computer Architecture"
+        ]
+    },
+    {
+        "value": "Dispensing Pharmacy",
+        "synonyms": [
+            "Dispensing Pharmacy"
+        ]
+    },
+    {
+        "value": "Structural Health Assessment And Rehabilitation",
+        "synonyms": [
+            "Structural Health Assessment And Rehabilitation"
+        ]
+    },
+    {
+        "value": "Laboratory",
+        "synonyms": [
+            "Laboratory"
+        ]
+    },
+    {
+        "value": "Mobile Telecommunication Networks",
+        "synonyms": [
+            "Mobile Telecommunication Networks"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Bioethics And Biosafety",
+        "synonyms": [
+            "Bioethics And Biosafety"
+        ]
+    },
+    {
+        "value": "Introduction To Sports Engineering",
+        "synonyms": [
+            "Introduction To Sports Engineering"
+        ]
+    },
+    {
+        "value": "Electromagnetic Theory Ii",
+        "synonyms": [
+            "Electromagnetic Theory Ii"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Modelling And Simulation In Chemical Engineering",
+        "synonyms": [
+            "Modelling And Simulation In Chemical Engineering"
+        ]
+    },
+    {
+        "value": "Metrology And Quality Assurance",
+        "synonyms": [
+            "Metrology And Quality Assurance"
+        ]
+    },
+    {
+        "value": "Professional Ethics",
+        "synonyms": [
+            "Professional Ethics",
+            "profeth"
+        ]
+    },
+    {
+        "value": "Vlsi Architectures",
+        "synonyms": [
+            "Vlsi Architectures"
+        ]
+    },
+    {
+        "value": "Advanced Inorganic Chemistry",
+        "synonyms": [
+            "Advanced Inorganic Chemistry"
+        ]
+    },
+    {
+        "value": "Organizational Psychology",
+        "synonyms": [
+            "Organizational Psychology"
+        ]
+    },
+    {
+        "value": "Organic Chemistry-Il",
+        "synonyms": [
+            "Organic Chemistry-Il"
+        ]
+    },
+    {
+        "value": "Computer-Mediated Communication",
+        "synonyms": [
+            "Computer-Mediated Communication"
+        ]
+    },
+    {
+        "value": "Soft Skills For Professionals",
+        "synonyms": [
+            "Soft Skills For Professionals"
+        ]
+    },
+    {
+        "value": "Computer Programming",
+        "synonyms": [
+            "Computer Programming",
+            "cp"
+        ]
+    },
+    {
+        "value": "Artificial Intelligence",
+        "synonyms": [
+            "Artificial Intelligence",
+            "ai"
+        ]
+    },
+    {
+        "value": "Contemporary India",
+        "synonyms": [
+            "Contemporary India"
+        ]
+    },
+    {
+        "value": "Casting And Welding",
+        "synonyms": [
+            "Casting And Welding"
+        ]
+    },
+    {
+        "value": "Number Theory",
+        "synonyms": [
+            "Number Theory",
+            "nt"
+        ]
+    },
+    {
+        "value": "Computer Aided Design",
+        "synonyms": [
+            "Computer Aided Design",
+            "cad"
+        ]
+    },
+    {
+        "value": "Biophysics",
+        "synonyms": [
+            "Biophysics"
+        ]
+    },
+    {
+        "value": "Special Projects",
+        "synonyms": [
+            "Special Projects"
+        ]
+    },
+    {
+        "value": "Modern Physics Lab",
+        "synonyms": [
+            "Modern Physics Lab"
+        ]
+    },
+    {
+        "value": "Information Retrieval",
+        "synonyms": [
+            "Information Retrieval"
+        ]
+    },
+    {
+        "value": "Introduction To Astronomy & Astrophysics",
+        "synonyms": [
+            "Introduction To Astronomy & Astrophysics"
+        ]
+    },
+    {
+        "value": "Computational Fluid Dynamics",
+        "synonyms": [
+            "Computational Fluid Dynamics"
+        ]
+    },
+    {
+        "value": "Design & Analysis Of Algorithms",
+        "synonyms": [
+            "Design & Analysis Of Algorithms",
+            "daa"
+        ]
+    },
+    {
+        "value": "Genetics",
+        "synonyms": [
+            "Genetics"
+        ]
+    },
+    {
+        "value": "Design Project",
+        "synonyms": [
+            "Design Project"
+        ]
+    },
+    {
+        "value": "Study Project",
+        "synonyms": [
+            "Study Project"
+        ]
+    },
+    {
+        "value": "Operations Management",
+        "synonyms": [
+            "Operations Management"
+        ]
+    },
+    {
+        "value": "Automotive Vehicles",
+        "synonyms": [
+            "Automotive Vehicles"
+        ]
+    },
+    {
+        "value": "Manufacturing Processes",
+        "synonyms": [
+            "Manufacturing Processes"
+        ]
+    },
+    {
+        "value": "Machine Learning",
+        "synonyms": [
+            "Machine Learning",
+            "ml"
+        ]
+    },
+    {
+        "value": "Operations And Supply Chain Management",
+        "synonyms": [
+            "Operations And Supply Chain Management"
+        ]
+    }
+]

@@ -1,0 +1,1614 @@
+Additive Manufacturing:
+  code: ME F425
+  compre: 05/05 FN
+  ic: Radha Raman Mishra
+  textbook: N/A
+  units: 3
+Advanced Computer Architecture:
+  code: CS G524
+  compre: 22/06 AN
+  ic: S Mohan
+  textbook: N/A
+  units: 5
+Advanced Concrete Technology:
+  code: CE G562
+  compre: 19/06 AN
+  ic: Dr. Mukund Lahoti
+  textbook: N/A
+  units: 4
+Advanced Inorganic C Hemistry:
+  code: CHEM G552
+  compre: N/A
+  ic: BHARTI KHUNGAR
+  textbook: N/A
+  units: 4
+Advanced Mechanics Of Solids:
+  code: ME F218
+  compre: 01/05 FN
+  ic: Prof. M. S. DASGUPTA
+  textbook: N/A
+  units: 2
+Advanced Medicinal Chemistry:
+  code: PHA G621
+  compre: N/A
+  ic: HEMANT R JADHAV
+  textbook: N/A
+  units: 4
+Advanced Pharmacology:
+  code: PHA G611
+  compre: N/A
+  ic: Prof. Rajeev Taliyan
+  textbook: N/A
+  units: 4
+Advanced Physics Laboratory:
+  code: PHY F344
+  compre: N/A
+  ic: RAJ KUMAR GUPTA
+  textbook: N/A
+  units: 3
+Advanced Project:
+  code: BITS G0ll
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: N/A
+  units: 4
+Advanced Quantum Mechanics:
+  code: PHY F421
+  compre: 01/05 FN
+  ic: Rakesh C houbisa
+  textbook: N/A
+  units: 4
+Analog Electronics:
+  code: EEE/INSTR F341
+  compre: 12/05 FN
+  ic: VK CHAUBEY
+  textbook: N/A
+  units: 4
+Analog Ic Design:
+  code: MEL G632
+  compre: N/A
+  ic: Anu Gupta
+  textbook: N/A
+  units: 4
+Analysis Of Structures:
+  code: CE F241
+  compre: 13/05 FN
+  ic: ANSHUMAN
+  textbook: N/A
+  units: 3
+Anatomy, Physiology And Hygiene:
+  code: PHA F 214
+  compre: N/A
+  ic: Prof. Rajeev Taliyan
+  textbook: N/A
+  units: 4
+Applied Econometrics:
+  code: ECON F342
+  compre: 10/05 FN
+  ic: N.V. MURALIDHAR RAO
+  textbook: N/A
+  units: 3
+Applied Nutrition And Nutraceuticals:
+  code: BIO F315
+  compre: 03/05 FN
+  ic: Dr. Sudeshna Mukherjee
+  textbook: N/A
+  units: 2
+Applied Philosophy:
+  code: GS F312
+  compre: 12/05 FN
+  ic: KUMAR NEERAJ SACHDEV
+  textbook: Gaarder, JosteinSpophies World Phoenix, 1995
+  units: 3
+Applied Statistical Methods:
+  code: MATH F432
+  compre: 03/05 FN
+  ic: SUMANTA PASARI
+  textbook: No text book required
+  units: 3
+Appreciation Of Indian Music:
+  code: HSS F 223
+  compre: N/A
+  ic: ANIL RAI
+  textbook: N/A
+  units: 4
+Artificial Intelligence:
+  code: CS F407
+  compre: 11/05 FN
+  ic: Navneet Goyal
+  textbook: 'Russell Stuart J & Peter NorvigArtificial Intelligence : A Modern Approach Pearson Edu., 3rd ed., 2015'
+  units: 3
+Atmospheric C Hemistry:
+  code: CHEM F430
+  compre: 11/05 FN
+  ic: Shamik Chakraborty
+  textbook: N/A
+  units: 3
+Atomic And Molecular Physics:
+  code: PHY F342
+  compre: 08/05 FN
+  ic: Amol Holkundkar
+  textbook: N/A
+  units: 3
+Automotive Vehicles:
+  code: ME F441
+  compre: 11/05 FN
+  ic: Dr. Saket Verma
+  textbook: N/A
+  units: 3
+Biochemical Engineering:
+  code: CHE F421
+  compre: 05/05 FN
+  ic: AMIT JAIN
+  textbook: Bailey J.E. and D.F. OllisBiochemical Engineering Fundamentals TMH , 2nd ed. ,2010
+  units: 3
+Bioethics And Biosafety:
+  code: BITS F467
+  compre: 03/05 FN
+  ic: R. MAHESH
+  textbook: Ignacimuthu, SBioethics Narosa, 2009
+  units: 3
+Biology Laboratory:
+  code: BIO F110
+  compre: N/A
+  ic: Meghana Tare
+  textbook: N/A
+  units: 1
+Biomaterials:
+  code: PHA G 535
+  compre: N/A
+  ic: Dr. Deepak Chitkara
+  textbook: N/A
+  units: 4
+Biopharmaceutics:
+  code: PHA F414
+  compre: 03/05 FN
+  ic: Dr. Gautam Singhvi
+  textbook: Brahmankar, D M & B S JaiswalBiopharma & Pharmacok; A Trcatise Vallabh, 2nd ed., 2009
+  units: 3
+Biophysics:
+  code: BIO F215
+  compre: 07/05 FN
+  ic: SHIBASISH CHOWDHURY
+  textbook: N/A
+  units: 3
+Blockchain T Echnology:
+  code: BITS F452
+  compre: 01/05 FN
+  ic: Dr. Amit Dua
+  textbook: N/A
+  units: 3
+Business Analytics:
+  code: MBA G561
+  compre: 07/05 AN
+  ic: Nirankush Dutta
+  textbook: N/A
+  units: 3
+Cad For Ic Design:
+  code: MEL G641
+  compre: N/A
+  ic: ABHIJIT ASATI (Pilani Campus)
+  textbook: N/A
+  units: 4
+Casting And Welding:
+  code: MF F343
+  compre: 12/05 FN
+  ic: TUFAN CHANDRA BERA
+  textbook: N/A
+  units: 4
+Casting, Forming And Welding:
+  code: MF F222
+  compre: 01/05 FN
+  ic: Radha Raman Mishra
+  textbook: N/A
+  units: 4
+Chemical Engineering Laboratory - Ii:
+  code: CHE F341
+  compre: N/A
+  ic: BHANU VARDHAN REDDY KUNCHARAM
+  textbook: N/A
+  units: 3
+Chemical Experimentation I:
+  code: CHEM F242
+  compre: N/A
+  ic: Indresh Kumar
+  textbook: N/A
+  units: 3
+Chemical Experimentation It:
+  code: CHEM F341
+  compre: N/A
+  ic: Madhushree Sarkar
+  textbook: N/A
+  units: 4
+Chemical Process Technology:
+  code: CHE F419
+  compre: 13/05 FN
+  ic: SMITA RAGHUVANSHI
+  textbook: N/A
+  units: 3
+Chemistry Of Macromolecules:
+  code: PHA G522
+  compre: N/A
+  ic: Dr. Atish T. Paul
+  textbook: N/A
+  units: 4
+Chemistry Of Synthetic Drugs:
+  code: PHA F416
+  compre: 13/05 FN
+  ic: Dr. Vaibhav A. Dixit
+  textbook: N/A
+  units: 3
+Clinical Pharmacy And Therapeutics:
+  code: PHA G614
+  compre: N/A
+  ic: R.MAHESH
+  textbook: N/A
+  units: 4
+Compiler Construction:
+  code: CS F363
+  compre: 15/05 FN
+  ic: SHASHANK GUPTA
+  textbook: N/A
+  units: 3
+Composite Materials And Design:
+  code: MEF452
+  compre: N/A
+  ic: Faizan Mohammad Rashid
+  textbook: N/A
+  units: 4
+Computational Fluid Dynamics:
+  code: ME Go15
+  compre: N/A
+  ic: Dr. Shyam Sunder Y adav
+  textbook: N/A
+  units: 4
+Computer Aided Design:
+  code: ME F342
+  compre: N/A
+  ic: Murali Palla
+  textbook: N/A
+  units: 4
+Computer Architecture:
+  code: CS F342
+  compre: 07/05 FN
+  ic: S Gurunarayanan
+  textbook: (i) Patterson,D.A. & J.L. HennessyComputer Organization and Design Elsevier,5th ed.,2017 (ii) Palnitkar,Samir Verilog HDLPearson Edu.,2nd ed,2006
+  units: 4
+Computer Networks:
+  code: CS F303
+  compre: 08/05 FN
+  ic: VIRENDRA SINGH SHEKHAWAT
+  textbook: N/A
+  units: 4
+Computer Programming:
+  code: CS F111
+  compre: N/A
+  ic: Dr. Sundaresan Raman
+  textbook: Hanly, Jeri R & E.B. KoffmanProblem Solving & Program Design in C Pearson Education, 7th ed., 2013
+  units: 4
+Computer-Mediated Communication:
+  code: GS F342
+  compre: 08/05 FN
+  ic: Virendra Singh Nirban
+  textbook: N/A
+  units: 3
+Conservation Biology:
+  code: BIO F314
+  compre: 08/05 FN
+  ic: SANDHYA MARATHE
+  textbook: N/A
+  units: 3
+Construction Planning & Technology:
+  code: CE F242
+  compre: 01/05 FN
+  ic: G MUTHUKUMAR
+  textbook: N/A
+  units: 3
+Contemporary India:
+  code: GS F332
+  compre: 10/05 FN
+  ic: Hari Nair
+  textbook: N/A
+  units: 3
+Control Systems:
+  code: EEE/INSTR F242
+  compre: 13/05 FN
+  ic: Dr. B.K. Mukherjee
+  textbook: N/A
+  units: 3
+Convective Heat And Mass Transfer:
+  code: ME G534
+  compre: 24/06 AN
+  ic: Chennu Ranganayakulu
+  textbook: N/A
+  units: 5
+Copywriting:
+  code: GS F344
+  compre: 12/05 FN
+  ic: GAJENDRA SINGH CHAUHAN
+  textbook: No text book required
+  units: 2
+Corporate Finance:
+  code: MBA G559
+  compre: 10/05 AN
+  ic: Dr. SAURABH CHADHA
+  textbook: N/A
+  units: 3
+Cosmetic Science:
+  code: PHA F422
+  compre: 07/05 FN
+  ic: Dr. Murali Monohar Pandey
+  textbook: N/A
+  units: 3
+Creating And Leading Entrepreneurial Organization:
+  code: BITS F482/C 482/MBA C482
+  compre: N/A
+  ic: ARYA KUMAR
+  textbook: Kumar, Arya Entrepreneurship Pearson edu., 1st ed. 2012
+  units: 4
+Creative Wniting:
+  code: ENGL C261 GS F241
+  compre: 12/05 FN
+  ic: DEVIKA
+  textbook: N/A
+  units: 3
+Critical Analysis Of Literature And Cinema:
+  code: GS F322
+  compre: 11/05 FN
+  ic: KUMAR SANKAR BHATTACHARYA
+  textbook: (i) Muller, G H & J. A. Williams  The McGraw Hill Intro to Literature MGHISE, 2nd ed, 1995 (ii) Geetha, BIntro. to Film Appreciation Notes-EDD, 2008
+  units: 3
+Cryptography:
+  code: BITS F463
+  compre: 07/05 FN
+  ic: Abhishek Mishra
+  textbook: B. A. Forouzan, D. MukhopadhyayCryptography and Network Security McGraw-Hill, 3rd ed 2015
+  units: 3
+Cultural Studies:
+  code: GS F242
+  compre: 10/05 FN
+  ic: Dr. Muhammed Afzal P
+  textbook: No text book required
+  units: 3
+Current Affairs:
+  code: GS F243
+  compre: 04/05 FN
+  ic: S. K. CHOUDHARY
+  textbook: Hartley,John Understanding NewsRoutledge,1982
+  units: 3
+Data Communications And Networks:
+  code: EEE F346
+  compre: 07/05 FN
+  ic: HARSHAVARDHAN S
+  textbook: N/A
+  units: 2
+Data Mining:
+  code: CS F415
+  compre: 01/05 FN
+  ic: YASHVARDHAN SHARMA
+  textbook: Tan,Pang-Ning & OthersIntroduction to Data Mining Pearson Education, 1st ed 2016
+  units: 3
+Data Storage Technologies And Networks:
+  code: CS F446
+  compre: 07/05 FN
+  ic: J.P. Mishra
+  textbook: N/A
+  units: 3
+Data Structures & Algorithms:
+  code: CS F211
+  compre: 13/05 FN
+  ic: VISHAL GUPTA
+  textbook: N/A
+  units: 4
+Data Warehousing:
+  code: SS G515
+  compre: N/A
+  ic: Dr. L. Rajya Lakshmi
+  textbook: N/A
+  units: 4
+Database Systems:
+  code: CS F212
+  compre: 07/05 FN
+  ic: Dr. Amit Dua
+  textbook: N/A
+  units: 4
+Decision Making:
+  code: MBA G564
+  compre: 03/05 AN
+  ic: Anil Bhat
+  textbook: N/A
+  units: 3
+Derivatives & Risk Management:
+  code: ECON F354 / FIN F311
+  compre: 04/05 FN
+  ic: ARUN KUMAR VAISH
+  textbook: John C. HullOptions, Futures, and Other Derivatives Pearson Education, 9th ed 2016
+  units: 3
+Design & Analysis Of Algorithms:
+  code: CS F364
+  compre: 12/05 FN
+  ic: Abhishek Mishra
+  textbook: N/A
+  units: 3
+Design Of Foundation System:
+  code: CE F429
+  compre: 05/05 FN
+  ic: Ravi Kant Mittal
+  textbook: 'Coduto, D.P. Kitch, W. A. and Yeung, M.Y. (2016) Foundation design:  Principal and practices, Pearson. Rs. 337 Das B M and Luo Z (2017) Principales of Soil Dynamics, Cengage 3rd  edition. Rs. 572'
+  units: 3
+Design Of Machine Tools:
+  code: MF F341
+  compre: 08/05 FN
+  ic: Dr. Sharad Shrivastava
+  textbook: N/A
+  units: 3
+Design Of Multi-Storey Structures:
+  code: CE G618
+  compre: N/A
+  ic: ANSHUMAN
+  textbook: N/A
+  units: 4
+Design Of Prestressed Concrete Structures:
+  code: CE F415
+  compre: 07/05 FN
+  ic: MANOJ KUMAR
+  textbook: N/A
+  units: 3
+Design Of Steel Structures:
+  code: CE F343
+  compre: 10/05 FN
+  ic: SHAMSHER BAHADUR SINGH
+  textbook: N/A
+  units: 3
+Design Project:
+  code: GS F376
+  compre: N/A
+  ic: Prof. Devika
+  textbook: No text book required
+  units: 4
+Developmental Biology:
+  code: BIO F341
+  compre: 08/05 AN
+  ic: Meghana Tare
+  textbook: N/A
+  units: 3
+Differential Geometry:
+  code: MATH F342
+  compre: 08/05 FN
+  ic: PRADIPKUMAR H. KESKAR
+  textbook: N/A
+  units: 3
+Digital Marketing:
+  code: MBA G576 / BITS F427
+  compre: 13/05 AN
+  ic: Dr. Achint Nigam
+  textbook: No text book required
+  units: 3
+Discrete Structures For Computer Science:
+  code: CS F222
+  compre: 15/05 FN
+  ic: Dr. Jagat Sesh Challa
+  textbook: Mott, Joe L & OthersDiscrete Math. for Computer Scientists Pearson 2nd ed 2015
+  units: 3
+Dispensing Pharmacy:
+  code: PHA F212
+  compre: 26/06 AN
+  ic: Dr. Gautam Singhvi
+  textbook: N/A
+  units: 3
+Dissertation:
+  code: BITS G629T/ BITS G561T/ BITS G562T/ BITS G563T/
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: No text book required
+  units: 16
+Dosage Form Design:
+  code: PHA G632
+  compre: N/A
+  ic: Dr Anil Jindal
+  textbook: N/A
+  units: 4
+Dynamics Of Social Change:
+  code: GS F231
+  compre: 08/05 FN
+  ic: SUNITA RAINA
+  textbook: (i) Abraham, M FrancisContemporary Sociology OUP, 2nd ed, 2014 (ii) Prakash Nirupama & Motilal Das Dyn of Social ChangeNotes EDD,2006
+  units: 3
+Earthquake Engineering:
+  code: CE G615
+  compre: N/A
+  ic: Ravi Kant Mittal
+  textbook: N/A
+  units: 4
+Earthquake Resistant Design And Construction:
+  code: CE F428
+  compre: 13/05 FN
+  ic: GMUTHUKUMAR
+  textbook: N/A
+  units: 3
+Econometric Methods:
+  code: ECON F241
+  compre: 13/05 FN
+  ic: N. V. M. RAO
+  textbook: N/A
+  units: 3
+Economic Analysis Of Public Policy:
+  code: ECON F343
+  compre: 08/05 FN
+  ic: Krishna M
+  textbook: N/A
+  units: 3
+Economic Environment Of Business:
+  code: MBA G557
+  compre: 01/05 AN
+  ic: PRAVEEN GOYAL
+  textbook: N/A
+  units: 3
+Economics Of Growth And Development:
+  code: ECON F244
+  compre: 05/05 FN
+  ic: DR. RAHUL ARORA
+  textbook: N/A
+  units: 3
+Effective Public Speaking:
+  code: GS F245
+  compre: 10/05 FN
+  ic: PUSHP LATA
+  textbook: N/A
+  units: 3
+Electrical And Electronic Circuits Laboratory:
+  code: EEE F246
+  compre: N/A
+  ic: Sujan Y enuganti
+  textbook: N/A
+  units: 2
+Electrical Sciences:
+  code: EEE F1ll
+  compre: N/A
+  ic: Karunesh K Gupta
+  textbook: N/A
+  units: 4
+Electromagnetic Compatibility:
+  code: EEE F436
+  compre: 13/05 FN
+  ic: Dr. Praveen Kumar A.V.
+  textbook: N/A
+  units: 4
+Electromagnetic Theory Ii:
+  code: PHY F241
+  compre: 13/05 FN
+  ic: Madhukar Mishra
+  textbook: N/A
+  units: 4
+Engineering Hydrology:
+  code: CE F321
+  compre: 15/05 FN
+  ic: RALLAPALLI SRINIVAS
+  textbook: N/A
+  units: 3
+Engineering Optimization:
+  code: ME F344/MF F344
+  compre: 10/05 FN
+  ic: RAJESH P MISHRA
+  textbook: N/A
+  units: 2
+English Skills For Academics:
+  code: HSS F224
+  compre: 15/05 FN
+  ic: Chintalapalli Vijayakumar
+  textbook: N/A
+  units: 3
+Environmental Studies:
+  code: BITS F225
+  compre: 03/05 FN
+  ic: Smita Raghuvanshi
+  textbook: Bharucha ErachEnvironmental Studies for undergraduate courses Orient Black Swan 2013
+  units: 3
+Financial Engineering:
+  code: MBA G575
+  compre: 05/05 AN
+  ic: UDAYAN CHANDA
+  textbook: N/A
+  units: 3
+Financial Management:
+  code: ECON F 315/ FIN F 315
+  compre: N/A
+  ic: Rajan Pandey
+  textbook: N/A
+  units: 4
+Forensic Pharmacy:
+  code: PHA F343
+  compre: 10/05 FN
+  ic: Dr. Vaibhav A. Dixit
+  textbook: N/A
+  units: 2
+Foundation Engineering:
+  code: CE F313
+  compre: 06/05 AN
+  ic: Ravi Kant Mittal
+  textbook: Murthy, VNS Geotechnical EngineeringCRC Press 2002
+  units: 3
+Foundations Of Data Science:
+  code: CS F320
+  compre: 13/05 FN
+  ic: NAVNEET GOYAL
+  textbook: No text book required
+  units: 3
+Fracture Mechanics:
+  code: DE G514
+  compre: N/A
+  ic: Dr. Sharad Shrivastava
+  textbook: N/A
+  units: 4
+Fundamentals Of Finance & Accounting:
+  code: ECON F212
+  compre: 03/05 FN
+  ic: Dr. Byomakesh Debata
+  textbook: 'Horngren Charles T & OthersIntroduction to Financial Accounting Pearson Edu, 11th ed, 2017 '
+  units: 3
+General Biology:
+  code: BIO F111
+  compre: 23/06 AN
+  ic: Manoj Kannan
+  textbook: N/A
+  units: 3
+General Mathematics Ii:
+  code: BITS F114
+  compre: 21/06 AN
+  ic: TRILOK MATHUR
+  textbook: N/A
+  units: 3
+Genetics:
+  code: BIO F243
+  compre: 01/05 FN
+  ic: MANOJ KANNAN
+  textbook: N/A
+  units: 3
+Geotechnical Earthquake Engineering & Machine Foundation:
+  code: CE F419
+  compre: 01/05 FN
+  ic: Prof. Kamalesh Kumar
+  textbook: N/A
+  units: 3
+Global Business Technology And Knowledge Sharing:
+  code: GS F 334
+  compre: N/A
+  ic: PRAVEEN GOYAL
+  textbook: N/A
+  units: 4
+Graphs And Networks:
+  code: MATH F243
+  compre: 05/05 FN
+  ic: Krishnendra Shekhawat
+  textbook: N/A
+  units: 3
+Green Buildings And Energy Conservation:
+  code: CE F423
+  compre: 03/05 FN
+  ic: Rajiv Gupta
+  textbook: N/A
+  units: 3
+Group Theory And Applications:
+  code: PHY F422
+  compre: 13/05 FN
+  ic: Rishikesh Vaidya
+  textbook: N/A
+  units: 4
+Heat Transfer:
+  code: ME F220
+  compre: 13/05 FN
+  ic: P.SRINIVASAN;
+  textbook: N/A
+  units: 4
+Highway Engineering:
+  code: CE F244
+  compre: 07/05 FN
+  ic: Dr. B. S. Shashank
+  textbook: N/A
+  units: 4
+Human Resource Development:
+  code: HSS F328
+  compre: 08/05 FN
+  ic: Dr. Rajneesh Choubisa
+  textbook: Rao, T VHuman Resources Development Sage 1996
+  units: 3
+Human Resource Management:
+  code: MBA G510
+  compre: 12/05 AN
+  ic: Dr. JAYASHREE MAHESH
+  textbook: N/A
+  units: 3
+Image Processing:
+  code: BITS F311
+  compre: 01/05 FN
+  ic: Raj Kumar Gupta
+  textbook: N/A
+  units: 3
+Immunology:
+  code: BIO F342
+  compre: 12/05 FN
+  ic: UMA S. DUBEY
+  textbook: N/A
+  units: 3
+Information Retrieval:
+  code: CS F469
+  compre: 07/05 FN
+  ic: Vinti Agarwal
+  textbook: No text book required
+  units: 3
+Inorganic C Hemistry-I]:
+  code: CHEM F241
+  compre: 13/05 FN
+  ic: SUROJIT PANDE
+  textbook: N/A
+  units: 3
+Inorganic Chemistry Iii:
+  code: CHEM F343
+  compre: 12/05 FN
+  ic: AJAY KUMAR SAH
+  textbook: N/A
+  units: 3
+Instrumental Methods Of Analysis:
+  code: BIO F244
+  compre: 06/05 AN
+  ic: PANKAJ KUMAR SHARMA
+  textbook: N/A
+  units: 4
+Intellectual Property Rights And Pharmaceuticals:
+  code: PHA G545
+  compre: 19/06 AN
+  ic: HEMANT R JADHAV
+  textbook: N/A
+  units: 3
+International Relations:
+  code: HSS F346
+  compre: 08/05 FN
+  ic: Dr. Veena R
+  textbook: Keswani, K BInternational Relat.;Modern World(1900- 2000) Himalaya , 5th , 2005
+  units: 3
+Internet Of Things:
+  code: EEE F411
+  compre: 13/05 FN
+  ic: Dr. Vinay Chamola
+  textbook: No text book required
+  units: 4
+Intro To Bridge Engg:
+  code: CE F420
+  compre: 11/05 FN
+  ic: MANOJ KUMAR
+  textbook: N/A
+  units: 3
+Introduction To Astronomy & Astrophysics:
+  code: PHY F215
+  compre: 11/05 FN
+  ic: Kaushar Vaidya
+  textbook: N/A
+  units: 3
+Introduction To Bioinformatics:
+  code: BIO F242
+  compre: 10/05 FN
+  ic: SHIBASISH CHOWDHURY
+  textbook: N/A
+  units: 3
+Introduction To Conflict Management:
+  code: BITS C484/GSF311
+  compre: N/A
+  ic: MADHURIMA DAS
+  textbook: N/A
+  units: 4
+Introduction To Functional Analysis:
+  code: MATH F341
+  compre: 10/05 FN
+  ic: ASHISH TIWARI
+  textbook: N/A
+  units: 3
+Introduction To Gender Studies:
+  code: BITS F385
+  compre: 12/05 FN
+  ic: Dr. Madhurima Das
+  textbook: No text book required
+  units: 3
+Introduction To Mass Communication:
+  code: GS F223
+  compre: 01/05 FN
+  ic: SUSHILA SHEKHAWAT
+  textbook: Kumar Keval JMass Communication in India Jaico, 4th rv ed, 2010
+  units: 3
+Introduction To Mems:
+  code: BITS F415
+  compre: 07/05 FN
+  ic: SACHIN U BELGAMWAR
+  textbook: (i) Ananthasuresh, G.K & Others Micro & Smart SystemsWSE, 2015 (ii) Sharma, NN & Others Lab Manual for MEMS Notes EDD, 2011
+  units: 4
+Introduction To Molecular Biology:
+  code: PHA F215
+  compre: 11/05 FN
+  ic: Dr. Aniruddha Roy
+  textbook: N/A
+  units: 3
+Introduction To Nano Science And Technology:
+  code: CHE Gd28
+  compre: N/A
+  ic: Krishna Etika
+  textbook: N/A
+  units: 4
+Introduction To Pharmaceutical Biotechnology:
+  code: BIOT F416
+  compre: 01/05 FN
+  ic: Vishal Saxena
+  textbook: N/A
+  units: 3
+Introduction To Quantum Information And Computation:
+  code: BITS F386
+  compre: 01/05 FN
+  ic: RR Mishra
+  textbook: N/A
+  units: 3
+Introduction To Sports Engineering:
+  code: ME F340
+  compre: 05/05 FN
+  ic: M.S. Dasgupta
+  textbook: No text book required
+  units: 3
+Introductory Philosophy:
+  code: HSS F235
+  compre: 08/05 FN
+  ic: ANUPAM YADAV
+  textbook: (i) Sharma C.D.Critical Survey of Indian Philosophy Motilal Banarsidas , 1960 (ii) Thilly, Frank History of PhilosophyCentral Book, 3rd ed, 1978
+  units: 3
+Introductory Psychology:
+  code: GS F 232
+  compre: N/A
+  ic: Tanu Shukla
+  textbook: N/A
+  units: 4
+Investment Banking And Financial Services:
+  code: MBA G509 / FIN F314
+  compre: 13/05 AN
+  ic: Dr. Saurabh Chadha
+  textbook: N/A
+  units: 3
+Lab Project:
+  code: ME F366
+  compre: N/A
+  ic: MANI SANKAR DASGUPTA
+  textbook: No text book required
+  units: 4
+Laboratory:
+  code: BIO F411
+  compre: N/A
+  ic: Dr. Meghana Tare
+  textbook: N/A
+  units: 3
+Laboratory Project:
+  code: GS F F366
+  compre: N/A
+  ic: Prof. Devika
+  textbook: N/A
+  units: 4
+Lean Manufacturing:
+  code: MF F418
+  compre: 11/05 FN
+  ic: ABHIJ EET K. DIGALWAR
+  textbook: N/A
+  units: 3
+Linguistics:
+  code: HSS F222
+  compre: 08/05 FN
+  ic: S. K. CHOUDHARY
+  textbook: N/A
+  units: 3
+Machine Learning:
+  code: BITS F464
+  compre: 05/05 FN
+  ic: Kamlesh Tiwari
+  textbook: Mitchell, Tom M Machine Learning TMH,1st ed 2013
+  units: 3
+Macroeconomics:
+  code: ECON F243
+  compre: 01/05 FN
+  ic: ARUN KUMAR GIRI
+  textbook: N/A
+  units: 3
+Management Science:
+  code: MBA G545
+  compre: 08/05 AN
+  ic: DR. RAJESH MATAI
+  textbook: N/A
+  units: 3
+Manufacturing Planning & Control:
+  code: MSE Go512
+  compre: N/A
+  ic: Divyansh Patel
+  textbook: N/A
+  units: 4
+Manufacturing Processes:
+  code: ME F219
+  compre: 05/05 FN
+  ic: TUFAN CHANDRA BERA
+  textbook: N/A
+  units: 4
+Marketing Research & Metrics:
+  code: MBA G560
+  compre: 11/05 AN
+  ic: Dr. Achint Nigam
+  textbook: N/A
+  units: 3
+Materials Science And Engineering:
+  code: CHE F 243
+  compre: N/A
+  ic: Krishna Etika
+  textbook: N/A
+  units: 4
+Mathematical Methods:
+  code: MATH F241
+  compre: 13/05 FN
+  ic: BHUPENDRA K SHARMA
+  textbook: N/A
+  units: 3
+Mathematical Methods Of Physics:
+  code: PHY F243
+  compre: 05/05 FN
+  ic: R.R. Mishra
+  textbook: N/A
+  units: 3
+Mathematical Modelling:
+  code: MATH F420
+  compre: 13/05 FN
+  ic: BALRAM DUBEY
+  textbook: N/A
+  units: 4
+Mathematics-Ii:
+  code: MATH F112
+  compre: 29/06 AN
+  ic: JITENDER KUMAR
+  textbook: N/A
+  units: 3
+Mechanical Vibration:
+  code: ME F343
+  compre: 08/05 FN
+  ic: Arun Jalan
+  textbook: N/A
+  units: 3
+Mechanics, Oscillations And Waves:
+  code: PHY F111
+  compre: 23/06 AN
+  ic: Srijata Dey
+  textbook: (i) Kleppner, Daniel & R.J. Kolenkow Introduction to MechanicsTMH, 1st ed. 2007 (ii)  French,  Anthony  P Vibrations   and   Waves CBS, 2003
+  units: 3
+Mechanisms And Machines:
+  code: ME/MF F221
+  compre: 07/05 FN
+  ic: J S Rathore
+  textbook: N/A
+  units: 3
+Mechatronics:
+  code: MSE Gb111
+  compre: N/A
+  ic: Dr. Prateek Kala
+  textbook: N/A
+  units: 4
+Medical Instrumentation:
+  code: EEE/INSTR F432
+  compre: N/A
+  ic: SUJAN YENUGANTI
+  textbook: N/A
+  units: 4
+Medicinal Chemistry Ii:
+  code: PHA F342
+  compre: 08/05 FN
+  ic: R. Mahesh
+  textbook: N/A
+  units: 3
+Metrology And Quality Assurance:
+  code: MF F220
+  compre: 05/05 FN
+  ic: Tribeni Roy
+  textbook: N/A
+  units: 3
+Microbiology:
+  code: PHA F213
+  compre: 05/05 FN
+  ic: Dr. Aniruddha Roy
+  textbook: N/A
+  units: 3
+Microeconomics:
+  code: ECON F242
+  compre: 07/05 FN
+  ic: GEETILAXMI MOHAPATRA
+  textbook: N/A
+  units: 3
+Microelectronic Circuits:
+  code: EEE/INSTR F244
+  compre: 07/05 FN
+  ic: ANU GUPTA
+  textbook: N/A
+  units: 3
+Microprocessors Programming And Interfacing:
+  code: CS/EEE/INSTR F241
+  compre: 05/05 FN
+  ic: Dr. Nitin C haturvedi
+  textbook: N/A
+  units: 4
+Mobile & Personal Communication:
+  code: EEE G592
+  compre: N/A
+  ic: Dr. Sandeep Joshi
+  textbook: N/A
+  units: 4
+Mobile Telecommunication Networks:
+  code: EEE F431
+  compre: 01/05 FN
+  ic: Dr. Syed Mohammad Zafaruddin
+  textbook: N/A
+  units: 3
+Modeling Of Field-Effect Nano Devices:
+  code: EEE F477
+  compre: 11/05 FN
+  ic: Dr. Satyendra Kumar Mourya
+  textbook: N/A
+  units: 3
+Modelling And Simulation In Chemical Engineering:
+  code: CHE F418
+  compre: 03/05 FN
+  ic: SRINIVAS APPARI
+  textbook: N/A
+  units: 3
+Modern Physics Lab:
+  code: PHY F244
+  compre: N/A
+  ic: Madhukar Mishra
+  textbook: N/A
+  units: 2
+Molecular Parasitology & Vector Biology:
+  code: BIO G545
+  compre: 21/06 AN
+  ic: VISHAL SAXENA
+  textbook: N/A
+  units: 5
+Multi-Criteria A Nalysis In Engineering:
+  code: CE G516
+  compre: N/A
+  ic: AJIT PRATAP SINGH
+  textbook: N/A
+  units: 4
+Multimedia Computing:
+  code: CS F401
+  compre: 11/05 FN
+  ic: MUKESH KUMAR ROHIL
+  textbook: N/A
+  units: 3
+Musicology - An - Introduction:
+  code: HSS F329
+  compre: 08/05 FN
+  ic: ANIL RAI
+  textbook: Clenments EIntro to the Study of Indian Music Kitab Mahal , 1967
+  units: 3
+Nanochemistry:
+  code: CHEM F336
+  compre: 04/05 FN
+  ic: INAMUR RAHAMAN LASKAR
+  textbook: N/A
+  units: 4
+Nanotechnology For Renewable Energy And Environment:
+  code: BITS F 429
+  compre: N/A
+  ic: Krishna Etika
+  textbook: N/A
+  units: 4
+Natural Drugs:
+  code: PHA F344
+  compre: 12/05 FN
+  ic: Dr. Atish T. Paul
+  textbook: N/A
+  units: 3
+Network Programming:
+  code: IS F462
+  compre: 03/05 FN
+  ic: HARI BABU K
+  textbook: (i) Stevens, W RichardUnix Network Programming.Vol.I PHI, 3rd ed., 2004 (ii) Stevens, W RichardUnix Network Programming.Vol.II PHI, 2nd ed. , 1999
+  units: 3
+Neural Networks And Fuzzy Logic:
+  code: BITS F312
+  compre: 03/05 FN
+  ic: Dr. B.K. Mukherjee
+  textbook: No text book required
+  units: 3
+Nuclear And Particle Physics:
+  code: PHY F343
+  compre: 10/05 FN
+  ic: BISWANATH LAYEK
+  textbook: N/A
+  units: 3
+Number Theory:
+  code: MATH F231
+  compre: 03/05 FN
+  ic: DIVYUM SHARMA
+  textbook: N/A
+  units: 3
+Numerical A Nalysis:
+  code: CE F324
+  compre: 07/05 FN
+  ic: SHIBANI KHANRA JHA
+  textbook: N/A
+  units: 3
+Numerical Fluid Flow And Heat Transfer:
+  code: ME F485
+  compre: 13/05 FN
+  ic: Dr. Shyam Sunder Yadav
+  textbook: N/A
+  units: 3
+Numerical Methodology For Partial Differential Equations:
+  code: MATH F422
+  compre: 01/05 FN
+  ic: DEVENDRA KUMAR
+  textbook: N/A
+  units: 4
+Numerical Methods For Chemical Engineers:
+  code: CHE F242
+  compre: 01/05 FN
+  ic: PRATIK N SHETH
+  textbook: N/A
+  units: 3
+Object Oriented Programming:
+  code: CS F213
+  compre: 11/05 FN
+  ic: Dr. J. Jennifer Ranjani
+  textbook: Horstman, CayObject-Oriented Design and Patterns WSE, 2nd ed., 2006
+  units: 4
+Operating Systems:
+  code: CS F372
+  compre: 05/05 AN
+  ic: J. P. Misra
+  textbook: Silberschatz, A & OthersOperating Systems Concepts WSE,9th ed. ,2015
+  units: 3
+Operations And Supply Chain Management:
+  code: MBA G558
+  compre: 15/05 AN
+  ic: DR. SATYENDRA KR. SHARMA
+  textbook: N/A
+  units: 3
+Operations Management:
+  code: MF F219
+  compre: 13/05 FN
+  ic: ABHIJ EET K. DIGALWAR
+  textbook: N/A
+  units: 3
+Operations Research:
+  code: MATH F242
+  compre: 07/05 FN
+  ic: CHANDRA SHEKHAR
+  textbook: N/A
+  units: 3
+Operations Stategy:
+  code: MBA G541
+  compre: 05/05 AN
+  ic: DR. RAJESH MATAI
+  textbook: N/A
+  units: 3
+Organic Chemistry Iv:
+  code: CHEM F342
+  compre: 08/05 FN
+  ic: RAJEEV SAKHUJA
+  textbook: N/A
+  units: 3
+Organic Chemistry-Il:
+  code: CHEM F243
+  compre: 05/05 FN
+  ic: ANIL KUMAR
+  textbook: N/A
+  units: 3
+Organizational Psychology:
+  code: HSS F323
+  compre: 04/05 FN
+  ic: Dr. Rajneesh C houbisa
+  textbook: Jex, Steve M Organizational Psychology WSE, 2006
+  units: 3
+Parallel Computing:
+  code: CS F422
+  compre: 01/05 FN
+  ic: Hari Babu K
+  textbook: N/A
+  units: 3
+Parenteral Product Development:
+  code: PHA G537
+  compre: 23/06 AN
+  ic: Dr. Anupama Mittal
+  textbook: N/A
+  units: 5
+Pharmaceutical Biostatistics:
+  code: PHA G 546
+  compre: N/A
+  ic: Richa Shrivastava
+  textbook: N/A
+  units: 4
+Pharmaceutical Chemistry:
+  code: PHA F241
+  compre: 13/05 FN
+  ic: Dr. Sandeep Sundriyal
+  textbook: N/A
+  units: 3
+Pharmacoeconomics:
+  code: PHA F417
+  compre: 11/05 FN
+  ic: Dr. Murali M Pandey
+  textbook: N/A
+  units: 3
+Pharmacology-Ll:
+  code: PHA F341
+  compre: 15/05 FN
+  ic: Gaikwad Anil Bhanudas
+  textbook: N/A
+  units: 3
+Physical Chemistry Iii:
+  code: CHEM F244
+  compre: 07/05 FN
+  ic: RAM KINKAR ROY
+  textbook: N/A
+  units: 3
+Physical Pharmacy:
+  code: PHA F244
+  compre: 12/05 FN
+  ic: ANUPAMA MITTAL
+  textbook: N/A
+  units: 3
+Plant Biotechnology:
+  code: BIO G643
+  compre: N/A
+  ic: JITENDRA PANWAR
+  textbook: N/A
+  units: 4
+Power Electronics:
+  code: EEE/INSTR F342
+  compre: 15/05 FN
+  ic: Rajneesh Kumar
+  textbook: N/A
+  units: 4
+Power Plant Engineering:
+  code: ME F420
+  compre: 11/05 FN
+  ic: P.SRINIVASAN.
+  textbook: N/A
+  units: 3
+Power Systems:
+  code: EEE F312
+  compre: 08/05 FN
+  ic: Dheerendra Singh
+  textbook: N/A
+  units: 3
+Practice Lecture Series-I:
+  code: BITS E7OB6I
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: N/A
+  units: 4
+Precision Engineering:
+  code: ME F472
+  compre: 07/05 FN
+  ic: Tribeni Roy
+  textbook: (i) Murty, R LPrecision Engg in Manuf. NAIL, 1996 (ii)  Beckwith,  T  G  &  OthersMechanical       Measurements Pearson Edu, 5th ed, 1993
+  units: 3
+Prime Movers And Fluid Machines:
+  code: ME F341
+  compre: 12/05 FN
+  ic: MANOJ KUMAR SONI
+  textbook: N/A
+  units: 3
+Principles Of Drug Discovery:
+  code: PHA G539
+  compre: 25/06 AN
+  ic: Richa Shrivastava
+  textbook: N/A
+  units: 4
+Principles Of Economics:
+  code: ECON F211
+  compre: 11/05 AN
+  ic: DR. RAHUL ARORA
+  textbook: Case Karl,E and Ray C Fair, Priniciples of Economics,Pearson Education, 12th ed. , 2017
+  units: 3
+Principles Of Management:
+  code: MGTS F211
+  compre: 11/05 AN
+  ic: JY OTI
+  textbook: N/A
+  units: 3
+Print & Audio-Visual Advertising:
+  code: GS F224
+  compre: 04/05 FN
+  ic: Sangeeta Sharma
+  textbook: Sharma, Sangeeta & Raghuvir Singh Advertising; Planning & ImplementationPHI, 1st ed, 2013
+  units: 3
+Probability & Statistics:
+  code: MATH F113
+  compre: 19/06 AN
+  ic: RAKHEE
+  textbook: N/A
+  units: 3
+Process Design Principle Ii:
+  code: CHE F343
+  compre: 12/05 FN
+  ic: DR. PRADIPTA CHATTOPADHYAY
+  textbook: N/A
+  units: 3
+Process Dynamics And Control:
+  code: CHE F342
+  compre: 08/05 FN
+  ic: HARE KRISHNA MOHANTA
+  textbook: N/A
+  units: 3
+Process Plant Safety:
+  code: CHE F413
+  compre: 11/05 FN
+  ic: P C Sande
+  textbook: N/A
+  units: 3
+Product And Brand Management:
+  code: MBA G586
+  compre: 13/05 AN
+  ic: Anil Bhat
+  textbook: Kahn, Kenneth  B. New Product Planning Sage,2001
+  units: 3
+Professional Ethics:
+  code: HSS F343
+  compre: 10/05 FN
+  ic: KUMAR NEERAJ SACHDEV
+  textbook: Boatright, John REthics and the Conduct of Business Pearson Edu, 8th ed , 2017
+  units: 3
+Public Administration:
+  code: GS F333
+  compre: 11/05 FN
+  ic: Dr. Sailaja Nandigama
+  textbook: N/A
+  units: 3
+Public Finance:
+  code: ECON F341
+  compre: 15/05 FN
+  ic: A. K. GIRI
+  textbook: N/A
+  units: 3
+Public Policy:
+  code: GS F233
+  compre: 12/05 FN
+  ic: Dr. Veena R
+  textbook: N/A
+  units: 3
+Quantum Mechanics - I:
+  code: PHY F242
+  compre: 07/05 FN
+  ic: Niladri Sarkar
+  textbook: N/A
+  units: 3
+Reading Course:
+  code: BITS G649
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: No text book required
+  units: 4
+Refrigeration And Air-Conditioning:
+  code: ME F461
+  compre: 07/05 FN
+  ic: Dr. Suvanjan Bhattacharyya
+  textbook: Arora C.P.Refrigeration and Airconditioning(S I Units) TMH , 3rd ed , 2009
+  units: 3
+Reporting And Writing For Media:
+  code: GS F 244
+  compre: N/A
+  ic: GAJENDRA SINGH CHAUHAN
+  textbook: N/A
+  units: 4
+Research Methodology:
+  code: BITS G661
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: Kumar, Ranjit Research Methodology Sage, 4thed., 2012
+  units: 5
+Research Practice:
+  code: BITS G540
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: No text book required
+  units: 4
+Research Project I / Research Project Ii:
+  code: BITS G529/ BITS G 539
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: No text book required
+  units: 4
+Robotics:
+  code: BITS F441
+  compre: 01/05 AN
+  ic: B.K. ROUT
+  textbook: N/A
+  units: 3
+Science, Technology And Modernity:
+  code: BITS F214
+  compre: 12/05 FN
+  ic: SUNITA RAINA
+  textbook: No text book required
+  units: 3
+Security Analysis & Portfolio Management:
+  code: ECON F 412 / FIN F 313 / MBA C 537
+  compre: N/A
+  ic: Prof. Arya Kumar
+  textbook: N/A
+  units: 4
+Separation Process I:
+  code: CHE F244
+  compre: 05/05 FN
+  ic: SURESH GUPTA
+  textbook: N/A
+  units: 3
+Short Film And Video Production:
+  code: GS F343
+  compre: 15/05 FN
+  ic: Sushila Shekhawat
+  textbook: N/A
+  units: 3
+Signals And Systems:
+  code: EEE F243 /INSTR F243
+  compre: 01/05 FN
+  ic: Dr. Anantha Krishna Chintanpalli
+  textbook: N/A
+  units: 3
+Social Informatics:
+  code: HSS F247
+  compre: 12/05 FN
+  ic: Virendra Singh Nirban
+  textbook: "Social Informatics: Past, Present and Future \u2013  Pnina Fichman and\ \ Howard Rosenbaum, Cambridge Publishing Scholars Publishing"
+  units: 3
+Soft Condensed Matter Physics:
+  code: PHY F416
+  compre: 05/05 FN
+  ic: NAVIN SINGH
+  textbook: N/A
+  units: 4
+Soft Skills For Professionals:
+  code: BITS F226
+  compre: 08/05 FN
+  ic: Sangeeta Sharma
+  textbook: No text book required
+  units: 3
+Soil Mechanics:
+  code: CE F243
+  compre: 05/05 FN
+  ic: NISHANT ROY
+  textbook: N/A
+  units: 4
+Solar Thermal Process Engineering:
+  code: ME F433
+  compre: 03/05 FN
+  ic: Dr. Manoj Kumar Soni
+  textbook: N/A
+  units: 4
+Solid State Physics:
+  code: PHY F341
+  compre: 15/05 FN
+  ic: Subhashis Gangopadhyay
+  textbook: N/A
+  units: 3
+Special Project:
+  code: CHEM F491
+  compre: N/A
+  ic: RAM KINKAR ROY
+  textbook: N/A
+  units: 4
+Special Projects:
+  code: PHA F491
+  compre: N/A
+  ic: Hemant R Jadhav
+  textbook: No text book required
+  units: 4
+Srimad Bhagavad Gita:
+  code: HSS F334
+  compre: 10/05 FN
+  ic: MANOJ KANNAN
+  textbook: (i) Bhagavadgita.English Srimadbhagwadgita  Gita Pr., n.d. (ii) Prabhupada, Swami Srimad Bhagavad Gita As It Is BVBT, 2nd ed 1986
+  units: 3
+Statistical Inference And A Pplications:
+  code: MATH F353
+  compre: 11/05 FN
+  ic: Rakhee
+  textbook: N/A
+  units: 3
+Stem Cell And Regenerative Biology:
+  code: BIOG515
+  compre: N/A
+  ic: Rajdeep Chowdhury
+  textbook: N/A
+  units: 4
+Stochastic Processes And Their A Pplications:
+  code: MATH F424
+  compre: 04/05 FN
+  ic: Dr. Anirudh Singh Rana
+  textbook: N/A
+  units: 4
+Structural Dynamics:
+  code: CE F432
+  compre: 13/05 FN
+  ic: DIPENDU BHUNIA
+  textbook: N/A
+  units: 3
+Structural Health Assessment And Rehabilitation:
+  code: CE G564
+  compre: 21/06 AN
+  ic: SHAMSHER BAHADUR SINGH
+  textbook: N/A
+  units: 4
+Study Inadvanced Topics:
+  code: BITS G513
+  compre: N/A
+  ic: Associate Dean, AGSRD
+  textbook: No text book required
+  units: 4
+Study Project:
+  code: PHY F266
+  compre: N/A
+  ic: RAKESH CHOUBISA
+  textbook: No text book required
+  units: 3
+Sustainable C Hemistry Using Renewables:
+  code: CHEM F 431
+  compre: N/A
+  ic: Bibhas R. Sarkar
+  textbook: N/A
+  units: 4
+Sustainable Manufacturing:
+  code: MF F485
+  compre: 01/05 FN
+  ic: KULDIP SINGH SANGWAN
+  textbook: No text book required
+  units: 3
+Symbolic Logic:
+  code: HSS F236
+  compre: 15/05 FN
+  ic: ANUPAM YADAV
+  textbook: Copi I.M. Symbolic LogicPearson Edu, 5th ed. , 2015
+  units: 3
+Technical Report Writing:
+  code: BITS F112
+  compre: 30/06 AN
+  ic: PUSHP LATA
+  textbook: Sharma R.C. and Krishna MohanBusiness Corres. & Report Writing TMH, 5th ed.,2016
+  units: 2
+Techniques In Social Research:
+  code: GSF 331
+  compre: N/A
+  ic: Tanu Shukla
+  textbook: N/A
+  units: 4
+Telecommunication Switching Systems & Networks:
+  code: EEE/INSTR F414
+  compre: N/A
+  ic: RAHUL SINGHAL
+  textbook: N/A
+  units: 4
+Transport Phenomena:
+  code: CHE F414
+  compre: 07/05 FN
+  ic: BHANU VARDHAN REDDY KUNCHARAM
+  textbook: Bird, R. Byron & OthersTransport Phenomena WSE, 2nd ed, 2001
+  units: 3
+Venture Team Development & Organisation:
+  code: BITS F322
+  compre: 11/05 FN
+  ic: Revendranath T
+  textbook: N/A
+  units: 3
+Vlsi Architectures:
+  code: MEL G642
+  compre: N/A
+  ic: S Gurunarayanan
+  textbook: N/A
+  units: 4
+Water And Wastewater Treatment:
+  code: CE F342
+  compre: 08/05 FN
+  ic: Anupam Singhal
+  textbook: N/A
+  units: 4
+Workshop Practice:
+  code: ME F112
+  compre: 28/06 FN
+  ic: Girish Kant Garg
+  textbook: N/A
+  units: 2
