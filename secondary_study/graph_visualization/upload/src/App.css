@@ -10,5 +10,40 @@
     background: #2D6FF7;
     color: white;
     font-size: 1em;
-    margin: 0 0 0em 0;
+    margin: 0 0 1em 0;
+    border: none;
+    /* button:focus { outline: none; } */
 }
+
+.btn-submit:focus:hover:active{
+    border: none;
+    outline: none;
+}
+
+
+/* button {
+    color: #1D9AF2;
+    background-color: #292D3E;
+    border: 1px solid #1D9AF2;
+    border-radius: 4px;
+    padding: 15px 18px 30px 15px;
+    cursor: pointer;
+    height: 32px;
+    font-size: 14px;
+  
+    box-shadow: 0 0 4px #999;
+    outline: none;
+    background-position: center;
+    transition: background 0.8s;
+  }
+  button:hover{
+    background: #F05555 radial-gradient(circle, transparent 1%, #F05555 1%)
+     center/15000%;
+    color: white;
+  }
+  
+  button:active{
+    background-color: #F05555;
+    background-size: 100%;
+    transition: background 0s;
+  } */
